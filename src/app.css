@@ -21,14 +21,18 @@
 :root {
     --bg-color: #f0efea;
     --text-color: #141413;
-    --accent: #a67c52;
-    --border: #d7ccc8;
+    --accent: #d7ccc8;
+    --border-color: #cfcaba;
+    --border-focus: #837b73;
     --muted: #6b5b4b;
 }
 
 [data-theme='dark'] {
     --bg-color: #141413;
     --text-color: #f0efea;
+    --accent: rgb(30, 30, 30);
+    --border-color: rgb(50, 50, 50);
+    --muted: #a9b1b8;
     --card-bg: #2d2d2d;
     --border-color: #404040;
     --primary-color: #64b5f6;
@@ -49,8 +53,8 @@ body {
 
 input {
     font-family: inherit;
-    background-color: #fff;
-    border: 1px solid var(--border);
+    /* background-color: #fff; */
+    border: 1px solid var(--border-color);
     padding: 0.6rem 0.8rem;
     width: 100%;
     border-radius: 4px;
@@ -59,7 +63,7 @@ input {
 }
 
 input:focus {
-    border-color: var(--accent);
+    border-color: var(--border);
 }
 
 h1,
@@ -70,7 +74,7 @@ h3 {
 }
 
 a {
-    color: var(--accent);
+    color: var(--text-color);
     text-decoration: none;
 }
 
@@ -78,6 +82,70 @@ a:hover {
     text-decoration: underline;
 }
 
-.search-button{
-    background-color: (--border) !important;
+.search-button {
+    background: var(--accent) !important;
+    transition: border-color 0.5s;
+    border: 1px var(--border-color) solid;
+}
+.search-button:hover {
+    cursor: pointer;
+}
+
+.term-card {
+    background-color: var(--bg-color);
+    border: 1px solid var(--border-color);
+    padding: 1rem 1.2rem;
+    border-radius: 6px;
+    margin-bottom: 1.2rem;
+    max-width: 1200px;
+}
+
+header {
+    border-bottom: 1px solid var(--border-color);
+    padding-bottom: 0.3rem;
+    margin-bottom: 0.6rem;
+}
+
+.en {
+    font-size: 1.3rem;
+    font-weight: 600;
+    direction: ltr;
+    color: var(--ink);
+}
+
+.ar {
+    font-size: 1.2rem;
+    direction: rtl;
+    word-spacing: 0.2em;
+    color: var(--text-color);
+    font-family: 'Noto Serif Arabic', serif;
+}
+
+.translations p {
+    margin: 0.3rem 0;
+    font-size: 0.9rem;
+    color: var(--text-color);
+}
+
+.desc {
+    font-size: 0.95rem;
+    color: var(--ink);
+    margin-top: 0.6rem;
+    direction: rtl;
+    word-spacing: 0.2em;
+}
+
+footer {
+    border-top: 1px dotted var(--border-color);
+    margin-top: 0.8rem;
+    padding-top: 0.4rem;
+    font-size: 0.8rem;
+    color: var(--muted);
+    display: flex;
+    line-height: 1.5em;
+    align-items: center;
+    justify-content: space-between;
+}
+.arb{
+    word-spacing: 0.2em;
 }
