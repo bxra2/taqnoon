@@ -9,1779 +9,1779 @@
     },
     "entries": [
         {
-            "English": "Activation Function",
-            "Arabic": "تابع التفعيل",
-            "URL": "https://aiinarabic.com/glossary/activation-function/"
+            "english": "Activation Function",
+            "arabic": "تابع التفعيل",
+            "termURL": "https://aiinarabic.com/glossary/activation-function/"
         },
         {
-            "English": "AdaDelta",
-            "Arabic": "خوارزمية ملاءمة معدّل التعلُّم (آدا دلتا)",
-            "URL": "https://aiinarabic.com/glossary/adadelta/"
+            "english": "AdaDelta",
+            "arabic": "خوارزمية ملاءمة معدّل التعلُّم (آدا دلتا)",
+            "termURL": "https://aiinarabic.com/glossary/adadelta/"
         },
         {
-            "English": "AdaGrad",
-            "Arabic": "خوارزمية التدرج التكيفي (أدا جراد)",
-            "URL": "https://aiinarabic.com/glossary/adagrad/"
+            "english": "AdaGrad",
+            "arabic": "خوارزمية التدرج التكيفي (أدا جراد)",
+            "termURL": "https://aiinarabic.com/glossary/adagrad/"
         },
         {
-            "English": "Adaptive Learning Rate Algorithms",
-            "Arabic": "خوارزميات مُلاءمة معدل التعلُّم",
-            "URL": "https://aiinarabic.com/glossary/adaptive-learning-rate-algorithms/"
+            "english": "Adaptive Learning Rate Algorithms",
+            "arabic": "خوارزميات مُلاءمة معدل التعلُّم",
+            "termURL": "https://aiinarabic.com/glossary/adaptive-learning-rate-algorithms/"
         },
         {
-            "English": "Adaptive Moment Estimation Algorithm (Adam)",
-            "Arabic": "خُوارِزْميَّةُ توقُّعِ المُلاءمةِ اللَّحظِيَّةِ (آدم)",
-            "URL": "https://aiinarabic.com/glossary/adaptive-moment-estimation-algorithm-adam/"
+            "english": "Adaptive Moment Estimation Algorithm (Adam)",
+            "arabic": "خُوارِزْميَّةُ توقُّعِ المُلاءمةِ اللَّحظِيَّةِ (آدم)",
+            "termURL": "https://aiinarabic.com/glossary/adaptive-moment-estimation-algorithm-adam/"
         },
         {
-            "English": "Adversarial Learning Strategy",
-            "Arabic": "استراتيجيَّةُ التَّعَلُّمِ التَّنافُسيِّ  التَّعَلُّمُ عن طريق خِداعِ النَّمُوذَجِ الذي لدينا من خِلالِ نوعيَّةِ بياناتِ الدَّخلِ.",
-            "URL": "https://aiinarabic.com/glossary/adversarial-learning-strategy/"
+            "english": "Adversarial Learning Strategy",
+            "arabic": "استراتيجيَّةُ التَّعَلُّمِ التَّنافُسيِّ  التَّعَلُّمُ عن طريق خِداعِ النَّمُوذَجِ الذي لدينا من خِلالِ نوعيَّةِ بياناتِ الدَّخلِ.",
+            "termURL": "https://aiinarabic.com/glossary/adversarial-learning-strategy/"
         },
         {
-            "English": "Agglomerative Hierarchical",
-            "Arabic": "التجميع الهرميّ من الأسفل إلى الأعلى",
-            "URL": "https://aiinarabic.com/glossary/agglomerative-hierarchical/"
+            "english": "Agglomerative Hierarchical",
+            "arabic": "التجميع الهرميّ من الأسفل إلى الأعلى",
+            "termURL": "https://aiinarabic.com/glossary/agglomerative-hierarchical/"
         },
         {
-            "English": "Anchor Boxes",
-            "Arabic": "صناديقُ الارتكازِ",
-            "URL": "https://aiinarabic.com/glossary/anchor-boxes/"
+            "english": "Anchor Boxes",
+            "arabic": "صناديقُ الارتكازِ",
+            "termURL": "https://aiinarabic.com/glossary/anchor-boxes/"
         },
         {
-            "English": "Anomaly Detection",
-            "Arabic": "كشفُ الحالاتِ الشَّاذَّةِ",
-            "URL": "https://aiinarabic.com/glossary/anomaly-detection/"
+            "english": "Anomaly Detection",
+            "arabic": "كشفُ الحالاتِ الشَّاذَّةِ",
+            "termURL": "https://aiinarabic.com/glossary/anomaly-detection/"
         },
         {
-            "English": "Artificial Intelligence",
-            "Arabic": "الذَّكاءُ الاصطِناعيُّ",
-            "URL": "https://aiinarabic.com/glossary/artificial-intelligence/"
+            "english": "Artificial Intelligence",
+            "arabic": "الذَّكاءُ الاصطِناعيُّ",
+            "termURL": "https://aiinarabic.com/glossary/artificial-intelligence/"
         },
         {
-            "English": "Attention Mechanism",
-            "Arabic": "آليَّةُ الاهتمامِ",
-            "URL": "https://aiinarabic.com/glossary/attention-mechanism/"
+            "english": "Attention Mechanism",
+            "arabic": "آليَّةُ الاهتمامِ",
+            "termURL": "https://aiinarabic.com/glossary/attention-mechanism/"
         },
         {
-            "English": "AutoEncoder",
-            "Arabic": "المُرمّز التلقائي",
-            "URL": "https://aiinarabic.com/glossary/autoencoder/"
+            "english": "AutoEncoder",
+            "arabic": "المُرمّز التلقائي",
+            "termURL": "https://aiinarabic.com/glossary/autoencoder/"
         },
         {
-            "English": "Autoencoder Transformers",
-            "Arabic": "المحوّلات ذات المرمّز التّلقائي",
-            "URL": "https://aiinarabic.com/glossary/autoencoder-transformers/"
+            "english": "Autoencoder Transformers",
+            "arabic": "المحوّلات ذات المرمّز التّلقائي",
+            "termURL": "https://aiinarabic.com/glossary/autoencoder-transformers/"
         },
         {
-            "English": "Auxiliar Head",
-            "Arabic": "الرّأس المُساعد",
-            "URL": "https://aiinarabic.com/glossary/auxiliar-head/"
+            "english": "Auxiliar Head",
+            "arabic": "الرّأس المُساعد",
+            "termURL": "https://aiinarabic.com/glossary/auxiliar-head/"
         },
         {
-            "English": "Auxiliary Loss",
-            "Arabic": "الخسارةُ المُساعِدةُ  inception) كما هو الحالُ في شَبَكَة (Softmax تَعاني الشَّبَكَاتُ العمِيقةُ مُشكِلةَ خفضِ/ تناقُصِ المُشتقِّ حتى الانعدام. إحدى طُرُقِ حلِّ هذه المُشكِلةِ هي الاستِعانةُ بمُصنَّفاتٍ مُساعِدةٍ تُوضعُ في مُنتصفِ الشَّبَكَة ولها تابعُ تفعيلٍ، يقومُ كلُّ مُصنَّفٍ من هذه المُصنَّفاتِ بتقليلِ الخسارةِ الخاصَّةِ به التي تُسمَّى الخسارةُ المُساعِدةُ. ويكونُ تابِعُ الخسارةِ الكُلِّيِّ للشَّبَكَةِ الأصلِيَّةِ هو مجموعُ الخسارةِ الأصليَّةِ والخساراتِ المُساعِدةِ.",
-            "URL": "https://aiinarabic.com/glossary/auxiliary-loss/"
+            "english": "Auxiliary Loss",
+            "arabic": "الخسارةُ المُساعِدةُ  inception) كما هو الحالُ في شَبَكَة (Softmax تَعاني الشَّبَكَاتُ العمِيقةُ مُشكِلةَ خفضِ/ تناقُصِ المُشتقِّ حتى الانعدام. إحدى طُرُقِ حلِّ هذه المُشكِلةِ هي الاستِعانةُ بمُصنَّفاتٍ مُساعِدةٍ تُوضعُ في مُنتصفِ الشَّبَكَة ولها تابعُ تفعيلٍ، يقومُ كلُّ مُصنَّفٍ من هذه المُصنَّفاتِ بتقليلِ الخسارةِ الخاصَّةِ به التي تُسمَّى الخسارةُ المُساعِدةُ. ويكونُ تابِعُ الخسارةِ الكُلِّيِّ للشَّبَكَةِ الأصلِيَّةِ هو مجموعُ الخسارةِ الأصليَّةِ والخساراتِ المُساعِدةِ.",
+            "termURL": "https://aiinarabic.com/glossary/auxiliary-loss/"
         },
         {
-            "English": "Average Pooling",
-            "Arabic": "تجميعٌ وفقَ القيمةِ المُتوسِّطةِ",
-            "URL": "https://aiinarabic.com/glossary/average-polling/"
+            "english": "Average Pooling",
+            "arabic": "تجميعٌ وفقَ القيمةِ المُتوسِّطةِ",
+            "termURL": "https://aiinarabic.com/glossary/average-polling/"
         },
         {
-            "English": "Backpropagation",
-            "Arabic": "الانتشارُ الخلفيُّ",
-            "URL": "https://aiinarabic.com/glossary/backpropagation/"
+            "english": "Backpropagation",
+            "arabic": "الانتشارُ الخلفيُّ",
+            "termURL": "https://aiinarabic.com/glossary/backpropagation/"
         },
         {
-            "English": "Backward Chaining",
-            "Arabic": "التَّسلسلُ الخَلفيّ",
-            "URL": "https://aiinarabic.com/glossary/backward-chaining/"
+            "english": "Backward Chaining",
+            "arabic": "التَّسلسلُ الخَلفيّ",
+            "termURL": "https://aiinarabic.com/glossary/backward-chaining/"
         },
         {
-            "English": "Bag of Words (BOW)",
-            "Arabic": "حقيبة الكلمات",
-            "URL": "https://aiinarabic.com/glossary/bag-of-words-bow-2/"
+            "english": "Bag of Words (BOW)",
+            "arabic": "حقيبة الكلمات",
+            "termURL": "https://aiinarabic.com/glossary/bag-of-words-bow-2/"
         },
         {
-            "English": "Bagging",
-            "Arabic": "التّجميع",
-            "URL": "https://aiinarabic.com/glossary/bagging/"
+            "english": "Bagging",
+            "arabic": "التّجميع",
+            "termURL": "https://aiinarabic.com/glossary/bagging/"
         },
         {
-            "English": "Batch",
-            "Arabic": "الدُّفعَةُ",
-            "URL": "https://aiinarabic.com/glossary/batch/"
+            "english": "Batch",
+            "arabic": "الدُّفعَةُ",
+            "termURL": "https://aiinarabic.com/glossary/batch/"
         },
         {
-            "English": "Batch Normalization",
-            "Arabic": "تقييسُ الدُّفعَةِلا تكونُ قِيَمُ مِيزاتِ البياناتِ المُرادُ استخدامُها في التَّدريبِ - في كثيرٍ من الأحيانِ - ضِمنَ مجالٍ واحدٍ، فمثلًا: قد تمتلِكُ مِيزةُ العُمرِ قِيَمًا ضِمنَ 0-100، وتمتلِكُ مِيزةٌ أُخرى كالرَّاتبِ قِيمًا ضِمنَ مجالٍ بالآلاف. ومن ثَمَّ تُطَبَّقُ عملِيَّةُ تقييسٍ لجميعِ قِيَمِ الدُّفعَةِ الواحدةِ لتكونَ ضِمنَ مجالٍ مُعيَّنٍ، أي حتى تمتلِكَ توزُّعًا واحدًا. وهذا يُحسِّنُ سُرعةَ الشَّبَكَاتِ العُصبُونِيَّةِ وأدائها واستقرارِها.",
-            "URL": "https://aiinarabic.com/glossary/batch-normalization/"
+            "english": "Batch Normalization",
+            "arabic": "تقييسُ الدُّفعَةِلا تكونُ قِيَمُ مِيزاتِ البياناتِ المُرادُ استخدامُها في التَّدريبِ - في كثيرٍ من الأحيانِ - ضِمنَ مجالٍ واحدٍ، فمثلًا: قد تمتلِكُ مِيزةُ العُمرِ قِيَمًا ضِمنَ 0-100، وتمتلِكُ مِيزةٌ أُخرى كالرَّاتبِ قِيمًا ضِمنَ مجالٍ بالآلاف. ومن ثَمَّ تُطَبَّقُ عملِيَّةُ تقييسٍ لجميعِ قِيَمِ الدُّفعَةِ الواحدةِ لتكونَ ضِمنَ مجالٍ مُعيَّنٍ، أي حتى تمتلِكَ توزُّعًا واحدًا. وهذا يُحسِّنُ سُرعةَ الشَّبَكَاتِ العُصبُونِيَّةِ وأدائها واستقرارِها.",
+            "termURL": "https://aiinarabic.com/glossary/batch-normalization/"
         },
         {
-            "English": "Bayesian Regression",
-            "Arabic": "الانحدار الافتراضي/الانحدار البايزي",
-            "URL": "https://aiinarabic.com/glossary/bayesian-regression/"
+            "english": "Bayesian Regression",
+            "arabic": "الانحدار الافتراضي/الانحدار البايزي",
+            "termURL": "https://aiinarabic.com/glossary/bayesian-regression/"
         },
         {
-            "English": "Beam Search",
-            "Arabic": "البحث الشّعاعي",
-            "URL": "https://aiinarabic.com/glossary/beam-search/"
+            "english": "Beam Search",
+            "arabic": "البحث الشّعاعي",
+            "termURL": "https://aiinarabic.com/glossary/beam-search/"
         },
         {
-            "English": "BERT",
-            "Arabic": "مُحوّل بيرت",
-            "URL": "https://aiinarabic.com/glossary/bert/"
+            "english": "BERT",
+            "arabic": "مُحوّل بيرت",
+            "termURL": "https://aiinarabic.com/glossary/bert/"
         },
         {
-            "English": "Bias",
-            "Arabic": "الانحياز",
-            "URL": "https://aiinarabic.com/glossary/bias/"
+            "english": "Bias",
+            "arabic": "الانحياز",
+            "termURL": "https://aiinarabic.com/glossary/bias/"
         },
         {
-            "English": "Binary Cross-Entropy",
-            "Arabic": "الإنتروبيا المُتقاطِعةُ الثُّنائيَّةُ",
-            "URL": "https://aiinarabic.com/glossary/binary-cross-entropy/"
+            "english": "Binary Cross-Entropy",
+            "arabic": "الإنتروبيا المُتقاطِعةُ الثُّنائيَّةُ",
+            "termURL": "https://aiinarabic.com/glossary/binary-cross-entropy/"
         },
         {
-            "English": "Bitwise-and",
-            "Arabic": "عمليّة الجِّداء المنطقيّ على مُستوى البِت",
-            "URL": "https://aiinarabic.com/glossary/bitwise-and/"
+            "english": "Bitwise-and",
+            "arabic": "عمليّة الجِّداء المنطقيّ على مُستوى البِت",
+            "termURL": "https://aiinarabic.com/glossary/bitwise-and/"
         },
         {
-            "English": "BLEU",
-            "Arabic": "معيار تقييم التطابق ثنائي اللغة",
-            "URL": "https://aiinarabic.com/glossary/bleu/"
+            "english": "BLEU",
+            "arabic": "معيار تقييم التطابق ثنائي اللغة",
+            "termURL": "https://aiinarabic.com/glossary/bleu/"
         },
         {
-            "English": "Boosting",
-            "Arabic": "تقّوية",
-            "URL": "https://aiinarabic.com/glossary/boosting/"
+            "english": "Boosting",
+            "arabic": "تقّوية",
+            "termURL": "https://aiinarabic.com/glossary/boosting/"
         },
         {
-            "English": "Bounding Box",
-            "Arabic": "مُرَبَّعُ إحاطةٍ",
-            "URL": "https://aiinarabic.com/glossary/bounding-box/"
+            "english": "Bounding Box",
+            "arabic": "مُرَبَّعُ إحاطةٍ",
+            "termURL": "https://aiinarabic.com/glossary/bounding-box/"
         },
         {
-            "English": "Boxplot",
-            "Arabic": "المخطّط الصندوقي",
-            "URL": "https://aiinarabic.com/glossary/boxplot/"
+            "english": "Boxplot",
+            "arabic": "المخطّط الصندوقي",
+            "termURL": "https://aiinarabic.com/glossary/boxplot/"
         },
         {
-            "English": "Caffe",
-            "Arabic": "كافيه",
-            "URL": "https://aiinarabic.com/glossary/caffe/"
+            "english": "Caffe",
+            "arabic": "كافيه",
+            "termURL": "https://aiinarabic.com/glossary/caffe/"
         },
         {
-            "English": "Categorical Cross-Entropy",
-            "Arabic": "الانتروبيا المتقاطعة الفئويّة",
-            "URL": "https://aiinarabic.com/glossary/categorical-cross-entropy/"
+            "english": "Categorical Cross-Entropy",
+            "arabic": "الانتروبيا المتقاطعة الفئويّة",
+            "termURL": "https://aiinarabic.com/glossary/categorical-cross-entropy/"
         },
         {
-            "English": "CBOW",
-            "Arabic": "حقيبة الكلمات المستمرّة",
-            "URL": "https://aiinarabic.com/glossary/cbow/"
+            "english": "CBOW",
+            "arabic": "حقيبة الكلمات المستمرّة",
+            "termURL": "https://aiinarabic.com/glossary/cbow/"
         },
         {
-            "English": "Chain-of-Thought (CoT)",
-            "Arabic": "سلسلة التّفكير",
-            "URL": "https://aiinarabic.com/glossary/chain-of-thought-cot/"
+            "english": "Chain-of-Thought (CoT)",
+            "arabic": "سلسلة التّفكير",
+            "termURL": "https://aiinarabic.com/glossary/chain-of-thought-cot/"
         },
         {
-            "English": "Chat GPT",
-            "Arabic": "شات جي بي تي",
-            "URL": "https://aiinarabic.com/glossary/chat-gpt/"
+            "english": "Chat GPT",
+            "arabic": "شات جي بي تي",
+            "termURL": "https://aiinarabic.com/glossary/chat-gpt/"
         },
         {
-            "English": "Classification",
-            "Arabic": "تصنيف",
-            "URL": "https://aiinarabic.com/glossary/classification/"
+            "english": "Classification",
+            "arabic": "تصنيف",
+            "termURL": "https://aiinarabic.com/glossary/classification/"
         },
         {
-            "English": "Clean Data",
-            "Arabic": "البياناتُ المُنقّاةُ/ تنقِيَةُ البياناتِ",
-            "URL": "https://aiinarabic.com/glossary/clean-data/"
+            "english": "Clean Data",
+            "arabic": "البياناتُ المُنقّاةُ/ تنقِيَةُ البياناتِ",
+            "termURL": "https://aiinarabic.com/glossary/clean-data/"
         },
         {
-            "English": "Code",
-            "Arabic": "شيفرةٌ برمجيَّةٌ",
-            "URL": "https://aiinarabic.com/glossary/code/"
+            "english": "Code",
+            "arabic": "شيفرةٌ برمجيَّةٌ",
+            "termURL": "https://aiinarabic.com/glossary/code/"
         },
         {
-            "English": "Colab",
-            "Arabic": "مِنصَّةُ كُولاب",
-            "URL": "https://aiinarabic.com/glossary/colab/"
+            "english": "Colab",
+            "arabic": "مِنصَّةُ كُولاب",
+            "termURL": "https://aiinarabic.com/glossary/colab/"
         },
         {
-            "English": "Compound Model Scaling",
-            "Arabic": "تحجيم النّموذج",
-            "URL": "https://aiinarabic.com/glossary/compound-model-scaling/"
+            "english": "Compound Model Scaling",
+            "arabic": "تحجيم النّموذج",
+            "termURL": "https://aiinarabic.com/glossary/compound-model-scaling/"
         },
         {
-            "English": "Confidence",
-            "Arabic": "عتبة الدقة",
-            "URL": "https://aiinarabic.com/glossary/confidence/"
+            "english": "Confidence",
+            "arabic": "عتبة الدقة",
+            "termURL": "https://aiinarabic.com/glossary/confidence/"
         },
         {
-            "English": "Confusion Matrix",
-            "Arabic": "مصفوفة الالتباس",
-            "URL": "https://aiinarabic.com/glossary/confusion-matrix/"
+            "english": "Confusion Matrix",
+            "arabic": "مصفوفة الالتباس",
+            "termURL": "https://aiinarabic.com/glossary/confusion-matrix/"
         },
         {
-            "English": "Contextual Conversation Prompt",
-            "Arabic": "التّلقين السّياقي للمحادثات",
-            "URL": "https://aiinarabic.com/glossary/contextual-conversation-prompt/"
+            "english": "Contextual Conversation Prompt",
+            "arabic": "التّلقين السّياقي للمحادثات",
+            "termURL": "https://aiinarabic.com/glossary/contextual-conversation-prompt/"
         },
         {
-            "English": "Continuous Quantitative Variable",
-            "Arabic": "المتغيّر الكمّي المُستمر",
-            "URL": "https://aiinarabic.com/glossary/continuous-quantitative-variable/"
+            "english": "Continuous Quantitative Variable",
+            "arabic": "المتغيّر الكمّي المُستمر",
+            "termURL": "https://aiinarabic.com/glossary/continuous-quantitative-variable/"
         },
         {
-            "English": "Contour Filtering",
-            "Arabic": "تصفية الحدود",
-            "URL": "https://aiinarabic.com/glossary/contour-filtering/"
+            "english": "Contour Filtering",
+            "arabic": "تصفية الحدود",
+            "termURL": "https://aiinarabic.com/glossary/contour-filtering/"
         },
         {
-            "English": "Convolution",
-            "Arabic": "عملِيَّةُ جِداءِ الطَّيِّ  يُعَرَّفُ جِداءُ الطَّيِّ بأنه التَّكاملُ الذي يُعبِّرُ عن كميةِ التَّداخُلِ لتابعٍ ما عندما يُزاحُ عن تابعٍ آخرَ. وعمليَّةُ جِداءِ الطَّيِّ هي عمليَّةٌ تبديليَّةٌhttp://mathworld.wolfram.com/Convolution.html",
-            "URL": "https://aiinarabic.com/glossary/convolution/"
+            "english": "Convolution",
+            "arabic": "عملِيَّةُ جِداءِ الطَّيِّ  يُعَرَّفُ جِداءُ الطَّيِّ بأنه التَّكاملُ الذي يُعبِّرُ عن كميةِ التَّداخُلِ لتابعٍ ما عندما يُزاحُ عن تابعٍ آخرَ. وعمليَّةُ جِداءِ الطَّيِّ هي عمليَّةٌ تبديليَّةٌhttp://mathworld.wolfram.com/Convolution.html",
+            "termURL": "https://aiinarabic.com/glossary/convolution/"
         },
         {
-            "English": "Convolutional Neural Network (CNN)",
-            "Arabic": "شَبَكَاتُ الطَّيِّ العُصبُونِيَّةشَبَكَاتُ الطَّيِّ العُصبونِيَّة مأخوذةٌ من عملِيَّةِ الطَّيِّ (راجِع تعريفَ عمليَّةِ جِداءِ الطَّيِّ).",
-            "URL": "https://aiinarabic.com/glossary/convolutional-neural-network/"
+            "english": "Convolutional Neural Network (CNN)",
+            "arabic": "شَبَكَاتُ الطَّيِّ العُصبُونِيَّةشَبَكَاتُ الطَّيِّ العُصبونِيَّة مأخوذةٌ من عملِيَّةِ الطَّيِّ (راجِع تعريفَ عمليَّةِ جِداءِ الطَّيِّ).",
+            "termURL": "https://aiinarabic.com/glossary/convolutional-neural-network/"
         },
         {
-            "English": "Coreference",
-            "Arabic": "الإحالة المشتركة",
-            "URL": "https://aiinarabic.com/glossary/coreference/"
+            "english": "Coreference",
+            "arabic": "الإحالة المشتركة",
+            "termURL": "https://aiinarabic.com/glossary/coreference/"
         },
         {
-            "English": "Coreference Resolution",
-            "Arabic": "القرارُ الجَوهريُّ",
-            "URL": "https://aiinarabic.com/glossary/coreference-resolution/"
+            "english": "Coreference Resolution",
+            "arabic": "القرارُ الجَوهريُّ",
+            "termURL": "https://aiinarabic.com/glossary/coreference-resolution/"
         },
         {
-            "English": "Corpus",
-            "Arabic": "ديوان نصيّ",
-            "URL": "https://aiinarabic.com/glossary/corpus/"
+            "english": "Corpus",
+            "arabic": "ديوان نصيّ",
+            "termURL": "https://aiinarabic.com/glossary/corpus/"
         },
         {
-            "English": "Covariance Matrix",
-            "Arabic": "مصفوفة التّغايُر",
-            "URL": "https://aiinarabic.com/glossary/covariance-matrix/"
+            "english": "Covariance Matrix",
+            "arabic": "مصفوفة التّغايُر",
+            "termURL": "https://aiinarabic.com/glossary/covariance-matrix/"
         },
         {
-            "English": "Cox Regression",
-            "Arabic": "انحدار كوكس",
-            "URL": "https://aiinarabic.com/glossary/cox-regression/"
+            "english": "Cox Regression",
+            "arabic": "انحدار كوكس",
+            "termURL": "https://aiinarabic.com/glossary/cox-regression/"
         },
         {
-            "English": "Cross-Entropy",
-            "Arabic": "الإنتروبيا المُتقاطِعةُ  مِقياسٌ مأخوذٌ من عِلمِ نظرِيَّةِ المعلوماتِ لقياسِ الفرقِ بين توَزُّعَينِ احتِمالِيَّينِ لمجموعةٍ من المُتغيِّراتِ أو الأحداثِ، وهو مبنيٌّ على مفهومِ الإنتروبيا (التي تُعرَّفُ بأنها القيمةُ المُتوسِّطةُ لِمقياسِ المعلوماتِ المنقولةِ نتيجةً لإحداثِ حَدثٍ ما من مجموعةٍ محدودة من الأحداثِ المُستقلَّةِ تبادُليًا، تلك الأحداثُ التي لها احتمالاتٌ مُحدَّدةٌ وتُغطِّي كُلَّ فَضاءِ الاحتمالات)، تقيسُ الإنتروبيا المُتقاطِعةُ عُمومًا الإنتروبيا الكُليَّةَ لمجموعةٍ من التوزُّعاتِ الاحتماليَّة.",
-            "URL": "https://aiinarabic.com/glossary/cross-entropy/"
+            "english": "Cross-Entropy",
+            "arabic": "الإنتروبيا المُتقاطِعةُ  مِقياسٌ مأخوذٌ من عِلمِ نظرِيَّةِ المعلوماتِ لقياسِ الفرقِ بين توَزُّعَينِ احتِمالِيَّينِ لمجموعةٍ من المُتغيِّراتِ أو الأحداثِ، وهو مبنيٌّ على مفهومِ الإنتروبيا (التي تُعرَّفُ بأنها القيمةُ المُتوسِّطةُ لِمقياسِ المعلوماتِ المنقولةِ نتيجةً لإحداثِ حَدثٍ ما من مجموعةٍ محدودة من الأحداثِ المُستقلَّةِ تبادُليًا، تلك الأحداثُ التي لها احتمالاتٌ مُحدَّدةٌ وتُغطِّي كُلَّ فَضاءِ الاحتمالات)، تقيسُ الإنتروبيا المُتقاطِعةُ عُمومًا الإنتروبيا الكُليَّةَ لمجموعةٍ من التوزُّعاتِ الاحتماليَّة.",
+            "termURL": "https://aiinarabic.com/glossary/cross-entropy/"
         },
         {
-            "English": "Cross Validation",
-            "Arabic": "التّحقُّق المُتقاطع",
-            "URL": "https://aiinarabic.com/glossary/cross-validation/"
+            "english": "Cross Validation",
+            "arabic": "التّحقُّق المُتقاطع",
+            "termURL": "https://aiinarabic.com/glossary/cross-validation/"
         },
         {
-            "English": "CUDA",
-            "Arabic": "كودا",
-            "URL": "https://aiinarabic.com/glossary/cuda/"
+            "english": "CUDA",
+            "arabic": "كودا",
+            "termURL": "https://aiinarabic.com/glossary/cuda/"
         },
         {
-            "English": "Data Analysis",
-            "Arabic": "تحليل البيانات",
-            "URL": "https://aiinarabic.com/glossary/data-analysis/"
+            "english": "Data Analysis",
+            "arabic": "تحليل البيانات",
+            "termURL": "https://aiinarabic.com/glossary/data-analysis/"
         },
         {
-            "English": "Data Augmentation",
-            "Arabic": "تعزيز البيانات",
-            "URL": "https://aiinarabic.com/glossary/data-augmentation/"
+            "english": "Data Augmentation",
+            "arabic": "تعزيز البيانات",
+            "termURL": "https://aiinarabic.com/glossary/data-augmentation/"
         },
         {
-            "English": "Data Pipeline",
-            "Arabic": "مسارُ تدفُّقِ البياناتِ",
-            "URL": "https://aiinarabic.com/glossary/data-pipeline/"
+            "english": "Data Pipeline",
+            "arabic": "مسارُ تدفُّقِ البياناتِ",
+            "termURL": "https://aiinarabic.com/glossary/data-pipeline/"
         },
         {
-            "English": "Data Visualization",
-            "Arabic": "التّمثيل المرئي للبيانات",
-            "URL": "https://aiinarabic.com/glossary/data-visualization/"
+            "english": "Data Visualization",
+            "arabic": "التّمثيل المرئي للبيانات",
+            "termURL": "https://aiinarabic.com/glossary/data-visualization/"
         },
         {
-            "English": "Dataframe in Pandas",
-            "Arabic": "إطار البيانات في بانداس",
-            "URL": "https://aiinarabic.com/glossary/dataframe-in-pandas/"
+            "english": "Dataframe in Pandas",
+            "arabic": "إطار البيانات في بانداس",
+            "termURL": "https://aiinarabic.com/glossary/dataframe-in-pandas/"
         },
         {
-            "English": "Date-Related Features",
-            "Arabic": "المزايا المُتعلّقة بالتاريخ",
-            "URL": "https://aiinarabic.com/glossary/date-related-features/"
+            "english": "Date-Related Features",
+            "arabic": "المزايا المُتعلّقة بالتاريخ",
+            "termURL": "https://aiinarabic.com/glossary/date-related-features/"
         },
         {
-            "English": "DBSCAN",
-            "Arabic": "Density-Based Spatial Clustering of Applications with Noise خوارزميّة التجميع دي بي سكان",
-            "URL": "https://aiinarabic.com/glossary/dbscan/"
+            "english": "DBSCAN",
+            "arabic": "Density-Based Spatial Clustering of Applications with Noise خوارزميّة التجميع دي بي سكان",
+            "termURL": "https://aiinarabic.com/glossary/dbscan/"
         },
         {
-            "English": "Decision Rules",
-            "Arabic": "قواعد القرار",
-            "URL": "https://aiinarabic.com/glossary/decision-rules/"
+            "english": "Decision Rules",
+            "arabic": "قواعد القرار",
+            "termURL": "https://aiinarabic.com/glossary/decision-rules/"
         },
         {
-            "English": "Decision Tree",
-            "Arabic": "شجرة القرار",
-            "URL": "https://aiinarabic.com/glossary/decision-tree/"
+            "english": "Decision Tree",
+            "arabic": "شجرة القرار",
+            "termURL": "https://aiinarabic.com/glossary/decision-tree/"
         },
         {
-            "English": "Decoder",
-            "Arabic": "فاكُّ التّرميز",
-            "URL": "https://aiinarabic.com/glossary/decoder/"
+            "english": "Decoder",
+            "arabic": "فاكُّ التّرميز",
+            "termURL": "https://aiinarabic.com/glossary/decoder/"
         },
         {
-            "English": "Deep Learning",
-            "Arabic": "التَّعَلُّمُ العمِيقُ",
-            "URL": "https://aiinarabic.com/glossary/deep-learning/"
+            "english": "Deep Learning",
+            "arabic": "التَّعَلُّمُ العمِيقُ",
+            "termURL": "https://aiinarabic.com/glossary/deep-learning/"
         },
         {
-            "English": "Deep Neural Networks",
-            "Arabic": "الشَّبَكَات العُصبُونِيَّة العميقة",
-            "URL": "https://aiinarabic.com/glossary/deep-neural-networks/"
+            "english": "Deep Neural Networks",
+            "arabic": "الشَّبَكَات العُصبُونِيَّة العميقة",
+            "termURL": "https://aiinarabic.com/glossary/deep-neural-networks/"
         },
         {
-            "English": "Dense Block",
-            "Arabic": "الكتلة الكثيفة",
-            "URL": "https://aiinarabic.com/glossary/dense-block/"
+            "english": "Dense Block",
+            "arabic": "الكتلة الكثيفة",
+            "termURL": "https://aiinarabic.com/glossary/dense-block/"
         },
         {
-            "English": "Dense Layer",
-            "Arabic": "الطَّبَقةُ الكثيفةُالطَّبَقةُ ذاتُ الاتِّصالِ الكاملِ",
-            "URL": "https://aiinarabic.com/glossary/dense-layer/"
+            "english": "Dense Layer",
+            "arabic": "الطَّبَقةُ الكثيفةُالطَّبَقةُ ذاتُ الاتِّصالِ الكاملِ",
+            "termURL": "https://aiinarabic.com/glossary/dense-layer/"
         },
         {
-            "English": "Dense Network",
-            "Arabic": "الشبكة الكثيفة/الشبكة ذات الاتصال الكامل",
-            "URL": "https://aiinarabic.com/glossary/dense-network/"
+            "english": "Dense Network",
+            "arabic": "الشبكة الكثيفة/الشبكة ذات الاتصال الكامل",
+            "termURL": "https://aiinarabic.com/glossary/dense-network/"
         },
         {
-            "English": "Dense Prediction Transformers (DPT)",
-            "Arabic": "محوّلات التّنبؤ الكثيف",
-            "URL": "https://aiinarabic.com/glossary/dense-prediction-transformers-dpt/"
+            "english": "Dense Prediction Transformers (DPT)",
+            "arabic": "محوّلات التّنبؤ الكثيف",
+            "termURL": "https://aiinarabic.com/glossary/dense-prediction-transformers-dpt/"
         },
         {
-            "English": "Dependency Parsing",
-            "Arabic": "الإعرابُ الاعتماديُّ",
-            "URL": "https://aiinarabic.com/glossary/dependency-parsing/"
+            "english": "Dependency Parsing",
+            "arabic": "الإعرابُ الاعتماديُّ",
+            "termURL": "https://aiinarabic.com/glossary/dependency-parsing/"
         },
         {
-            "English": "Depthwise Separable Convolution",
-            "Arabic": "الطّي بالعمق المنفصل",
-            "URL": "https://aiinarabic.com/glossary/depthwise-separable-convolution/"
+            "english": "Depthwise Separable Convolution",
+            "arabic": "الطّي بالعمق المنفصل",
+            "termURL": "https://aiinarabic.com/glossary/depthwise-separable-convolution/"
         },
         {
-            "English": "Diffusion Models",
-            "Arabic": "نماذج الانتشار",
-            "URL": "https://aiinarabic.com/glossary/diffusion-models/"
+            "english": "Diffusion Models",
+            "arabic": "نماذج الانتشار",
+            "termURL": "https://aiinarabic.com/glossary/diffusion-models/"
         },
         {
-            "English": "Discrete Quantitative Variable",
-            "Arabic": "المتغيّر الكمّي المُنفصل",
-            "URL": "https://aiinarabic.com/glossary/discrete-quantitative-variable/"
+            "english": "Discrete Quantitative Variable",
+            "arabic": "المتغيّر الكمّي المُنفصل",
+            "termURL": "https://aiinarabic.com/glossary/discrete-quantitative-variable/"
         },
         {
-            "English": "Divisive Clustering",
-            "Arabic": "التجميع الهرميّ من الأعلى إلى الأسفل",
-            "URL": "https://aiinarabic.com/glossary/divisive-clustering/"
+            "english": "Divisive Clustering",
+            "arabic": "التجميع الهرميّ من الأعلى إلى الأسفل",
+            "termURL": "https://aiinarabic.com/glossary/divisive-clustering/"
         },
         {
-            "English": "Domain Expert",
-            "Arabic": "خبيرُ المَجال",
-            "URL": "https://aiinarabic.com/glossary/domain-expert/"
+            "english": "Domain Expert",
+            "arabic": "خبيرُ المَجال",
+            "termURL": "https://aiinarabic.com/glossary/domain-expert/"
         },
         {
-            "English": "Domain Shift Problem",
-            "Arabic": "مُشكِلةُ تغييرِ المجالِ  تظهرُ هذه المشكلةُ عندما تكونُ قاعدةُ بياناتِ التَّدريبِ وقاعدةُ بياناتِ التَّحقُّقِ من مجالينِ مُختلِفينِ، فمثلًا: نقومُ بالتَّدريبِ على الصُّورِ المأخوذةِ من العالَمِ الافتراضيِّ ثُمَّ نقومُ بالتَّحقُّقِ على (بالتَّحَقُّقِ على أم بالتحقُّقِ من؟) الصُّورِ المأخُوذةِ من مجالِ العالَمِ الحقيقيِّ. عادةً ما يكونُ سببُ هذا الاختلافِ هو اختلافَ معامِلاتِ آلاتِ التَّصويرِ في العالَمَين.",
-            "URL": "https://aiinarabic.com/glossary/domain-shift-problem/"
+            "english": "Domain Shift Problem",
+            "arabic": "مُشكِلةُ تغييرِ المجالِ  تظهرُ هذه المشكلةُ عندما تكونُ قاعدةُ بياناتِ التَّدريبِ وقاعدةُ بياناتِ التَّحقُّقِ من مجالينِ مُختلِفينِ، فمثلًا: نقومُ بالتَّدريبِ على الصُّورِ المأخوذةِ من العالَمِ الافتراضيِّ ثُمَّ نقومُ بالتَّحقُّقِ على (بالتَّحَقُّقِ على أم بالتحقُّقِ من؟) الصُّورِ المأخُوذةِ من مجالِ العالَمِ الحقيقيِّ. عادةً ما يكونُ سببُ هذا الاختلافِ هو اختلافَ معامِلاتِ آلاتِ التَّصويرِ في العالَمَين.",
+            "termURL": "https://aiinarabic.com/glossary/domain-shift-problem/"
         },
         {
-            "English": "Domain-Specific Features",
-            "Arabic": "المزايا الخاصة بمجال التطبيق",
-            "URL": "https://aiinarabic.com/glossary/domain-specific-features/"
+            "english": "Domain-Specific Features",
+            "arabic": "المزايا الخاصة بمجال التطبيق",
+            "termURL": "https://aiinarabic.com/glossary/domain-specific-features/"
         },
         {
-            "English": "Dot Product",
-            "Arabic": "الجداء النُّقَطي",
-            "URL": "https://aiinarabic.com/glossary/dot-product/"
+            "english": "Dot Product",
+            "arabic": "الجداء النُّقَطي",
+            "termURL": "https://aiinarabic.com/glossary/dot-product/"
         },
         {
-            "English": "Double Cross-Validation",
-            "Arabic": "التّحقق المُتقاطع المُزدوج",
-            "URL": "https://aiinarabic.com/glossary/double-cross-validation/"
+            "english": "Double Cross-Validation",
+            "arabic": "التّحقق المُتقاطع المُزدوج",
+            "termURL": "https://aiinarabic.com/glossary/double-cross-validation/"
         },
         {
-            "English": "Downsampling",
-            "Arabic": "تصغير الأبعاد",
-            "URL": "https://aiinarabic.com/glossary/downsampling/"
+            "english": "Downsampling",
+            "arabic": "تصغير الأبعاد",
+            "termURL": "https://aiinarabic.com/glossary/downsampling/"
         },
         {
-            "English": "Dropout",
-            "Arabic": "تعطيلُ عملِ العُصبُوناتِ",
-            "URL": "https://aiinarabic.com/glossary/dropout/"
+            "english": "Dropout",
+            "arabic": "تعطيلُ عملِ العُصبُوناتِ",
+            "termURL": "https://aiinarabic.com/glossary/dropout/"
         },
         {
-            "English": "Early Stopping",
-            "Arabic": "التّوقُّف المُبكّر",
-            "URL": "https://aiinarabic.com/glossary/early-stopping/"
+            "english": "Early Stopping",
+            "arabic": "التّوقُّف المُبكّر",
+            "termURL": "https://aiinarabic.com/glossary/early-stopping/"
         },
         {
-            "English": "Edge Detection Segmentation",
-            "Arabic": "خوارزميّة التجزئة المعتمدة على كشف الحواف",
-            "URL": "https://aiinarabic.com/glossary/edge-detection-segmentation/"
+            "english": "Edge Detection Segmentation",
+            "arabic": "خوارزميّة التجزئة المعتمدة على كشف الحواف",
+            "termURL": "https://aiinarabic.com/glossary/edge-detection-segmentation/"
         },
         {
-            "English": "Eigen Face",
-            "Arabic": "الوجهُ الخاصُّ/ الوجهُ المُتوسِّطُيُشبِهُ مبدأُ عملهِ مبدأَ عملِ المُتوسِّطِ الحِسابيِّ.",
-            "URL": "https://aiinarabic.com/glossary/eigen-face/"
+            "english": "Eigen Face",
+            "arabic": "الوجهُ الخاصُّ/ الوجهُ المُتوسِّطُيُشبِهُ مبدأُ عملهِ مبدأَ عملِ المُتوسِّطِ الحِسابيِّ.",
+            "termURL": "https://aiinarabic.com/glossary/eigen-face/"
         },
         {
-            "English": "EigenValues",
-            "Arabic": "القيم الذّاتيّة",
-            "URL": "https://aiinarabic.com/glossary/eigenvalues/"
+            "english": "EigenValues",
+            "arabic": "القيم الذّاتيّة",
+            "termURL": "https://aiinarabic.com/glossary/eigenvalues/"
         },
         {
-            "English": "EigenVector",
-            "Arabic": "المُتّجهات الذّاتيّة",
-            "URL": "https://aiinarabic.com/glossary/eigenvector/"
+            "english": "EigenVector",
+            "arabic": "المُتّجهات الذّاتيّة",
+            "termURL": "https://aiinarabic.com/glossary/eigenvector/"
         },
         {
-            "English": "Elastic Net Regression",
-            "Arabic": "انحدار الشبكة المرنة",
-            "URL": "https://aiinarabic.com/glossary/elastic-net-regression/"
+            "english": "Elastic Net Regression",
+            "arabic": "انحدار الشبكة المرنة",
+            "termURL": "https://aiinarabic.com/glossary/elastic-net-regression/"
         },
         {
-            "English": "Embedding Layer",
-            "Arabic": "طبقةُ التَّضمينِ",
-            "URL": "https://aiinarabic.com/glossary/embedding-layer/"
+            "english": "Embedding Layer",
+            "arabic": "طبقةُ التَّضمينِ",
+            "termURL": "https://aiinarabic.com/glossary/embedding-layer/"
         },
         {
-            "English": "Emotion Detector",
-            "Arabic": "كاشِفُ المَشاعِرِ أو العَواطِفِ",
-            "URL": "https://aiinarabic.com/glossary/emotion-detector/"
+            "english": "Emotion Detector",
+            "arabic": "كاشِفُ المَشاعِرِ أو العَواطِفِ",
+            "termURL": "https://aiinarabic.com/glossary/emotion-detector/"
         },
         {
-            "English": "Encoder",
-            "Arabic": "المُرمّز",
-            "URL": "https://aiinarabic.com/glossary/encoder/"
+            "english": "Encoder",
+            "arabic": "المُرمّز",
+            "termURL": "https://aiinarabic.com/glossary/encoder/"
         },
         {
-            "English": "Encoder-Decoder Attention Layer",
-            "Arabic": "طبقة الاهتمام مُرمّز-فاكّ التّرميز",
-            "URL": "https://aiinarabic.com/glossary/encoder-decoder-attention-layer/"
+            "english": "Encoder-Decoder Attention Layer",
+            "arabic": "طبقة الاهتمام مُرمّز-فاكّ التّرميز",
+            "termURL": "https://aiinarabic.com/glossary/encoder-decoder-attention-layer/"
         },
         {
-            "English": "Ensemble",
-            "Arabic": "مجمُوعةٌ",
-            "URL": "https://aiinarabic.com/glossary/ensemble/"
+            "english": "Ensemble",
+            "arabic": "مجمُوعةٌ",
+            "termURL": "https://aiinarabic.com/glossary/ensemble/"
         },
         {
-            "English": "Entropy",
-            "Arabic": "الانتروبي",
-            "URL": "https://aiinarabic.com/glossary/entropy/"
+            "english": "Entropy",
+            "arabic": "الانتروبي",
+            "termURL": "https://aiinarabic.com/glossary/entropy/"
         },
         {
-            "English": "Epoch",
-            "Arabic": "دورةُ تدريبٍ",
-            "URL": "https://aiinarabic.com/glossary/epoch/"
+            "english": "Epoch",
+            "arabic": "دورةُ تدريبٍ",
+            "termURL": "https://aiinarabic.com/glossary/epoch/"
         },
         {
-            "English": "Expanding Window Feature",
-            "Arabic": "مزايا النافذة الموسّعة",
-            "URL": "https://aiinarabic.com/glossary/expanding-window-feature/"
+            "english": "Expanding Window Feature",
+            "arabic": "مزايا النافذة الموسّعة",
+            "termURL": "https://aiinarabic.com/glossary/expanding-window-feature/"
         },
         {
-            "English": "Expectation-Maximization (EM) Clustering using Gaussian Mixture Models (GMM)",
-            "Arabic": "خوارزميّة التجميع بتعظيم القيمة المتوقّعة باستخدام نموذج غاوس المختلط",
-            "URL": "https://aiinarabic.com/glossary/expectation-maximization-em-clustering-using-gaussian-mixture-models-gmm/"
+            "english": "Expectation-Maximization (EM) Clustering using Gaussian Mixture Models (GMM)",
+            "arabic": "خوارزميّة التجميع بتعظيم القيمة المتوقّعة باستخدام نموذج غاوس المختلط",
+            "termURL": "https://aiinarabic.com/glossary/expectation-maximization-em-clustering-using-gaussian-mixture-models-gmm/"
         },
         {
-            "English": "Expert System",
-            "Arabic": "النّظامُ الخبير",
-            "URL": "https://aiinarabic.com/glossary/expert-system/"
+            "english": "Expert System",
+            "arabic": "النّظامُ الخبير",
+            "termURL": "https://aiinarabic.com/glossary/expert-system/"
         },
         {
-            "English": "Experta",
-            "Arabic": "مَكتبةُ اكسبيرتا",
-            "URL": "https://aiinarabic.com/glossary/experta/"
+            "english": "Experta",
+            "arabic": "مَكتبةُ اكسبيرتا",
+            "termURL": "https://aiinarabic.com/glossary/experta/"
         },
         {
-            "English": "Explanation Module",
-            "Arabic": "وحدةُ الشّرحِ والتّفسير",
-            "URL": "https://aiinarabic.com/glossary/explanation-module/"
+            "english": "Explanation Module",
+            "arabic": "وحدةُ الشّرحِ والتّفسير",
+            "termURL": "https://aiinarabic.com/glossary/explanation-module/"
         },
         {
-            "English": "Extended Efficient Layer Aggregation Network (E-ELAN)",
-            "Arabic": "شبكة تجميع طبقات فعّالة ممتدّة",
-            "URL": "https://aiinarabic.com/glossary/extended-efficient-layer-aggregation-network-e-elan/"
+            "english": "Extended Efficient Layer Aggregation Network (E-ELAN)",
+            "arabic": "شبكة تجميع طبقات فعّالة ممتدّة",
+            "termURL": "https://aiinarabic.com/glossary/extended-efficient-layer-aggregation-network-e-elan/"
         },
         {
-            "English": "Face Landmarks Estimation",
-            "Arabic": "تقدير معالم الوجه",
-            "URL": "https://aiinarabic.com/glossary/face-landmarks-estimation/"
+            "english": "Face Landmarks Estimation",
+            "arabic": "تقدير معالم الوجه",
+            "termURL": "https://aiinarabic.com/glossary/face-landmarks-estimation/"
         },
         {
-            "English": "Facts",
-            "Arabic": "الحقائق",
-            "URL": "https://aiinarabic.com/glossary/facts/"
+            "english": "Facts",
+            "arabic": "الحقائق",
+            "termURL": "https://aiinarabic.com/glossary/facts/"
         },
         {
-            "English": "False Negative",
-            "Arabic": "قيمة التنبُّؤ السلبي الخاطئ",
-            "URL": "https://aiinarabic.com/glossary/false-negative/"
+            "english": "False Negative",
+            "arabic": "قيمة التنبُّؤ السلبي الخاطئ",
+            "termURL": "https://aiinarabic.com/glossary/false-negative/"
         },
         {
-            "English": "False Positive",
-            "Arabic": "قيمة التنبُّؤ الإيجابي الخاطئ",
-            "URL": "https://aiinarabic.com/glossary/false-positive/"
+            "english": "False Positive",
+            "arabic": "قيمة التنبُّؤ الإيجابي الخاطئ",
+            "termURL": "https://aiinarabic.com/glossary/false-positive/"
         },
         {
-            "English": "Fast Region-Based Convolutional Neural Network (Fast R-CNN)",
-            "Arabic": "شَبَكَةُ الطَّيِّ العُصبُونِيَّة المناطِقيَّةِ السَّريعةِ",
-            "URL": "https://aiinarabic.com/glossary/fast-region-based-convolutional-neural-network-fast-r-cnn/"
+            "english": "Fast Region-Based Convolutional Neural Network (Fast R-CNN)",
+            "arabic": "شَبَكَةُ الطَّيِّ العُصبُونِيَّة المناطِقيَّةِ السَّريعةِ",
+            "termURL": "https://aiinarabic.com/glossary/fast-region-based-convolutional-neural-network-fast-r-cnn/"
         },
         {
-            "English": "Faster Region-Based Convolutional Neural Network (Faster R-CNN)",
-            "Arabic": "شَبَكَةُ الطَّيِّ العُصبُونِيَّة المناطِقيَّةِ الأسرع",
-            "URL": "https://aiinarabic.com/glossary/faster-region-based-convolutional-neural-network-faster-r-cnn/"
+            "english": "Faster Region-Based Convolutional Neural Network (Faster R-CNN)",
+            "arabic": "شَبَكَةُ الطَّيِّ العُصبُونِيَّة المناطِقيَّةِ الأسرع",
+            "termURL": "https://aiinarabic.com/glossary/faster-region-based-convolutional-neural-network-faster-r-cnn/"
         },
         {
-            "English": "Feature Engineering",
-            "Arabic": "هندسة المزايا",
-            "URL": "https://aiinarabic.com/glossary/feature-engineering/"
+            "english": "Feature Engineering",
+            "arabic": "هندسة المزايا",
+            "termURL": "https://aiinarabic.com/glossary/feature-engineering/"
         },
         {
-            "English": "Feature Map",
-            "Arabic": "خريطةُ المزايا",
-            "URL": "https://aiinarabic.com/glossary/feature-map/"
+            "english": "Feature Map",
+            "arabic": "خريطةُ المزايا",
+            "termURL": "https://aiinarabic.com/glossary/feature-map/"
         },
         {
-            "English": "Feature Vector",
-            "Arabic": "شُعاع المَزايا",
-            "URL": "https://aiinarabic.com/glossary/feature-vector/"
+            "english": "Feature Vector",
+            "arabic": "شُعاع المَزايا",
+            "termURL": "https://aiinarabic.com/glossary/feature-vector/"
         },
         {
-            "English": "Feedforward Network",
-            "Arabic": "شبكة تغذية أماميّة",
-            "URL": "https://aiinarabic.com/glossary/feedforward-network-2/"
+            "english": "Feedforward Network",
+            "arabic": "شبكة تغذية أماميّة",
+            "termURL": "https://aiinarabic.com/glossary/feedforward-network-2/"
         },
         {
-            "English": "Few-Shot Prompting",
-            "Arabic": "التّلقين بالقليل من الأمثلة",
-            "URL": "https://aiinarabic.com/glossary/few-shot-prompting/"
+            "english": "Few-Shot Prompting",
+            "arabic": "التّلقين بالقليل من الأمثلة",
+            "termURL": "https://aiinarabic.com/glossary/few-shot-prompting/"
         },
         {
-            "English": "Filter",
-            "Arabic": "مُرشِّحُ الطَّيِّ  هو التَّابعُ أو المَصفُوفَةُ التي تُستَخدمُ في عمليَّةِ الطَّيِّ مع مَصفُوفةِ الدَّخل. (تجبُ الإشارةُ هنا إلى أن مُرشِّحَ الطَّيِّ مُختلفٌ عن غيرٍه من المُرشِّحات مثلَ مُرشِّحِ كالمان Kalman Filter.وقد تُرجِمَ هنا بمُرشِّحٍ بدلًا من مَصفوفَةِ الطَّيِّ؛ لأن المَصفوفَةَ هي مفهومٌ تجريدِيٌّ لا يدُلُّ على وُجوبِ تنفيذِ عمليَّةِ الطَّيِّ الَّتي يقومُ بها المُرشِّح).",
-            "URL": "https://aiinarabic.com/glossary/filter/"
+            "english": "Filter",
+            "arabic": "مُرشِّحُ الطَّيِّ  هو التَّابعُ أو المَصفُوفَةُ التي تُستَخدمُ في عمليَّةِ الطَّيِّ مع مَصفُوفةِ الدَّخل. (تجبُ الإشارةُ هنا إلى أن مُرشِّحَ الطَّيِّ مُختلفٌ عن غيرٍه من المُرشِّحات مثلَ مُرشِّحِ كالمان Kalman Filter.وقد تُرجِمَ هنا بمُرشِّحٍ بدلًا من مَصفوفَةِ الطَّيِّ؛ لأن المَصفوفَةَ هي مفهومٌ تجريدِيٌّ لا يدُلُّ على وُجوبِ تنفيذِ عمليَّةِ الطَّيِّ الَّتي يقومُ بها المُرشِّح).",
+            "termURL": "https://aiinarabic.com/glossary/filter/"
         },
         {
-            "English": "Filter Banks",
-            "Arabic": "مصفُوفَةُ المُرشِّحاتِ",
-            "URL": "https://aiinarabic.com/glossary/filter-banks/"
+            "english": "Filter Banks",
+            "arabic": "مصفُوفَةُ المُرشِّحاتِ",
+            "termURL": "https://aiinarabic.com/glossary/filter-banks/"
         },
         {
-            "English": "Fine-tuning",
-            "Arabic": "ضَبطٌ دقيقٌ",
-            "URL": "https://aiinarabic.com/glossary/fine-tuning/"
+            "english": "Fine-tuning",
+            "arabic": "ضَبطٌ دقيقٌ",
+            "termURL": "https://aiinarabic.com/glossary/fine-tuning/"
         },
         {
-            "English": "Fisherface",
-            "Arabic": "وجهُ فيشر",
-            "URL": "https://aiinarabic.com/glossary/fisherface/"
+            "english": "Fisherface",
+            "arabic": "وجهُ فيشر",
+            "termURL": "https://aiinarabic.com/glossary/fisherface/"
         },
         {
-            "English": "Flat Shaded",
-            "Arabic": "مظلّلة بشكل مسطّح",
-            "URL": "https://aiinarabic.com/glossary/flat-shaded/"
+            "english": "Flat Shaded",
+            "arabic": "مظلّلة بشكل مسطّح",
+            "termURL": "https://aiinarabic.com/glossary/flat-shaded/"
         },
         {
-            "English": "Flatten",
-            "Arabic": "تسطيحٌ",
-            "URL": "https://aiinarabic.com/glossary/flatten/"
+            "english": "Flatten",
+            "arabic": "تسطيحٌ",
+            "termURL": "https://aiinarabic.com/glossary/flatten/"
         },
         {
-            "English": "Forecasting",
-            "Arabic": "التنبُّؤ",
-            "URL": "https://aiinarabic.com/glossary/forecasting/"
+            "english": "Forecasting",
+            "arabic": "التنبُّؤ",
+            "termURL": "https://aiinarabic.com/glossary/forecasting/"
         },
         {
-            "English": "Foreground Segmentation",
-            "Arabic": "تجزئة المقدمة",
-            "URL": "https://aiinarabic.com/glossary/foreground-segmentation/"
+            "english": "Foreground Segmentation",
+            "arabic": "تجزئة المقدمة",
+            "termURL": "https://aiinarabic.com/glossary/foreground-segmentation/"
         },
         {
-            "English": "Forward Chaining",
-            "Arabic": "التَّسلسلُ الأماميّ",
-            "URL": "https://aiinarabic.com/glossary/forward-chaining/"
+            "english": "Forward Chaining",
+            "arabic": "التَّسلسلُ الأماميّ",
+            "termURL": "https://aiinarabic.com/glossary/forward-chaining/"
         },
         {
-            "English": "Framework",
-            "Arabic": "إطارُ عملٍ",
-            "URL": "https://aiinarabic.com/glossary/framework/"
+            "english": "Framework",
+            "arabic": "إطارُ عملٍ",
+            "termURL": "https://aiinarabic.com/glossary/framework/"
         },
         {
-            "English": "Fully Connected Layer",
-            "Arabic": "الطَّبَقةُ ذاتُ الاتصالِ الكاملِ",
-            "URL": "https://aiinarabic.com/glossary/fully-connected-layer/"
+            "english": "Fully Connected Layer",
+            "arabic": "الطَّبَقةُ ذاتُ الاتصالِ الكاملِ",
+            "termURL": "https://aiinarabic.com/glossary/fully-connected-layer/"
         },
         {
-            "English": "Fully Convolutional Adaptation Network - FCAN",
-            "Arabic": "شَبَكَاتُ المُلاءمة كاملةُ الطَّيِّالأفضل تعبيريَّا: شَبَكَاتُ المُلاءمةِ ذاتُ الطَّيِّ الكامل",
-            "URL": "https://aiinarabic.com/glossary/fully-convolutional-adaptation-network-fcan/"
+            "english": "Fully Convolutional Adaptation Network - FCAN",
+            "arabic": "شَبَكَاتُ المُلاءمة كاملةُ الطَّيِّالأفضل تعبيريَّا: شَبَكَاتُ المُلاءمةِ ذاتُ الطَّيِّ الكامل",
+            "termURL": "https://aiinarabic.com/glossary/fully-convolutional-adaptation-network-fcan/"
         },
         {
-            "English": "Gated Recurrent Unit Network GRU",
-            "Arabic": "الشَّبَكَةُ العُصبونِيَّة ذاتُ البوَّاباتِ",
-            "URL": "https://aiinarabic.com/glossary/gated-recurrent-unit-network-gru/"
+            "english": "Gated Recurrent Unit Network GRU",
+            "arabic": "الشَّبَكَةُ العُصبونِيَّة ذاتُ البوَّاباتِ",
+            "termURL": "https://aiinarabic.com/glossary/gated-recurrent-unit-network-gru/"
         },
         {
-            "English": "Generalization",
-            "Arabic": "التّعميم",
-            "URL": "https://aiinarabic.com/glossary/generalization/"
+            "english": "Generalization",
+            "arabic": "التّعميم",
+            "termURL": "https://aiinarabic.com/glossary/generalization/"
         },
         {
-            "English": "Generative Pre-trained Transformer",
-            "Arabic": "المحوّل التّوليدي المدرّب مسبقًا",
-            "URL": "https://aiinarabic.com/glossary/generative-pre-trained-transformer/"
+            "english": "Generative Pre-trained Transformer",
+            "arabic": "المحوّل التّوليدي المدرّب مسبقًا",
+            "termURL": "https://aiinarabic.com/glossary/generative-pre-trained-transformer/"
         },
         {
-            "English": "Geometric Transformations",
-            "Arabic": "التّحويلات الهندسيّة",
-            "URL": "https://aiinarabic.com/glossary/geometric-transformations/"
+            "english": "Geometric Transformations",
+            "arabic": "التّحويلات الهندسيّة",
+            "termURL": "https://aiinarabic.com/glossary/geometric-transformations/"
         },
         {
-            "English": "GoogLeNet",
-            "Arabic": "شَبَكَةُ جوجل انسبشن",
-            "URL": "https://aiinarabic.com/glossary/googlenet/"
+            "english": "GoogLeNet",
+            "arabic": "شَبَكَةُ جوجل انسبشن",
+            "termURL": "https://aiinarabic.com/glossary/googlenet/"
         },
         {
-            "English": "Google's MobileNet",
-            "Arabic": "شبكة موبايل-نت من غوغل",
-            "URL": "https://aiinarabic.com/glossary/googles-mobilenet/"
+            "english": "Google's MobileNet",
+            "arabic": "شبكة موبايل-نت من غوغل",
+            "termURL": "https://aiinarabic.com/glossary/googles-mobilenet/"
         },
         {
-            "English": "GPT",
-            "Arabic": "مُحوّل جي بي تي",
-            "URL": "https://aiinarabic.com/glossary/gpt-2/"
+            "english": "GPT",
+            "arabic": "مُحوّل جي بي تي",
+            "termURL": "https://aiinarabic.com/glossary/gpt-2/"
         },
         {
-            "English": "GrabCut Algorithm",
-            "Arabic": "خوارزمية غرابكات",
-            "URL": "https://aiinarabic.com/glossary/grabcut-algorithm/"
+            "english": "GrabCut Algorithm",
+            "arabic": "خوارزمية غرابكات",
+            "termURL": "https://aiinarabic.com/glossary/grabcut-algorithm/"
         },
         {
-            "English": "Grid Search",
-            "Arabic": "بحث شَبَكي",
-            "URL": "https://aiinarabic.com/glossary/grid-search/"
+            "english": "Grid Search",
+            "arabic": "بحث شَبَكي",
+            "termURL": "https://aiinarabic.com/glossary/grid-search/"
         },
         {
-            "English": "Ground-Truth",
-            "Arabic": "الحقائِقُ المَرجِعيَّةُ",
-            "URL": "https://aiinarabic.com/glossary/ground-truth/"
+            "english": "Ground-Truth",
+            "arabic": "الحقائِقُ المَرجِعيَّةُ",
+            "termURL": "https://aiinarabic.com/glossary/ground-truth/"
         },
         {
-            "English": "Grounding",
-            "Arabic": "تحديد موقع مكوّنات التّوصيف في الصّورة",
-            "URL": "https://aiinarabic.com/glossary/grounding/"
+            "english": "Grounding",
+            "arabic": "تحديد موقع مكوّنات التّوصيف في الصّورة",
+            "termURL": "https://aiinarabic.com/glossary/grounding/"
         },
         {
-            "English": "Hard Margin",
-            "Arabic": "الهامش الصلب",
-            "URL": "https://aiinarabic.com/glossary/hard-margin/"
+            "english": "Hard Margin",
+            "arabic": "الهامش الصلب",
+            "termURL": "https://aiinarabic.com/glossary/hard-margin/"
         },
         {
-            "English": "Heuristic Knowledge",
-            "Arabic": "المَعرٍفَةُ الحَدسيّة",
-            "URL": "https://aiinarabic.com/glossary/heuristic-knowledge/"
+            "english": "Heuristic Knowledge",
+            "arabic": "المَعرٍفَةُ الحَدسيّة",
+            "termURL": "https://aiinarabic.com/glossary/heuristic-knowledge/"
         },
         {
-            "English": "Hidden State",
-            "Arabic": "الحالة المخفيّة",
-            "URL": "https://aiinarabic.com/glossary/hidden-state/"
+            "english": "Hidden State",
+            "arabic": "الحالة المخفيّة",
+            "termURL": "https://aiinarabic.com/glossary/hidden-state/"
         },
         {
-            "English": "Hierarchical Attention Network",
-            "Arabic": "شَبَكَةُ الاهتِمامِ الهَرميِّ",
-            "URL": "https://aiinarabic.com/glossary/hierarchical-attention-network/"
+            "english": "Hierarchical Attention Network",
+            "arabic": "شَبَكَةُ الاهتِمامِ الهَرميِّ",
+            "termURL": "https://aiinarabic.com/glossary/hierarchical-attention-network/"
         },
         {
-            "English": "Hierarchical Deep Learning",
-            "Arabic": "التّعلّم العميق الهرميّ",
-            "URL": "https://aiinarabic.com/glossary/hierarchical-deep-learning/"
+            "english": "Hierarchical Deep Learning",
+            "arabic": "التّعلّم العميق الهرميّ",
+            "termURL": "https://aiinarabic.com/glossary/hierarchical-deep-learning/"
         },
         {
-            "English": "Histogram Of Oriented Gradient",
-            "Arabic": "مخطّط/هستوغرام التدرّج الموجّه",
-            "URL": "https://aiinarabic.com/glossary/histogram-of-oriented-gradient/"
+            "english": "Histogram Of Oriented Gradient",
+            "arabic": "مخطّط/هستوغرام التدرّج الموجّه",
+            "termURL": "https://aiinarabic.com/glossary/histogram-of-oriented-gradient/"
         },
         {
-            "English": "Hyper-Parameter Setting",
-            "Arabic": "ضَبطُ المُعامِلاتِ الأساسيَّةِتُعرَّفُ بأنها المُعامِلاتُ التي تُوضَعُ قِيَمُها قبلَ بدايةِ التَّعَلُّمِ، وهي على عكسِ \"معامِلات الموديل\" model parameter التي تتغيَّرُ أثناءَ عملِيَّةِ التَّعَلُّمِ.",
-            "URL": "https://aiinarabic.com/glossary/hyper-parameter-setting/"
+            "english": "Hyper-Parameter Setting",
+            "arabic": "ضَبطُ المُعامِلاتِ الأساسيَّةِتُعرَّفُ بأنها المُعامِلاتُ التي تُوضَعُ قِيَمُها قبلَ بدايةِ التَّعَلُّمِ، وهي على عكسِ \"معامِلات الموديل\" model parameter التي تتغيَّرُ أثناءَ عملِيَّةِ التَّعَلُّمِ.",
+            "termURL": "https://aiinarabic.com/glossary/hyper-parameter-setting/"
         },
         {
-            "English": "Hyper-Parameter Tuning",
-            "Arabic": "تَعييرُ المُعامِلاتِ الأساسِيَّةِ",
-            "URL": "https://aiinarabic.com/glossary/hyper-parameter-tuning/"
+            "english": "Hyper-Parameter Tuning",
+            "arabic": "تَعييرُ المُعامِلاتِ الأساسِيَّةِ",
+            "termURL": "https://aiinarabic.com/glossary/hyper-parameter-tuning/"
         },
         {
-            "English": "Hyper-Parameters",
-            "Arabic": "المُعامِلاتِ الأساسيَّةِ",
-            "URL": "https://aiinarabic.com/glossary/hyper-parameters/"
+            "english": "Hyper-Parameters",
+            "arabic": "المُعامِلاتِ الأساسيَّةِ",
+            "termURL": "https://aiinarabic.com/glossary/hyper-parameters/"
         },
         {
-            "English": "Hyperlane",
-            "Arabic": "المستوي الفائق",
-            "URL": "https://aiinarabic.com/glossary/hyperlane/"
+            "english": "Hyperlane",
+            "arabic": "المستوي الفائق",
+            "termURL": "https://aiinarabic.com/glossary/hyperlane/"
         },
         {
-            "English": "Identity Function",
-            "Arabic": "التابع الواحدي",
-            "URL": "https://aiinarabic.com/glossary/identity-function/"
+            "english": "Identity Function",
+            "arabic": "التابع الواحدي",
+            "termURL": "https://aiinarabic.com/glossary/identity-function/"
         },
         {
-            "English": "Image Annotation",
-            "Arabic": "تنصيص الصّور",
-            "URL": "https://aiinarabic.com/glossary/image-annotation/"
+            "english": "Image Annotation",
+            "arabic": "تنصيص الصّور",
+            "termURL": "https://aiinarabic.com/glossary/image-annotation/"
         },
         {
-            "English": "Image Captioning",
-            "Arabic": "توصيف الصّورة",
-            "URL": "https://aiinarabic.com/glossary/image-captioning/"
+            "english": "Image Captioning",
+            "arabic": "توصيف الصّورة",
+            "termURL": "https://aiinarabic.com/glossary/image-captioning/"
         },
         {
-            "English": "Image Recognition",
-            "Arabic": "التّعرُّف على الصّور",
-            "URL": "https://aiinarabic.com/glossary/image-recognition/"
+            "english": "Image Recognition",
+            "arabic": "التّعرُّف على الصّور",
+            "termURL": "https://aiinarabic.com/glossary/image-recognition/"
         },
         {
-            "English": "Image Segmentation",
-            "Arabic": "تجزئة الصّورة",
-            "URL": "https://aiinarabic.com/glossary/image-segmentation/"
+            "english": "Image Segmentation",
+            "arabic": "تجزئة الصّورة",
+            "termURL": "https://aiinarabic.com/glossary/image-segmentation/"
         },
         {
-            "English": "Image Segmentation based on Clustering",
-            "Arabic": "خوارزمية التجزئة المعتمدة على التجمّعات",
-            "URL": "https://aiinarabic.com/glossary/image-segmentation-based-on-clustering/"
+            "english": "Image Segmentation based on Clustering",
+            "arabic": "خوارزمية التجزئة المعتمدة على التجمّعات",
+            "termURL": "https://aiinarabic.com/glossary/image-segmentation-based-on-clustering/"
         },
         {
-            "English": "IMDB",
-            "Arabic": "مجموعة بيانات مراجعات الأفلام",
-            "URL": "https://aiinarabic.com/glossary/imdb/"
+            "english": "IMDB",
+            "arabic": "مجموعة بيانات مراجعات الأفلام",
+            "termURL": "https://aiinarabic.com/glossary/imdb/"
         },
         {
-            "English": "Imitation Learning",
-            "Arabic": "التَّعَلُّمُ بالمُحاكاةِ",
-            "URL": "https://aiinarabic.com/glossary/imitation-learning/"
+            "english": "Imitation Learning",
+            "arabic": "التَّعَلُّمُ بالمُحاكاةِ",
+            "termURL": "https://aiinarabic.com/glossary/imitation-learning/"
         },
         {
-            "English": "Inception Network",
-            "Arabic": "شَبَكَةُ جوجل انسبشن",
-            "URL": "https://aiinarabic.com/glossary/inception-network/"
+            "english": "Inception Network",
+            "arabic": "شَبَكَةُ جوجل انسبشن",
+            "termURL": "https://aiinarabic.com/glossary/inception-network/"
         },
         {
-            "English": "Inference Engine",
-            "Arabic": "مُحرّك الاستدلال",
-            "URL": "https://aiinarabic.com/glossary/inference-engine/"
+            "english": "Inference Engine",
+            "arabic": "مُحرّك الاستدلال",
+            "termURL": "https://aiinarabic.com/glossary/inference-engine/"
         },
         {
-            "English": "Information Retrieval (IR)",
-            "Arabic": "استرجاع المعلومات",
-            "URL": "https://aiinarabic.com/glossary/information-retrieval-ir/"
+            "english": "Information Retrieval (IR)",
+            "arabic": "استرجاع المعلومات",
+            "termURL": "https://aiinarabic.com/glossary/information-retrieval-ir/"
         },
         {
-            "English": "Inliers",
-            "Arabic": "القيم الداخليّة",
-            "URL": "https://aiinarabic.com/glossary/inliers/"
+            "english": "Inliers",
+            "arabic": "القيم الداخليّة",
+            "termURL": "https://aiinarabic.com/glossary/inliers/"
         },
         {
-            "English": "Instance Segmentation",
-            "Arabic": "تجزئة المثيل",
-            "URL": "https://aiinarabic.com/glossary/instance-segmentation/"
+            "english": "Instance Segmentation",
+            "arabic": "تجزئة المثيل",
+            "termURL": "https://aiinarabic.com/glossary/instance-segmentation/"
         },
         {
-            "English": "IRIS Dataset",
-            "Arabic": "آيريس (قاعدة بيانات لتصنيف شكل ثلاثة أنواع من الزهور)",
-            "URL": "https://aiinarabic.com/glossary/iris-dataset/"
+            "english": "IRIS Dataset",
+            "arabic": "آيريس (قاعدة بيانات لتصنيف شكل ثلاثة أنواع من الزهور)",
+            "termURL": "https://aiinarabic.com/glossary/iris-dataset/"
         },
         {
-            "English": "Iterative Algorithms",
-            "Arabic": "الخوارزميّات التّكراريّة",
-            "URL": "https://aiinarabic.com/glossary/iterative-algorithm/"
+            "english": "Iterative Algorithms",
+            "arabic": "الخوارزميّات التّكراريّة",
+            "termURL": "https://aiinarabic.com/glossary/iterative-algorithm/"
         },
         {
-            "English": "Jupyter Notebook",
-            "Arabic": "ورقةُ جوبيتر",
-            "URL": "https://aiinarabic.com/glossary/jupyter-notebook/"
+            "english": "Jupyter Notebook",
+            "arabic": "ورقةُ جوبيتر",
+            "termURL": "https://aiinarabic.com/glossary/jupyter-notebook/"
         },
         {
-            "English": "K-Distance",
-            "Arabic": "المسافة-k",
-            "URL": "https://aiinarabic.com/glossary/k-distance/"
+            "english": "K-Distance",
+            "arabic": "المسافة-k",
+            "termURL": "https://aiinarabic.com/glossary/k-distance/"
         },
         {
-            "English": "K-Means Clustering",
-            "Arabic": "خوارزميّة التجميع بالمتوسّطات",
-            "URL": "https://aiinarabic.com/glossary/k-means-clustering/"
+            "english": "K-Means Clustering",
+            "arabic": "خوارزميّة التجميع بالمتوسّطات",
+            "termURL": "https://aiinarabic.com/glossary/k-means-clustering/"
         },
         {
-            "English": "Karpathy Splits",
-            "Arabic": "تقسيمات كارباثي",
-            "URL": "https://aiinarabic.com/glossary/karpathy-splits/"
+            "english": "Karpathy Splits",
+            "arabic": "تقسيمات كارباثي",
+            "termURL": "https://aiinarabic.com/glossary/karpathy-splits/"
         },
         {
-            "English": "Keras",
-            "Arabic": "كيراس",
-            "URL": "https://aiinarabic.com/glossary/keras/"
+            "english": "Keras",
+            "arabic": "كيراس",
+            "termURL": "https://aiinarabic.com/glossary/keras/"
         },
         {
-            "English": "Kernel",
-            "Arabic": "مصفُوفَةُ الطَّيِّ  هي المَصفُوفَةُ التي تُستَخدَمُ في عمليَّةِ الطَّيِّ.",
-            "URL": "https://aiinarabic.com/glossary/kernel/"
+            "english": "Kernel",
+            "arabic": "مصفُوفَةُ الطَّيِّ  هي المَصفُوفَةُ التي تُستَخدَمُ في عمليَّةِ الطَّيِّ.",
+            "termURL": "https://aiinarabic.com/glossary/kernel/"
         },
         {
-            "English": "Kernel Density Plot",
-            "Arabic": "مخطّط الكثافة",
-            "URL": "https://aiinarabic.com/glossary/kernel-density-plot/"
+            "english": "Kernel Density Plot",
+            "arabic": "مخطّط الكثافة",
+            "termURL": "https://aiinarabic.com/glossary/kernel-density-plot/"
         },
         {
-            "English": "KNN Algorithm",
-            "Arabic": "خوارزمية الجوار الأقرب",
-            "URL": "https://aiinarabic.com/glossary/knn-algorithm/"
+            "english": "KNN Algorithm",
+            "arabic": "خوارزمية الجوار الأقرب",
+            "termURL": "https://aiinarabic.com/glossary/knn-algorithm/"
         },
         {
-            "English": "Knowledge Acquisition",
-            "Arabic": "اكتسابُ المَعرفَة",
-            "URL": "https://aiinarabic.com/glossary/knowledge-acquisition/"
+            "english": "Knowledge Acquisition",
+            "arabic": "اكتسابُ المَعرفَة",
+            "termURL": "https://aiinarabic.com/glossary/knowledge-acquisition/"
         },
         {
-            "English": "Knowledge Base",
-            "Arabic": "قاعدةُ المَعرِفَة",
-            "URL": "https://aiinarabic.com/glossary/knowledge-base/"
+            "english": "Knowledge Base",
+            "arabic": "قاعدةُ المَعرِفَة",
+            "termURL": "https://aiinarabic.com/glossary/knowledge-base/"
         },
         {
-            "English": "Knowledge Engineer",
-            "Arabic": "مُهندسٌ المَعرفة",
-            "URL": "https://aiinarabic.com/glossary/knowledge-engineer/"
+            "english": "Knowledge Engineer",
+            "arabic": "مُهندسٌ المَعرفة",
+            "termURL": "https://aiinarabic.com/glossary/knowledge-engineer/"
         },
         {
-            "English": "Knowledge Representation",
-            "Arabic": "تَمثيلٌ المَعرِفَة",
-            "URL": "https://aiinarabic.com/glossary/knowledge-representation/"
+            "english": "Knowledge Representation",
+            "arabic": "تَمثيلٌ المَعرِفَة",
+            "termURL": "https://aiinarabic.com/glossary/knowledge-representation/"
         },
         {
-            "English": "Label",
-            "Arabic": "عُنوانٌ",
-            "URL": "https://aiinarabic.com/glossary/label/"
+            "english": "Label",
+            "arabic": "عُنوانٌ",
+            "termURL": "https://aiinarabic.com/glossary/label/"
         },
         {
-            "English": "Lag Features",
-            "Arabic": "مزايا التأخير",
-            "URL": "https://aiinarabic.com/glossary/lag-features/"
+            "english": "Lag Features",
+            "arabic": "مزايا التأخير",
+            "termURL": "https://aiinarabic.com/glossary/lag-features/"
         },
         {
-            "English": "Large Language Models (LLMs)",
-            "Arabic": "نماذج اللّغة الكبيرة",
-            "URL": "https://aiinarabic.com/glossary/large-language-models-llms/"
+            "english": "Large Language Models (LLMs)",
+            "arabic": "نماذج اللّغة الكبيرة",
+            "termURL": "https://aiinarabic.com/glossary/large-language-models-llms/"
         },
         {
-            "English": "Lasso Regression",
-            "Arabic": "انحدار لاسو",
-            "URL": "https://aiinarabic.com/glossary/lasso-regression/"
+            "english": "Lasso Regression",
+            "arabic": "انحدار لاسو",
+            "termURL": "https://aiinarabic.com/glossary/lasso-regression/"
         },
         {
-            "English": "Lead Head",
-            "Arabic": "الرّأس القائد",
-            "URL": "https://aiinarabic.com/glossary/lead-head/"
+            "english": "Lead Head",
+            "arabic": "الرّأس القائد",
+            "termURL": "https://aiinarabic.com/glossary/lead-head/"
         },
         {
-            "English": "Learning Rate",
-            "Arabic": "معدل التعلُّم",
-            "URL": "https://aiinarabic.com/glossary/learning-rate/"
+            "english": "Learning Rate",
+            "arabic": "معدل التعلُّم",
+            "termURL": "https://aiinarabic.com/glossary/learning-rate/"
         },
         {
-            "English": "Lemmatization",
-            "Arabic": "الحُصولُ على أصلِ الكلِمةِ",
-            "URL": "https://aiinarabic.com/glossary/lemmatization/"
+            "english": "Lemmatization",
+            "arabic": "الحُصولُ على أصلِ الكلِمةِ",
+            "termURL": "https://aiinarabic.com/glossary/lemmatization/"
         },
         {
-            "English": "Linear regression",
-            "Arabic": "الانحدار الخطّي",
-            "URL": "https://aiinarabic.com/glossary/linear-regression/"
+            "english": "Linear regression",
+            "arabic": "الانحدار الخطّي",
+            "termURL": "https://aiinarabic.com/glossary/linear-regression/"
         },
         {
-            "English": "Lineplot",
-            "Arabic": "المخطّط الخطّي",
-            "URL": "https://aiinarabic.com/glossary/lineplot/"
+            "english": "Lineplot",
+            "arabic": "المخطّط الخطّي",
+            "termURL": "https://aiinarabic.com/glossary/lineplot/"
         },
         {
-            "English": "Local Optima",
-            "Arabic": "الحل الأمثل المحلي",
-            "URL": "https://aiinarabic.com/glossary/local-optima/"
+            "english": "Local Optima",
+            "arabic": "الحل الأمثل المحلي",
+            "termURL": "https://aiinarabic.com/glossary/local-optima/"
         },
         {
-            "English": "Local Outlier Factor",
-            "Arabic": "خوارزميّة اكتشاف القيم المُتطرّفة المحلية",
-            "URL": "https://aiinarabic.com/glossary/local-outlier-factor/"
+            "english": "Local Outlier Factor",
+            "arabic": "خوارزميّة اكتشاف القيم المُتطرّفة المحلية",
+            "termURL": "https://aiinarabic.com/glossary/local-outlier-factor/"
         },
         {
-            "English": "Logistic Regression",
-            "Arabic": "الانحدار اللوجستي",
-            "URL": "https://aiinarabic.com/glossary/logistic-regression/"
+            "english": "Logistic Regression",
+            "arabic": "الانحدار اللوجستي",
+            "termURL": "https://aiinarabic.com/glossary/logistic-regression/"
         },
         {
-            "English": "Long Short Term Memory LSTM",
-            "Arabic": "الشَّبَكَةُ العُصبُونِيَّةُ ذاتُ الذَّاكِرةِ الطَّويلةِ قصيرةِ المَدى",
-            "URL": "https://aiinarabic.com/glossary/long-shot-term-memory-lstm/"
+            "english": "Long Short Term Memory LSTM",
+            "arabic": "الشَّبَكَةُ العُصبُونِيَّةُ ذاتُ الذَّاكِرةِ الطَّويلةِ قصيرةِ المَدى",
+            "termURL": "https://aiinarabic.com/glossary/long-shot-term-memory-lstm/"
         },
         {
-            "English": "Loss Function",
-            "Arabic": "تابعُ الخسارةِ",
-            "URL": "https://aiinarabic.com/glossary/loss-function/"
+            "english": "Loss Function",
+            "arabic": "تابعُ الخسارةِ",
+            "termURL": "https://aiinarabic.com/glossary/loss-function/"
         },
         {
-            "English": "Machine Translation",
-            "Arabic": "الترجمة الآليّة",
-            "URL": "https://aiinarabic.com/glossary/machine-translation/"
+            "english": "Machine Translation",
+            "arabic": "الترجمة الآليّة",
+            "termURL": "https://aiinarabic.com/glossary/machine-translation/"
         },
         {
-            "English": "MagicaVoxel",
-            "Arabic": "فوكسل ماجيكا",
-            "URL": "https://aiinarabic.com/glossary/magicavoxel/"
+            "english": "MagicaVoxel",
+            "arabic": "فوكسل ماجيكا",
+            "termURL": "https://aiinarabic.com/glossary/magicavoxel/"
         },
         {
-            "English": "Markov Decision Process",
-            "Arabic": "عمليَّةُ ماركوف لاتَّخاذِ القرارِ",
-            "URL": "https://aiinarabic.com/glossary/markov-decision-process/"
+            "english": "Markov Decision Process",
+            "arabic": "عمليَّةُ ماركوف لاتَّخاذِ القرارِ",
+            "termURL": "https://aiinarabic.com/glossary/markov-decision-process/"
         },
         {
-            "English": "Mask Approximations",
-            "Arabic": "القناع المُقترح",
-            "URL": "https://aiinarabic.com/glossary/mask-approximations/"
+            "english": "Mask Approximations",
+            "arabic": "القناع المُقترح",
+            "termURL": "https://aiinarabic.com/glossary/mask-approximations/"
         },
         {
-            "English": "Mask R-CNN",
-            "Arabic": "شَبَكَةُ الطَّيِّ العُصبُونِيَّةِ المناطِقيَّةِ ذاتُ القناع",
-            "URL": "https://aiinarabic.com/glossary/mask-r-cnn/"
+            "english": "Mask R-CNN",
+            "arabic": "شَبَكَةُ الطَّيِّ العُصبُونِيَّةِ المناطِقيَّةِ ذاتُ القناع",
+            "termURL": "https://aiinarabic.com/glossary/mask-r-cnn/"
         },
         {
-            "English": "Masked Language Model (MLM)",
-            "Arabic": "النّموذج اللّغويّ المُقنّع",
-            "URL": "https://aiinarabic.com/glossary/masked-language-model-mlm/"
+            "english": "Masked Language Model (MLM)",
+            "arabic": "النّموذج اللّغويّ المُقنّع",
+            "termURL": "https://aiinarabic.com/glossary/masked-language-model-mlm/"
         },
         {
-            "English": "Matplotlib",
-            "Arabic": "مكتبةُ الرَّسمِ الرِّياضيِّ في بايثون (ماتبلوت)",
-            "URL": "https://aiinarabic.com/glossary/matplotlib/"
+            "english": "Matplotlib",
+            "arabic": "مكتبةُ الرَّسمِ الرِّياضيِّ في بايثون (ماتبلوت)",
+            "termURL": "https://aiinarabic.com/glossary/matplotlib/"
         },
         {
-            "English": "Matrix Multiplication",
-            "Arabic": "الضرب المصفوفي",
-            "URL": "https://aiinarabic.com/glossary/matrix-multiplication/"
+            "english": "Matrix Multiplication",
+            "arabic": "الضرب المصفوفي",
+            "termURL": "https://aiinarabic.com/glossary/matrix-multiplication/"
         },
         {
-            "English": "Matrix Product",
-            "Arabic": "جداء المصفوفات",
-            "URL": "https://aiinarabic.com/glossary/matrix-product/"
+            "english": "Matrix Product",
+            "arabic": "جداء المصفوفات",
+            "termURL": "https://aiinarabic.com/glossary/matrix-product/"
         },
         {
-            "English": "Max Pooling",
-            "Arabic": "تجمِيعٌ وفقَ القيمةِ الكُبرى",
-            "URL": "https://aiinarabic.com/glossary/max-polling/"
+            "english": "Max Pooling",
+            "arabic": "تجمِيعٌ وفقَ القيمةِ الكُبرى",
+            "termURL": "https://aiinarabic.com/glossary/max-polling/"
         },
         {
-            "English": "Mean-Shift Algorithm",
-            "Arabic": "خوارزميّة التجميع بالمتوسّط المتحوّل",
-            "URL": "https://aiinarabic.com/glossary/mean-shift-algorithm/"
+            "english": "Mean-Shift Algorithm",
+            "arabic": "خوارزميّة التجميع بالمتوسّط المتحوّل",
+            "termURL": "https://aiinarabic.com/glossary/mean-shift-algorithm/"
         },
         {
-            "English": "Meched-Memory Transformers",
-            "Arabic": "محوّلات الذّاكرة المتشابكة",
-            "URL": "https://aiinarabic.com/glossary/meched-memory-transformers/"
+            "english": "Meched-Memory Transformers",
+            "arabic": "محوّلات الذّاكرة المتشابكة",
+            "termURL": "https://aiinarabic.com/glossary/meched-memory-transformers/"
         },
         {
-            "English": "Mini-Batch",
-            "Arabic": "الدُّفعَةُ المُصغَّرةُ",
-            "URL": "https://aiinarabic.com/glossary/mini-batch/"
+            "english": "Mini-Batch",
+            "arabic": "الدُّفعَةُ المُصغَّرةُ",
+            "termURL": "https://aiinarabic.com/glossary/mini-batch/"
         },
         {
-            "English": "Mini-Batch Size",
-            "Arabic": "حجم الدّفعة الأصغري",
-            "URL": "https://aiinarabic.com/glossary/mini-batch-size/"
+            "english": "Mini-Batch Size",
+            "arabic": "حجم الدّفعة الأصغري",
+            "termURL": "https://aiinarabic.com/glossary/mini-batch-size/"
         },
         {
-            "English": "MNIST Dataset",
-            "Arabic": "مجموعة بيانات إم نيست",
-            "URL": "https://aiinarabic.com/glossary/mnist-dataset/"
+            "english": "MNIST Dataset",
+            "arabic": "مجموعة بيانات إم نيست",
+            "termURL": "https://aiinarabic.com/glossary/mnist-dataset/"
         },
         {
-            "English": "MobileNet",
-            "Arabic": "شبكة موبايل-نت",
-            "URL": "https://aiinarabic.com/glossary/mobilenet/"
+            "english": "MobileNet",
+            "arabic": "شبكة موبايل-نت",
+            "termURL": "https://aiinarabic.com/glossary/mobilenet/"
         },
         {
-            "English": "Model Architecture",
-            "Arabic": "بُنيةُ النَّمُوذجِ",
-            "URL": "https://aiinarabic.com/glossary/model-architecture/"
+            "english": "Model Architecture",
+            "arabic": "بُنيةُ النَّمُوذجِ",
+            "termURL": "https://aiinarabic.com/glossary/model-architecture/"
         },
         {
-            "English": "Model-based RL",
-            "Arabic": "التَّعَلُّمُ بالتَّعزيزِ المُستنِدِ إلى نَمُوذجٍ",
-            "URL": "https://aiinarabic.com/glossary/model-based-rl/"
+            "english": "Model-based RL",
+            "arabic": "التَّعَلُّمُ بالتَّعزيزِ المُستنِدِ إلى نَمُوذجٍ",
+            "termURL": "https://aiinarabic.com/glossary/model-based-rl/"
         },
         {
-            "English": "Module",
-            "Arabic": "وحدةٌ",
-            "URL": "https://aiinarabic.com/glossary/module/"
+            "english": "Module",
+            "arabic": "وحدةٌ",
+            "termURL": "https://aiinarabic.com/glossary/module/"
         },
         {
-            "English": "Momentum",
-            "Arabic": "زخم الحركة",
-            "URL": "https://aiinarabic.com/glossary/momentum/"
+            "english": "Momentum",
+            "arabic": "زخم الحركة",
+            "termURL": "https://aiinarabic.com/glossary/momentum/"
         },
         {
-            "English": "MSCOCO",
-            "Arabic": "قاعِدُةُ بياناتِ مايكروسوفت كوكو",
-            "URL": "https://aiinarabic.com/glossary/mscoco/"
+            "english": "MSCOCO",
+            "arabic": "قاعِدُةُ بياناتِ مايكروسوفت كوكو",
+            "termURL": "https://aiinarabic.com/glossary/mscoco/"
         },
         {
-            "English": "Multi-Headed Attention",
-            "Arabic": "الاهتمام مُتعدّد الرؤوس",
-            "URL": "https://aiinarabic.com/glossary/multi-headed-attention/"
+            "english": "Multi-Headed Attention",
+            "arabic": "الاهتمام مُتعدّد الرؤوس",
+            "termURL": "https://aiinarabic.com/glossary/multi-headed-attention/"
         },
         {
-            "English": "Multi-Resolution Search",
-            "Arabic": "البحث مُتعدّد الدّقة",
-            "URL": "https://aiinarabic.com/glossary/multi-resolution-search/"
+            "english": "Multi-Resolution Search",
+            "arabic": "البحث مُتعدّد الدّقة",
+            "termURL": "https://aiinarabic.com/glossary/multi-resolution-search/"
         },
         {
-            "English": "MxNet",
-            "Arabic": "إم إكس نت",
-            "URL": "https://aiinarabic.com/glossary/mxnet/"
+            "english": "MxNet",
+            "arabic": "إم إكس نت",
+            "termURL": "https://aiinarabic.com/glossary/mxnet/"
         },
         {
-            "English": "Named entity recognition (NER)",
-            "Arabic": "التعرف على الأعلام",
-            "URL": "https://aiinarabic.com/glossary/named-entity-recognition-ner/"
+            "english": "Named entity recognition (NER)",
+            "arabic": "التعرف على الأعلام",
+            "termURL": "https://aiinarabic.com/glossary/named-entity-recognition-ner/"
         },
         {
-            "English": "Natural Language Toolkit (NLTK)",
-            "Arabic": "مكتبة صندوق أدوات اللغات الطبيعية",
-            "URL": "https://aiinarabic.com/glossary/natural-language-toolkit-nltk/"
+            "english": "Natural Language Toolkit (NLTK)",
+            "arabic": "مكتبة صندوق أدوات اللغات الطبيعية",
+            "termURL": "https://aiinarabic.com/glossary/natural-language-toolkit-nltk/"
         },
         {
-            "English": "Negative Binomial Regression",
-            "Arabic": "الانحدار السلبي ثنائي الحد",
-            "URL": "https://aiinarabic.com/glossary/negative-binomial-regression/"
+            "english": "Negative Binomial Regression",
+            "arabic": "الانحدار السلبي ثنائي الحد",
+            "termURL": "https://aiinarabic.com/glossary/negative-binomial-regression/"
         },
         {
-            "English": "Negative Skewed",
-            "Arabic": "منحرف بشكل سلبيّ",
-            "URL": "https://aiinarabic.com/glossary/negative-skewed/"
+            "english": "Negative Skewed",
+            "arabic": "منحرف بشكل سلبيّ",
+            "termURL": "https://aiinarabic.com/glossary/negative-skewed/"
         },
         {
-            "English": "Neural Network",
-            "Arabic": "شَبَكَةٌ عُصبُونِيَّةٌ",
-            "URL": "https://aiinarabic.com/glossary/neural-network/"
+            "english": "Neural Network",
+            "arabic": "شَبَكَةٌ عُصبُونِيَّةٌ",
+            "termURL": "https://aiinarabic.com/glossary/neural-network/"
         },
         {
-            "English": "Neural Style Transfer",
-            "Arabic": "نقل النمط العصبوني",
-            "URL": "https://aiinarabic.com/glossary/neural-style-transfer/"
+            "english": "Neural Style Transfer",
+            "arabic": "نقل النمط العصبوني",
+            "termURL": "https://aiinarabic.com/glossary/neural-style-transfer/"
         },
         {
-            "English": "N-gram",
-            "Arabic": "n واحدة تعداد لمصطلح",
-            "URL": "https://aiinarabic.com/glossary/ngram/"
+            "english": "N-gram",
+            "arabic": "n واحدة تعداد لمصطلح",
+            "termURL": "https://aiinarabic.com/glossary/ngram/"
         },
         {
-            "English": "Numpy",
-            "Arabic": "مكتبةُ بايثون العدديَّةُ",
-            "URL": "https://aiinarabic.com/glossary/numpy/"
+            "english": "Numpy",
+            "arabic": "مكتبةُ بايثون العدديَّةُ",
+            "termURL": "https://aiinarabic.com/glossary/numpy/"
         },
         {
-            "English": "Object Detection",
-            "Arabic": "الكشفُ عن الأغراضِ",
-            "URL": "https://aiinarabic.com/glossary/object-detection/"
+            "english": "Object Detection",
+            "arabic": "الكشفُ عن الأغراضِ",
+            "termURL": "https://aiinarabic.com/glossary/object-detection/"
         },
         {
-            "English": "One Hot Encoding",
-            "Arabic": "ترميز ون هوت",
-            "URL": "https://aiinarabic.com/glossary/one-hot-encoding/"
+            "english": "One Hot Encoding",
+            "arabic": "ترميز ون هوت",
+            "termURL": "https://aiinarabic.com/glossary/one-hot-encoding/"
         },
         {
-            "English": "OpenCv",
-            "Arabic": "المكتبةُ المفتوحةُ للرُّؤيةِ الحاسُوبيَّةِ",
-            "URL": "https://aiinarabic.com/glossary/opencv/"
+            "english": "OpenCv",
+            "arabic": "المكتبةُ المفتوحةُ للرُّؤيةِ الحاسُوبيَّةِ",
+            "termURL": "https://aiinarabic.com/glossary/opencv/"
         },
         {
-            "English": "Optimizer",
-            "Arabic": "المُحسِّنُهو خُوارِزمِيَّةٌ تعملُ على التَّقارُبِ نحو الحلِّ الأمثلِ. يقومُ في حالةِ الشَّبَكَةِ العُصبونيَّة بتعديلِ الأوزانِ ومُعدَّلِ التَّعَلُّمِ من أجلِ تقليلِ الخسارةِ.",
-            "URL": "https://aiinarabic.com/glossary/optimizer/"
+            "english": "Optimizer",
+            "arabic": "المُحسِّنُهو خُوارِزمِيَّةٌ تعملُ على التَّقارُبِ نحو الحلِّ الأمثلِ. يقومُ في حالةِ الشَّبَكَةِ العُصبونيَّة بتعديلِ الأوزانِ ومُعدَّلِ التَّعَلُّمِ من أجلِ تقليلِ الخسارةِ.",
+            "termURL": "https://aiinarabic.com/glossary/optimizer/"
         },
         {
-            "English": "Ordinal Regression",
-            "Arabic": "الانحدار الترتيبي",
-            "URL": "https://aiinarabic.com/glossary/ordinal-regression/"
+            "english": "Ordinal Regression",
+            "arabic": "الانحدار الترتيبي",
+            "termURL": "https://aiinarabic.com/glossary/ordinal-regression/"
         },
         {
-            "English": "Outliers",
-            "Arabic": "القيم المُتطرّفة",
-            "URL": "https://aiinarabic.com/glossary/outliers/"
+            "english": "Outliers",
+            "arabic": "القيم المُتطرّفة",
+            "termURL": "https://aiinarabic.com/glossary/outliers/"
         },
         {
-            "English": "Overfitting",
-            "Arabic": "المُلاءمةُ الزَّائدةُ",
-            "URL": "https://aiinarabic.com/glossary/overfitting/"
+            "english": "Overfitting",
+            "arabic": "المُلاءمةُ الزَّائدةُ",
+            "termURL": "https://aiinarabic.com/glossary/overfitting/"
         },
         {
-            "English": "Package",
-            "Arabic": "حُزَمٌ",
-            "URL": "https://aiinarabic.com/glossary/package/"
+            "english": "Package",
+            "arabic": "حُزَمٌ",
+            "termURL": "https://aiinarabic.com/glossary/package/"
         },
         {
-            "English": "Padding",
-            "Arabic": "الحشوُ  عمليَّةُ إضافةِ قِيمةٍ (غالبًا صِفر) إلى حَوافِّ الصُّورةِ، إمَّا لتعديلِ أبعادِ الصُّورةِ بحيثُ تتلاءمُ معَ أبعادِ دخلِ الشَّبَكَةِ أو للحِفاظِ على أبعادِ الصُّورةِ قبلَ تطبيقِ عملِيَّةِ جِداءِ الطَّيِّ وبعدَهُ؛ لأنَّ تطبيقَ هذه العملِيَّةِ يؤدي إلى خفضِ الأبعادِ.",
-            "URL": "https://aiinarabic.com/glossary/padding/"
+            "english": "Padding",
+            "arabic": "الحشوُ  عمليَّةُ إضافةِ قِيمةٍ (غالبًا صِفر) إلى حَوافِّ الصُّورةِ، إمَّا لتعديلِ أبعادِ الصُّورةِ بحيثُ تتلاءمُ معَ أبعادِ دخلِ الشَّبَكَةِ أو للحِفاظِ على أبعادِ الصُّورةِ قبلَ تطبيقِ عملِيَّةِ جِداءِ الطَّيِّ وبعدَهُ؛ لأنَّ تطبيقَ هذه العملِيَّةِ يؤدي إلى خفضِ الأبعادِ.",
+            "termURL": "https://aiinarabic.com/glossary/padding/"
         },
         {
-            "English": "Pandas",
-            "Arabic": "مكتبةُ تحليلِ البياناتِ في بايثون (بانداس)",
-            "URL": "https://aiinarabic.com/glossary/pandas/"
+            "english": "Pandas",
+            "arabic": "مكتبةُ تحليلِ البياناتِ في بايثون (بانداس)",
+            "termURL": "https://aiinarabic.com/glossary/pandas/"
         },
         {
-            "English": "Parameter",
-            "Arabic": "مُعامِلٌ",
-            "URL": "https://aiinarabic.com/glossary/parameter/"
+            "english": "Parameter",
+            "arabic": "مُعامِلٌ",
+            "termURL": "https://aiinarabic.com/glossary/parameter/"
         },
         {
-            "English": "Part of Speech",
-            "Arabic": "أقسامُ الكلامِ",
-            "URL": "https://aiinarabic.com/glossary/part-of-speech/"
+            "english": "Part of Speech",
+            "arabic": "أقسامُ الكلامِ",
+            "termURL": "https://aiinarabic.com/glossary/part-of-speech/"
         },
         {
-            "English": "Partial Least Squares Regression",
-            "Arabic": "انحدار المربعات الصغرى الجزئيّة",
-            "URL": "https://aiinarabic.com/glossary/partial-least-squares-regression/"
+            "english": "Partial Least Squares Regression",
+            "arabic": "انحدار المربعات الصغرى الجزئيّة",
+            "termURL": "https://aiinarabic.com/glossary/partial-least-squares-regression/"
         },
         {
-            "English": "Patch Embedding",
-            "Arabic": "تضمين الدّفعة",
-            "URL": "https://aiinarabic.com/glossary/patch-embedding/"
+            "english": "Patch Embedding",
+            "arabic": "تضمين الدّفعة",
+            "termURL": "https://aiinarabic.com/glossary/patch-embedding/"
         },
         {
-            "English": "Pattern Recognition",
-            "Arabic": "التّعرف على الأنماط",
-            "URL": "https://aiinarabic.com/glossary/pattern-recognition/"
+            "english": "Pattern Recognition",
+            "arabic": "التّعرف على الأنماط",
+            "termURL": "https://aiinarabic.com/glossary/pattern-recognition/"
         },
         {
-            "English": "Pixel",
-            "Arabic": "البكسل",
-            "URL": "https://aiinarabic.com/glossary/pixel/"
+            "english": "Pixel",
+            "arabic": "البكسل",
+            "termURL": "https://aiinarabic.com/glossary/pixel/"
         },
         {
-            "English": "Point Cloud",
-            "Arabic": "السحابة النقطيّة",
-            "URL": "https://aiinarabic.com/glossary/point-cloud/"
+            "english": "Point Cloud",
+            "arabic": "السحابة النقطيّة",
+            "termURL": "https://aiinarabic.com/glossary/point-cloud/"
         },
         {
-            "English": "Poisson Regression",
-            "Arabic": "انحدار بواسون",
-            "URL": "https://aiinarabic.com/glossary/poisson-regression/"
+            "english": "Poisson Regression",
+            "arabic": "انحدار بواسون",
+            "termURL": "https://aiinarabic.com/glossary/poisson-regression/"
         },
         {
-            "English": "Polynomial Features",
-            "Arabic": "مزايا كثيرة الحدود",
-            "URL": "https://aiinarabic.com/glossary/polynomial-features/"
+            "english": "Polynomial Features",
+            "arabic": "مزايا كثيرة الحدود",
+            "termURL": "https://aiinarabic.com/glossary/polynomial-features/"
         },
         {
-            "English": "Polynomial Regression",
-            "Arabic": "انحدار متعدد الحدود",
-            "URL": "https://aiinarabic.com/glossary/polynomial-regression/"
+            "english": "Polynomial Regression",
+            "arabic": "انحدار متعدد الحدود",
+            "termURL": "https://aiinarabic.com/glossary/polynomial-regression/"
         },
         {
-            "English": "Pooling",
-            "Arabic": "التَّجميعُ  لأنَّها تجمعُ مجموعةً من القِيَمِ إلى مثلاً قيمة الأكبرِ بينهم أو قِيمةِ المُتوسِّطِ من بينهم.بدائل التصحيح:لأنَّها تجمعُ مجموعةً من القِيَمِ إلى قيمةِ الأكبرِ بينها مَثلًا أو إلى قيمةِ المُتوسِّطِ بينها.عمليَّةٌ تجمعُ مجموعةً من القِيَمِ إلى قيمةِ العددِ الأكبرِ بينها مَثلًا أو إلى قيمةِ العددِ المُتوسِّطِ بينها.عمليةٌ تجمعُ مجموعةً من القِيَمِ إلى القيمة الكبرى فيها مَثلًا أو إلى القيمةِ المُتوسِّطةِ فيها.",
-            "URL": "https://aiinarabic.com/glossary/pooling/"
+            "english": "Pooling",
+            "arabic": "التَّجميعُ  لأنَّها تجمعُ مجموعةً من القِيَمِ إلى مثلاً قيمة الأكبرِ بينهم أو قِيمةِ المُتوسِّطِ من بينهم.بدائل التصحيح:لأنَّها تجمعُ مجموعةً من القِيَمِ إلى قيمةِ الأكبرِ بينها مَثلًا أو إلى قيمةِ المُتوسِّطِ بينها.عمليَّةٌ تجمعُ مجموعةً من القِيَمِ إلى قيمةِ العددِ الأكبرِ بينها مَثلًا أو إلى قيمةِ العددِ المُتوسِّطِ بينها.عمليةٌ تجمعُ مجموعةً من القِيَمِ إلى القيمة الكبرى فيها مَثلًا أو إلى القيمةِ المُتوسِّطةِ فيها.",
+            "termURL": "https://aiinarabic.com/glossary/pooling/"
         },
         {
-            "English": "Positional Embedding",
-            "Arabic": "التّضمين الموضعيّ",
-            "URL": "https://aiinarabic.com/glossary/positional-embedding/"
+            "english": "Positional Embedding",
+            "arabic": "التّضمين الموضعيّ",
+            "termURL": "https://aiinarabic.com/glossary/positional-embedding/"
         },
         {
-            "English": "Positional Encoding",
-            "Arabic": "التّشفير الموضعي",
-            "URL": "https://aiinarabic.com/glossary/positional-encoding/"
+            "english": "Positional Encoding",
+            "arabic": "التّشفير الموضعي",
+            "termURL": "https://aiinarabic.com/glossary/positional-encoding/"
         },
         {
-            "English": "Positive Skewed",
-            "Arabic": "منحرف بشكل إيجابيّ",
-            "URL": "https://aiinarabic.com/glossary/positive-skewed/"
+            "english": "Positive Skewed",
+            "arabic": "منحرف بشكل إيجابيّ",
+            "termURL": "https://aiinarabic.com/glossary/positive-skewed/"
         },
         {
-            "English": "Post Pruning",
-            "Arabic": "التَّقليم اللّاحق",
-            "URL": "https://aiinarabic.com/glossary/post-pruning/"
+            "english": "Post Pruning",
+            "arabic": "التَّقليم اللّاحق",
+            "termURL": "https://aiinarabic.com/glossary/post-pruning/"
         },
         {
-            "English": "Precision",
-            "Arabic": "قيمة التنبُّؤ الإيجابي",
-            "URL": "https://aiinarabic.com/glossary/precision/"
+            "english": "Precision",
+            "arabic": "قيمة التنبُّؤ الإيجابي",
+            "termURL": "https://aiinarabic.com/glossary/precision/"
         },
         {
-            "English": "PrePruning",
-            "Arabic": "التَّقليم المُسبق",
-            "URL": "https://aiinarabic.com/glossary/prepruning/"
+            "english": "PrePruning",
+            "arabic": "التَّقليم المُسبق",
+            "termURL": "https://aiinarabic.com/glossary/prepruning/"
         },
         {
-            "English": "Principal Component Analysis",
-            "Arabic": "تحليل المكونات الرئيسيّة/الأساسيّة",
-            "URL": "https://aiinarabic.com/glossary/principal-component-analysis/"
+            "english": "Principal Component Analysis",
+            "arabic": "تحليل المكونات الرئيسيّة/الأساسيّة",
+            "termURL": "https://aiinarabic.com/glossary/principal-component-analysis/"
         },
         {
-            "English": "Principal Components Regression",
-            "Arabic": "انحدار المكونات الرئيّسية",
-            "URL": "https://aiinarabic.com/glossary/principal-components-regression/"
+            "english": "Principal Components Regression",
+            "arabic": "انحدار المكونات الرئيّسية",
+            "termURL": "https://aiinarabic.com/glossary/principal-components-regression/"
         },
         {
-            "English": "Projection Layer",
-            "Arabic": "طبقةُ الإسقاطِ",
-            "URL": "https://aiinarabic.com/glossary/projection-layer/"
+            "english": "Projection Layer",
+            "arabic": "طبقةُ الإسقاطِ",
+            "termURL": "https://aiinarabic.com/glossary/projection-layer/"
         },
         {
-            "English": "Prompt Engineering",
-            "Arabic": "هندسة التّلقين",
-            "URL": "https://aiinarabic.com/glossary/prompt-engineering/"
+            "english": "Prompt Engineering",
+            "arabic": "هندسة التّلقين",
+            "termURL": "https://aiinarabic.com/glossary/prompt-engineering/"
         },
         {
-            "English": "Pruning",
-            "Arabic": "التَّقليم",
-            "URL": "https://aiinarabic.com/glossary/pruning/"
+            "english": "Pruning",
+            "arabic": "التَّقليم",
+            "termURL": "https://aiinarabic.com/glossary/pruning/"
         },
         {
-            "English": "Purity",
-            "Arabic": "النَّقاء مجموعة البيانات من صنفٍ واحدٍ فقط أو عدم وجود تباين في البيانات.",
-            "URL": "https://aiinarabic.com/glossary/purity/"
+            "english": "Purity",
+            "arabic": "النَّقاء مجموعة البيانات من صنفٍ واحدٍ فقط أو عدم وجود تباين في البيانات.",
+            "termURL": "https://aiinarabic.com/glossary/purity/"
         },
         {
-            "English": "Pytorch",
-            "Arabic": "بايتورش",
-            "URL": "https://aiinarabic.com/glossary/pytorch/"
+            "english": "Pytorch",
+            "arabic": "بايتورش",
+            "termURL": "https://aiinarabic.com/glossary/pytorch/"
         },
         {
-            "English": "Quantile Regression",
-            "Arabic": "الانحدار الكمّي",
-            "URL": "https://aiinarabic.com/glossary/quantile-regression/"
+            "english": "Quantile Regression",
+            "arabic": "الانحدار الكمّي",
+            "termURL": "https://aiinarabic.com/glossary/quantile-regression/"
         },
         {
-            "English": "Quantitative Data",
-            "Arabic": "البيانات الكمّيّة",
-            "URL": "https://aiinarabic.com/glossary/quantitative-data/"
+            "english": "Quantitative Data",
+            "arabic": "البيانات الكمّيّة",
+            "termURL": "https://aiinarabic.com/glossary/quantitative-data/"
         },
         {
-            "English": "Qubicle",
-            "Arabic": "كيوبكل",
-            "URL": "https://aiinarabic.com/glossary/qubicle/"
+            "english": "Qubicle",
+            "arabic": "كيوبكل",
+            "termURL": "https://aiinarabic.com/glossary/qubicle/"
         },
         {
-            "English": "Random Erasing",
-            "Arabic": "المسحُ العشوائيّ",
-            "URL": "https://aiinarabic.com/glossary/random-erasing/"
+            "english": "Random Erasing",
+            "arabic": "المسحُ العشوائيّ",
+            "termURL": "https://aiinarabic.com/glossary/random-erasing/"
         },
         {
-            "English": "Random Forest",
-            "Arabic": "الغابة العشوائيّة",
-            "URL": "https://aiinarabic.com/glossary/random-forest/"
+            "english": "Random Forest",
+            "arabic": "الغابة العشوائيّة",
+            "termURL": "https://aiinarabic.com/glossary/random-forest/"
         },
         {
-            "English": "Random Multimodel Deep Learning RMDL",
-            "Arabic": "التَّعَلُّمُ العميقُ مُتعدِّدُ النَّماذجِ العشوائيَّةِ",
-            "URL": "https://aiinarabic.com/glossary/random-multimodel-deep-learning-rmdl/"
+            "english": "Random Multimodel Deep Learning RMDL",
+            "arabic": "التَّعَلُّمُ العميقُ مُتعدِّدُ النَّماذجِ العشوائيَّةِ",
+            "termURL": "https://aiinarabic.com/glossary/random-multimodel-deep-learning-rmdl/"
         },
         {
-            "English": "Raw Text",
-            "Arabic": "النَّصُّ الخامُ",
-            "URL": "https://aiinarabic.com/glossary/raw-text/"
+            "english": "Raw Text",
+            "arabic": "النَّصُّ الخامُ",
+            "termURL": "https://aiinarabic.com/glossary/raw-text/"
         },
         {
-            "English": "Re-Parameterization",
-            "Arabic": "إعادة ضبط البارامترات",
-            "URL": "https://aiinarabic.com/glossary/re-parameterization/"
+            "english": "Re-Parameterization",
+            "arabic": "إعادة ضبط البارامترات",
+            "termURL": "https://aiinarabic.com/glossary/re-parameterization/"
         },
         {
-            "English": "Reachability Distance",
-            "Arabic": "مسافة قابليّة الوصول",
-            "URL": "https://aiinarabic.com/glossary/reachability-distance/"
+            "english": "Reachability Distance",
+            "arabic": "مسافة قابليّة الوصول",
+            "termURL": "https://aiinarabic.com/glossary/reachability-distance/"
         },
         {
-            "English": "Recall",
-            "Arabic": "حساسية التنبُّؤ",
-            "URL": "https://aiinarabic.com/glossary/recall/"
+            "english": "Recall",
+            "arabic": "حساسية التنبُّؤ",
+            "termURL": "https://aiinarabic.com/glossary/recall/"
         },
         {
-            "English": "Rectified Linear Unit (Relu)",
-            "Arabic": "وحدةُ التَّصحيحِ الخطِّيِّ",
-            "URL": "https://aiinarabic.com/glossary/rectified-linear-unit-relu/"
+            "english": "Rectified Linear Unit (Relu)",
+            "arabic": "وحدةُ التَّصحيحِ الخطِّيِّ",
+            "termURL": "https://aiinarabic.com/glossary/rectified-linear-unit-relu/"
         },
         {
-            "English": "Recurrent Convolutional Neural Networks (RCNN)",
-            "Arabic": "شَّبَكَات الطَّيّ العُصبُونِيَّة التّكراريّة",
-            "URL": "https://aiinarabic.com/glossary/recurrent-convolutional-neural-networks-rcnn/"
+            "english": "Recurrent Convolutional Neural Networks (RCNN)",
+            "arabic": "شَّبَكَات الطَّيّ العُصبُونِيَّة التّكراريّة",
+            "termURL": "https://aiinarabic.com/glossary/recurrent-convolutional-neural-networks-rcnn/"
         },
         {
-            "English": "Recurrent Neural Networks RNN",
-            "Arabic": "الشَّبَكَاتُ العُصبُونِيَّةُ الإرجاعِيَّةُ",
-            "URL": "https://aiinarabic.com/glossary/recurrent-neural-networks-rnn/"
+            "english": "Recurrent Neural Networks RNN",
+            "arabic": "الشَّبَكَاتُ العُصبُونِيَّةُ الإرجاعِيَّةُ",
+            "termURL": "https://aiinarabic.com/glossary/recurrent-neural-networks-rnn/"
         },
         {
-            "English": "Reduction Blocks",
-            "Arabic": "كُتلُ تقليلِ الأبعادِ",
-            "URL": "https://aiinarabic.com/glossary/reduction-blocks/"
+            "english": "Reduction Blocks",
+            "arabic": "كُتلُ تقليلِ الأبعادِ",
+            "termURL": "https://aiinarabic.com/glossary/reduction-blocks/"
         },
         {
-            "English": "Region-Based Convolutional Neural Network (R-CNN)",
-            "Arabic": "شَبَكَةُ الطَّيِّ العُصبُونِيَّةِ المناطِقيَّةِ",
-            "URL": "https://aiinarabic.com/glossary/region-based-convolutional-neural-network-r-cnn/"
+            "english": "Region-Based Convolutional Neural Network (R-CNN)",
+            "arabic": "شَبَكَةُ الطَّيِّ العُصبُونِيَّةِ المناطِقيَّةِ",
+            "termURL": "https://aiinarabic.com/glossary/region-based-convolutional-neural-network-r-cnn/"
         },
         {
-            "English": "Region-based Segmentation",
-            "Arabic": "خوارزميّة التّجزئة حسب المنطقة",
-            "URL": "https://aiinarabic.com/glossary/region-based-segmentation/"
+            "english": "Region-based Segmentation",
+            "arabic": "خوارزميّة التّجزئة حسب المنطقة",
+            "termURL": "https://aiinarabic.com/glossary/region-based-segmentation/"
         },
         {
-            "English": "Region of Interest Align (ROIAlign)",
-            "Arabic": "منطقة الاهتمام",
-            "URL": "https://aiinarabic.com/glossary/region-of-interest-align-roialign/"
+            "english": "Region of Interest Align (ROIAlign)",
+            "arabic": "منطقة الاهتمام",
+            "termURL": "https://aiinarabic.com/glossary/region-of-interest-align-roialign/"
         },
         {
-            "English": "Region Proposal Network (RPN)",
-            "Arabic": "شبكة اقتراح المناطق المهمة",
-            "URL": "https://aiinarabic.com/glossary/region-proposal-network-rpn/"
+            "english": "Region Proposal Network (RPN)",
+            "arabic": "شبكة اقتراح المناطق المهمة",
+            "termURL": "https://aiinarabic.com/glossary/region-proposal-network-rpn/"
         },
         {
-            "English": "Regression",
-            "Arabic": "الانحدار",
-            "URL": "https://aiinarabic.com/glossary/regression/"
+            "english": "Regression",
+            "arabic": "الانحدار",
+            "termURL": "https://aiinarabic.com/glossary/regression/"
         },
         {
-            "English": "Regularization",
-            "Arabic": "تَنظيمراجع مصطلح المُنظّم (Regularizer)",
-            "URL": "https://aiinarabic.com/glossary/regularization/"
+            "english": "Regularization",
+            "arabic": "تَنظيمراجع مصطلح المُنظّم (Regularizer)",
+            "termURL": "https://aiinarabic.com/glossary/regularization/"
         },
         {
-            "English": "Regularizer",
-            "Arabic": "مُنَظِّمٌ  سُمِّيَ مُنظِّمًا لأنَّهُ يقومُ بالتَّحكُّمِ بتابعِ الخسارةِ بإضافةِ قِيمةٍ جزائية (جَزائيَّة أم جُزئيَّة؟ فالجزاءُ يعني العقوبة غالبًا) إلى overfitting. تهدِفُ هذه العملِيَّةُ إلى الحدِّ من مُشكِلةِ الخسارةِ.",
-            "URL": "https://aiinarabic.com/glossary/regularizer/"
+            "english": "Regularizer",
+            "arabic": "مُنَظِّمٌ  سُمِّيَ مُنظِّمًا لأنَّهُ يقومُ بالتَّحكُّمِ بتابعِ الخسارةِ بإضافةِ قِيمةٍ جزائية (جَزائيَّة أم جُزئيَّة؟ فالجزاءُ يعني العقوبة غالبًا) إلى overfitting. تهدِفُ هذه العملِيَّةُ إلى الحدِّ من مُشكِلةِ الخسارةِ.",
+            "termURL": "https://aiinarabic.com/glossary/regularizer/"
         },
         {
-            "English": "Reinforcement Learning",
-            "Arabic": "التَّعَلُّمُ المُعَزَّز",
-            "URL": "https://aiinarabic.com/glossary/reinforcement-learning/"
+            "english": "Reinforcement Learning",
+            "arabic": "التَّعَلُّمُ المُعَزَّز",
+            "termURL": "https://aiinarabic.com/glossary/reinforcement-learning/"
         },
         {
-            "English": "Reinforcement Learning From Human Feedback (RLHF)",
-            "Arabic": "التّعلّم المعزّز من التّغذية الرّاجعة البشريّة",
-            "URL": "https://aiinarabic.com/glossary/reinforcement-learning-from-human-feedback-rlhf/"
+            "english": "Reinforcement Learning From Human Feedback (RLHF)",
+            "arabic": "التّعلّم المعزّز من التّغذية الرّاجعة البشريّة",
+            "termURL": "https://aiinarabic.com/glossary/reinforcement-learning-from-human-feedback-rlhf/"
         },
         {
-            "English": "Rendering",
-            "Arabic": "توليدٌ  يتمُّ توليدُ الصُّورِ من موديل ثُنائيِّ أو ثُلاثيِّ الأبعادِ باستخدامِ برامجِ الحاسبِ.",
-            "URL": "https://aiinarabic.com/glossary/rendering/"
+            "english": "Rendering",
+            "arabic": "توليدٌ  يتمُّ توليدُ الصُّورِ من موديل ثُنائيِّ أو ثُلاثيِّ الأبعادِ باستخدامِ برامجِ الحاسبِ.",
+            "termURL": "https://aiinarabic.com/glossary/rendering/"
         },
         {
-            "English": "Representational Bottleneck",
-            "Arabic": "حالة عٌنق الزُجاجة التمثيليةتحدث هذه الحالة في الشبكات العُصبونية عندما تتألف طبقة ما من عدد من العُصبونات أقل بشكل واضح من عُصبونات الطبقة السابقة وبالتالي يحدث خفض كبير في أبعاد الدخل وهذا ما يُسمى بعُنق الزجاجة. في هذه الحالة يتم الحصول على تمثيل للدخل ولكن بأبعاد أقل/مخفضة ومن هنا جاء معنى \"تمثيلية\".",
-            "URL": "https://aiinarabic.com/glossary/representational-bottleneck/"
+            "english": "Representational Bottleneck",
+            "arabic": "حالة عٌنق الزُجاجة التمثيليةتحدث هذه الحالة في الشبكات العُصبونية عندما تتألف طبقة ما من عدد من العُصبونات أقل بشكل واضح من عُصبونات الطبقة السابقة وبالتالي يحدث خفض كبير في أبعاد الدخل وهذا ما يُسمى بعُنق الزجاجة. في هذه الحالة يتم الحصول على تمثيل للدخل ولكن بأبعاد أقل/مخفضة ومن هنا جاء معنى \"تمثيلية\".",
+            "termURL": "https://aiinarabic.com/glossary/representational-bottleneck/"
         },
         {
-            "English": "Residual Connections",
-            "Arabic": "الوصلاتُ المُختصرَةُ",
-            "URL": "https://aiinarabic.com/glossary/residual-connections/"
+            "english": "Residual Connections",
+            "arabic": "الوصلاتُ المُختصرَةُ",
+            "termURL": "https://aiinarabic.com/glossary/residual-connections/"
         },
         {
-            "English": "Residual Network",
-            "Arabic": "شَبَكَةُ الرَّواسِبِ  تقومُ فِكرةُ هذه الشَّبَكَةِ على التَّعَلُّمِ منَ الرَّواسبِ أو البواقي التي تحقَّقتْ بإضافةِ وصلاتٍ تُعَدُّ طُرُقًا سريعةً واصلةً بين الطَّبقاتِ للتَّخلُّصِ من صُعوبةِ تدريبِ الشَّبَكَاتِ العمِيقةِ.",
-            "URL": "https://aiinarabic.com/glossary/residual-network/"
+            "english": "Residual Network",
+            "arabic": "شَبَكَةُ الرَّواسِبِ  تقومُ فِكرةُ هذه الشَّبَكَةِ على التَّعَلُّمِ منَ الرَّواسبِ أو البواقي التي تحقَّقتْ بإضافةِ وصلاتٍ تُعَدُّ طُرُقًا سريعةً واصلةً بين الطَّبقاتِ للتَّخلُّصِ من صُعوبةِ تدريبِ الشَّبَكَاتِ العمِيقةِ.",
+            "termURL": "https://aiinarabic.com/glossary/residual-network/"
         },
         {
-            "English": "RetinaNet",
-            "Arabic": "ريتنا-نت",
-            "URL": "https://aiinarabic.com/glossary/retinanet/"
+            "english": "RetinaNet",
+            "arabic": "ريتنا-نت",
+            "termURL": "https://aiinarabic.com/glossary/retinanet/"
         },
         {
-            "English": "Reward Function",
-            "Arabic": "دالَّةُ المُكافَأةِ",
-            "URL": "https://aiinarabic.com/glossary/reward-function/"
+            "english": "Reward Function",
+            "arabic": "دالَّةُ المُكافَأةِ",
+            "termURL": "https://aiinarabic.com/glossary/reward-function/"
         },
         {
-            "English": "Ridge Regression",
-            "Arabic": "انحدار ريدج",
-            "URL": "https://aiinarabic.com/glossary/ridge-regression/"
+            "english": "Ridge Regression",
+            "arabic": "انحدار ريدج",
+            "termURL": "https://aiinarabic.com/glossary/ridge-regression/"
         },
         {
-            "English": "RMSPorp",
-            "Arabic": "جذر متوسط مربع الإنتشار (آر إم إس بروب)",
-            "URL": "https://aiinarabic.com/glossary/rmsporp/"
+            "english": "RMSPorp",
+            "arabic": "جذر متوسط مربع الإنتشار (آر إم إس بروب)",
+            "termURL": "https://aiinarabic.com/glossary/rmsporp/"
         },
         {
-            "English": "RoBERTa",
-            "Arabic": "مُحوّل روبيرتا",
-            "URL": "https://aiinarabic.com/glossary/roberta/"
+            "english": "RoBERTa",
+            "arabic": "مُحوّل روبيرتا",
+            "termURL": "https://aiinarabic.com/glossary/roberta/"
         },
         {
-            "English": "Rolling Window Feature",
-            "Arabic": "مزايا النافذة المنزلقة",
-            "URL": "https://aiinarabic.com/glossary/rolling-window-feature/"
+            "english": "Rolling Window Feature",
+            "arabic": "مزايا النافذة المنزلقة",
+            "termURL": "https://aiinarabic.com/glossary/rolling-window-feature/"
         },
         {
-            "English": "Rouge",
-            "Arabic": "معيار تقييم جودةُ النصوص التوليديّة",
-            "URL": "https://aiinarabic.com/glossary/rouge/"
+            "english": "Rouge",
+            "arabic": "معيار تقييم جودةُ النصوص التوليديّة",
+            "termURL": "https://aiinarabic.com/glossary/rouge/"
         },
         {
-            "English": "Rules",
-            "Arabic": "القواعد",
-            "URL": "https://aiinarabic.com/glossary/rules/"
+            "english": "Rules",
+            "arabic": "القواعد",
+            "termURL": "https://aiinarabic.com/glossary/rules/"
         },
         {
-            "English": "Scalar Multiplication",
-            "Arabic": "الضرب العددي",
-            "URL": "https://aiinarabic.com/glossary/scalar-multiplication/"
+            "english": "Scalar Multiplication",
+            "arabic": "الضرب العددي",
+            "termURL": "https://aiinarabic.com/glossary/scalar-multiplication/"
         },
         {
-            "English": "Scatterplot",
-            "Arabic": "مخطّط الانتشار",
-            "URL": "https://aiinarabic.com/glossary/scatterplot/"
+            "english": "Scatterplot",
+            "arabic": "مخطّط الانتشار",
+            "termURL": "https://aiinarabic.com/glossary/scatterplot/"
         },
         {
-            "English": "SciPy",
-            "Arabic": "مكتبةُ الحَوسَبةِ العلميَّةِ",
-            "URL": "https://aiinarabic.com/glossary/scipy/"
+            "english": "SciPy",
+            "arabic": "مكتبةُ الحَوسَبةِ العلميَّةِ",
+            "termURL": "https://aiinarabic.com/glossary/scipy/"
         },
         {
-            "English": "Selective Search",
-            "Arabic": "خوارزميّة البحث الانتقائيّ",
-            "URL": "https://aiinarabic.com/glossary/selective-search/"
+            "english": "Selective Search",
+            "arabic": "خوارزميّة البحث الانتقائيّ",
+            "termURL": "https://aiinarabic.com/glossary/selective-search/"
         },
         {
-            "English": "Self-Attention Layer",
-            "Arabic": "طبقة الاهتمام الذّاتي",
-            "URL": "https://aiinarabic.com/glossary/self-attention-layer/"
+            "english": "Self-Attention Layer",
+            "arabic": "طبقة الاهتمام الذّاتي",
+            "termURL": "https://aiinarabic.com/glossary/self-attention-layer/"
         },
         {
-            "English": "Semantic Reasoning",
-            "Arabic": "المنطق الدلاليّ",
-            "URL": "https://aiinarabic.com/glossary/semantic-reasoning/"
+            "english": "Semantic Reasoning",
+            "arabic": "المنطق الدلاليّ",
+            "termURL": "https://aiinarabic.com/glossary/semantic-reasoning/"
         },
         {
-            "English": "Semantic Segmentation",
-            "Arabic": "التجزئةُ الدَّلاليَّةُ",
-            "URL": "https://aiinarabic.com/glossary/semantic-segmentation/"
+            "english": "Semantic Segmentation",
+            "arabic": "التجزئةُ الدَّلاليَّةُ",
+            "termURL": "https://aiinarabic.com/glossary/semantic-segmentation/"
         },
         {
-            "English": "Sentiment Analysis",
-            "Arabic": "تحليلُ الآراءِ",
-            "URL": "https://aiinarabic.com/glossary/sentiment-analysis/"
+            "english": "Sentiment Analysis",
+            "arabic": "تحليلُ الآراءِ",
+            "termURL": "https://aiinarabic.com/glossary/sentiment-analysis/"
         },
         {
-            "English": "Seq2Seq Model",
-            "Arabic": "نموذج سلسلة إلى سلسلة",
-            "URL": "https://aiinarabic.com/glossary/seq2seq-model/"
+            "english": "Seq2Seq Model",
+            "arabic": "نموذج سلسلة إلى سلسلة",
+            "termURL": "https://aiinarabic.com/glossary/seq2seq-model/"
         },
         {
-            "English": "Sigmoid",
-            "Arabic": "التابع الأسي الجيبي (سيغمويد)",
-            "URL": "https://aiinarabic.com/glossary/sigmoid/"
+            "english": "Sigmoid",
+            "arabic": "التابع الأسي الجيبي (سيغمويد)",
+            "termURL": "https://aiinarabic.com/glossary/sigmoid/"
         },
         {
-            "English": "Single Shot Detector (SSD)",
-            "Arabic": "كاشفُ الخَطوةِ الواحدةِ",
-            "URL": "https://aiinarabic.com/glossary/single-shot-detector-ssd/"
+            "english": "Single Shot Detector (SSD)",
+            "arabic": "كاشفُ الخَطوةِ الواحدةِ",
+            "termURL": "https://aiinarabic.com/glossary/single-shot-detector-ssd/"
         },
         {
-            "English": "Single-Shot Detectors",
-            "Arabic": "كواشف المرحلة الواحدة",
-            "URL": "https://aiinarabic.com/glossary/single-shot-detectors/"
+            "english": "Single-Shot Detectors",
+            "arabic": "كواشف المرحلة الواحدة",
+            "termURL": "https://aiinarabic.com/glossary/single-shot-detectors/"
         },
         {
-            "English": "Skip-Connection",
-            "Arabic": "وصلة تخطّي",
-            "URL": "https://aiinarabic.com/glossary/skip-connection/"
+            "english": "Skip-Connection",
+            "arabic": "وصلة تخطّي",
+            "termURL": "https://aiinarabic.com/glossary/skip-connection/"
         },
         {
-            "English": "Skip-Gram",
-            "Arabic": "نموذج تخطي الكلمات",
-            "URL": "https://aiinarabic.com/glossary/skip-gram/"
+            "english": "Skip-Gram",
+            "arabic": "نموذج تخطي الكلمات",
+            "termURL": "https://aiinarabic.com/glossary/skip-gram/"
         },
         {
-            "English": "SKLearn",
-            "Arabic": "مكتبة اس-كي للتعلّم",
-            "URL": "https://aiinarabic.com/glossary/sklearn/"
+            "english": "SKLearn",
+            "arabic": "مكتبة اس-كي للتعلّم",
+            "termURL": "https://aiinarabic.com/glossary/sklearn/"
         },
         {
-            "English": "Slicing",
-            "Arabic": "تشرِيحٌ",
-            "URL": "https://aiinarabic.com/glossary/slicing/"
+            "english": "Slicing",
+            "arabic": "تشرِيحٌ",
+            "termURL": "https://aiinarabic.com/glossary/slicing/"
         },
         {
-            "English": "Sliding-Window",
-            "Arabic": "النافذة المنزلقة",
-            "URL": "https://aiinarabic.com/glossary/sliding-window/"
+            "english": "Sliding-Window",
+            "arabic": "النافذة المنزلقة",
+            "termURL": "https://aiinarabic.com/glossary/sliding-window/"
         },
         {
-            "English": "Soft Margin",
-            "Arabic": "الهامش المرن",
-            "URL": "https://aiinarabic.com/glossary/soft-margin/"
+            "english": "Soft Margin",
+            "arabic": "الهامش المرن",
+            "termURL": "https://aiinarabic.com/glossary/soft-margin/"
         },
         {
-            "English": "Softmax",
-            "Arabic": "سوفت ماكس",
-            "URL": "https://aiinarabic.com/glossary/softmax/"
+            "english": "Softmax",
+            "arabic": "سوفت ماكس",
+            "termURL": "https://aiinarabic.com/glossary/softmax/"
         },
         {
-            "English": "Spectogram",
-            "Arabic": "مُخطَّطاتُ التَّمثيلِ الطَّيفيِّ",
-            "URL": "https://aiinarabic.com/glossary/spectogram/"
+            "english": "Spectogram",
+            "arabic": "مُخطَّطاتُ التَّمثيلِ الطَّيفيِّ",
+            "termURL": "https://aiinarabic.com/glossary/spectogram/"
         },
         {
-            "English": "Statistical Features",
-            "Arabic": "المزايا الإحصائيَّةُ",
-            "URL": "https://aiinarabic.com/glossary/statistical-features/"
+            "english": "Statistical Features",
+            "arabic": "المزايا الإحصائيَّةُ",
+            "termURL": "https://aiinarabic.com/glossary/statistical-features/"
         },
         {
-            "English": "Stemming",
-            "Arabic": "تجذيعٌ",
-            "URL": "https://aiinarabic.com/glossary/stemming/"
+            "english": "Stemming",
+            "arabic": "تجذيعٌ",
+            "termURL": "https://aiinarabic.com/glossary/stemming/"
         },
         {
-            "English": "Stochastic Gradient Descent (SGD)",
-            "Arabic": "انحدارُ المُشتقِّ العشوائيِّ",
-            "URL": "https://aiinarabic.com/glossary/stochastic-gradient-descent-sgd/"
+            "english": "Stochastic Gradient Descent (SGD)",
+            "arabic": "انحدارُ المُشتقِّ العشوائيِّ",
+            "termURL": "https://aiinarabic.com/glossary/stochastic-gradient-descent-sgd/"
         },
         {
-            "English": "Stride",
-            "Arabic": "خُطوةُ تحريكِ مُرشِّحِ الطَّيِّ",
-            "URL": "https://aiinarabic.com/glossary/stride/"
+            "english": "Stride",
+            "arabic": "خُطوةُ تحريكِ مُرشِّحِ الطَّيِّ",
+            "termURL": "https://aiinarabic.com/glossary/stride/"
         },
         {
-            "English": "Style Transfer",
-            "Arabic": "نقل النمط",
-            "URL": "https://aiinarabic.com/glossary/style-transfer/"
+            "english": "Style Transfer",
+            "arabic": "نقل النمط",
+            "termURL": "https://aiinarabic.com/glossary/style-transfer/"
         },
         {
-            "English": "Sub-Version",
-            "Arabic": "الإصدارُ الجُزئيُّ",
-            "URL": "https://aiinarabic.com/glossary/sub-version/"
+            "english": "Sub-Version",
+            "arabic": "الإصدارُ الجُزئيُّ",
+            "termURL": "https://aiinarabic.com/glossary/sub-version/"
         },
         {
-            "English": "Supervised Learning",
-            "Arabic": "التَّعَلُّمُ بالإشرافِ",
-            "URL": "https://aiinarabic.com/glossary/supervised-learning/"
+            "english": "Supervised Learning",
+            "arabic": "التَّعَلُّمُ بالإشرافِ",
+            "termURL": "https://aiinarabic.com/glossary/supervised-learning/"
         },
         {
-            "English": "Support Vector Machine (SVM)",
-            "Arabic": "آلة المُتَّجه الداعم",
-            "URL": "https://aiinarabic.com/glossary/support-vector-machine-svm/"
+            "english": "Support Vector Machine (SVM)",
+            "arabic": "آلة المُتَّجه الداعم",
+            "termURL": "https://aiinarabic.com/glossary/support-vector-machine-svm/"
         },
         {
-            "English": "Support Vector Regression",
-            "Arabic": "انحدار المتّجه الداعم",
-            "URL": "https://aiinarabic.com/glossary/support-vector-regression/"
+            "english": "Support Vector Regression",
+            "arabic": "انحدار المتّجه الداعم",
+            "termURL": "https://aiinarabic.com/glossary/support-vector-regression/"
         },
         {
-            "English": "Tanh",
-            "Arabic": "التابع الأسي الظلي",
-            "URL": "https://aiinarabic.com/glossary/tanh/"
+            "english": "Tanh",
+            "arabic": "التابع الأسي الظلي",
+            "termURL": "https://aiinarabic.com/glossary/tanh/"
         },
         {
-            "English": "Tensor",
-            "Arabic": "مصفُوفَةٌ متعددةُ الأبعادِ",
-            "URL": "https://aiinarabic.com/glossary/tensor/"
+            "english": "Tensor",
+            "arabic": "مصفُوفَةٌ متعددةُ الأبعادِ",
+            "termURL": "https://aiinarabic.com/glossary/tensor/"
         },
         {
-            "English": "TensorFlow",
-            "Arabic": "مكتبةُ تنسور فلو للتَّعلُّمِ العميقِ من جوجل",
-            "URL": "https://aiinarabic.com/glossary/tensorflow/"
+            "english": "TensorFlow",
+            "arabic": "مكتبةُ تنسور فلو للتَّعلُّمِ العميقِ من جوجل",
+            "termURL": "https://aiinarabic.com/glossary/tensorflow/"
         },
         {
-            "English": "Text Analysis",
-            "Arabic": "معالجة النصوص",
-            "URL": "https://aiinarabic.com/glossary/text-analysis/"
+            "english": "Text Analysis",
+            "arabic": "معالجة النصوص",
+            "termURL": "https://aiinarabic.com/glossary/text-analysis/"
         },
         {
-            "English": "Text Mining",
-            "Arabic": "تنقيب النصوص",
-            "URL": "https://aiinarabic.com/glossary/text-mining/"
+            "english": "Text Mining",
+            "arabic": "تنقيب النصوص",
+            "termURL": "https://aiinarabic.com/glossary/text-mining/"
         },
         {
-            "English": "TF-IDF",
-            "Arabic": "تردُّد الكلمة- تردُّد المُستند العكسي",
-            "URL": "https://aiinarabic.com/glossary/tf-idf/"
+            "english": "TF-IDF",
+            "arabic": "تردُّد الكلمة- تردُّد المُستند العكسي",
+            "termURL": "https://aiinarabic.com/glossary/tf-idf/"
         },
         {
-            "English": "tf.keras",
-            "Arabic": "حُزمةُ كيراس من مكتبة تنسور فلو للتَّعلُّمِ العميقِ من جوجل",
-            "URL": "https://aiinarabic.com/glossary/tf-keras/"
+            "english": "tf.keras",
+            "arabic": "حُزمةُ كيراس من مكتبة تنسور فلو للتَّعلُّمِ العميقِ من جوجل",
+            "termURL": "https://aiinarabic.com/glossary/tf-keras/"
         },
         {
-            "English": "Theano",
-            "Arabic": "ثيانو",
-            "URL": "https://aiinarabic.com/glossary/theano/"
+            "english": "Theano",
+            "arabic": "ثيانو",
+            "termURL": "https://aiinarabic.com/glossary/theano/"
         },
         {
-            "English": "Time Series",
-            "Arabic": "السلاسل الزمنيّة",
-            "URL": "https://aiinarabic.com/glossary/time-series/"
+            "english": "Time Series",
+            "arabic": "السلاسل الزمنيّة",
+            "termURL": "https://aiinarabic.com/glossary/time-series/"
         },
         {
-            "English": "Token",
-            "Arabic": "وحدةٌ لفظيَّةٌ",
-            "URL": "https://aiinarabic.com/glossary/token/"
+            "english": "Token",
+            "arabic": "وحدةٌ لفظيَّةٌ",
+            "termURL": "https://aiinarabic.com/glossary/token/"
         },
         {
-            "English": "Tokenization",
-            "Arabic": "التَّقسيمُ إلى وحداتٍ لُغويَّةٍ",
-            "URL": "https://aiinarabic.com/glossary/tokenization/"
+            "english": "Tokenization",
+            "arabic": "التَّقسيمُ إلى وحداتٍ لُغويَّةٍ",
+            "termURL": "https://aiinarabic.com/glossary/tokenization/"
         },
         {
-            "English": "Topic Modeling",
-            "Arabic": "نمذجة المواضيع",
-            "URL": "https://aiinarabic.com/glossary/topic-modeling/"
+            "english": "Topic Modeling",
+            "arabic": "نمذجة المواضيع",
+            "termURL": "https://aiinarabic.com/glossary/topic-modeling/"
         },
         {
-            "English": "Transfer Learning",
-            "Arabic": "نقلُ التَّعَلُّمِ",
-            "URL": "https://aiinarabic.com/glossary/transfer-learning/"
+            "english": "Transfer Learning",
+            "arabic": "نقلُ التَّعَلُّمِ",
+            "termURL": "https://aiinarabic.com/glossary/transfer-learning/"
         },
         {
-            "English": "Transformer",
-            "Arabic": "المُحَوّل",
-            "URL": "https://aiinarabic.com/glossary/transformer/"
+            "english": "Transformer",
+            "arabic": "المُحَوّل",
+            "termURL": "https://aiinarabic.com/glossary/transformer/"
         },
         {
-            "English": "True Negative",
-            "Arabic": "قيمة التنبُّؤ السلبي الصحيح",
-            "URL": "https://aiinarabic.com/glossary/true-negative/"
+            "english": "True Negative",
+            "arabic": "قيمة التنبُّؤ السلبي الصحيح",
+            "termURL": "https://aiinarabic.com/glossary/true-negative/"
         },
         {
-            "English": "True Positive",
-            "Arabic": "قيمة التنبُّؤ الإيجابي الصحيح",
-            "URL": "https://aiinarabic.com/glossary/true-positive/"
+            "english": "True Positive",
+            "arabic": "قيمة التنبُّؤ الإيجابي الصحيح",
+            "termURL": "https://aiinarabic.com/glossary/true-positive/"
         },
         {
-            "English": "Two-Stage Detectors",
-            "Arabic": "كواشف ذات مرحلتين",
-            "URL": "https://aiinarabic.com/glossary/two-stage-detectors/"
+            "english": "Two-Stage Detectors",
+            "arabic": "كواشف ذات مرحلتين",
+            "termURL": "https://aiinarabic.com/glossary/two-stage-detectors/"
         },
         {
-            "English": "U-net",
-            "Arabic": "شبكةُ يو-نت",
-            "URL": "https://aiinarabic.com/glossary/u-net/"
+            "english": "U-net",
+            "arabic": "شبكةُ يو-نت",
+            "termURL": "https://aiinarabic.com/glossary/u-net/"
         },
         {
-            "English": "Underfitting",
-            "Arabic": "ملاءمة ضعيفة",
-            "URL": "https://aiinarabic.com/glossary/underfitting/"
+            "english": "Underfitting",
+            "arabic": "ملاءمة ضعيفة",
+            "termURL": "https://aiinarabic.com/glossary/underfitting/"
         },
         {
-            "English": "Upsampling",
-            "Arabic": "تكبيير الأبعاد",
-            "URL": "https://aiinarabic.com/glossary/upsampling/"
+            "english": "Upsampling",
+            "arabic": "تكبيير الأبعاد",
+            "termURL": "https://aiinarabic.com/glossary/upsampling/"
         },
         {
-            "English": "Validation Loss",
-            "Arabic": "خسارة التحقّق",
-            "URL": "https://aiinarabic.com/glossary/validation-loss/"
+            "english": "Validation Loss",
+            "arabic": "خسارة التحقّق",
+            "termURL": "https://aiinarabic.com/glossary/validation-loss/"
         },
         {
-            "English": "Vanishing Gradient Problem",
-            "Arabic": "مُشكِلةُ تلاشي المُشتقِّ",
-            "URL": "https://aiinarabic.com/glossary/vanishing-gradient-problem/"
+            "english": "Vanishing Gradient Problem",
+            "arabic": "مُشكِلةُ تلاشي المُشتقِّ",
+            "termURL": "https://aiinarabic.com/glossary/vanishing-gradient-problem/"
         },
         {
-            "English": "Vector Embedding",
-            "Arabic": "مُتّجه التّضّمين",
-            "URL": "https://aiinarabic.com/glossary/vector-embedding/"
+            "english": "Vector Embedding",
+            "arabic": "مُتّجه التّضّمين",
+            "termURL": "https://aiinarabic.com/glossary/vector-embedding/"
         },
         {
-            "English": "Vector Space Modeling",
-            "Arabic": "نمذجة فضاء المتجهات",
-            "URL": "https://aiinarabic.com/glossary/vector-space-modeling/"
+            "english": "Vector Space Modeling",
+            "arabic": "نمذجة فضاء المتجهات",
+            "termURL": "https://aiinarabic.com/glossary/vector-space-modeling/"
         },
         {
-            "English": "VGG Network",
-            "Arabic": "شبكة في جي جي",
-            "URL": "https://aiinarabic.com/glossary/vgg-network/"
+            "english": "VGG Network",
+            "arabic": "شبكة في جي جي",
+            "termURL": "https://aiinarabic.com/glossary/vgg-network/"
         },
         {
-            "English": "Violinplot",
-            "Arabic": "مخطّط الكمان",
-            "URL": "https://aiinarabic.com/glossary/violinplot/"
+            "english": "Violinplot",
+            "arabic": "مخطّط الكمان",
+            "termURL": "https://aiinarabic.com/glossary/violinplot/"
         },
         {
-            "English": "Vision Transformer (ViT)",
-            "Arabic": "محوّل الرّؤية",
-            "URL": "https://aiinarabic.com/glossary/vision-transformer-vit/"
+            "english": "Vision Transformer (ViT)",
+            "arabic": "محوّل الرّؤية",
+            "termURL": "https://aiinarabic.com/glossary/vision-transformer-vit/"
         },
         {
-            "English": "Visual Geometry Group (VGG)",
-            "Arabic": "شَبَكَةُ مجموعةِ الهندسةِ البصريَّة",
-            "URL": "https://aiinarabic.com/glossary/visual-geometry-group-vgg/"
+            "english": "Visual Geometry Group (VGG)",
+            "arabic": "شَبَكَةُ مجموعةِ الهندسةِ البصريَّة",
+            "termURL": "https://aiinarabic.com/glossary/visual-geometry-group-vgg/"
         },
         {
-            "English": "Voxel",
-            "Arabic": "فوكسل",
-            "URL": "https://aiinarabic.com/glossary/voxel/"
+            "english": "Voxel",
+            "arabic": "فوكسل",
+            "termURL": "https://aiinarabic.com/glossary/voxel/"
         },
         {
-            "English": "Voxelshop",
-            "Arabic": "فوكسل شوب",
-            "URL": "https://aiinarabic.com/glossary/voxelshop/"
+            "english": "Voxelshop",
+            "arabic": "فوكسل شوب",
+            "termURL": "https://aiinarabic.com/glossary/voxelshop/"
         },
         {
-            "English": "Word Embedding",
-            "Arabic": "تضمينُ الكلِماتِ",
-            "URL": "https://aiinarabic.com/glossary/word-embedding/"
+            "english": "Word Embedding",
+            "arabic": "تضمينُ الكلِماتِ",
+            "termURL": "https://aiinarabic.com/glossary/word-embedding/"
         },
         {
-            "English": "Word2Vec",
-            "Arabic": "نموذج الكلمة إلى متجه",
-            "URL": "https://aiinarabic.com/glossary/word2vec/"
+            "english": "Word2Vec",
+            "arabic": "نموذج الكلمة إلى متجه",
+            "termURL": "https://aiinarabic.com/glossary/word2vec/"
         },
         {
-            "English": "WordPieceTokenizer",
-            "Arabic": "المُقسّم إلى أجزاء الكلمات",
-            "URL": "https://aiinarabic.com/glossary/wordpiecetokenizer/"
+            "english": "WordPieceTokenizer",
+            "arabic": "المُقسّم إلى أجزاء الكلمات",
+            "termURL": "https://aiinarabic.com/glossary/wordpiecetokenizer/"
         },
         {
-            "English": "YOLOv3",
-            "Arabic": "يُولو الإصدار 3",
-            "URL": "https://aiinarabic.com/glossary/yolov3/"
+            "english": "YOLOv3",
+            "arabic": "يُولو الإصدار 3",
+            "termURL": "https://aiinarabic.com/glossary/yolov3/"
         },
         {
-            "English": "You Only Look Once (YOLO)",
-            "Arabic": "يُولو",
-            "URL": "https://aiinarabic.com/glossary/you-only-look-once-yolo/"
+            "english": "You Only Look Once (YOLO)",
+            "arabic": "يُولو",
+            "termURL": "https://aiinarabic.com/glossary/you-only-look-once-yolo/"
         },
         {
-            "English": "Zero-Shot Prompting",
-            "Arabic": "التّلقين بدون أمثلةٍ",
-            "URL": "https://aiinarabic.com/glossary/zero-shot-prompting/"
+            "english": "Zero-Shot Prompting",
+            "arabic": "التّلقين بدون أمثلةٍ",
+            "termURL": "https://aiinarabic.com/glossary/zero-shot-prompting/"
         }
     ]
 }
