@@ -1,0 +1,888 @@
+{
+    "fileData": {
+        "glossaryEn": "AI Terminology Glossary",
+        "glossaryAr": "AI Terminology Glossary",
+        "glossaryUrl": "https://openai.com/glossary/ai-terms",
+        "publisherAr": "OpenAI",
+        "publisherEn": "OpenAI",
+        "publisherUrl": "OpenAI"
+    },
+    "entries": [
+        {
+            "English": "Test Automation",
+            "Arabic": "الأتمتة الاختبارية"
+        },
+        {
+            "English": "Test Procedures",
+            "Arabic": "الإجراءات الاختبارية"
+        },
+        {
+            "English": "Testing",
+            "Arabic": "الاختبار"
+        },
+        {
+            "English": "Smoke Testing",
+            "Arabic": "الاختبار البسيط"
+        },
+        {
+            "English": "Beta Testing",
+            "Arabic": "الاختبار التجريبي الخارجي"
+        },
+        {
+            "English": "Alpha Testing",
+            "Arabic": "الاختبار التجريبي الداخلي"
+        },
+        {
+            "English": "Integration Testing",
+            "Arabic": "اختبار التكامل"
+        },
+        {
+            "English": "Acceptance Testing",
+            "Arabic": "اختبار التلبية"
+        },
+        {
+            "English": "Regression Testing",
+            "Arabic": "الاختبار التوكيدي غير الموجه"
+        },
+        {
+            "English": "Static Testing",
+            "Arabic": "الاختبار الثابت"
+        },
+        {
+            "English": "Black-Box Testing",
+            "Arabic": "الاختبار الخارجي"
+        },
+        {
+            "English": "White-Box Testing",
+            "Arabic": "الاختبار الداخلي"
+        },
+        {
+            "English": "High-Level Test",
+            "Arabic": "الاختبار السطحي"
+        },
+        {
+            "English": "Statement Testing",
+            "Arabic": "اختبار السطور"
+        },
+        {
+            "English": "End-To-End Test",
+            "Arabic": "الاختبار الشاملة"
+        },
+        {
+            "English": "Maintenance Testing",
+            "Arabic": "اختبار الصيانة"
+        },
+        {
+            "English": "Non-Functional Testing",
+            "Arabic": "الاختبار اللاوظيفي"
+        },
+        {
+            "English": "Dynamic Testing",
+            "Arabic": "الاختبار المتحرك"
+        },
+        {
+            "English": "Branch Testing",
+            "Arabic": "اختبار المرور"
+        },
+        {
+            "English": "Continuous Testing",
+            "Arabic": "الاختبار المستدام"
+        },
+        {
+            "English": "Component Test Level",
+            "Arabic": "اختبار المستوى المكوني"
+        },
+        {
+            "English": "Component Testing",
+            "Arabic": "الاختبار المكوني"
+        },
+        {
+            "English": "Component Integration Testing",
+            "Arabic": "الاختبار المكوني التكاملي"
+        },
+        {
+            "English": "System Testing",
+            "Arabic": "الاختبار النظامي"
+        },
+        {
+            "English": "System Integration Testing",
+            "Arabic": "الاختبار النظامي التكاملي"
+        },
+        {
+            "English": "Functional Testing",
+            "Arabic": "الاختبار الوظيفي"
+        },
+        {
+            "English": "Risk-Based Testing",
+            "Arabic": "الاختبار بالخطر"
+        },
+        {
+            "English": "Checklist-Based Testing",
+            "Arabic": "الاختبار بالقوائم"
+        },
+        {
+            "English": "User Story Acceptance Testing",
+            "Arabic": "اختبار تلبية الحويجة"
+        },
+        {
+            "English": "User Acceptance Testing",
+            "Arabic": "اختبار تلبية المستخدم"
+        },
+        {
+            "English": "Risk Management",
+            "Arabic": "إدارة الخطر"
+        },
+        {
+            "English": "Defect Management",
+            "Arabic": "إدارة الشوائب"
+        },
+        {
+            "English": "Testing Quadrants",
+            "Arabic": "الأرباع الاختبارية"
+        },
+        {
+            "English": "Retrieval Testing",
+            "Arabic": "الاستدعاء الجزئي"
+        },
+        {
+            "English": "Restore Testing",
+            "Arabic": "الاستدعاء الكلي"
+        },
+        {
+            "English": "Test Independence",
+            "Arabic": "استقلالية الاختبار"
+        },
+        {
+            "English": "Test Basis",
+            "Arabic": "الأسس الاختبارية"
+        },
+        {
+            "English": "Deployment",
+            "Arabic": "الإطلاق"
+        },
+        {
+            "English": "Continuous Deployment",
+            "Arabic": "الإطلاق المستمر"
+        },
+        {
+            "English": "Defect Severity",
+            "Arabic": "الإعاقة البرمجية"
+        },
+        {
+            "English": "Dependencies",
+            "Arabic": "الاعتماديات"
+        },
+        {
+            "English": "Test Completion",
+            "Arabic": "الاكتمال"
+        },
+        {
+            "English": "Security",
+            "Arabic": "الأمن"
+        },
+        {
+            "English": "Anomaly",
+            "Arabic": "انحراف  - شذوذ"
+        },
+        {
+            "English": "Test Activities",
+            "Arabic": "الأنشطة الاختبارية"
+        },
+        {
+            "English": "Test Objectives",
+            "Arabic": "الأهداف الاختبارية"
+        },
+        {
+            "English": "Defect Priority",
+            "Arabic": "الأهمية الإصلاحية"
+        },
+        {
+            "English": "Stubs",
+            "Arabic": "البدائل"
+        },
+        {
+            "English": "Extreme Programming",
+            "Arabic": "البرمجة القصوى"
+        },
+        {
+            "English": "Firmware",
+            "Arabic": "البرمجيات الجامدة"
+        },
+        {
+            "English": "Condition (Decision Table Context)",
+            "Arabic": "البنود (في سياق التصفيف)"
+        },
+        {
+            "English": "Test Data",
+            "Arabic": "بيانات اختبارية"
+        },
+        {
+            "English": "Test Harness",
+            "Arabic": "البيئة الاختبارية المسخرة"
+        },
+        {
+            "English": "Traceability",
+            "Arabic": "التتبعية"
+        },
+        {
+            "English": "Exploratory Testing",
+            "Arabic": "الاستطلاع"
+        },
+        {
+            "English": "State Transition Testing",
+            "Arabic": "التحاويل"
+        },
+        {
+            "English": "Test Analysis",
+            "Arabic": "تحليل الاختبار"
+        },
+        {
+            "English": "Impact Analysis",
+            "Arabic": "التحليل التبعي"
+        },
+        {
+            "English": "Static Analysis",
+            "Arabic": "التحليل الثابت"
+        },
+        {
+            "English": "Risk Analysis",
+            "Arabic": "تحليل الخطر"
+        },
+        {
+            "English": "Defect Analysis",
+            "Arabic": "تحليل العيوب"
+        },
+        {
+            "English": "Test Planning",
+            "Arabic": "التخطيط الاختباري"
+        },
+        {
+            "English": "Risk Mitigation",
+            "Arabic": "تخفيف الخطر"
+        },
+        {
+            "English": "Error Guessing",
+            "Arabic": "تخمين الهفوات"
+        },
+        {
+            "English": "Coding",
+            "Arabic": "ترميز"
+        },
+        {
+            "English": "Test Procedure",
+            "Arabic": "التسلسل الاختباري"
+        },
+        {
+            "English": "Continuous Delivery",
+            "Arabic": "التسليم المستمر"
+        },
+        {
+            "English": "Boundary Value Analysis",
+            "Arabic": "التسوير"
+        },
+        {
+            "English": "Equivalence Partitioning",
+            "Arabic": "التشريح"
+        },
+        {
+            "English": "Debugging",
+            "Arabic": "تصحيح"
+        },
+        {
+            "English": "Decision Table Testing",
+            "Arabic": "التصفيف"
+        },
+        {
+            "English": "Test Design",
+            "Arabic": "تصميم الاختبار"
+        },
+        {
+            "English": "Domain-Driven Design",
+            "Arabic": "التصميم بالمجال"
+        },
+        {
+            "English": "Agile Software Development",
+            "Arabic": "تطوير البرمجيات المرنة"
+        },
+        {
+            "English": "DevOps",
+            "Arabic": "التطوير التشغيلي"
+        },
+        {
+            "English": "Acceptance Test-Driven Development",
+            "Arabic": "التطوير باختبار التلبية"
+        },
+        {
+            "English": "Test-Driven Development",
+            "Arabic": "التطوير بالاختبار"
+        },
+        {
+            "English": "Behavior-Driven Development",
+            "Arabic": "التطوير بالسلوك"
+        },
+        {
+            "English": "Feature-Driven Development",
+            "Arabic": "التطوير بالمزايا"
+        },
+        {
+            "English": "Risk Identification",
+            "Arabic": "التعرف على الخطر"
+        },
+        {
+            "English": "Fault Attacks",
+            "Arabic": "التعطل بالتعطيل"
+        },
+        {
+            "English": "Coverage",
+            "Arabic": "تغطية"
+        },
+        {
+            "English": "Each Choice Coverage",
+            "Arabic": "التغطية الأحادية"
+        },
+        {
+            "English": "Test Reports",
+            "Arabic": "التقارير الاختبارية"
+        },
+        {
+            "English": "Test Progress",
+            "Arabic": "التقدم الاختباري"
+        },
+        {
+            "English": "Estimation Based on Ratios",
+            "Arabic": "التقدير الجمعي"
+        },
+        {
+            "English": "Effort Estimation",
+            "Arabic": "التقدير الجهدي"
+        },
+        {
+            "English": "Wideband Delphi",
+            "Arabic": "التقدير الخبروي الاصطلاحي"
+        },
+        {
+            "English": "Three-Point Estimation",
+            "Arabic": "التقدير الخبروي القانوني"
+        },
+        {
+            "English": "Extrapolation",
+            "Arabic": "التقدير الذاتي"
+        },
+        {
+            "English": "Test Completion Report",
+            "Arabic": "تقرير الاكتمال الاختباري"
+        },
+        {
+            "English": "Test Progress Report",
+            "Arabic": "تقرير التقدم الاختباري"
+        },
+        {
+            "English": "Defect Report",
+            "Arabic": "تقرير الشوائب"
+        },
+        {
+            "English": "Testing Techniques",
+            "Arabic": "التقنيات الاختبارية"
+        },
+        {
+            "English": "Review Techniques",
+            "Arabic": "تقنيات المراجعة"
+        },
+        {
+            "English": "Review Techniques",
+            "Arabic": "تقنيات المراجعة"
+        },
+        {
+            "English": "Test Technique",
+            "Arabic": "تقنية الاختبار"
+        },
+        {
+            "English": "Experience-Based Test Technique",
+            "Arabic": "تقنية الاختبار الحدسي"
+        },
+        {
+            "English": "Lean IT",
+            "Arabic": "تقنية المعلومات اللينة"
+        },
+        {
+            "English": "Risk Assessment",
+            "Arabic": "تقييم الخطر"
+        },
+        {
+            "English": "Continuous Integration",
+            "Arabic": "التكامل المستمر"
+        },
+        {
+            "English": "Portability",
+            "Arabic": "التكيفية"
+        },
+        {
+            "English": "Inspection",
+            "Arabic": "التمحيص"
+        },
+        {
+            "English": "Test Execution",
+            "Arabic": "التنفيذ"
+        },
+        {
+            "English": "Test Implementation",
+            "Arabic": "التهيئة"
+        },
+        {
+            "English": "Compatibility",
+            "Arabic": "التوافقية"
+        },
+        {
+            "English": "Control Directives",
+            "Arabic": "التوجيهات التحكمية"
+        },
+        {
+            "English": "Test Schedule",
+            "Arabic": "الجدول الاختباري"
+        },
+        {
+            "English": "Shift-Left",
+            "Arabic": "الجر إلى المقدمة"
+        },
+        {
+            "English": "Pair Testing Sessions",
+            "Arabic": "جلسات الاختبار الثنائية"
+        },
+        {
+            "English": "Quality",
+            "Arabic": "جودة"
+        },
+        {
+            "English": "Test Case",
+            "Arabic": "الحالة الاختبارية"
+        },
+        {
+            "English": "Scenario-Oriented",
+            "Arabic": "الحدثية"
+        },
+        {
+            "English": "Test Suites",
+            "Arabic": "الحزم الاختبارية"
+        },
+        {
+            "English": "User Story",
+            "Arabic": "حويجة استخدام"
+        },
+        {
+            "English": "Test Object",
+            "Arabic": "الخاضع الاختباري"
+        },
+        {
+            "English": "Test Plan",
+            "Arabic": "الخطة الاختبارية"
+        },
+        {
+            "English": "Risk",
+            "Arabic": "خطر"
+        },
+        {
+            "English": "Unmitigated Risk",
+            "Arabic": "خطر متروك"
+        },
+        {
+            "English": "Project Risk",
+            "Arabic": "خطر مشروعي"
+        },
+        {
+            "English": "Product Risk",
+            "Arabic": "خطر منتجي"
+        },
+        {
+            "English": "Lessons Learned",
+            "Arabic": "الدروس المستفادة"
+        },
+        {
+            "English": "Software Development Life Cycle (SDLC)",
+            "Arabic": "دورة حياة تطوير البرمجيات"
+        },
+        {
+            "English": "Example Mappings",
+            "Arabic": "رسومات العلاقة المبسطة"
+        },
+        {
+            "English": "Code",
+            "Arabic": "رمز"
+        },
+        {
+            "English": "Root Cause",
+            "Arabic": "السبب الجذري"
+        },
+        {
+            "English": "Risk Register",
+            "Arabic": "سجل المخاطر"
+        },
+        {
+            "English": "Test Logs",
+            "Arabic": "السجلات الاختبارية"
+        },
+        {
+            "English": "Safety",
+            "Arabic": "السلامية"
+        },
+        {
+            "English": "Usability",
+            "Arabic": "السهولية"
+        },
+        {
+            "English": "Test Control",
+            "Arabic": "السيطرة"
+        },
+        {
+            "English": "Test Control",
+            "Arabic": "السيطرة الاختبارية"
+        },
+        {
+            "English": "Risk Control",
+            "Arabic": "السيطرة على الخطر"
+        },
+        {
+            "English": "Test Condition",
+            "Arabic": "شرط الاختبار"
+        },
+        {
+            "English": "Preconditions",
+            "Arabic": "الشروط السابقة"
+        },
+        {
+            "English": "Postconditions",
+            "Arabic": "الشروط اللاحقة"
+        },
+        {
+            "English": "Invalid Partition",
+            "Arabic": "شريحة زائغة"
+        },
+        {
+            "English": "Valid Partition",
+            "Arabic": "شريحة قويمة"
+        },
+        {
+            "English": "Verification",
+            "Arabic": "الصحية"
+        },
+        {
+            "English": "Maintainability",
+            "Arabic": "الصيانة"
+        },
+        {
+            "English": "Configuration Management",
+            "Arabic": "الضبط"
+        },
+        {
+            "English": "Quality Assurance",
+            "Arabic": "ضمان الجودة"
+        },
+        {
+            "English": "Exit Criteria",
+            "Arabic": "ضوابط الانتهاء"
+        },
+        {
+            "English": "Entry Criteria",
+            "Arabic": "ضوابط البدء"
+        },
+        {
+            "English": "Change Requests",
+            "Arabic": "طلبات التعديل"
+        },
+        {
+            "English": "Scrum",
+            "Arabic": "عزم"
+        },
+        {
+            "English": "Failure",
+            "Arabic": "عطل"
+        },
+        {
+            "English": "Test Process",
+            "Arabic": "العملية الاختبارية"
+        },
+        {
+            "English": "Unified Process",
+            "Arabic": "العملية الموحدة"
+        },
+        {
+            "English": "Coverage Item",
+            "Arabic": "عنصر التغطية"
+        },
+        {
+            "English": "Defect",
+            "Arabic": "عيب"
+        },
+        {
+            "English": "False Positive",
+            "Arabic": "عيب إيجابي"
+        },
+        {
+            "English": "False Negative",
+            "Arabic": "عيب سلبي"
+        },
+        {
+            "English": "Usability",
+            "Arabic": "قابلية الاستخدام"
+        },
+        {
+            "English": "Portability",
+            "Arabic": "قابلية التنقل"
+        },
+        {
+            "English": "Risk Impact",
+            "Arabic": "قدر الضرر"
+        },
+        {
+            "English": "Risk Likelihood",
+            "Arabic": "قدر الغرر"
+        },
+        {
+            "English": "Kanban",
+            "Arabic": "كانبان"
+        },
+        {
+            "English": "Performance Efficiency",
+            "Arabic": "الأدائية"
+        },
+        {
+            "English": "Iterations",
+            "Arabic": "الكرات"
+        },
+        {
+            "English": "Dry Runs",
+            "Arabic": "محاكاة جافة"
+        },
+        {
+            "English": "Project Milestone",
+            "Arabic": "محطات المشروع"
+        },
+        {
+            "English": "Drivers",
+            "Arabic": "المحفزات"
+        },
+        {
+            "English": "Usability Lab",
+            "Arabic": "مختبر السهولة"
+        },
+        {
+            "English": "Testware",
+            "Arabic": "المخرجات الاختبارية"
+        },
+        {
+            "English": "Test Deliverables",
+            "Arabic": "المخرجات الاختبارية"
+        },
+        {
+            "English": "Cause-Effect Diagrams",
+            "Arabic": "مخطط السببية"
+        },
+        {
+            "English": "Control Flow Graph",
+            "Arabic": "مخطط السيرورة"
+        },
+        {
+            "English": "Review",
+            "Arabic": "المراجعة"
+        },
+        {
+            "English": "Technical Review",
+            "Arabic": "المراجعة التقنية"
+        },
+        {
+            "English": "Formal Review",
+            "Arabic": "المراجعة الرسمية"
+        },
+        {
+            "English": "Informal Review",
+            "Arabic": "المراجعة الودية"
+        },
+        {
+            "English": "Follow-Up Review",
+            "Arabic": "مراجعة تبعية"
+        },
+        {
+            "English": "Test Monitoring",
+            "Arabic": "المراقبة"
+        },
+        {
+            "English": "Test Monitoring",
+            "Arabic": "مراقبة الاختبار"
+        },
+        {
+            "English": "Risk Monitoring",
+            "Arabic": "مراقبة الخطر"
+        },
+        {
+            "English": "Backlog",
+            "Arabic": "المركم"
+        },
+        {
+            "English": "Walkthrough",
+            "Arabic": "مرور"
+        },
+        {
+            "English": "Portability",
+            "Arabic": "المرونة"
+        },
+        {
+            "English": "DevOps Delivery Pipeline",
+            "Arabic": "مسار التسليم المشترك"
+        },
+        {
+            "English": "Workflows",
+            "Arabic": "مسارات العمل"
+        },
+        {
+            "English": "Test Level",
+            "Arabic": "مستوى الاختبار"
+        },
+        {
+            "English": "Risk Level",
+            "Arabic": "مستوى الخطر"
+        },
+        {
+            "English": "Validation",
+            "Arabic": "مصلحية"
+        },
+        {
+            "English": "Artifact",
+            "Arabic": "مصنوع"
+        },
+        {
+            "English": "Acceptance Criteria",
+            "Arabic": "معايير التلبية"
+        },
+        {
+            "English": "Test Metrics",
+            "Arabic": "المقاييس الاختبارية"
+        },
+        {
+            "English": "Mitigation Actions",
+            "Arabic": "المقلصات"
+        },
+        {
+            "English": "Risk Level Measure",
+            "Arabic": "المقياس الخطري"
+        },
+        {
+            "English": "Risk Matrix",
+            "Arabic": "المقياس الخطري"
+        },
+        {
+            "English": "Planning Poker",
+            "Arabic": "مكاشفة البطاقات"
+        },
+        {
+            "English": "Work Products",
+            "Arabic": "منتوجات الأعمال"
+        },
+        {
+            "English": "Executable Work Products",
+            "Arabic": "منتوجات العمل القابلة للتنفيذ"
+        },
+        {
+            "English": "Non-Executable Work Products",
+            "Arabic": "منتوجات العمل غير القابلة للتنفيذ"
+        },
+        {
+            "English": "Reliability",
+            "Arabic": "الموثوقية"
+        },
+        {
+            "English": "Test Charter",
+            "Arabic": "الميثاق الاختباري"
+        },
+        {
+            "English": "System Interface",
+            "Arabic": "نافذة النظام"
+        },
+        {
+            "English": "Test Result",
+            "Arabic": "النتيجة الاختبارية"
+        },
+        {
+            "English": "Expected Results",
+            "Arabic": "النتيجة المتوقعة"
+        },
+        {
+            "English": "Actual Results",
+            "Arabic": "النتيجة الواقعة"
+        },
+        {
+            "English": "Test Script",
+            "Arabic": "النص الاختباري"
+        },
+        {
+            "English": "Scope Creep",
+            "Arabic": "النطاق المتمدد"
+        },
+        {
+            "English": "Operational System",
+            "Arabic": "النظام التشغيلي"
+        },
+        {
+            "English": "Rule-Oriented",
+            "Arabic": "النقطية"
+        },
+        {
+            "English": "Prototyping",
+            "Arabic": "النماذج الأولية"
+        },
+        {
+            "English": "Incremental Development Models",
+            "Arabic": "النماذج التطويرية التدريجية"
+        },
+        {
+            "English": "Sequential Development Models",
+            "Arabic": "النماذج التطويرية التسلسلية"
+        },
+        {
+            "English": "Iterative Development Models",
+            "Arabic": "النماذج التطويرية التكرارية"
+        },
+        {
+            "English": "V-Model",
+            "Arabic": "النموذج سبعة"
+        },
+        {
+            "English": "Waterfall Model",
+            "Arabic": "النموذج الشلال"
+        },
+        {
+            "English": "Spiral Model",
+            "Arabic": "النموذج اللولبي"
+        },
+        {
+            "English": "Test Approach",
+            "Arabic": "النهج الاختباري"
+        },
+        {
+            "English": "Collaboration-Based Test Approach",
+            "Arabic": "نهج الاختبار بالتعاون"
+        },
+        {
+            "English": "Test-First Approach",
+            "Arabic": "النهج الاختباري الاستباقي"
+        },
+        {
+            "English": "Test Type",
+            "Arabic": "نوع الاختبار"
+        },
+        {
+            "English": "Test Objective",
+            "Arabic": "الهدف الاختباري"
+        },
+        {
+            "English": "Test Pyramid",
+            "Arabic": "الهرم الاختباري"
+        },
+        {
+            "English": "Error",
+            "Arabic": "هفوة"
+        },
+        {
+            "English": "Test Documentation",
+            "Arabic": "الوثائق الاختبارية"
+        }
+    ]
+}

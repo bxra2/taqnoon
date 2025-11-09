@@ -1,0 +1,83 @@
+:root {
+    --background-color: #f9f7f1;
+    --color: #2f2f2f;
+}
+@import 'tailwindcss';
+/* #9d9487
+#473625 */
+
+@font-face {
+    font-family: 'Hacen';
+    src: url('/fonts/Hacen_Newspaper.ttf');
+}
+@font-face {
+    font-family: 'almahdi';
+    src: url('/fonts/almahdi.otf');
+}
+@font-face {
+    font-family: 'naskh';
+    src: url('/fonts/decotype_naskh.ttf');
+}
+:root {
+    --bg-color: #f0efea;
+    --text-color: #141413;
+    --accent: #a67c52;
+    --border: #d7ccc8;
+    --muted: #6b5b4b;
+}
+
+[data-theme='dark'] {
+    --bg-color: #141413;
+    --text-color: #f0efea;
+    --card-bg: #2d2d2d;
+    --border-color: #404040;
+    --primary-color: #64b5f6;
+    --shadow: rgba(0, 0, 0, 0.3);
+}
+* {
+    font-family: 'Playfair Display', 'almahdi' !important;
+}
+body {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    line-height: 1.6;
+    transition: background-color 0.3s ease;
+    margin: 0;
+    padding: 1rem;
+    min-height: 100vh;
+}
+
+input {
+    font-family: inherit;
+    background-color: #fff;
+    border: 1px solid var(--border);
+    padding: 0.6rem 0.8rem;
+    width: 100%;
+    border-radius: 4px;
+    outline: none;
+    transition: border-color 0.2s;
+}
+
+input:focus {
+    border-color: var(--accent);
+}
+
+h1,
+h2,
+h3 {
+    color: var(--text-color);
+    font-weight: 600;
+}
+
+a {
+    color: var(--accent);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.search-button{
+    background-color: (--border) !important;
+}
