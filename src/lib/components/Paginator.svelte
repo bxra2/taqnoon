@@ -1,5 +1,5 @@
 <script lang="ts">
-    import { toArabicIndic } from '$lib/utils/numerals.ts'
+    import { toArabicIndic } from '$lib/utils/numerals'
 
     interface Props {
         currentPage?: number

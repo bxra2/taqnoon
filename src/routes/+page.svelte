@@ -5,10 +5,22 @@
     import { onMount } from 'svelte'
 
     let query = $state('')
-    let searchQuery = $state('') // The actual query used for filtering
     let data = $state([])
+    let results = $state([])
     let currentPage = $state(1)
     let limit = $state(10)
+    let searchAlign = $state(true)
+
+    function changeDirection(event: Event) {
+        const target = event.target as HTMLInputElement | null
+
+        if (target && target.value) {
+            const arabicRegex = /[\u0600-\u06FF]/
+            searchAlign = arabicRegex.test(target.value)
+        } else {
+            searchAlign = false
+        }
+    }
 
     onMount(async () => {
         const modules = import.meta.glob('/src/lib/data/**/*.json')
@@ -24,9 +36,10 @@
                         ...entry,
                         glossaryEn: json.fileData.glossaryEn,
                         glossaryAr: json.fileData.glossaryAr,
-                        url: json.fileData.url,
+                        glossaryUrl: json.fileData.glossaryUrl,
                         publisherAr: json.fileData.publisherAr,
                         publisherEn: json.fileData.publisherEn,
+                        publisherUrl: json.fileData.publisherUrl,
                     })
                 }
             }
@@ -35,49 +48,47 @@
         data = allData
     })
 
-    // Filtered results based on search query
-    let results = $derived.by(() => {
-        if (!searchQuery.trim()) return []
-
-        const lower = searchQuery.toLowerCase()
-        return data.filter((item) =>
-            Object.values(item).some(
-                (value) =>
-                    typeof value === 'string' &&
-                    value.toLowerCase().includes(lower)
-            )
-        )
-    })
-
-    // Paginated results
     let paginatedResults = $derived.by(() => {
         const startIndex = (currentPage - 1) * limit
         const endIndex = startIndex + limit
         return results.slice(startIndex, endIndex)
     })
 
-    // Reset to page 1 when search query changes
-    $effect(() => {
-        searchQuery // track search query changes
-        currentPage = 1
-    })
-
-    // Handle search submit
-    function handleSearch() {
-        searchQuery = query
+    function removeDiacritics(text: string): string {
+    return text.normalize('NFKD').replace(/[\u064B-\u065F\u0670\u06D6-\u06ED]/g, '')
     }
 
-    // Handle Enter key
+
+    function handleSearch() {
+        if (!query.trim()) {
+            results = []
+            return
+        }
+
+        const lower = query.toLowerCase()
+        const normalizedQuery = removeDiacritics(query)
+        results = data.filter((item) => {
+            const englishMatch = item.english?.toLowerCase().includes(lower)
+            const arabicMatch =
+                item.arabic &&
+                removeDiacritics(item.arabic).includes(normalizedQuery)
+
+            return englishMatch || arabicMatch
+        })
+
+        currentPage = 1
+    }
     function handleKeydown(event: KeyboardEvent) {
         if (event.key === 'Enter') {
+            event.preventDefault()
             handleSearch()
         }
     }
 </script>
 
 <div class="max-w-3xl mx-auto p-6">
-    <div dir="rtl" class="flex align-center justify-between">
-        <h1 class="text-3xl font-bold mb-6 text-center">تقنون</h1>
+    <div dir="rtl" class="flex align-center justify-between mb-6">
+        <h1 class="text-3xl font-bold text-center">تقنون</h1>
         <DarkMode />
     </div>
 
@@ -88,7 +99,8 @@
             onkeydown={handleKeydown}
             placeholder="ابحث عن مصطلحات تقنية..."
             class="flex-1 p-3 border rounded"
-            dir="rtl"
+            dir={searchAlign ? 'rtl' : 'ltr'}
+            oninput={changeDirection}
         />
         <button
             onclick={handleSearch}
@@ -99,7 +111,7 @@
     </div>
 
     {#if results.length > 0}
-        <!-- <div class="flex align-center justify-center mb-6">
+        <div class="flex align-center justify-center mb-6">
             <Paginator
                 bind:currentPage
                 bind:limit
@@ -111,24 +123,11 @@
                     window.scrollTo({ top: 0, behavior: 'smooth' })
                 }}
             />
-        </div> -->
+        </div>
 
         <ul class="space-y-4">
-            {#each paginatedResults as term (term.English || term.Arabic)}
-                <TermCard
-                    french={term.French}
-                    german={term.German}
-                    arabic={term.Arabic}
-                    english={term.English}
-                    desc={term.Description}
-                    glossaryEn={term.glossaryEn}
-                    glossaryAr={term.glossaryAr}
-                    collectionName={term.publisherEn}
-                    collectionNameAr={term.publisherAr}
-                    collectionURL={term.publisherUrl}
-                    sourceURL={term.url}
-                    {term}
-                />
+            {#each paginatedResults as term, i (i)}
+                <TermCard {term} />
             {/each}
         </ul>
 
@@ -142,7 +141,7 @@
                 }}
             />
         </div>
-    {:else if searchQuery}
+    {:else if query}
         <p class="text-center text-gray-500">لا توجد نتائج</p>
     {:else}
         <p class="text-center text-gray-500">أدخل كلمة للبحث</p>
