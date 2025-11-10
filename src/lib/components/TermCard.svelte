@@ -21,19 +21,23 @@
 
 <article class="term-card">
     <header>
-        <h2 class="en"><a href={term.termURL}>{term.english}</a></h2>
-        <h3 class="ar"><a href={term.termURL}>{term.arabic}</a></h3>
+        <h2 class="en">
+            <a target="_blank" href={term.termURL}>{term.english}</a>
+        </h2>
+        <h3 class="ar">
+            <a target="_blank" href={term.termURL}>{term.arabic}</a>
+        </h3>
     </header>
+    {#if term.description}
+        <b>الوصف: </b>
+        <p class="desc">{term.description}</p>
+    {/if}
 
     {#if term.german || term.french}
         <section class="translations">
             {#if term.french}<p><b>فرنسي:</b> {term.french}</p>{/if}
             {#if term.german}<p><b>ألماني:</b> {term.german}</p>{/if}
         </section>
-    {/if}
-
-    {#if term.description}
-        <p class="desc">{term.description}</p>
     {/if}
 
     <footer>

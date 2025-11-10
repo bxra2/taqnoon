@@ -61,7 +61,7 @@
     }
 </script>
 
-<nav class="pagination items-start flex justify-between" aria-label="نتائج البحث التصفح">
+<nav class="pagination" aria-label="نتائج البحث التصفح">
     <div class="pages" role="navigation">
         <!--  الصفحة السابقة  -->
         <button
@@ -148,11 +148,11 @@
 <style>
     .pagination {
         display: flex;
-        justify-content: space-around;
+        justify-content: space-between;
         align-items: center;
-        margin-top: 20px;
+        margin-top: 0px;
         flex-wrap: wrap;
-        gap: 20px;
+        gap: 10px;
     }
 
     .pages {

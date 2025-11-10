@@ -130,7 +130,7 @@ function handleSearch() {
     </div>
 
     {#if results.length > 0}
-        <div class="flex align-center justify-between mb-6">
+        <div class="mb-4">
             <Paginator
                 bind:currentPage
                 bind:limit
