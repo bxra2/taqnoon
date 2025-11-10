@@ -125,7 +125,7 @@ function handleSearch() {
             onclick={handleSearch}
             class="px-6 py-3 search-button text-white rounded"
         >
-            بحث
+            إبحث
         </button>
     </div>
 
