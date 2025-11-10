@@ -1,0 +1,677 @@
+{
+    "fileData": {
+        "glossaryEn": "Glossary of Information Security Terms",
+        "glossaryAr": "مسرد مصطلحات أمن المعلومات",
+        "glossaryUrl": "https://archive.org/details/SYRIA0000ENAR",
+        "publisherAr": "الهيئة الوطنية لخدمة الشبكات",
+        "publisherEn": "NANSISC",
+        "publisherUrl": "https://www.nans.gov.sy/"
+    },
+    "entries": [
+        { "english": "Abusive Content", "arabic": "محتوى مسيء" },
+        { "english": "Access Control", "arabic": "التحكّم في النفاذ" },
+        {
+            "english": "Access Control List (ACL)",
+            "arabic": "قائمة ضبط النفاذ"
+        },
+        { "english": "Access Permission", "arabic": "سماحيات النفاذ" },
+        { "english": "Access Point (AP)", "arabic": "نقطة نفاذ" },
+        { "english": "Access Protection", "arabic": "حماية النفاذ" },
+        { "english": "Access Violation", "arabic": "انتهاك نفاذ" },
+        { "english": "Accessibility", "arabic": "إمكانية النفاذ" },
+        { "english": "Accidental Threats", "arabic": "التهديدات العرضية" },
+        { "english": "Active Attack", "arabic": "هجوم فعّال (نشط)" },
+        { "english": "Active Threat", "arabic": "تهديد نشط" },
+        {
+            "english": "Adaptive Chosen Plaintext Attack",
+            "arabic": "هجوم النص الواضح المختار المتكيف"
+        },
+        {
+            "english": "Adaptive Chosen Ciphertext Attack",
+            "arabic": "هجوم النص المشفر المختار المتكيف"
+        },
+        { "english": "Address Obfuscation", "arabic": "تشويش العنوان" },
+        {
+            "english": "Advanced Encryption Standard (AES)",
+            "arabic": "معيار التشفير المتقدم"
+        },
+        { "english": "Adware (AD)", "arabic": "برنامج إعلاني" },
+        {
+            "english": "Anomaly Detection System (ADS)",
+            "arabic": "نظام كشف الشذوذ"
+        },
+        { "english": "Anonymity", "arabic": "إغفال الهوية" },
+        { "english": "Anonymous Access", "arabic": "نفاذ مجهول الهوية" },
+        {
+            "english": "Anti-phishing Software",
+            "arabic": "برنامج مضاد للتصيّد"
+        },
+        { "english": "Anti-spy Software", "arabic": "برنامج مضاد للتجسس" },
+        {
+            "english": "Anti-spyware Software",
+            "arabic": "برنامج مضاد لبرمجيات التجسس"
+        },
+        { "english": "Anti-virus Software", "arabic": "برنامج مضاد للفيروسات" },
+        { "english": "Asymmetric Encryption", "arabic": "تشفير لا متناظر" },
+        { "english": "Attacker", "arabic": "مُهاجم" },
+        { "english": "Audit Ability", "arabic": "قابلية التدقيق" },
+        { "english": "Auditing", "arabic": "تدقيق" },
+        { "english": "Authenticated Access", "arabic": "نفاذ بالاستيقان" },
+        { "english": "Authentication", "arabic": "استيقان" },
+        { "english": "Authentication Bypass", "arabic": "تجاوز الاستيقان" },
+        { "english": "Authenticator", "arabic": "المستيقن - الميّقن" },
+        { "english": "Authorization", "arabic": "تخويل - منح الصلاحية" },
+        { "english": "Availability", "arabic": "ُمتاحية - جاهزية" },
+        { "english": "Avalanche Criteria", "arabic": "معدّل الانهيار" },
+        { "english": "Backdoor", "arabic": "باب خلفي" },
+        { "english": "Backup", "arabic": "نسخ احتياطي" },
+        { "english": "Batch", "arabic": "رقعة برمجية" },
+        { "english": "Biometrics", "arabic": "قياسات حيوية" },
+        { "english": "Birthday Attack", "arabic": "هجوم يوم الميلاد" },
+        { "english": "Bot", "arabic": "برنامج خبيث للتحكّم بالحاسوب من بعُد" },
+        {
+            "english": "Bounced Email",
+            "arabic": "رسائل البريد الإلكتروني المرتدة"
+        },
+        { "english": "Break-ins", "arabic": "اختراقات أمنية" },
+        { "english": "Bridge", "arabic": "ِجسر" },
+        { "english": "Browser Changers", "arabic": "مُغيّرات المتصفح" },
+        { "english": "Browser Hijackers", "arabic": "برامج اختطاف المتصفح" },
+        {
+            "english": "Browser Modifier",
+            "arabic": "برنامج تغيير إعدادات المتصفح دون إذن"
+        },
+        { "english": "Brute Force Attack", "arabic": "هجوم البحث الشامل" },
+        { "english": "Buffer Overflow", "arabic": "فيض الصِوّان" },
+        { "english": "Bug", "arabic": "عثرة برمجية" },
+        { "english": "Bulk Encryption", "arabic": "تشفير جُملي (كتلي)" },
+        {
+            "english": "Business Continuity Analyst",
+            "arabic": "محلل استمرارية العمل"
+        },
+        { "english": "Cache", "arabic": "خابية" },
+        { "english": "Caching", "arabic": "تخبئة -  خباية" },
+        { "english": "Cavity Infection", "arabic": "إصابة المساحة الفارغة" },
+        { "english": "Certification", "arabic": "ُمصادقة" },
+        {
+            "english": "Certification Authority (CA)",
+            "arabic": "سلطة منح الشهادات"
+        },
+        { "english": "Certified Mail", "arabic": "بريد مُصدّق" },
+        { "english": "Change Control Authority", "arabic": "سلطة ضبط التغيير" },
+        {
+            "english": "Chosen Ciphertext Attack",
+            "arabic": "هجوم النص المشفر المختار"
+        },
+        {
+            "english": "Ciphertext only Attack",
+            "arabic": "هجوم النص المشفر فقط"
+        },
+        { "english": "Codec", "arabic": "كودك - مرمز - مفكك ترميز" },
+        { "english": "Collision", "arabic": "تصادم" },
+        { "english": "Collision Detection", "arabic": "كشف التصادم" },
+        {
+            "english": "Computer Crime Investigator",
+            "arabic": "محقق جرائم الحاسوب"
+        },
+        {
+            "english": "Computer Emergency Response Team (CERT)",
+            "arabic": "فريق الاستجابة لطوارئ الحاسوب"
+        },
+        {
+            "english": "Computer Security Incident Response Team (CSIRT)",
+            "arabic": "فريق الاستجابة لحوادث أمن الحاسوب"
+        },
+        { "english": "Computer Forensics", "arabic": "القرائن الحاسوبية" },
+        { "english": "Concurrence", "arabic": "مطابقة" },
+        { "english": "Confidentiality", "arabic": "السّرية" },
+        { "english": "Configuration Auditing", "arabic": "تدقيق التشكيلة" },
+        { "english": "Confusion", "arabic": "تشويش" },
+        { "english": "Congestion", "arabic": "اختناق" },
+        { "english": "Controlled Access", "arabic": "نفاذ مضبوط (مُتحكم به)" },
+        { "english": "Cookie", "arabic": "ملف ارتباط" },
+        { "english": "Corruption", "arabic": "إتلاف (البيانات)" },
+        { "english": "Cracker", "arabic": "مُخرِب" },
+        { "english": "Crack", "arabic": "تصديع" },
+        { "english": "Critical Updates", "arabic": "التحديثات الحرجة" },
+        { "english": "Crime Investigator", "arabic": "محقق جرائم" },
+        {
+            "english": "Cross-site Request Forgery (XSRF)",
+            "arabic": "طلب مُزور عبر الموقع"
+        },
+        {
+            "english": "Cross-site Scripting (XSS)",
+            "arabic": "حقن برمجي عبر الموقع"
+        },
+        { "english": "Cryptanalysis", "arabic": "تحليل التعمية" },
+        { "english": "Cryptography", "arabic": "تعمية" },
+        { "english": "Cryptor", "arabic": "أداة تعمية (مُشفّر)" },
+        { "english": "Cyber-", "arabic": "بادئة تعني سيبراني" },
+        { "english": "Cyber Crime", "arabic": "الجريمة السيبرانية" },
+        {
+            "english": "Cyber Early Warning",
+            "arabic": "التحذير المبكر من الجرائم السيبرانية"
+        },
+        { "english": "Cyber Squatting", "arabic": "السطو السيبراني" },
+        { "english": "Cyber Surveillance", "arabic": "مراقبة سيبرانية" },
+        { "english": "Cyber Terrorism", "arabic": "الإرهاب السيراني" },
+        { "english": "Data Diddling", "arabic": "العبث (الغش) بالمعطيات" },
+        {
+            "english": "Data Encryption Standard (DES)",
+            "arabic": "معيار تشفير المعطيات"
+        },
+        { "english": "Decapsulation", "arabic": "فك التغليف" },
+        { "english": "Deciphering", "arabic": "فك التعمية" },
+        { "english": "Decryption", "arabic": "فك التشفير" },
+        { "english": "Definition", "arabic": "تعريف" },
+        { "english": "Delay Distortion", "arabic": "تشويه ناجم عن التأخير" },
+        { "english": "Denial of Service (DoS)", "arabic": "منع تقديم الخدمة" },
+        { "english": "Destruction", "arabic": "تدمير (البيانات)" },
+        {
+            "english": "Disaster Recovery",
+            "arabic": "استعادة في حالات الكوارث"
+        },
+        { "english": "Dictionary Attack", "arabic": "هجوم المعجم" },
+        {
+            "english": "Differential Cryptanalysis",
+            "arabic": "تحليل التعمية التفاضلي"
+        },
+        { "english": "Digital Evidence", "arabic": "دليل رقمي" },
+        { "english": "Digital Fingerprint", "arabic": "بصمة رقمية" },
+        { "english": "Digital Forensics", "arabic": "قرائن رقمية" },
+        { "english": "Digital Signature", "arabic": "التوقيع الرقمي" },
+        {
+            "english": "Digital Signature Algorithm",
+            "arabic": "خوارزمية التوقيع الرقمي"
+        },
+        {
+            "english": "Distributed Denial of Service (DDoS)",
+            "arabic": "منع تقديم الخدمة الموزّع"
+        },
+        { "english": "Domain Analysis", "arabic": "تحليل النطاق" },
+        {
+            "english": "Domain Name System (DNS)",
+            "arabic": "نظام أسماء النطاق"
+        },
+        { "english": "Double Caching", "arabic": "تخبئة مزدوجة" },
+        { "english": "Eavesdropping", "arabic": "استراق السمع (التنصت)" },
+        { "english": "E-Crime", "arabic": "جريمة إلكترونية" },
+        {
+            "english": "Email Spoofing",
+            "arabic": "انتحال شخصية مستخدم البريد الإلكتروني"
+        },
+        { "english": "Encryption", "arabic": "تشفير" },
+        { "english": "Error Detection Code", "arabic": "رمّاز كشف الخطأ" },
+        { "english": "Ethical Hacking", "arabic": "القرصنة الأخلاقية" },
+        { "english": "Exploit Developer", "arabic": "مطور اقتحامات" },
+        { "english": "Failure", "arabic": "إخفاق - فشل" },
+        { "english": "Flaming", "arabic": "التوهيج" },
+        { "english": "Flooder", "arabic": "مسرب فيضاني" },
+        { "english": "Firewall", "arabic": "جدار حماية ناري" },
+        { "english": "Forgery", "arabic": "تزوير" },
+        { "english": "Forensics Analyst", "arabic": "محلل القرائن الرقمية" },
+        {
+            "english": "Forward Search Attack",
+            "arabic": "هجوم البحث باتجاه الأمام"
+        },
+        { "english": "Forward Tracking", "arabic": "تعّقب أمامي" },
+        { "english": "Gateway", "arabic": "بوابة - عبّارة" },
+        {
+            "english": "Generic",
+            "arabic": "نوع من التوقيع قادر على الكشف عن مجموعة كبيرة ومتنوعة من عينات البرامج الخبيثة"
+        },
+        { "english": "Hackers", "arabic": "العابثون – القراصنة" },
+        { "english": "Hacking", "arabic": "تسلل – قرصنة" },
+        { "english": "Hash Function", "arabic": "تابع البصمة - التابع الهاشي" },
+        { "english": "Hash Value", "arabic": "قيمة تابع البصمة" },
+        { "english": "Hijacking", "arabic": "خطف" },
+        { "english": "Hoax", "arabic": "رسائل إلكترونية تنشر بلاغات كاذبة" },
+        { "english": "Hotfixes", "arabic": "التحديثات السريعة" },
+        { "english": "Identifier", "arabic": "معين هوية أو معّرف" },
+        { "english": "Identity", "arabic": "هوية" },
+        { "english": "Imputability", "arabic": "الاستدلال على الفاعل" },
+        { "english": "Impersonation", "arabic": "انتحال الشخصية" },
+        { "english": "Incident Responder", "arabic": "الاستجابة للحوادث" },
+        { "english": "Incident Handling", "arabic": "معالجة الحوادث" },
+        { "english": "Infection", "arabic": "إصابة" },
+        { "english": "Information Disclosure", "arabic": "كشف المعلومات" },
+        { "english": "Information Hiding", "arabic": "إخفاء المعلومات" },
+        { "english": "Information Sabotage", "arabic": "تدمير نظم المعلومات" },
+        { "english": "Information Security", "arabic": "أمن المعلومات" },
+        { "english": "Injection", "arabic": "حقن" },
+        {
+            "english": "Insufficient Bounds",
+            "arabic": "حدود غير كافية (تسبب إغراق الصوان)"
+        },
+        { "english": "Intentional Threats", "arabic": "تهديدات مقصودة" },
+        { "english": "Interception", "arabic": "اعتراض (البيانات)" },
+        {
+            "english": "Internet Engineering Task Force (IETF)",
+            "arabic": "فريق العمل الهندسي للإنترنت"
+        },
+        { "english": "Internet Protocol (IP)", "arabic": "بروتوكول إنترنت" },
+        {
+            "english": "Internet Protocol Security (IPSec)",
+            "arabic": "أمن بروتوكول إنترنت"
+        },
+        {
+            "english": "Internet Protocol Spoofing",
+            "arabic": "انتحال عنوان بروتوكول إنترنت"
+        },
+        { "english": "Interruption", "arabic": "ُمقاطعة" },
+        { "english": "Intruder", "arabic": "ُمهاجم" },
+        { "english": "Intrusion", "arabic": "تطفل - اقتحام" },
+        { "english": "Intrusions Analyst", "arabic": "محلل اقتحامات" },
+        {
+            "english": "Intrusion Detection System (IDS)",
+            "arabic": "نظام كشف التطفّل"
+        },
+        {
+            "english": "Intrusion Protection System (IPS)",
+            "arabic": "نظام الحماية من التطفّل"
+        },
+        { "english": "Intrusion Resistance", "arabic": "مقامة التطفّل" },
+        { "english": "Intrusive Activity", "arabic": "نشاط تطفّلي" },
+        { "english": "Key-logger", "arabic": "مُسّجل (برنامج تسجيل)" },
+        {
+            "english": "Key-stroke Logger",
+            "arabic": "برنامج تسجيل نقرات لوحة المفاتيح"
+        },
+        {
+            "english": "Known Plaintext Attack",
+            "arabic": "هجوم النص الواضح المعلوم"
+        },
+        {
+            "english": "Lawful Interception",
+            "arabic": "التقصي الإلكتروني القانوني"
+        },
+        {
+            "english": "Least Privilege User Account (LUA)",
+            "arabic": "حساب مستخدم بالحد الأدنى من الامتيازات"
+        },
+        { "english": "Leakage of Information", "arabic": "تسريب المعلومات" },
+        { "english": "License", "arabic": "رخصة استخدام" },
+        { "english": "Linear Cryptanalysis", "arabic": "تحليل تعمية خطية" },
+        {
+            "english": "Link Access Protocol Balanced (LAPB)",
+            "arabic": "بروتوكول النفاذ الى الوصلة"
+        },
+        { "english": "Lock-in Attack", "arabic": "هجوم القفل" },
+        { "english": "Locking Protocol", "arabic": "برتوكول الاقفال" },
+        { "english": "Log File", "arabic": "ملف القيد" },
+        { "english": "Logic Bomb", "arabic": "قنبلة منطقية" },
+        { "english": "Login", "arabic": "طلب تسجيل الدخول" },
+        { "english": "Login Sessions", "arabic": "جلسات الدخول" },
+        { "english": "Logon", "arabic": "تسجيل الدخول" },
+        { "english": "Long-term Security", "arabic": "أمان طويل الأمد" },
+        { "english": "Macro Virus", "arabic": "فيروس الماكرو" },
+        { "english": "Malefactors", "arabic": "فاعلوا الشر" },
+        { "english": "Malicious Software", "arabic": "برمجيات مؤذية" },
+        { "english": "Malevolent", "arabic": "أعمال عدائية" },
+        { "english": "Malware", "arabic": "برمجيات خبيثة" },
+        { "english": "Malware Analyst", "arabic": "محلل برمجيات خبيثة" },
+        {
+            "english": "Malware Creation Tool",
+            "arabic": "أداة لصنع البرامج الخبيثة"
+        },
+        { "english": "Manipulation Detection", "arabic": "كشف التلاعب" },
+        {
+            "english": "Man-in-the-Browser (MITB) Attack",
+            "arabic": "هجوم الرجل لتعديل صفحات الويب"
+        },
+        {
+            "english": "Man-in-the-Middle Attack",
+            "arabic": "هجوم الرجل الذي في الوسط"
+        },
+        { "english": "Masquerade", "arabic": "التنكر" },
+        { "english": "Memory Locking", "arabic": "انتهاك النفاذ الى الذاكرة" },
+        {
+            "english": "Memory Protection Violation",
+            "arabic": "اختراق حماية الذاكرة"
+        },
+        { "english": "Message Digest", "arabic": "بصمة الرسالة" },
+        { "english": "Monitoring Software", "arabic": "برمجيات مراقبة النشاط" },
+        {
+            "english": "Mutual Exclusion Object (Mutex)",
+            "arabic": "غرض برمجي ينشئه البرنامج الخبيث للدلالة على أنه يعمل على الحاسوب المصاب"
+        },
+        { "english": "Network Security", "arabic": "أمن الشبكات" },
+        { "english": "Non-Repudiation", "arabic": "عدم الإنكار - عدم التنصل" },
+        { "english": "Notarization", "arabic": "التوثيق" },
+        { "english": "Observability", "arabic": "قابلية الرصد" },
+        {
+            "english": "One-time Password",
+            "arabic": "كلمة مرور تستخدم لمرة واحدة"
+        },
+        { "english": "Owner Rights", "arabic": "حقوق المستخدم" },
+        { "english": "Packet Sniffers", "arabic": "شمامات الرزم" },
+        {
+            "english": "Packet Sniffing",
+            "arabic": "اشتمام الرزم (جمعها والتقاطها)"
+        },
+        { "english": "Page Cache", "arabic": "خابية الصفحة" },
+        { "english": "Passive Attack", "arabic": "هجوم غير فعال (غير نشط)" },
+        { "english": "Password Sniffing", "arabic": "اشتمام كلمات المرور" },
+        { "english": "Password Stealer", "arabic": "سارق كلمات المرور" },
+        { "english": "Patch", "arabic": "رقعة تشفير مُصحح" },
+        { "english": "Permission, Permits", "arabic": "سماحيات" },
+        { "english": "Penetration Test", "arabic": "اختبار اختراق" },
+        { "english": "Penetration Tester", "arabic": "مخُتبر اختراق" },
+        {
+            "english": "Personal Security Environment (PSE)",
+            "arabic": "بيئة الأمن الشخصي"
+        },
+        { "english": "Persuasion", "arabic": "أسلوب الاقناع" },
+        { "english": "Pharming", "arabic": "(DNS في سجلات) الزرعة الخبيثة " },
+        { "english": "Phishing", "arabic": "التصيّد الإلكتروني" },
+        { "english": "Phishing Scam", "arabic": "رسائل التصيّد الخادعة" },
+        { "english": "Phreaking", "arabic": "التنصت الإلكتروني" },
+        {
+            "english": "Physical Security",
+            "arabic": "الأمن المادي (الفيزيائي)"
+        },
+        { "english": "Poisoning", "arabic": "تسميم" },
+        { "english": "Policy", "arabic": "سياسة" },
+        {
+            "english": "Policy Certification Authority (PCA)",
+            "arabic": "سلطة منح شهادة السياسات"
+        },
+        { "english": "Polymorphic", "arabic": "فيروس متعدد الأشكال" },
+        { "english": "Pop-ups", "arabic": "نوافذ (صفحات) منبثقة" },
+        { "english": "Pop-ups Ads", "arabic": "إعلانات النوافذ المنبثقة" },
+        {
+            "english": "Probable Message Attack",
+            "arabic": "هجوم الرسالة المحتملة"
+        },
+        { "english": "Port (s)", "arabic": "منفذ (منافذ)" },
+        {
+            "english": "Pretty Good Privacy (PGP)",
+            "arabic": "خصوصية جيدة جداً (برنامج تشفير مجاني)"
+        },
+        { "english": "Privacy", "arabic": "خصوصية" },
+        { "english": "Privacy Enhanced Mail", "arabic": "بريد محُسَّن السرية" },
+        { "english": "Privacy Protection", "arabic": "حماية الخصوصية" },
+        { "english": "Private", "arabic": "خصوصي" },
+        { "english": "Private Key", "arabic": "مفتاح خصوصي" },
+        { "english": "Privilege", "arabic": "امتياز" },
+        { "english": "Privileges Elevation", "arabic": "رفع الامتيازات" },
+        { "english": "Probabilistic Encryption", "arabic": "تشفير احتمالي" },
+        {
+            "english": "Proof-of-Concept (PoC) Code",
+            "arabic": "رماز تم تطويره لإثبات جدوى أسلوب معين للهجوم"
+        },
+        { "english": "Protection", "arabic": "حماية" },
+        {
+            "english": "Protection-Oriented System",
+            "arabic": "نظام موجَّه للحماية"
+        },
+        { "english": "Proxy Server", "arabic": "مخدّم الوكيل" },
+        { "english": "Public Key", "arabic": "مفتاح عمومي" },
+        { "english": "Public Key Algorithm", "arabic": "خوارزمية مفتاح عمومي" },
+        {
+            "english": "Public Key Certificate",
+            "arabic": "شهادة (تصديق) المفتاح العمومي"
+        },
+        {
+            "english": "Public Key Cryptography",
+            "arabic": "تعمية بالمفتاح العمومي"
+        },
+        {
+            "english": "Public Key Encryption",
+            "arabic": "تشفير بالمفتاح العمومي"
+        },
+        {
+            "english": "Public Key Encryption Algorithm",
+            "arabic": "خوارزمية تشفير بمفتاح عمومي"
+        },
+        { "english": "Ramification", "arabic": "تعقّب" },
+        { "english": "Recovery", "arabic": "استعادة (من)" },
+        { "english": "Relay Attack", "arabic": "هجوم بالترحيل" },
+        { "english": "Reliability", "arabic": "موثوقية" },
+        { "english": "Reliable", "arabic": "موثوق" },
+        {
+            "english": "Remote Code Execution (RCE)",
+            "arabic": "تنفيذ الرمّاز من بعُد"
+        },
+        {
+            "english": "Remote Control Software",
+            "arabic": "برنامج للتحكّم بالحاسوب من بعُد"
+        },
+        { "english": "Remote File Transfer", "arabic": "نقل الملفات من بعُد" },
+        { "english": "Remote Login", "arabic": "طلب تسجيل الدخول من بعُد" },
+        { "english": "Remote Logon", "arabic": "دخول من بعُد" },
+        {
+            "english": "Remote Procedure Call (RPC)",
+            "arabic": "استدعاء الإجرائية من بعُد"
+        },
+        {
+            "english": "Replay Attack",
+            "arabic": "هجوم إعادة التشغيل أو الإرسال"
+        },
+        { "english": "Request", "arabic": "طلب - استفسار" },
+        { "english": "Restore", "arabic": "استرجاع" },
+        { "english": "Restoration", "arabic": "ترميم" },
+        { "english": "Restricting Access", "arabic": "نفاذ مقيّد" },
+        { "english": "Reveal", "arabic": "إفشاء" },
+        {
+            "english": "Reversed Social Engineering",
+            "arabic": "هندسة اجتماعية عكسية"
+        },
+        { "english": "Revocation", "arabic": "إبطال" },
+        { "english": "Risk", "arabic": "مخاطر" },
+        { "english": "Risk Analysis", "arabic": "تحليل المخاطر" },
+        { "english": "Risk Management", "arabic": "إدارة المخاطر" },
+        { "english": "Risk Assessment", "arabic": "تقييم المخاطر" },
+        {
+            "english": "Rogue Security Software",
+            "arabic": "برمجية تبدو آمنة ولكنها ضارة"
+        },
+        { "english": "Root Directory", "arabic": "الدليل الجذري" },
+        { "english": "Router", "arabic": "مسيرّ - موجّه" },
+        { "english": "Sabotage", "arabic": "تخريب )تدمير( متعمد" },
+        { "english": "Safe Expression", "arabic": "تعبير آمن" },
+        { "english": "Safe State", "arabic": "حالة آمنة" },
+        { "english": "Safety Algorithm", "arabic": "خوارزمية الأمان" },
+        { "english": "Scam", "arabic": "عمل خدّاع" },
+        { "english": "Script (malware)", "arabic": "سكربت خبيث" },
+        { "english": "Scumware", "arabic": "برمجيات قذرة" },
+        { "english": "Secrecy", "arabic": "السرية" },
+        { "english": "Secrete Disclosure", "arabic": "إفشاء السر" },
+        { "english": "Secrete Sharing", "arabic": "تشارك في السر" },
+        { "english": "Secure", "arabic": "أمين - آمن" },
+        { "english": "Secure (v)", "arabic": "يؤمن (يوفر الأمن)" },
+        { "english": "Secure Fax", "arabic": "الفاكس الآمن" },
+        {
+            "english": "Secure Hash Algorithm (SHA)",
+            "arabic": "خوارزمية البصمة الآمنة"
+        },
+        { "english": "Secure Hash Function", "arabic": "تابع البصمة الآمن" },
+        {
+            "english": "Secure Hash Standard (SHS)",
+            "arabic": "معيار البصمة الآمن"
+        },
+        {
+            "english": "Secure Socket Layer (SSL)",
+            "arabic": "طبقة المقابس الآمنة"
+        },
+        { "english": "Security", "arabic": "أمن - أمان" },
+        { "english": "Security Access Token", "arabic": "َعلاّم نفاذ أمّني" },
+        { "english": "Security Associations (SAS)", "arabic": "روابط أمنية" },
+        { "english": "Security Analyst", "arabic": "محلل أمني" },
+        { "english": "Security Audit", "arabic": "التدقيق الأمني" },
+        { "english": "Security Breaches", "arabic": "خروق أمنية" },
+        { "english": "Security Bypass", "arabic": "تجاوز الأمن" },
+        { "english": "Security Clearance", "arabic": "تصريح أمني" },
+        { "english": "Security Hole", "arabic": "ثغرة أمنية" },
+        {
+            "english": "Security ID (SID)",
+            "arabic": "معّين هوية أمنية - معرّف أمني"
+        },
+        {
+            "english": "Security Incident Handling",
+            "arabic": "الاستجابة للحوادث الأمنية"
+        },
+        { "english": "Security Measures", "arabic": "التدابير الأمنية" },
+        {
+            "english": "Security Parameters Index (SPI)",
+            "arabic": "دليل موسطات الأمن"
+        },
+        { "english": "Security Policy", "arabic": "سياسات الأمن العامة" },
+        {
+            "english": "Security Reference Monitor",
+            "arabic": "مراقب أمني مرجعي"
+        },
+        { "english": "Security Scan", "arabic": "المسح الأمني" },
+        { "english": "Security Testing", "arabic": "اختبار الأمن" },
+        { "english": "Security Threats", "arabic": "تهديدات أمنية" },
+        { "english": "Security Updates", "arabic": "التحديثات الأمنية" },
+        { "english": "Server Crash", "arabic": "انهيار المخدّم" },
+        { "english": "Signature Equation", "arabic": "معادلة التوقيع" },
+        { "english": "Signature(s)", "arabic": "توقيع (تواقيع)" },
+        {
+            "english": "Sniffer",
+            "arabic": "برنامج التنصت على البيانات المنقولة عبر الشبكة"
+        },
+        { "english": "Social Engineering", "arabic": "الهندسة الاجتماعية" },
+        { "english": "Software Damage", "arabic": "ضرر يلحق بالبرمجيات" },
+        { "english": "Software Piracy", "arabic": "قرصنة البرمجيات" },
+        { "english": "Software Safety", "arabic": "أمان البرمجيات" },
+        { "english": "Source Code", "arabic": "الكود (البرمجي) المصدري" },
+        { "english": "Spam", "arabic": "سبام (بريد إلكتروني غير مرغوب به)" },
+        { "english": "Spammer", "arabic": "مرسل السبام" },
+        { "english": "Spiders", "arabic": "عناكب" },
+        { "english": "Spoofer", "arabic": "مخُادع" },
+        { "english": "Spoofing", "arabic": "خداع (مخُادعة)" },
+        { "english": "Spy Catcher", "arabic": "لاقط برمجيات تجسس" },
+        { "english": "Spy Eliminator", "arabic": "حاذف برمجيات تجسس" },
+        { "english": "Spy Sweeper", "arabic": "ماسح التجسس" },
+        { "english": "Spy Bots", "arabic": "حشرات التجسس" },
+        { "english": "Spying", "arabic": "تجسس" },
+        { "english": "Spyware", "arabic": "برمجيات تجسس" },
+        { "english": "Spyware Blaster", "arabic": "قاتل برمجيات التجسس" },
+        { "english": "SQL Injection", "arabic": "حقن لغة الاستعلام البنيوية" },
+        {
+            "english": "Statistical Database Security",
+            "arabic": "أمن إحصائي لقاعدة المعطيات"
+        },
+        { "english": "Stealth", "arabic": "تخفي" },
+        { "english": "Steganography", "arabic": "تورية (تراسل غير مرئي)" },
+        {
+            "english": "Storage Area Networks (SAN)",
+            "arabic": "شبكات أماكن الخزن"
+        },
+        { "english": "Symmetric Encryption", "arabic": "تشفير متناظر" },
+        { "english": "Tag", "arabic": "علامة" },
+        {
+            "english": "Targeted Distributed Denial of Service (DDoS)",
+            "arabic": "هجوم منع تقديم الخدمة الموزعّ الموجّه"
+        },
+        { "english": "Threats", "arabic": "تهديدات (جمع تهديد)" },
+        { "english": "Track", "arabic": "مسار" },
+        { "english": "Traffic Analysis", "arabic": "تحليل الحركة" },
+        { "english": "Traffic Data", "arabic": "بيانات الحركة" },
+        {
+            "english": "Transmission Control Protocol (TCP)",
+            "arabic": "بروتوكول التحكم في الإرسال"
+        },
+        { "english": "Trap", "arabic": "تصيد" },
+        { "english": "Trap Door", "arabic": "باب خلفي (للتسلل)" },
+        {
+            "english": "Trapdoor One-way Function",
+            "arabic": "تابع الباب الخلفي أحادي الاتجاه"
+        },
+        { "english": "Triple Encryption", "arabic": "تشفير ثلاثي المراحل" },
+        { "english": "Trojan", "arabic": "حصان طروادة" },
+        { "english": "Trojan Clicker", "arabic": "حصان طروادة يقوم بالنقر" },
+        {
+            "english": "Trojan Downloader / Dropper",
+            "arabic": "حصان طروادة يقوم بتحميل ملفات خبيثة"
+        },
+        { "english": "Trojan Horse", "arabic": "حصان طروادة" },
+        {
+            "english": "Trojan Proxy",
+            "arabic": "حصان طروادة يقوم بتثبيت مخدّم الوكيل"
+        },
+        { "english": "Trust", "arabic": "ثقة - تَوثق" },
+        { "english": "Unauthorized Access", "arabic": "نفاذ غير مسموح به" },
+        { "english": "Unauthorized User", "arabic": "مستخدِم غير مخوّل" },
+        { "english": "Uncertain Evidence", "arabic": "دليل غير مؤكد" },
+        {
+            "english": "Undeniable Signature",
+            "arabic": "توقيع غير قابل للإنكار"
+        },
+        { "english": "Unsafe Expression", "arabic": "تعبير غير آمن" },
+        { "english": "Unsafe State", "arabic": "حالة غير آمنة" },
+        { "english": "Untrusted", "arabic": "غير موثوق به (لا يوُثق به)" },
+        {
+            "english": "Untrustworthy",
+            "arabic": "غير موثوق به (ليس جديراً بالثقة)"
+        },
+        { "english": "Update", "arabic": "تحديث" },
+        { "english": "Upgrade", "arabic": "ترقية" },
+        {
+            "english": "Usage Parameter Control (UPC)",
+            "arabic": "تحكّم في موسِطات الاستخدام"
+        },
+        {
+            "english": "User account Control",
+            "arabic": "التحكّم بحساب المستخدم"
+        },
+        {
+            "english": "Use-based Testing",
+            "arabic": "اختبار معتمد على الاستخدام"
+        },
+        {
+            "english": "User Datagram Protocol (UDP)",
+            "arabic": "بروتوكول برقية معطيات المستخدم"
+        },
+        {
+            "english": "User Identifier",
+            "arabic": "معرّف (معين هوية) المستخدم"
+        },
+        {
+            "english": "User-based Security (USM) Model",
+            "arabic": "نموذج الأمن المعتمد على المستخدم"
+        },
+        { "english": "Validation", "arabic": "إقرار الصلاحية" },
+        { "english": "Validity", "arabic": "ِصّحة" },
+        { "english": "Vandalism", "arabic": "تخريب (البيانات)" },
+        { "english": "Variables", "arabic": "ُمتغّيرات" },
+        { "english": "Verifiability", "arabic": "تحققية - توثقية" },
+        { "english": "Verification", "arabic": "تحقّق" },
+        { "english": "Verification Algorithm", "arabic": "خوارزمية تحقّق" },
+        { "english": "Verification Equation", "arabic": "معادلة التحقّق" },
+        { "english": "Verifier", "arabic": "مُصدّق" },
+        { "english": "Version Control", "arabic": "التحكم في الإصدار" },
+        { "english": "Victim", "arabic": "ضحية" },
+        { "english": "Violations", "arabic": "انتهاكات" },
+        { "english": "Virtual LAN", "arabic": "شبكة محلية افتراضية" },
+        {
+            "english": "Virtual Private Network (VPN)",
+            "arabic": "شبكة خاصة افتراضية"
+        },
+        { "english": "Virus", "arabic": "فيروس" },
+        { "english": "Vulnerability", "arabic": "ثغرة أمنية" },
+        { "english": "Vulnerability Researcher", "arabic": "باحث ثغرات" },
+        { "english": "White Box Testing", "arabic": "اختبار الصندوق الأبيض" },
+        { "english": "Watchdog Program", "arabic": "برنامجُ كلبُ حراسة" },
+        { "english": "War Dialing", "arabic": "حرب الاتصال" },
+        { "english": "War Driving", "arabic": "الحرب السيّارة" },
+        { "english": "Web Security", "arabic": "أمن الويب (الويب الآمن)" },
+        { "english": "Wiping", "arabic": "إخفاء البيانات" },
+        { "english": "Wiretapping", "arabic": "الالتقاط السلكي (للبيانات)" },
+        { "english": "Worm", "arabic": "دودة" },
+        { "english": "Wrongdoers", "arabic": "المعتدون" },
+        {
+            "english": "Extended Markup Language (XML)",
+            "arabic": "لغة تأشير موسّعة"
+        },
+        { "english": "XML Injection", "arabic": "XMLحقن في ملف " },
+        { "english": "Zero Bits", "arabic": "بتّات ذات قيم صفرية" },
+        {
+            "english": "Zero Configuration Wireless",
+            "arabic": "تجهيزات لاسلكية لا تحتاج إلى تشكيل"
+        },
+        { "english": "Zero Webpage Faults", "arabic": "أخطاء صفحات ويب صفرية" }
+    ]
+}
