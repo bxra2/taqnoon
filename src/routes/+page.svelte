@@ -59,25 +59,44 @@
     }
 
 
-    function handleSearch() {
-        if (!query.trim()) {
-            results = []
-            return
-        }
+function handleSearch() {
+	if (!query.trim()) {
+		results = []
+		return
+	}
 
-        const lower = query.toLowerCase()
-        const normalizedQuery = removeDiacritics(query)
-        results = data.filter((item) => {
-            const englishMatch = item.english?.toLowerCase().includes(lower)
-            const arabicMatch =
-                item.arabic &&
-                removeDiacritics(item.arabic).includes(normalizedQuery)
+	const lower = query.toLowerCase()
+	const normalizedQuery = removeDiacritics(query)
+	results = data
+		.filter((item) => {
+			const english = item.english?.toLowerCase() || ''
+			const arabic = removeDiacritics(item.arabic || '')
+			return english.includes(lower) || arabic.includes(normalizedQuery)
+		})
+		.sort((a, b) => {
+			const aEng = a.english?.toLowerCase() || ''
+			const bEng = b.english?.toLowerCase() || ''
+			const aAr = removeDiacritics(a.arabic || '')
+			const bAr = removeDiacritics(b.arabic || '')
 
-            return englishMatch || arabicMatch
-        })
+			// exact matches first
+			const aExact = aEng === lower || aAr === normalizedQuery
+			const bExact = bEng === lower || bAr === normalizedQuery
+			if (aExact && !bExact) return -1
+			if (bExact && !aExact) return 1
 
-        currentPage = 1
-    }
+			// starts-with next
+			const aStarts = aEng.startsWith(lower) || aAr.startsWith(normalizedQuery)
+			const bStarts = bEng.startsWith(lower) || bAr.startsWith(normalizedQuery)
+			if (aStarts && !bStarts) return -1
+			if (bStarts && !aStarts) return 1
+
+			// otherwise keep original order
+			return 0
+		})
+
+	currentPage = 1
+}
     function handleKeydown(event: KeyboardEvent) {
         if (event.key === 'Enter') {
             event.preventDefault()
@@ -111,7 +130,7 @@
     </div>
 
     {#if results.length > 0}
-        <div class="flex align-center justify-center mb-6">
+        <div class="flex align-center justify-between mb-6">
             <Paginator
                 bind:currentPage
                 bind:limit

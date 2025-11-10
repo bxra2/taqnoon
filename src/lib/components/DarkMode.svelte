@@ -4,23 +4,22 @@
     let isDark = $state(false)
     let mounted = $state(false)
 
-    // Initialize theme on mount
     onMount(() => {
-        // Get saved theme or default to light
         const savedTheme = localStorage.getItem('theme')
-        
+
         if (savedTheme) {
             isDark = savedTheme === 'dark'
             document.documentElement.setAttribute('data-theme', savedTheme)
         } else {
-            // Optional: Check system preference
-            const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches
+            const prefersDark = window.matchMedia(
+                '(prefers-color-scheme: dark)'
+            ).matches
             isDark = prefersDark
             const theme = isDark ? 'dark' : 'light'
             document.documentElement.setAttribute('data-theme', theme)
             localStorage.setItem('theme', theme)
         }
-        
+
         mounted = true
     })
 
@@ -36,21 +35,34 @@
 
 <div class="switch">
     <label class="theme-switch" for="checkbox">
-        <input 
-            type="checkbox" 
-            id="checkbox" 
+        <input
+            type="checkbox"
+            id="checkbox"
             bind:checked={isDark}
+            aria-label="Toggle dark mode"
         />
-        <div class="slider round"></div>
+        <div class="slider round">
+            <div class="icon-container">
+                <img
+                    src="/icons/sun.svg"
+                    alt="Light mode"
+                    class="sun-icon"
+                    class:visible={!isDark}
+                />
+                <img
+                    src="/icons/moon.svg"
+                    alt="Dark mode"
+                    class="moon-icon"
+                    class:visible={isDark}
+                />
+            </div>
+        </div>
     </label>
 </div>
 
 <style>
     .switch {
         height: 70px;
-        /* position: fixed; */
-        right: 50px;
-        top: 50px;
     }
 
     .theme-switch {
@@ -72,7 +84,10 @@
         position: absolute;
         right: 0;
         top: 0;
-        transition: 0.4s;
+        transition: background-color 0.4s;
+        display: flex;
+        align-items: center;
+        justify-content: center;
     }
 
     .slider:before {
@@ -82,8 +97,47 @@
         height: 26px;
         left: 4px;
         position: absolute;
-        transition: 0.4s;
+        transition: transform 0.4s;
         width: 26px;
+        z-index: 2;
+    }
+
+    .icon-container {
+        position: relative;
+        width: 100%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .slider img {
+        width: 18px;
+        height: 18px;
+        object-fit: contain;
+        position: absolute;
+        opacity: 0;
+        transition: opacity 0.3s ease;
+        pointer-events: none;
+    }
+
+    .slider img.visible {
+        opacity: 1;
+        transition: none;
+    }
+
+    .sun-icon {
+        left: 8px;
+        fill: #24201a;
+        filter: #24201a;
+        z-index: 3;
+    }
+
+    .moon-icon {
+        right: 8px;
+        fill: #24201a;
+        filter: #24201a;
+        z-index: 3;
     }
 
     input:checked + .slider {
@@ -101,4 +155,12 @@
     .slider.round:before {
         border-radius: 50%;
     }
-</style> 
+
+    .theme-switch:hover .slider {
+        opacity: 0.9;
+    }
+
+    .theme-switch input:focus + .slider {
+        box-shadow: 0 0 0 2px rgba(66, 153, 225, 0.5);
+    }
+</style>

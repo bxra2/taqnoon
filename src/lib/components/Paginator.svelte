@@ -14,17 +14,17 @@
         limit = $bindable(10),
         count,
         onPageChange,
-        onLimitChange
+        onLimitChange,
     }: Props = $props()
 
-    const pagesToShow = 2 // Show 2 pages before and after the current page
+    const pagesToShow = 2 
     const limitsList = [5, 10, 20, 50]
 
-    // Calculate total pages
     let totalPages = $derived(Math.ceil(count / limit))
-    
-    // Calculate the page range to display
-    let pageRange = $derived(calculatePageRange(currentPage, totalPages, pagesToShow))
+
+    let pageRange = $derived(
+        calculatePageRange(currentPage, totalPages, pagesToShow)
+    )
 
     function calculatePageRange(current: number, total: number, range: number) {
         let start = Math.max(1, current - range)
@@ -61,7 +61,7 @@
     }
 </script>
 
-<nav class="pagination" aria-label="نتائج البحث التصفح">
+<nav class="pagination items-start flex justify-between" aria-label="نتائج البحث التصفح">
     <div class="pages" role="navigation">
         <!--  الصفحة السابقة  -->
         <button
@@ -181,7 +181,7 @@
         background-color: white;
         box-shadow: 3px 3px 0 #4a4a4a;
         font-family: inherit;
-        font-size: inherit;
+        font-size: 1rem;
         transition: all 0.2s ease;
     }
 
@@ -230,7 +230,11 @@
 
         .page-btn,
         .limit-btn {
-            padding: 8px 12px;
+            padding: 4px 6px;
+        }
+
+        .limit,.pages  {
+            gap: 8px;
         }
     }
 </style>

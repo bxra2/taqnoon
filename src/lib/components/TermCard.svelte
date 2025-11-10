@@ -1,6 +1,6 @@
 <!-- partial -->
 <script lang="ts">
-   export interface Term {
+    export interface Term {
         english: string
         arabic: string
         french: string
@@ -41,18 +41,17 @@
             <small class="arb" dir="rtl">
                 <span>
                     <b>المعجم: </b>
-                    {term.glossaryAr}
+                    <a href={term.glossaryUrl} target="_blank">
+                        {term.glossaryAr}
+                    </a>
                 </span>
                 <br />
                 {#if term.publisherAr}
                     <span>
                         <b>الناشر: </b>
-                        {term.publisherAr}
-                    </span>
-                {/if}
-                {#if term.glossaryUrl}
-                    <span>
-                        <a href={term.glossaryUrl} target="_blank">المصدر ↗</a>
+                        <a href={term.publisherUrl} target="_blank">
+                            {term.publisherAr}
+                        </a>
                     </span>
                 {/if}
             </small>
@@ -61,18 +60,17 @@
             <small dir="ltr">
                 <span>
                     <b>Glossary: </b>
-                    {term.glossaryEn}
+                    <a href={term.glossaryUrl} target="_blank">
+                        {term.glossaryEn}
+                    </a>
                 </span>
                 <br />
                 {#if term.publisherEn}
                     <span>
                         <b>Publisher: </b>
-                        {term.publisherEn}
-                    </span>
-                {/if}
-                {#if term.glossaryUrl}
-                    <span>
-                        <a href={term.glossaryUrl} target="_blank">Source ↗</a>
+                        <a href={term.publisherUrl} target="_blank">
+                            {term.publisherEn}
+                        </a>
                     </span>
                 {/if}
             </small>
