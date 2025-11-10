@@ -161,8 +161,8 @@ function handleSearch() {
             />
         </div>
     {:else if query && results.length === 0}
-        <p class="text-center text-gray-500">لا توجد نتائج</p>
+        <!-- <p class="text-center text-gray-500">لا توجد نتائج</p> -->
     {:else}
-        <p class="text-center text-gray-500">أدخل كلمة للبحث</p>
+        <!-- <p class="text-center text-gray-500">أدخل كلمة للبحث</p> -->
     {/if}
 </div>
