@@ -109,7 +109,7 @@
             "description": "خوارزمية تغير سلوكها في وقت التشغيل بناًء على المعلومات المتاحة، والمعايير المحددة سابًقا."
         },
         {
-            "english": "Adaptive Boosting )AdaBoost(",
+            "english": "Adaptive Boosting (AdaBoost)",
             "arabic": "تعزيز َتَكُّيف ّي",
             "description": "أسلوب تعزيز يجمع بين عدد من المصِّنفات الضعيفة؛ لإنشاء مصِّنف قوي."
         },
@@ -124,7 +124,7 @@
             "description": "طريقة لتحديث نماذج تعُّلم الآلة وإعادة تدريبها تدريجًّيا؛ للَّتَكُّيف مع التغيرات الجديدة."
         },
         {
-            "english": "Adaptive Neuro-Fuzzy Inference System )ANFIS(",
+            "english": "Adaptive Neuro-Fuzzy Inference System (ANFIS)",
             "arabic": "نظام استنتاج عصبي-ضبابي َتَكُّيف ّي",
             "description": "أسلوب يجمع بين المنطق الضبابي والشبكات العصبية؛ لتحسين أداء التنبؤ وقابليته للتطبيق."
         },
@@ -134,7 +134,7 @@
             "description": "دالة لا تبالغ في تقدير تكلفة الوصول إلى الهدف في خوارزمية البحث."
         },
         {
-            "english": "Advanced Driver Assistance Systems )ADAS(",
+            "english": "Advanced Driver Assistance Systems (ADAS)",
             "arabic": "أنظمة مساعدة السائق المتقدمة",
             "description": "انظر مساعدة السائق."
         },
@@ -209,7 +209,7 @@
             "description": "طريقة لتعيين احتمالية سابقة للأشياء. وُيطلق عليها أيًضا احتمالية سولومونوف. ."
         },
         {
-            "english": "Ambient Intelligence )AmI(",
+            "english": "Ambient Intelligence (AmI)",
             "arabic": "ذكاء محيطي",
             "description": "بيئة رقمية مراعية للأشخاص، وداعمة لحياتهم اليومية."
         },
@@ -254,7 +254,7 @@
             "description": "عملية تحديد المشاهدات غير المعتادة أو غير الطبيعية في البيانات؛ نظًرا لخصائصها المختلفة عن غالبية البيانات المعالجة."
         },
         {
-            "english": "Answer Set Programming )ASP(",
+            "english": "Answer Set Programming (ASP)",
             "arabic": "برمجة مجموعة الإجابات",
             "description": "نوع من البرمجة التصريحية لحل مشكالت البحث المعقدة."
         },
@@ -269,7 +269,7 @@
             "description": "عملية الحوكمة والتأمين والصيانة للبيانات المستخدمة بواسطة تطبيقات برمجية محددة."
         },
         {
-            "english": "Application Programming Interface )API(",
+            "english": "Application Programming Interface (API)",
             "arabic": "واجهة برمجة التطبيقات",
             "description": "مجموعة من القواعد والبروتوكوالت التي ُتتيح للتطبيقات البرمجية المختلفة التواصل والتفاعل بعضها مع بعض."
         },
@@ -294,17 +294,17 @@
             "description": "شبكة تشتمل على ُعَقد ُتمِّثل الُحجج، وحافات ُتمِّثل التعارضات بين هذه الُحجج."
         },
         {
-            "english": "Artificial General Intelligence )AGI(",
+            "english": "Artificial General Intelligence (AGI)",
             "arabic": "ذكاء عام اصطناعي",
             "description": "نظام حوسبي يمكنه أداء أي مهمة فكرية يمكن للإنسان أداؤها، مثل: حل المشكالت والإبداع والقدرة على الَّتَكُّيف. وُيطلق عليه أيًضا ذكاء اصطناعي عام، أو ذكاء اصطناعي  . قوي، أو ذكاء اصطناعي واسع."
         },
         {
-            "english": "Artificial Immune System )AIS(",
+            "english": "Artificial Immune System (AIS)",
             "arabic": "نظام المناعة الاصطناعي",
             "description": "نظام َتَكُّيف ّي لحل المشكالت، مستوحى من جهاز المناعة البشري."
         },
         {
-            "english": "Artificial Intelligence )AI(",
+            "english": "Artificial Intelligence (AI)",
             "arabic": "ذكاء اصطناعي",
             "description": "مجال من مجالات علوم الحاسب يركز على بناء أنظمة قادرة على أداء مهام تتطلب عادًة ذكاًء بشرًّيا، مثل: التعُّلم والاستدلال والتطوير الذاتي. وُيطلق عليه أيًضا ذكاء الآلة."
         },
@@ -314,7 +314,7 @@
             "description": "عملية جعل أنظمة الذكاء الاصطناعي تعمل بطرق تتماشى مع الأهداف والقيم الإنسانية."
         },
         {
-            "english": "Artificial Intelligence as a Service )AIaaS(",
+            "english": "Artificial Intelligence as a Service (AIaaS)",
             "arabic": "ذكاء اصطناعي كخدمة",
             "description": "خدمة قائمة على السحابة، توفر إمكانات الذكاء الاصطناعي وأدواته، جاهزة لالستخدام من الأفراد والمؤسسات."
         },
@@ -339,12 +339,12 @@
             "description": "حالة يوِّلد فيها نموذج الذكاء الاصطناعي نتائج غير صحيحة أو مضللة أو غير منطقية."
         },
         {
-            "english": "Artificial Intelligence Markup Language )AIML(",
+            "english": "Artificial Intelligence Markup Language (AIML)",
             "arabic": "لغة ترميز الذكاء الاصطناعي",
             "description": "لغة ترميزية مبنية على لغة الترميز الموسعة ()؛ لتطوير  () تطبيقات اللغات الطبيعية."
         },
         {
-            "english": "Artificial Intelligence Operations )AIOps(",
+            "english": "Artificial Intelligence Operations (AIOps)",
             "arabic": "ذكاء اصطناعي للعمليات",
             "description": "تطبيق تقنيات الذكاء الاصطناعي ألتمتة عمليات تشغيل تقنية المعلومات وتحسينها، مثل: المراقبة والتحليل والإدارة."
         },
@@ -359,12 +359,12 @@
             "description": "نظام قادر على أداء مهام تتطلب عادًة ذكاًء بشرًّيا، مثل: التعُّلم والاستدلال والتطوير الذاتي."
         },
         {
-            "english": "Artificial Narrow Intelligence )ANI(",
+            "english": "Artificial Narrow Intelligence (ANI)",
             "arabic": "ذكاء ضيق اصطناعي",
             "description": "نوع من أنظمة الذكاء الاصطناعي قادر على تنفيذ مهام محددة فقط. وُيطلق عليه أيًضا ذكاء اصطناعي ضيق أو      . ذكاء اصطناعي ضعيف. .    ()"
         },
         {
-            "english": "Artificial Neural Network )ANN(",
+            "english": "Artificial Neural Network (ANN)",
             "arabic": "شبكة عصبية اصطناعية",
             "description": "نموذج حوسبي في الذكاء الاصطناعي مستوحى من الشبكات العصبية البيولوجية ألدمغة الحيوانات. وُيطلق عليه أيًضا  . شبكة عصبية. .()"
         },
@@ -374,7 +374,7 @@
             "description": "انظر خلية عصبية."
         },
         {
-            "english": "Artificial Superintelligence )ASI(",
+            "english": "Artificial Superintelligence (ASI)",
             "arabic": "ذكاء اصطناعي خارق",
             "description": "انظر ذكاء خارق."
         },
@@ -454,7 +454,7 @@
             "description": "انظر صحافة روبوتية."
         },
         {
-            "english": "Automated Machine Learning )AutoML(",
+            "english": "Automated Machine Learning (AutoML)",
             "arabic": "تعُّلم الآلة المؤتمت",
             "description": "عملية أتمتة مهام تعُّلم الآلة؛ لبناء النماذج وتدريبها واختبارها ونشرها."
         },
@@ -474,7 +474,7 @@
             "description": "انظر مركبة ذاتية التحكم."
         },
         {
-            "english": "Automatic Speech Recognition )ASR(",
+            "english": "Automatic Speech Recognition (ASR)",
             "arabic": "تعُّرف تلقائي على الكالم",
             "description": "انظر تعُّرف على الكالم."
         },
@@ -554,7 +554,7 @@
             "description": "خوارزمية ُتستخدم عند تدريب الشبكات العصبية الاصطناعية لتقليل الأخطاء عن طريق إيجاد قيمة التدرج المطلوب لحساب أوزان الشبكة."
         },
         {
-            "english": "Backpropagation Through Time )BPTT(",
+            "english": "Backpropagation Through Time (BPTT)",
             "arabic": "انتشار عكسي عبر الزمن",
             "description": "طريقة لتطبيق الانتشار العكسي على الشبكات العصبية التكرارية."
         },
@@ -634,12 +634,12 @@
             "description": "خوارزمية تحاكي سلوك أسراب النحل في العثور على الغذاء عن طريق البحث العشوائي، ويمكن استخدامها لحل مشكالت التحسين."
         },
         {
-            "english": "Behavior Informatics )BI(",
+            "english": "Behavior Informatics (BI)",
             "arabic": "معلوماتية السلوك",
             "description": "مجال يهتم بجمع البيانات غير المتجانسة وتحليلها وتفسيرها؛ لتمثيل السلوك البشري ونمذجته."
         },
         {
-            "english": "Behavior Tree )BT(",
+            "english": "Behavior Tree (BT)",
             "arabic": "شجرة السلوك",
             "description": "طريقة لهيكلة التبديل بين الأفعال المختلفة في وكيل ذاتي التحكم."
         },
@@ -649,7 +649,7 @@
             "description": "عملية استخدام البيانات المتعلقة بسلوكيات المستخدمين؛ لفهم نواياهم وأفعالهم والتنبؤ بها."
         },
         {
-            "english": "Belief-Desire-Intention Software Model )BDI(",
+            "english": "Belief-Desire-Intention Software Model (BDI)",
             "arabic": "نموذج برمجي للمعتقدات والرغبات والمقاصد",
             "description": "إطار لتصميم وتنفيذ وكالء أذكياء يحاكون البشر في الاستدلال واتخاذ القرارات."
         },
@@ -749,7 +749,7 @@
             "description": "طريقة تعُّلم تجميعي ُتستخدم في تعُّلم الآلة لتحسين دقة النماذج التنبؤية."
         },
         {
-            "english": "Bootstrap Aggregating )Bagging(",
+            "english": "Bootstrap Aggregating (Bagging)",
             "arabic": "تجميع بوتستراب",
             "description": "طريقة تعُّلم تجميعي ُتستخدم لتحسين الاستقرار والدقة في نماذج التصنيف والانحدار."
         },
@@ -814,7 +814,7 @@
             "description": "طريقة لتحسين التدريب؛ عن طريق حساب الاحتمالات لجميع الأصناف المستهدفة، ولعينة عشوائية من الأصناف الأخرى."
         },
         {
-            "english": "Capsule Neural Network )CapsNet(",
+            "english": "Capsule Neural Network (CapsNet)",
             "arabic": "شبكة عصبية كبسولية",
             "description": "شبكة عصبية اصطناعية تتكون من مجموعة من الخلايا العصبية (كبسوالت)، ُتمِّثل ُمعاِمالت إنشاء لكيان معين.     ()."
         },
@@ -874,7 +874,7 @@
             "description": "نظرية أساسية في حساب التفاضل والتكامل، توفر طريقة لحساب مشتق دالة مركبة. وُتستخدم أيًضا في الاحتمالات؛ لحساب الاحتمال المشترك لتسلسل من الأحداث."
         },
         {
-            "english": "Chain-of-Thought )CoT( Prompting",
+            "english": "Chain-of-Thought (CoT) Prompting",
             "arabic": "أوامر تسلسل الأفكار",
             "description": "أسلوب لهندسة الأوامر، يحث النموذج على تقسيم المهام المعقدة إلى خطوات أصغر؛ إلظهار عملية الاستدلال."
         },
@@ -1034,7 +1034,7 @@
             "description": "أسلوب ُيستخدم في أنظمة التوصية للتنبؤ باهتمامات المستخدم بناًء على اهتمامات المستخدمين الآخرين."
         },
         {
-            "english": "Collaborative Robot )Cobot(",
+            "english": "Collaborative Robot (Cobot)",
             "arabic": "روبوت تعاوني",
             "description": "روبوت ُمصَّمم للتفاعل المباشر مع الإنسان في بيئة عمل مشتركة."
         },
@@ -1084,7 +1084,7 @@
             "description": "فرع من فروع الذكاء الاصطناعي يهتم بنمذجة الفكاهة وتوليدها."
         },
         {
-            "english": "Computational Intelligence )CI(",
+            "english": "Computational Intelligence (CI)",
             "arabic": "ذكاء حوسبي",
             "description": "مجال دراسة يركز على الدافع البيولوجي واللغوي لتطوير الطرق الحوسبية، ويشمل الشبكات العصبية والأنظمة الضبابية والحوسبة التطورية."
         },
@@ -1109,7 +1109,7 @@
             "description": "مجال في الذكاء الاصطناعي يركز على تحليل البيانات المرئية (صور وفيديوهات) وفهم محتواها. وُيطلق عليه أيًضا رؤية  ) الآلة. .    .("
         },
         {
-            "english": "Computer-Aided Detection )CADe(",
+            "english": "Computer-Aided Detection (CADe)",
             "arabic": "اكتشاف بمساعدة الحاسب",
             "description": "نظام يساعد في مهام التشخيص السريري عن طريق الاكتشاف المؤتمت في السجالت الطبية."
         },
@@ -1189,7 +1189,7 @@
             "description": "خاصية لها عدد النهائي من القيم الممكنة."
         },
         {
-            "english": "Contrastive Language-Image Pre-training )CLIP(",
+            "english": "Contrastive Language-Image Pre-training (CLIP)",
             "arabic": "تدريب سابق تبايني للنصوص والصور",
             "description": "نموذج شبكة عصبية يتعلم ربط الصور بأوصاف نصية عن طريق التدريب على مجموعة بيانات ضخمة من أزواج الصور والنصوص."
         },
@@ -1269,7 +1269,7 @@
             "description": "طبقة في الشبكة العصبية الترشيحية تستخدم الُمر ِّشحات إلجراء عمليات الترشيح."
         },
         {
-            "english": "Convolutional Neural Network )CNN(",
+            "english": "Convolutional Neural Network (CNN)",
             "arabic": "شبكة عصبية ترشيحية",
             "description": "نوع من الشبكات العصبية العميقة المستخدمة في إنشاء نماذج لتحليل الصور والفيديوهات ومعالجتها."
         },
@@ -1594,7 +1594,7 @@
             "description": "القدرة على مراقبة صحة البيانات وفهمها والحفاظ عليها؛ لضمان دقتها واتساقها وموثوقيتها."
         },
         {
-            "english": "Data Operations )DataOps(",
+            "english": "Data Operations (DataOps)",
             "arabic": "عمليات البيانات",
             "description": "ممارسة لإدارة البيانات تستخدم منهجية رشيقة وتعاونية؛ لتبسيط دورة الحياة لتحليالت البيانات، وتحسين جودتها."
         },
@@ -1779,7 +1779,7 @@
             "description": "عملية اتخاذ القرارات بناًء على البيانات بدًال من مجرد الحدس أو المالحظة. وُيطلق عليها أيًضا اتخاذ قرار مستند إلى البيانات.   . .()"
         },
         {
-            "english": "Data-Informed Decision-Making )DIDM(",
+            "english": "Data-Informed Decision-Making (DIDM)",
             "arabic": "اتخاذ قرار مستند إلى البيانات",
             "description": "انظر اتخاذ قرار مبني على البيانات. .()"
         },
@@ -1849,7 +1849,7 @@
             "description": "الفاصل بين الأصناف التي تعلمها النموذج في مشكالت التصنيف الثنائي أو المتعدد."
         },
         {
-            "english": "Decision Support System )DSS(",
+            "english": "Decision Support System (DSS)",
             "arabic": "نظام دعم القرار",
             "description": "نظام معلومات يساعد في تقييم البدائل وحل المشكالت واتخاذ القرارات."
         },
@@ -1929,12 +1929,12 @@
             "description": "انظر شبكة عصبية عميقة. .()"
         },
         {
-            "english": "Deep Neural Network )DNN(",
+            "english": "Deep Neural Network (DNN)",
             "arabic": "شبكة عصبية عميقة",
             "description": "نوع من الشبكات العصبية الاصطناعية يشتمل على عدة  () طبقات بين طبقتي الُمدخلات والمخرجات. وُيطلق عليه أيًضا نموذج عميق. ."
         },
         {
-            "english": "Deep Q-Network )DQN(",
+            "english": "Deep Q-Network (DQN)",
             "arabic": "شبكة كيو العميقة",
             "description": "خوارزمية تجمع بين التعُّلم التعزيزي والشبكات العصبية العميقة لحل المشكالت المعقدة، والتعامل مع البيئات الكثيرة الأبعاد."
         },
@@ -2019,7 +2019,7 @@
             "description": "انظر معالجة الصور."
         },
         {
-            "english": "Digital Signal Processing )DSP(",
+            "english": "Digital Signal Processing (DSP)",
             "arabic": "معالجة الإشارات الرقمية",
             "description": "مجال فرعي من معالجة الإشارات يركز على استخدام أجهزة الحاسب لتحليل الإشارات الرقمية ومعالجتها."
         },
@@ -2069,7 +2069,7 @@
             "description": "حالة ُتحَلل فيها السمات الحساسة للأشخاص في العملية الخوارزمية التخاذ القرار بطريقة لا ُتعامل فيها المجموعات الفرعية المختلفة على حد سواء."
         },
         {
-            "english": "Distributed Artificial Intelligence )DAI(",
+            "english": "Distributed Artificial Intelligence (DAI)",
             "arabic": "ذكاء اصطناعي موَّزع",
             "description": "مجال فرعي من الذكاء الاصطناعي يركز على حل المشكالت باستخدام عمليات منسقة ومتزامنة. وُيطلق عليه أيًضا ذكاء  . اصطناعي لا مركزي."
         },
@@ -2079,7 +2079,7 @@
             "description": "نظام موَّزع يتضمن عدة ُمكِّونات برمجية تعمل كنظام واحد في عدة أجهزة حاسب."
         },
         {
-            "english": "Distributed Data Processing )DDP(",
+            "english": "Distributed Data Processing (DDP)",
             "arabic": "معالجة البيانات الموَّزعة",
             "description": "شكل من أشكال معالجة البيانات ُتوَّزع فيه العمليات بين شبكة من أجهزة الحاسب."
         },
@@ -2149,7 +2149,7 @@
             "description": "مقياس للتشابه بين توزيعين احتماليين. وُيطلق عليه أيًضا مسافة واسرستين. ."
         },
         {
-            "english": "Echo State Network )ESN(",
+            "english": "Echo State Network (ESN)",
             "arabic": "شبكة حالة الصدى",
             "description": "نوع من حوسبة المكامن ينشئ شبكة تكرارية متصلة عشوائًّيا ويدرب أوزان اتصال مناسبة لإنتاج المخرجات المرغوبة."
         },
@@ -2229,7 +2229,7 @@
             "description": "تقنية تستخدم الذكاء الاصطناعي لتحديد المشاعر البشرية وتفسيرها."
         },
         {
-            "english": "Empirical Risk Minimization )ERM(",
+            "english": "Empirical Risk Minimization (ERM)",
             "arabic": "تقليل المخاطر التجريبي",
             "description": "عملية اختيار نموذج يقلل من الخسارة المتوسطة لمجموعة معينة من بيانات التدريب."
         },
@@ -2309,7 +2309,7 @@
             "description": "انظر بيانات الاختبار. .(    )"
         },
         {
-            "english": "Event Stream Processing )ESP(",
+            "english": "Event Stream Processing (ESP)",
             "arabic": "معالجة تدفق الأحداث",
             "description": "عملية التحليل السريع الآني لتدفقات البيانات المستمرة للأحداث."
         },
@@ -2349,7 +2349,7 @@
             "description": "القدرة على شرح العوامل المهمة التي تؤِّثر في نتائج نظام الذكاء الاصطناعي بعبارات مفهومة للإنسان. وُيطلق عليها أيًضا ذكاء اصطناعي قابل للتفسير أو قابلية الشرح.     . .  ()"
         },
         {
-            "english": "Explainable Artificial Intelligence )XAI(",
+            "english": "Explainable Artificial Intelligence (XAI)",
             "arabic": "ذكاء اصطناعي قابل للتفسير",
             "description": "انظر قابلية التفسير."
         },
@@ -2379,7 +2379,7 @@
             "description": "البيانات المخزنة في مصادر خارجية."
         },
         {
-            "english": "Extract, Transform and Load )ETL(",
+            "english": "Extract, Transform and Load (ETL)",
             "arabic": "استخراج وتحويل وتحميل",
             "description": "عملية جمع البيانات من مصادر مختلفة وتحويلها إلى صيغة مناسبة وتخزينها في مستودع مركزي."
         },
@@ -2419,17 +2419,17 @@
             "description": "نتيجة تنبأ النموذج بأنها سلبية، في حين هي في الواقع إيجابية."
         },
         {
-            "english": "False Negative Rate )FNR(",
+            "english": "False Negative Rate (FNR)",
             "arabic": "معدل سلبي خاطئ",
             "description": "نسبة الأمثلة الإيجابية الفعلية التي ُيتنبأ بأنها سلبية. وُيطلق عليها أيًضا معدل الخطأ."
         },
         {
-            "english": "False Positive )FP(",
+            "english": "False Positive (FP)",
             "arabic": "تصنيف إيجابي خاطئ",
             "description": "نتيجة تنبأ النموذج بأنها إيجابية، في حين هي في الواقع سلبية."
         },
         {
-            "english": "False Positive Rate )FPR(",
+            "english": "False Positive Rate (FPR)",
             "arabic": "معدل إيجابي خاطئ",
             "description": "نسبة الأمثلة السلبية الفعلية التي ُيتنبأ بأنها إيجابية. وُيطلق عليها أيًضا سقوط. ."
         },
@@ -2609,12 +2609,12 @@
             "description": "مشكلة تحديد ما يبقى دون تغيير نتيجة الأفعال أو الأحداث."
         },
         {
-            "english": "Fréchet Inception Distance )FID(",
+            "english": "Fréchet Inception Distance (FID)",
             "arabic": "مسافة بداية فريشيه",
             "description": "مقياس ُيستخدم لتقييم جودة الصور الموَّلدة عن طريق النماذج التوليدية."
         },
         {
-            "english": "Friendly Artificial Intelligence )FAI(",
+            "english": "Friendly Artificial Intelligence (FAI)",
             "arabic": "ذكاء اصطناعي وِّدي",
             "description": "ذكاء عام اصطناعي افتراضي يدعم القيم الإنسانية، وله أثر () إيجابي في البشرية."
         },
@@ -2644,7 +2644,7 @@
             "description": "فرع من فروع النمذجة الرياضية يهتم بدراسة الصراع والتعاون بين صناع القرار العقالنيين."
         },
         {
-            "english": "Gated Recurrent Unit )GRU(",
+            "english": "Gated Recurrent Unit (GRU)",
             "arabic": "وحدة بوابة تكرارية",
             "description": "نوع من الشبكات العصبية التكرارية المصممة لمعالجة البيانات المتسلسلة باستخدام آليات البوابات للتحكم في تدفق المعلومات."
         },
@@ -2654,7 +2654,7 @@
             "description": "انظر توزيع طبيعي."
         },
         {
-            "english": "Gaussian Error Linear Unit )GeLU( )",
+            "english": "Gaussian Error Linear Unit (GeLU) )",
             "arabic": "وحدة الخطأ الخطي الجاوسي (جيلو",
             "description": "دالة تنشيط تطبق تحوي ًال سل ًسا غير خطي على الُمْدَخلات، عن طريق الاحتمال التراكمي للتوزيع الطبيعي."
         },
@@ -2694,7 +2694,7 @@
             "description": "خوارزمية تعُّلم آلة غير موَّجه مكَّونة من شبكتين عصبيتين: شبكة مولدة وشبكة تمييزية، تتنافسان في إطار لعبة صفرية الناتج."
         },
         {
-            "english": "Generative Artificial Intelligence )GenAI(",
+            "english": "Generative Artificial Intelligence (GenAI)",
             "arabic": "ذكاء اصطناعي توليدي",
             "description": "نوع من الذكاء الاصطناعي يمكنه إنشاء محتوى جديد، مثل: النصوص والصور والأصوات والفيديوهات والأكواد البرمجية."
         },
@@ -2714,7 +2714,7 @@
             "description": "نموذج تعُّلم آلة يمكنه إنشاء أمثلة جديدة مشابهة لبيانات التدريب."
         },
         {
-            "english": "Generative Pre-Trained Transformer )GPT( )",
+            "english": "Generative Pre-Trained Transformer (GPT) )",
             "arabic": "ُمحِّول توليدي ُمدَّرب سابًقا (جي بي تي",
             "description": "عائلة من النماذج اللغوية الكبيرة تعتمد على ُمحِّول."
         },
@@ -2779,12 +2779,12 @@
             "description": "مجال يستخدم هياكل البيانات الشبكية لفهم العلاقات واستخراج الرؤى من البيانات المترابطة."
         },
         {
-            "english": "Graph Database )GDB(",
+            "english": "Graph Database (GDB)",
             "arabic": "قاعدة بيانات شبكية",
             "description": "قاعدة بيانات تستخدم الُعَقد والحافات لتمثيل البيانات وعلاقاتها."
         },
         {
-            "english": "Graph Neural Network )GNN(",
+            "english": "Graph Neural Network (GNN)",
             "arabic": "شبكة عصبية شبكية",
             "description": "نوع من ُطُرق التعُّلم العميق يعالج البيانات الممَّثلة على شكل شبكات."
         },
@@ -2839,7 +2839,7 @@
             "description": "إطار مفتوح المصدر يوفر معالجة موَّزعة لمجموعات كبيرة من البيانات عبر مجموعات من أجهزة الحاسب."
         },
         {
-            "english": "Hadoop Distributed File System )HDFS(",
+            "english": "Hadoop Distributed File System (HDFS)",
             "arabic": "نظام هدوب للملفات الموَّزعة",
             "description": "ُمَحِّرك تخزين مفتوح المصدر، يعتمد على معمارية نظام ملفات جوجل، ومصَّمم للتخزين الفاعل للملفات الكبيرة.   ()."
         },
@@ -2904,7 +2904,7 @@
             "description": "انظر تعُّرف على الأفعال."
         },
         {
-            "english": "Human Activity Recognition )HAR(",
+            "english": "Human Activity Recognition (HAR)",
             "arabic": "تعُّرف على النشاط البشري",
             "description": "انظر تعُّرف على الأفعال."
         },
@@ -2919,12 +2919,12 @@
             "description": "ميزة احتياطية في بوت محادثة تسمح بتولي موظف مركز الاتصال المحادثة بدًال من بوت المحادثة."
         },
         {
-            "english": "Human-Computer Interaction )HCI(",
+            "english": "Human-Computer Interaction (HCI)",
             "arabic": "تفاعل بين الإنسان والحاسب",
             "description": "دراسة تصميم وتنفيذ التفاعل بين المستخدمين وأجهزة الحاسب."
         },
         {
-            "english": "Human-in-the-Loop )HITL(",
+            "english": "Human-in-the-Loop (HITL)",
             "arabic": "إنسان في الحلقة",
             "description": "طريقة تدمج الُمْدَخلات البشرية في دورة حياة أنظمة الذكاء الاصطناعي لتقديم المالحظات وتحسين النتائج."
         },
@@ -2934,7 +2934,7 @@
             "description": "تكامل التفاعل البشري وقدرات ذكاء الآلة."
         },
         {
-            "english": "Human-Robot Interaction )HRI(",
+            "english": "Human-Robot Interaction (HRI)",
             "arabic": "تفاعل بين الإنسان والروبوت",
             "description": "مجال يركز على تبادل المعلومات والأفعال بين الإنسان والروبوت ألداء المهام عن طريق واجهة المستخدم."
         },
@@ -2949,7 +2949,7 @@
             "description": "منهجية بحث عالية المستوى تعمل على أتمتة عملية اختيار الأساليب الإرشادية، أو دمجها لحل مشكالت البحث المعقدة."
         },
         {
-            "english": "Hyperbolic Tangent )Tanh( Function",
+            "english": "Hyperbolic Tangent (Tanh) Function",
             "arabic": "دالة الظل الزائدي",
             "description": "دالة تنشيط ُتعِّين الِقَيم الُمْدَخلة إلى نطاق يتراوح بين  و."
         },
@@ -2974,7 +2974,7 @@
             "description": "فكرة أو تنبؤ بحاجة إلى بحث واختبار عن طريق التجربة."
         },
         {
-            "english": "Hypothetical Document Embeddings )HyDE(",
+            "english": "Hypothetical Document Embeddings (HyDE)",
             "arabic": "تضمين المستندات الافتراضي",
             "description": "أسلوب استرجاع ُينشئ تضمينات افتراضية للمستندات، ثم يستخدمها السترداد مستندات مماثلة من نفس مساحة التضمين."
         },
@@ -3034,7 +3034,7 @@
             "description": "نوع من التحُّيز يكون فيه التفضيل لمجموعة الشخص أو خصائصه."
         },
         {
-            "english": "In-Memory Database )IMDB(",
+            "english": "In-Memory Database (IMDB)",
             "arabic": "قاعدة بيانات في الذاكرة",
             "description": "قاعدة بيانات تخزن البيانات في الذاكرة الرئيسة بدًال من ُمَحِّرك الأقراص لتسريع أوقات الاستجابة."
         },
@@ -3054,7 +3054,7 @@
             "description": "طريقة من ُطُرق تعُّلم الآلة يكون التدريب والتعُّلم فيها مستمًّرا كلما ظهرت أمثلة جديدة."
         },
         {
-            "english": "Independent and Identically Distributed )IID(",
+            "english": "Independent and Identically Distributed (IID)",
             "arabic": "متغيرات مستقلة ومتطابقة التوزيع",
             "description": "متغيرات عشوائية مستقلة عن بعضها البعض، ولها نفس التوزيع الاحتمالي."
         },
@@ -3159,7 +3159,7 @@
             "description": "شكل من أشكال الضبط الدقيق ُيدَّرب فيه النموذج بناًء على سلسلة من التعليمات لتحسين أدائه في مهام محددة."
         },
         {
-            "english": "Intelligence Amplification )IA(",
+            "english": "Intelligence Amplification (IA)",
             "arabic": "تضخيم الذكاء",
             "description": "استخدام التقنية لزيادة الذكاء البشري."
         },
@@ -3174,7 +3174,7 @@
             "description": "فرضية تصف حالة يمكن فيها للآلات الفائقة الذكاء أن تنتج آلات أكثر ذكاء، يفوق ذكاؤها الذكاء البشري. ُيطلق عليها أيًضا تفُّرد تقني أو تفُّرد."
         },
         {
-            "english": "Intelligent Agent )IA(",
+            "english": "Intelligent Agent (IA)",
             "arabic": "وكيل ذكي",
             "description": "كيان ذاتي التحكم يدرك بيئته ويقوم بأفعال لتحقيق أهداف محددة."
         },
@@ -3189,7 +3189,7 @@
             "description": "نوع من آليات التحكم التي تستخدم أساليب الذكاء الاصطناعي المختلفة لمحاكاة خصائص الذكاء البشري."
         },
         {
-            "english": "Intelligent Document Processing )IDP(",
+            "english": "Intelligent Document Processing (IDP)",
             "arabic": "معالجة ذكية للوثائق",
             "description": "أتمتة استخراج البيانات من المستندات المختلفة ومعالجتها وتحليلها باستخدام تقنيات الذكاء الاصطناعي."
         },
@@ -3224,12 +3224,12 @@
             "description": "انظر اتفاق الُمقِّيمين."
         },
         {
-            "english": "Internet of Things )IoT(",
+            "english": "Internet of Things (IoT)",
             "arabic": "إنترنت الأشياء",
             "description": "شبكة من الأجهزة الإلكترونية والبرمجيات وأجهزة الاستشعار التي ُتتيح للآلات التفاعل مع بعضها."
         },
         {
-            "english": "Internet of Things )IoT( Device",
+            "english": "Internet of Things (IoT) Device",
             "arabic": "جهاز إنترنت الأشياء",
             "description": "جهاز استشعار أو ُمشِّغل في نظام إنترنت الأشياء يتفاعل مع العالم المادي."
         },
@@ -3239,7 +3239,7 @@
             "description": "انظر قابلية التفسير."
         },
         {
-            "english": "Intersection over Union )IoU(",
+            "english": "Intersection over Union (IoU)",
             "arabic": "تقاطع على الاتحاد",
             "description": "مقياس لتحديد دقة مهام اكتشاف الأشياء أو الصور عن طريق مقارنة إطار التحديد المتوقع مع إطار التحديد الفعلي."
         },
@@ -3264,7 +3264,7 @@
             "description": "أسلوب في هندسة الأوامر ُتح ِّسن الأوامر وُتعِّدلها بناًء على استجابات النموذج، عبر تكرارات متعددة للحصول على نتائج مرغوبة وأكثر دقة."
         },
         {
-            "english": "JavaScript Object Notation )JSON(",
+            "english": "JavaScript Object Notation (JSON)",
             "arabic": "صيغة جيسون",
             "description": "صيغة خفيفة لتبادل البيانات يمكن للإنسان قراءتها، وُتستخدم على نطاق واسع لهيكلة البيانات ونقلها بين الأنظمة."
         },
@@ -3364,12 +3364,12 @@
             "description": "مجال فرعي في الذكاء الاصطناعي يهتم بترميز المعرفة البشرية في أنظمة الحاسب الستخالص استنتاجات منطقية."
         },
         {
-            "english": "Knowledge-Based System )KBS(",
+            "english": "Knowledge-Based System (KBS)",
             "arabic": "نظام قائم على قاعدة معرفة",
             "description": "نظام حاسب يستخدم قاعدة معرفة لتخزين معرفة الخبراء البشريين، إضافة إلى ُمَحِّرك استنتاج لحل المشكالت."
         },
         {
-            "english": "Kullback-Leibler )KL( Divergence",
+            "english": "Kullback-Leibler (KL) Divergence",
             "arabic": "تباعد كولباك-ليبلر",
             "description": "مقياس يحدد الفرق بين توزيعين احتماليين. ُيطلق عليه أيًضا انتروبيا نسبية."
         },
@@ -3439,7 +3439,7 @@
             "description": ")( نموذج لغوي كبير يعتمد على ُمحِّول لتوليد استجابات تحاورية."
         },
         {
-            "english": "Language Operations )LangOps(",
+            "english": "Language Operations (LangOps)",
             "arabic": "عمليات لغوية",
             "description": "مجموعة من الممارسات والأدوات التي تمِّكن المؤسسات من إدارة دورة حياة النماذج اللغوية."
         },
@@ -3454,7 +3454,7 @@
             "description": "عملية جعل أنظمة النماذج اللغوية الكبيرة تعمل بطرق تتماشى مع الأهداف والقيم الإنسانية."
         },
         {
-            "english": "Large Language Model Operations )LLMOps(",
+            "english": "Large Language Model Operations (LLMOps)",
             "arabic": "عمليات النماذج اللغوية الكبيرة",
             "description": "مجموعة من الممارسات والأدوات لإدارة دورة حياة النماذج اللغوية الكبيرة."
         },
@@ -3504,7 +3504,7 @@
             "description": "انظر نظرية التعُّلم الحوسبي."
         },
         {
-            "english": "Least Square Error )LSE(",
+            "english": "Least Square Error (LSE)",
             "arabic": "خطأ تربيعي أقل",
             "description": "طريقة للعثور على أفضل ملاءمة للبيانات لتقليل مربع الأخطاء بين البيانات الفعلية وخط الملاءمة."
         },
@@ -3589,7 +3589,7 @@
             "description": "انظر انحدار لوجستي."
         },
         {
-            "english": "Long Short-Term Memory )LSTM(",
+            "english": "Long Short-Term Memory (LSTM)",
             "arabic": "ذاكرة قصيرة المدى ُم َطَّولة",
             "description": "نوع من الشبكات العصبية التكرارية التي تعالج تسلسل البيانات بأداء مقبول لكل التوابع الطويلة والقصيرة."
         },
@@ -3614,7 +3614,7 @@
             "description": "رسم بياني يمثل الأوزان مقابل الخسارة."
         },
         {
-            "english": "Low Rank Adaptation )LoRA(",
+            "english": "Low Rank Adaptation (LoRA)",
             "arabic": "َتَكُّيف منخفض الرتبة",
             "description": "أسلوب تدريبي لتكييف النماذج مع مهام جديدة عن طريق تقديم عدد صغير من الُمعاِملات القابلة للتدريب بدًال من تعديل جميع المعامالت الأصلية."
         },
@@ -3634,7 +3634,7 @@
             "description": "انظر ذكاء اصطناعي. .()"
         },
         {
-            "english": "Machine Learning )ML(",
+            "english": "Machine Learning (ML)",
             "arabic": "تعُّلم الآلة",
             "description": "مجال فرعي من الذكاء الاصطناعي يركز على تمكين الآلات من التعُّلم من البيانات وتحسين أدائها في مهام محددة دون الحاجة إلى برمجة صريحة."
         },
@@ -3649,7 +3649,7 @@
             "description": "انظر نموذج."
         },
         {
-            "english": "Machine Learning Operations )MLOps(",
+            "english": "Machine Learning Operations (MLOps)",
             "arabic": "عمليات تعُّلم الآلة",
             "description": "مجموعة من الممارسات والأدوات التي تعمل على أتمتة جميع مراحل دورة حياة تعُّلم الآلة وإدارتها."
         },
@@ -3694,7 +3694,7 @@
             "description": "نموذج عشوائي يصف تسلسل من الأحداث المحتملة التي يعتمد فيها احتمال كل حدث على الحدث السابق فقط. وُيطلق عليه أيًضا عملية ماركوف."
         },
         {
-            "english": "Markov Decision Process )MDP(",
+            "english": "Markov Decision Process (MDP)",
             "arabic": "عملية قرار ماركوف",
             "description": "عملية تحكم عشوائي ذات وقت منفصل ُتستخدم لنمذجة صنع القرار في مشكالت التحسين عند عدم التيقن."
         },
@@ -3749,17 +3749,17 @@
             "description": "أسلوب يوازن بين الصلة والتنوع عند استرجاع العناصر."
         },
         {
-            "english": "Maximum Likelihood Estimation )MLE(",
+            "english": "Maximum Likelihood Estimation (MLE)",
             "arabic": "تقدير الأرجحية الأعلى",
             "description": "طريقة لتحديد قيم الُمعاِملات التي تزيد من احتمالية البيانات المرصودة."
         },
         {
-            "english": "Mean Absolute Error )MAE(",
+            "english": "Mean Absolute Error (MAE)",
             "arabic": "متوسط الخطأ المطلق",
             "description": "مقياس ُيستخدم لتقييم دقة النموذج، عن طريق حساب متوسط الفرق المطلق بين القيم المتوقعة والتنبؤ لجميع أمثلة التدريب."
         },
         {
-            "english": "Mean Squared Error )MSE(",
+            "english": "Mean Squared Error (MSE)",
             "arabic": "متوسط الخطأ التربيعي",
             "description": "متوسط الخسارة التربيعية لكل مثال، محسوًبا بقسمة الخسارة التربيعية على عدد الأمثلة."
         },
@@ -3834,7 +3834,7 @@
             "description": "انظر معدل سلبي خاطئ. .()"
         },
         {
-            "english": "Mixture of Experts )MoE(",
+            "english": "Mixture of Experts (MoE)",
             "arabic": "خليط من الخبراء",
             "description": "أسلوب في تعُّلم الآلة ُيق ِّسم النموذج إلى شبكات فرعية متعددة تعمل مًعا في مهمة ما، وتتخصص كل منها في مجموعة فرعية معينة من البيانات الُمْدَخلة."
         },
@@ -4009,7 +4009,7 @@
             "description": "حالة يصبح فيها عدد في نموذج ما قيمة غير عددية أثناء عملية التدريب؛ وبسببه تصبح الأعداد الأخرى قيًما غير عددية."
         },
         {
-            "english": "Narrow Artificial Intelligence )NAI(",
+            "english": "Narrow Artificial Intelligence (NAI)",
             "arabic": "ذكاء اصطناعي ضيق",
             "description": "انظر ذكاء ضيق اصطناعي. .()"
         },
@@ -4024,7 +4024,7 @@
             "description": "عملية تحويل البيانات المهيكلة إلى لغة طبيعية."
         },
         {
-            "english": "Natural Language Processing )NLP(",
+            "english": "Natural Language Processing (NLP)",
             "arabic": "معالجة اللغات الطبيعية",
             "description": "فرع من فروع الذكاء الاصطناعي يهتم بفهم أو توليد اللغة البشرية سواٌء كانت على شكل نص أو كالم."
         },
@@ -4034,7 +4034,7 @@
             "description": "استخدام اللغة الطبيعية لصياغة الاستعلامات التي يمكن ألنظمة الحاسب معالجتها وفهمها."
         },
         {
-            "english": "Natural Language Understanding )NLU(",
+            "english": "Natural Language Understanding (NLU)",
             "arabic": "فهم اللغات الطبيعية",
             "description": "مجال فرعي من معالجة اللغات الطبيعية يهتم ببناء آلات () قادرة على فهم لغة الإنسان الطبيعية."
         },
@@ -4049,12 +4049,12 @@
             "description": "نسبة النتائج السلبية المتوقعة التي ُتعد سلبية صحيحة."
         },
         {
-            "english": "Neural Machine Translation )NMT(",
+            "english": "Neural Machine Translation (NMT)",
             "arabic": "ترجمة الآلة العصبية",
             "description": "طريقة في ترجمة الآلة تستخدم شبكة عصبية اصطناعية كبيرة للتنبؤ باحتمالية تسلسل من الكلمات، وغالًبا ما تكون في جمل كاملة."
         },
         {
-            "english": "Neural Network )NN(",
+            "english": "Neural Network (NN)",
             "arabic": "شبكة عصبية",
             "description": "انظر شبكة عصبية اصطناعية. .()"
         },
@@ -4099,7 +4099,7 @@
             "description": "بيانات لا معنى لها تؤِّثر في تحليل البيانات."
         },
         {
-            "english": "Non-Maximum Suppression )NMS(",
+            "english": "Non-Maximum Suppression (NMS)",
             "arabic": "إزالة غير الأكبر",
             "description": "أسلوب ُيستخدم في اكتشاف الأشياء إلزالة إطارات التحديد المتكررة أو المتداخلة، مع الاحتفاظ بمربع واحد فقط لكل شيء مكت َشف."
         },
@@ -4254,12 +4254,12 @@
             "description": "أساليب مبنية على البيانات لبناء توصيف معرفي باستخدام ُطُرق تلقائية أو شبه تلقائية تعتمد على التنقيب في النصوص أو تعُّلم الآلة."
         },
         {
-            "english": "Open-Source Software )OSS(",
+            "english": "Open-Source Software (OSS)",
             "arabic": "برمجيات مفتوحة المصدر",
             "description": "برمجيات كودها متاح يمكن ألي شخص الوصول إليه وتعديله واستخدامه وتوزيعه."
         },
         {
-            "english": "Operational Database )ODB(",
+            "english": "Operational Database (ODB)",
             "arabic": "قاعدة بيانات تشغيلية",
             "description": "قاعدة بيانات ُتستخدم لتخزين البيانات ومعالجتها في الوقت الآني."
         },
@@ -4345,16 +4345,16 @@
         },
         {
             "english": "Parameter",
-            "arabic": "ُمعاِمل",
+            "arabic": "مُعامِل",
             "description": "متغير في نموذج يمكن تدريبه بصورة تكرارية بواسطة نظام تعُّلم الآلة."
         },
         {
-            "english": "Parameter Efficient Fine-Tuning )PEFT(",
+            "english": "Parameter Efficient Fine-Tuning (PEFT)",
             "arabic": "ضبط دقيق فاعل للُمعاِمالت",
             "description": "أسلوب لتكييف النماذج الُمدَّربة سابًقا على مهام محددة، عن طريق تحديث مجموعة فرعية صغيرة من الُمعاِملات."
         },
         {
-            "english": "Parameter Server )PS(",
+            "english": "Parameter Server (PS)",
             "arabic": "خادم الُمعاِملات",
             "description": "إطار للتعُّلم العميق الموَّزع الذي يتتبع ُمعاِمالت النموذج."
         },
@@ -4394,7 +4394,7 @@
             "description": "انظر تحُّيز عدم الاستجابة."
         },
         {
-            "english": "Particle Swarm Optimization )PSO(",
+            "english": "Particle Swarm Optimization (PSO)",
             "arabic": "تحسين سرب الجسيمات",
             "description": "خوارزمية تحسين مستوحاة من حركة سرب الطيور لإيجاد الحل الأمثل في مساحة الحل."
         },
@@ -4494,7 +4494,7 @@
             "description": "خوارزمية ُتستخدم لتعديل بيانات التدريب."
         },
         {
-            "english": "Pre-Trained Language Model )PLM(",
+            "english": "Pre-Trained Language Model (PLM)",
             "arabic": "نموذج لغوي ُمدَّرب سابًقا",
             "description": "نموذج ُمدَّرب على بيانات نصية ضخمة لفهم أنماط اللغة."
         },
@@ -4764,7 +4764,7 @@
             "description": "عملية توجيه الاستعلامات إلى مصادر البيانات المناسبة السترداد المعلومات الأكثر صلة."
         },
         {
-            "english": "Question Answering )QA(",
+            "english": "Question Answering (QA)",
             "arabic": "إجابة الأسئلة",
             "description": "عملية تحديد أنسب إجابة لسؤال ما باللغة الطبيعية."
         },
@@ -4779,7 +4779,7 @@
             "description": "لغة برمجة عالية المستوى ُتستخدم على نطاق واسع للتحليل الإحصائي وتعُّلم الآلة."
         },
         {
-            "english": "Radial Basis Function )RBF(",
+            "english": "Radial Basis Function (RBF)",
             "arabic": "دالة القاعدة الشعاعية",
             "description": "دالة تشتمل على قيم تعتمد على المسافات من المركز."
         },
@@ -4834,7 +4834,7 @@
             "description": "البيانات التي يمكن الوصول إليها فور توليدها."
         },
         {
-            "english": "Reasoning and Acting )ReAct( Prompting",
+            "english": "Reasoning and Acting (ReAct) Prompting",
             "arabic": "أوامر الاستدلال والتصرف",
             "description": "أسلوب في هندسة الأوامر يجمع بين الاستدلال والتصرف لتمكين النماذج من حل مهام متنوعة في الاستدلال واتخاذ القرار."
         },
@@ -4854,7 +4854,7 @@
             "description": "() مجموعة من المقاييس المستخدمة لتقييم جودة التلخيص التلقائي وترجمة الآلة، عن طريق قياس التداخل بين المخرجات التي ينشئها النظام والمراجع التي ينشئها الإنسان."
         },
         {
-            "english": "Receiver Operating Characteristic )ROC( Curve",
+            "english": "Receiver Operating Characteristic (ROC) Curve",
             "arabic": "منحنى دّقة الأداء",
             "description": "تمثيل رسومي ألداء الُمصِّنف في جميع الحدود الممكنة."
         },
@@ -4869,7 +4869,7 @@
             "description": "نظام يوصي المستخدمين بمجموعة من العناصر بناًء على اختياراتهم وسلوكياتهم. ُيطلق عليه أيًضا ُمَحِّرك توصيات."
         },
         {
-            "english": "Rectified Linear Unit )ReLU( )",
+            "english": "Rectified Linear Unit (ReLU) )",
             "arabic": "وحدة خطية مصححة (ريلو",
             "description": "دالة تنشيط ُتعطي القيمة صفًرا إذا كان الُمْد َخل سالًبا أو صفًرا، وتعطي القيمة نفسها إذا كان الُمْدَخل موجًبا."
         },
@@ -4914,7 +4914,7 @@
             "description": "قيمة تحدد الأهمية النسبية لدالة الضبط. وُيطلق عليها أيًضا المدا. ."
         },
         {
-            "english": "Reinforcement Learning )RL(",
+            "english": "Reinforcement Learning (RL)",
             "arabic": "تعُّلم تعزيزي",
             "description": "نوع من تعُّلم الآلة يتعَّلم السياسة المثلى عن طريق المكافآت والعقوبات؛ ألجل تحسين إجمالي المكافأة."
         },
@@ -4929,7 +4929,7 @@
             "description": "نوع من قواعد البيانات ُين ِّظم البيانات في جداول تحتوي على صفوف وأعمدة."
         },
         {
-            "english": "Relational Machine Learning )RML(",
+            "english": "Relational Machine Learning (RML)",
             "arabic": "تعُّلم الآلة العلائقي",
             "description": "نوع من تعُّلم الآلة يركز على التعُّلم من البيانات ذات العلاقات والهياكل المعقدة."
         },
@@ -4954,7 +4954,7 @@
             "description": "خاصية الاتساق المقصود في السلوك والنتائج."
         },
         {
-            "english": "Remote Biometric Identification )RBI( System",
+            "english": "Remote Biometric Identification (RBI) System",
             "arabic": "نظام تحديد القياسات الحيوية عن ُبعد",
             "description": "تقنية تستخدم الذكاء الاصطناعي للتعُّرف على الأفراد عن ُبعد، عن طريق مقارنة بيانات قياساتهم الحيوية (مثل: مالمح ) الوجه أو بصمات الأصابع) بقاعدة بيانات مرجعية.    (."
         },
@@ -4969,12 +4969,12 @@
             "description": "نوع من التحُّيز يحدث عندما لا يعكس التكرار الموجود في مجموعة البيانات التكرار الموجود في العالم الحقيقي."
         },
         {
-            "english": "Reservoir Computing )RC(",
+            "english": "Reservoir Computing (RC)",
             "arabic": "حوسبة المكامن",
             "description": "إطار حوسبي ُيب ِّسط تدريب الشبكات العصبية التكرارية لمعالجة البيانات المتسلسلة والزمنية."
         },
         {
-            "english": "Residual Sum of Squares )RSS(",
+            "english": "Residual Sum of Squares (RSS)",
             "arabic": "مجموع المربعات المتبقية",
             "description": "أسلوب إحصائي لقياس التباين بين البيانات والقيم التي تنبأ بها نموذج التقدير. وُيطلق عليه أيًضا مجموع المتبقيات المربعة.      . .()"
         },
@@ -5059,7 +5059,7 @@
             "description": "نظام يتضمن روبوًتا واحًدا أو أكثر وأجهزة أخرى تدعمه ألداء     () مهامه."
         },
         {
-            "english": "Robotic Desktop Automation )RDA(",
+            "english": "Robotic Desktop Automation (RDA)",
             "arabic": "أتمتة روبوتية لسطح المكتب",
             "description": "برمجيات ألتمتة المهام الروتينية المتكررة على سطح مكتب المستخدم، وغالًبا ما تحاكي الإجراءات البشرية لتحسين الكفاءة وتقليل الأخطاء."
         },
@@ -5089,12 +5089,12 @@
             "description": "أسلوب لهندسة الأوامر ُيو َّجه فيه النموذج لتبني دور أو شخصية محددة من أجل تشكيل مخرجاته وأسلوبه."
         },
         {
-            "english": "Root Mean Square Deviation )RMSD(",
+            "english": "Root Mean Square Deviation (RMSD)",
             "arabic": "جذر متوسط الانحراف التربيعي",
             "description": "انظر جذر متوسط الخطأ التربيعي. .()"
         },
         {
-            "english": "Root Mean Squared Error )RMSE(",
+            "english": "Root Mean Squared Error (RMSE)",
             "arabic": "جذر متوسط الخطأ التربيعي",
             "description": "مقياس الفرق بين القيم المتوقعة والقيم الفعلية. وُيطلق عليه أيًضا جذر متوسط الانحراف التربيعي.     . .()"
         },
@@ -5309,7 +5309,7 @@
             "description": "نموذج يشتمل على ُمدخلات ذات اعتماد متسلسل."
         },
         {
-            "english": "Sequence-To-Sequence )Seq2Seq(",
+            "english": "Sequence-To-Sequence (Seq2Seq)",
             "arabic": "تحويل تسلسل إلى تسلسل",
             "description": "نوع من معمارية الشبكة العصبية مصمم لتحويل تسلسل من البيانات إلى تسلسل آخر."
         },
@@ -5369,7 +5369,7 @@
             "description": "انظر طفرة الذكاء."
         },
         {
-            "english": "Small Language Model )SLM(",
+            "english": "Small Language Model (SLM)",
             "arabic": "نموذج لغوي صغير",
             "description": "نوع من النماذج اللغوية مصمم للعمل بُمعاِمالت وموارد حوسبية أقل مقارنة بالنماذج اللغوية الكبيرة. .()"
         },
@@ -5399,7 +5399,7 @@
             "description": "مجموعة من التعليمات التي ُتوِّجه الحاسب ألداء مهام محددة."
         },
         {
-            "english": "Software Development Kit )SDK(",
+            "english": "Software Development Kit (SDK)",
             "arabic": "أدوات تطوير البرمجيات",
             "description": "مجموعة من أدوات تطوير البرمجيات التي تتيح إنشاء تطبيقات على منصة معينة."
         },
@@ -5474,7 +5474,7 @@
             "description": "انظر تعُّرف على الكالم."
         },
         {
-            "english": "Spiking Neural Network )SNN(",
+            "english": "Spiking Neural Network (SNN)",
             "arabic": "شبكة عصبية نبضية",
             "description": "نوع من الشبكات العصبية التي تحاكي نظام الإشارات الموفر للطاقة في الدماغ، وتتواصل فيه الخلايا العصبية بطريقة غير متزامنة، عن طريق القيم الثنائية."
         },
@@ -5544,12 +5544,12 @@
             "description": "أسلوب في هندسة الأوامر ُيمِّكن النموذج من تحديد المفاهيم أو المبادئ العامة ذات الصلة، واستخدامها الستخالص الاستجابات الصحيحة."
         },
         {
-            "english": "Stochastic Gradient Descent )SGD(",
+            "english": "Stochastic Gradient Descent (SGD)",
             "arabic": "نزول تدرجي عشوائي",
             "description": "خوارزمية نزول تدرجي يكون حجم الُحزمة فيها واحًدا."
         },
         {
-            "english": "Stochastic Optimization )SO(",
+            "english": "Stochastic Optimization (SO)",
             "arabic": "تحسين عشوائي",
             "description": "مجموعة من الطرق لتقليل دالة الهدف أو تعظيمها باستخدام متغيرات عشوائية."
         },
@@ -5569,7 +5569,7 @@
             "description": "انظر ذكاء عام اصطناعي. .()"
         },
         {
-            "english": "Structural Risk Minimization )SRM(",
+            "english": "Structural Risk Minimization (SRM)",
             "arabic": "تقليل المخاطر الهيكلي",
             "description": "مبدأ استقرائي ُيستخدم لمعالجة فرط التخصيص، عن طريق الموازنة بين ملاءمة بيانات التدريب وتعقيد النموذج."
         },
@@ -5579,7 +5579,7 @@
             "description": "بيانات منظمة بطريقة محددة سابًقا، وفًقا لمجموعة من القواعد."
         },
         {
-            "english": "Structured Query Language )SQL(",
+            "english": "Structured Query Language (SQL)",
             "arabic": "لغة الاستعلام المهيكلة",
             "description": "لغة استعلام موحدة ُتستخدم في قواعد البيانات العلائقية لتعريف البيانات وإدارتها."
         },
@@ -5594,7 +5594,7 @@
             "description": "فرع من فروع الذكاء الاصطناعي يهتم بالتعُّلم، عن طريق استخدام المعلومات الضمنية والتمثيل الرقمي."
         },
         {
-            "english": "Sum of Squared Residuals )SSR(",
+            "english": "Sum of Squared Residuals (SSR)",
             "arabic": "مجموع المتبقيات المربعة",
             "description": "انظر مجموع المربعات المتبقية. .()"
         },
@@ -5604,7 +5604,7 @@
             "description": "ذكاء اصطناعي افتراضي يمكنه تجاوز القدرات البشرية. وُيطلق عليه أيًضا ذكاء اصطناعي خارق. .()."
         },
         {
-            "english": "Supervised Fine-Tuning )SFT(",
+            "english": "Supervised Fine-Tuning (SFT)",
             "arabic": "ضبط دقيق مو َّجه",
             "description": "طريقة لتكييف نموذج ُمدَّرب سابًقا على مهمة محددة، عن طريق تدريبه على بيانات ُمسَّماة."
         },
@@ -5624,7 +5624,7 @@
             "description": "نقاط البيانات الأقرب إلى المستوى المتعدد الأبعاد."
         },
         {
-            "english": "Swarm Intelligence )SI(",
+            "english": "Swarm Intelligence (SI)",
             "arabic": "ذكاء السرب",
             "description": "مجال يركز على السلوك الجماعي للعناصر التي تتفاعل فيما بينها، باستخدام أنظمة لا مركزية وذاتية التنظيم."
         },
@@ -5694,7 +5694,7 @@
             "description": "البيانات التي ُتجّمع في أوقات مختلفة."
         },
         {
-            "english": "Temporal Difference )TD( Learning",
+            "english": "Temporal Difference (TD) Learning",
             "arabic": "تعُّلم الفرق الزمني",
             "description": "أسلوب تعُّلم غير مو َّجه في التعُّلم التعزيزي، يتعَّلم فيه الوكيل التنبؤ بقيمة متغير في نهاية تسلسل من الحالات."
         },
@@ -5719,7 +5719,7 @@
             "description": "انظر رتبة تينسر."
         },
         {
-            "english": "Tensor Processing Unit )TPU(",
+            "english": "Tensor Processing Unit (TPU)",
             "arabic": "وحدة معالجة تينسر",
             "description": "دائرة متكاملة طورتها شركة جوجل مصممة خصيًصا لتسريع مهام تعُّلم الآلة."
         },
@@ -5784,7 +5784,7 @@
             "description": "عملية تقسيم النص إلى وحدات صغيرة ُتسَّمى وحدات لغوية."
         },
         {
-            "english": "Text-to-Speech )TTS(",
+            "english": "Text-to-Speech (TTS)",
             "arabic": "تحويل النص إلى كالم",
             "description": "انظر توليد الكالم."
         },
@@ -5809,7 +5809,7 @@
             "description": "وقت وتاريخ محددان مرتبطان بملف رقمي لتوثيق وقت إنشاء البيانات أو حذفها أو تغييرها أو إرسالها."
         },
         {
-            "english": "Tiny Machine Learning )TinyML(",
+            "english": "Tiny Machine Learning (TinyML)",
             "arabic": "تعُّلم الآلة الُمصَّغر",
             "description": "مجال فرعي من تعُّلم الآلة يركز على تشغيل نماذج تعُّلم الآلة على الأجهزة المحدودة الموارد، مثل أجهزة إنترنت الأشياء ووحدات التحكم الدقيقة."
         },
@@ -5944,12 +5944,12 @@
             "description": "دالة خسارة ُتستخدم للتأكد من أن العناصر المتشابهة قريبة من بعضها بعًضا، والعناصر غير المتشابهة متباعدة في فضاء التضمين."
         },
         {
-            "english": "True Negative )TN(",
+            "english": "True Negative (TN)",
             "arabic": "تصنيف سلبي صحيح",
             "description": "نتيجة تنبأ النموذج بأنها سلبية بصورة صحيحة."
         },
         {
-            "english": "True Negative Rate )TPR(",
+            "english": "True Negative Rate (TPR)",
             "arabic": "معدل سلبي صحيح",
             "description": "انظر نوعية."
         },
@@ -5959,7 +5959,7 @@
             "description": "نتيجة تنبأ النموذج بأنها إيجابية بصورة صحيحة."
         },
         {
-            "english": "True Positive Rate )TPR(",
+            "english": "True Positive Rate (TPR)",
             "arabic": "معدل إيجابي صحيح",
             "description": "انظر استدعاء."
         },
@@ -5999,7 +5999,7 @@
             "description": "انظر تقليل العِّينات."
         },
         {
-            "english": "Unfriendly Artificial Intelligence )UFAI(",
+            "english": "Unfriendly Artificial Intelligence (UFAI)",
             "arabic": "ذكاء اصطناعي ضار",
             "description": "ذكاء عام اصطناعي افتراضي قد يكون مضًّرا بالإنسانية بدًال () من أن يكون مفيًدا."
         },
@@ -6094,22 +6094,22 @@
             "description": "طريقة لزيادة أداء معالجة البيانات، عن طريق تحسين المعالجات أو الذاكرة أو التخزين."
         },
         {
-            "english": "Vision Language Model )VLM(",
+            "english": "Vision Language Model (VLM)",
             "arabic": "نموذج رؤية لغوي",
             "description": "نموذج متعدد الصيغ يجمع بين البيانات المرئية والنصية ألداء المهام التي تتطلب فهم الصور واللغات."
         },
         {
-            "english": "Vision Processing Unit )VPU(",
+            "english": "Vision Processing Unit (VPU)",
             "arabic": "وحدة معالجة الرؤية",
             "description": "معالج دقيق مصَّمم لتسريع مهام رؤية الحاسب."
         },
         {
-            "english": "Vision Transformer )ViT(",
+            "english": "Vision Transformer (ViT)",
             "arabic": "ُمحِّول رؤية",
             "description": "معمارية شبكة عصبية ُتطِّبق معمارية الُمحِّوالت على مجال رؤية الحاسب."
         },
         {
-            "english": "Visual Question Answering )VQA(",
+            "english": "Visual Question Answering (VQA)",
             "arabic": "إجابة الأسئلة المرئية",
             "description": "مهمة الإجابة على أسئلة معينة تتعلق بصورة ُمْدَخلة."
         },
@@ -6204,7 +6204,7 @@
             "description": "معمارية شبكة عصبية ترشيحية تعتمد على طبقات ترشيحية قابلة للفصل عمًقا."
         },
         {
-            "english": "Zero Data Retention )ZDR(",
+            "english": "Zero Data Retention (ZDR)",
             "arabic": "عدم الاحتفاظ بالبيانات",
             "description": "مبدأ وممارسة عدم تخزين أي بيانات خارج نطاق الغرض المباشر منها."
         },
