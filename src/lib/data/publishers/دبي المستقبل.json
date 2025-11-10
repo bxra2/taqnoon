@@ -1,0 +1,3096 @@
+{
+    "fileData": {
+        "glossaryEn": "Future Foundation Dictionary",
+        "glossaryAr": "قاموس مصطلحات المستقبل",
+        "glossaryUrl": "https://arabicglossary.dubaifuture.ae/ar/",
+        "publisherAr": "مؤسسة دبي المستقبل",
+        "publisherEn": "Dubai Future Foundation",
+        "publisherUrl": "https://www.dubaifuture.ae/ar/about"
+    },
+    "entries": [
+        {
+            "english": "Electronic Communication",
+            "arabic": "اتصال إلكتروني",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/electronic-communication",
+            "description": "اتصالات تجرى عبر أنظمة سلكية ولاسلكية مثل البريد الإلكتروني والرسائل النصية والفاكس والشبكات الاجتماعية."
+        },
+        {
+            "english": "Alpha testing",
+            "arabic": "اختبار ألفا",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/alpha-testing",
+            "description": "نوع من اختبار البرمجيات يجرى لكشف الأخطاء قبل إصدار البرمجيات للمستخدمين"
+        },
+        {
+            "english": "Stop signal task",
+            "arabic": "اختبار إشارة التوقف",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/stop-signal-task",
+            "description": "هو اختبار لتثبيط الاستجابات القهرية. يتطلب من المشارك الاستجابة بأسرع ما يمكن لحافز محدد مسبقًا، وعدم إظهار أي استجابة عندما تُعرض إشارة التوقف."
+        },
+        {
+            "english": "Beta testing",
+            "arabic": "اختبار بيتا",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/beta-testing",
+            "description": "وهو تجربة البرمجيات أوليًا والتأكد من صحة عملها قبل دخولها مرحلة الإنتاج الصناعي الواسع والاستخدام."
+        },
+        {
+            "english": "Static test",
+            "arabic": "اختبار ثبات",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/static-test",
+            "description": "تقنية اختبار برمجية يتم من خلالها اختبار البرنامج دون تنفيذ الكود البرمجي."
+        },
+        {
+            "english": "Feature selection",
+            "arabic": "اختيار المميزات",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/feature-selection",
+            "description": "العملية التي يجري من خلالها اختيار مجموعة فرعية من الميزات أو المتغيرات المرتبطة ببعضها من مجموعة بيانات أكبر لوضع النماذج. وتسمى أيضًا تحديد المتغير أو تحديد السمة أو تحديد المجموعة الفرعية المتغيرة. وتركز العملية على اختيار الميزات التي تمثل مجموعة البيانات بدقة من خلال استبعاد البيانات الزائدة عن الحاجة وغير ذات الصلة. ويختلف ذلك عن استخلاص الميزات الذي يوجد ميزات جديدة كوظائف للميزة الأصلية"
+        },
+        {
+            "english": "Knowledge extraction",
+            "arabic": "استخراج المعرفة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/knowledge-extraction",
+            "description": "عملية اكتشاف الكيفية التي تستخدم بها مدخلات في شبكة عصبية اصطناعية لتشكيل مخرجات بما يتيح التثبت من صحة العلاقات الوظيفية في النموذج"
+        },
+        {
+            "english": "Extract, transform, and load (ETL)",
+            "arabic": "استخراج وتحويل وتحميل",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/extract-transform-and-load",
+            "description": "الإجراء العام لنسخ البيانات من مصدر واحد أو أكثر إلى الوجهة التي تمثل البيانات بشكل مختلف عن المصدر أو في سياق مختلف عن المصدر"
+        },
+        {
+            "english": "Rendering",
+            "arabic": "استخلاص (حوسبة)",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/rendering",
+            "description": "هي عملية إنشاء صورة واقعية أو غير واقعية من نموذج ثنائي الأبعاد أو ثلاثي الأبعاد باستخدام البرامج الحاسوبية.."
+        },
+        {
+            "english": "Feature extraction",
+            "arabic": "استخلاص المميزات",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/feature-extraction",
+            "description": "عملية تختصر البيانات الأولية وتحولها إلى مجموعات أكثر قابلية للإدارة والمعالجة لتقليل موارد الحوسبة المطلوبة. ويتضمن استخلاص الميزات الأساليب التي تحدد المتغيرات في الميزات وتجمعها، ما يقلل كمية البيانات التي تحتاج للمعالجة. وتحافظ في الوقت ذاته على الوصف الدقيق للبيانات الأصلية."
+        },
+        {
+            "english": "Foresight",
+            "arabic": "استشراف المستقبل",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/foresight",
+            "description": "استشراف المستقبل هي طريقة منهجية للاستفادة من الفرص المستقبلية على المدى المتوسط إلى الطويل وتجنب مخاطرها، وذلك باتخاذ قرارات أفضل اليوم."
+        },
+        {
+            "english": "Terraform",
+            "arabic": "استصلاح",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/terraform",
+            "description": "مصطلح خيال علمي يتضمن تحويل أي كوكب إلى صورة مشابهة للأرض كي تدعم الحياة."
+        },
+        {
+            "english": "Semantic query",
+            "arabic": "استفسار دلالي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/semantic-query",
+            "description": "يسمح بالاستفسارات والتحليلات ذات الطبيعة الترابطية والسياقية وتتيح استرجاع المعلومات المشتقة صراحةً وضمنيًا بناءً على المعلومات النحوية والدلالية والهيكلية الموجودة في البيانات."
+        },
+        {
+            "english": "Glowworm swarm optimization",
+            "arabic": "استمثال أسراب سراج الليل",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/glowworm-swarm-optimization",
+            "description": "خوارزمية استمثال حالية مستوحاة من الطبيعة، تحاكي سلوك سراج الليل. وهي مناسبة للبحث التزامُنيّ لعدة حلول وقِيَم دالة موضوعية متساوية أو غير متساوية. وتوجد عدة مراجعات تصف تطبيقاتها في مجالات مختلفة، منها العَنقَدة ومشكلات استمثال مختلفة."
+        },
+        {
+            "english": "Particle swarm Optimization",
+            "arabic": "استمثال عناصر السرب",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/particle-swarm-optimization",
+            "description": "طريقة حسابية تقدم الحل الأمثل لمشكلة من خلال تكرار محاولة تحسين أحد الحلول المرشحة وفق مقياس معين للجودة."
+        },
+        {
+            "english": "Cloud Seeding",
+            "arabic": "استمطار",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/cloud-seeding",
+            "description": "تقنية لتعديل الطقس لتغيير كمية هطول الأمطار أو نوعها من الغيوم من خلال نثر مواد معينة فيها لتعمل على تكثيف بخار الماء أو تصبح نواة لتشكل الثلج."
+        },
+        {
+            "english": "Data Ingestion",
+            "arabic": "استيعاب البيانات",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/data-ingestion",
+            "description": "نقل البيانات من مصادر مجمعة إلى وحدة تخزين يمكن الوصول إليها واستخدامها وتحليلها من خلال منظمة أخرى."
+        },
+        {
+            "english": "Decentralised Autonomous Organisation (DAO) proposals",
+            "arabic": "اقتراحات المنظمة المستقلة اللامركزية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/decentralised-autonomous-organisation-dao-proposals",
+            "description": "الأفكار التي تطرح أمام أعضاء المنظمة للنظر فيها والتصويت عليها."
+        },
+        {
+            "english": "Gig economy",
+            "arabic": "اقتصاد العمل المؤقت",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/gig-economy",
+            "description": "النشاط الاقتصادي المعتمد على العمالة والعقود المرنة والمؤقتة، وقد يكون الدخل الناتج عن هذه الأعمال أساسياً أو تكميلياً."
+        },
+        {
+            "english": "Machines",
+            "arabic": "الآلات",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/machines",
+            "description": "الحواسيب أو الروبوتات المزودة بوحدات معالجة أو المتصلة بوحدات معالجة. يرجى الاطلاع على تعريف الذكاء الآلي المتقدم."
+        },
+        {
+            "english": "Autonomous machines",
+            "arabic": "الآلات المستقلة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/autonomous-machines",
+            "description": "الآلات المستقلة آلات مبرمجة للعمل ذاتياً، تستطيع أداء مجموعة واسعة من المهام المعقدة دون الحاجة إلى أدوات تحكم أو أوامر خارجية."
+        },
+        {
+            "english": "Basic Research",
+            "arabic": "الأبحاث الأساسية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/basic-research",
+            "description": "الأبحاث الأساسية هي أبحاث تهدف إلى فهم الجوانب الأساسية من الظواهر العلمية بغض النظر عن التطبيق أو الاستخدام أو مجال الاهتمام. والأبحاث الأساسية هي عكس الأبحاث التطبيقية التي تهدف إلى إجراء الأبحاث من أجل التوصل إلى حلول للمشاكل."
+        },
+        {
+            "english": "X events (Black Swans)",
+            "arabic": "الأحداث المفاجئة (البجعات السوداء)",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/x-eventsblack-swans",
+            "description": "الأحداث المفاجئة هي أحداث غير متوقعة تؤدي إلى زيادة الأعباء على النظام وتعقّد الحالة الراهنة، وتنتج غالباً عن عامل خارجي عشوائي، إما طبيعي وإما بشري المنشأ."
+        },
+        {
+            "english": "Wild cards",
+            "arabic": "الأحداث غير المتوقعة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/wild-cards",
+            "description": "الأحداث غير المتوقعة هي الأحداث ذات الاحتمالية المنخفضة والتأثير العالي طويل المدى، وتسمّى أيضاً بعوامل التغيير الجذري."
+        },
+        {
+            "english": "Super-earth",
+            "arabic": "الأرض الهائلة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/super-earth",
+            "description": "كوكب خارجي ذو كتلة أعظم من كتلة الأرض، لكنه أقل حجمًا من العملاقين الثلجيين أورانوس ونبتون."
+        },
+        {
+            "english": "Nanoelectrodes",
+            "arabic": "الأقطاب الكهربائية النانوية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/nanoelectrodes",
+            "description": "أقطاب كهربائية صغيرة مصنوعة من معادن أو مواد شبه موصلة لها أبعاد نموذجية تتراوح بين 1 و100 نانومتر."
+        },
+        {
+            "english": "Knowledge-based systems",
+            "arabic": "الأنظمة القائمة على المعرفة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/knowledge-based-systems",
+            "description": "نظام حاسوبي يولد المعرفة ويستخدمها من مختلف المصادر والبيانات والمعلومات. وتساعد هذه الأنظمة في حل المشكلات، وخاصة المعقدة منها، بالاستعانة بمفاهيم الذكاء الاصطناعي. تستخدم هذه الأنظمة غالبًا في العمليات الهادفة لحل المشكلات، بالإضافة إلى دعم التعلم البشري وصنع القرارات واتخاذ الإجراءات."
+        },
+        {
+            "english": "Complicated systems",
+            "arabic": "الأنظمة المعقدة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/complicated-systems",
+            "description": "تعرّف الأنظمة المعقدة بأنها نظم واضحة الحدود على الرغم من أنها معقدة التركيب. وهي لا تتمتع بالقدرة على التكيف مع التغييرات، فإن تعطّل عنصر من أي منها يتعطل النظام كاملاً. فهي أنظمة تعتمد على القواعد والتعليمات الواضحة للوصول إلى نتيجة ولديها درجة يقين عالية. فمثلاً، تعدّ الكاميرا الحديثة والقمر الاصطناعي والصاروخ الفضائي جميعاً أنظمة معقدة."
+        },
+        {
+            "english": "Complex systems",
+            "arabic": "الأنظمة المعقدة المترابطة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/complex-systems",
+            "description": "الأنظمة المعقدة المترابطة تحتوي على عدد كبير من الأجزاء المتحركة والمتغيرة والقابلة للتكيف، فهي ديناميكية بطبيعتها وتتطلب تفكيراً منظومياً. لا يمكن فهمها بالكامل من خلال تجزئة مكوناتها لأنها ليست خطيّة. فمثلاً يُعد كلا المجتمع البشري ومستعمرة النحل نظاماً معقداً مترابطاً."
+        },
+        {
+            "english": "Weak Signals",
+            "arabic": "الإشارات الضعيفة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/weak-signals",
+            "description": "الإشارات الضعيفة تحذيرات وأحداث وتطورات (خارجية أو داخلية) ما زالت في مرحلتها المبدئية فلا تتيح لنا تحديد التقديرات الدقيقة لتأثيرها أو القيام بردود الفعل اللازمة لها."
+        },
+        {
+            "english": "Bioluminescence",
+            "arabic": "الإضاءة الحيوية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/bioluminescence",
+            "description": "إنتاج كائن حي للضوء الذي ينبعث منه بسبب التفاعلات الكيميائية التي تحدث داخله أو تصدر عنه."
+        },
+        {
+            "english": "Wireframe",
+            "arabic": "الإطار الشبكي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/wireframe",
+            "description": "دليل مرئي يمثل الهيكل العظمي لموقع الويب. يتم إنشاء الإطار الشبكي بغرض ترتيب العناصر في الموقع لتحقيق هدف معين بأفضل طريقة."
+        },
+        {
+            "english": "Just-In-Time",
+            "arabic": "الإنتاج في الوقت المحدد",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/just-in-time",
+            "description": "مفهوم مستخدم في مجالات التصنيع والإنتاج وإدارة المخزون، ويعني استلام المدخلات عند الحاجة إليها عوضاً عن استلامها مقدماً، لخفض التكلفة وتوفير الوقت."
+        },
+        {
+            "english": "Computational Creativity",
+            "arabic": "الابتكار الحوسبي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/computational-creativity",
+            "description": "القدرة على ابتكار حلول جديدة باستخدام الوسائل الحوسبية."
+        },
+        {
+            "english": "Trends",
+            "arabic": "الاتجاهات",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/trends",
+            "description": "تختلف الاتجاهات عن الاتجاهات الكُبرى بأنها محصورة في قطاع معين أو منطقة واحدة. قد يتّسم الاتّجاه بالقوّة أو بالضعف، وقد يكون متزايداً أو متناقصاً أو مستقراً. ولا نضمن استمرارية الاتّجاه الملاحظ من الماضي إلى المستقبل. وقد تتحوّل الاتجاهات إلى اتّجاهات كبرى إن أصبحت تحدث على نطاق عالمي."
+        },
+        {
+            "english": "Megatrends",
+            "arabic": "الاتجاهات الكبرى",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/megatrends",
+            "description": "تعرّف الاتجاهات الكبرى بأنها تحولات عالمية طويلة المدى تؤثر على جميع قطاعات المجتمع وعلى جميع المستويات."
+        },
+        {
+            "english": "Brain to brain communication",
+            "arabic": "الاتصال بين دماغين",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/brain-to-brain-communication",
+            "description": "اتصال مباشر بين دماغي حيوانين."
+        },
+        {
+            "english": "Connectionism",
+            "arabic": "الارتباطية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/connectionism",
+            "description": "مدرسة في العلم المعرفي تتضمن العمليات العقلية البشرية ويمكن تفسيرها باستخدام النمذجة الحاسوبية للشبكات العصبية ويعتقد أنها تحاكي أفعال الخلايا العصبية المرتبطة في الدماغ"
+        },
+        {
+            "english": "Sustainability",
+            "arabic": "الاستدامة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/sustainability",
+            "description": "قدرة النظم الحيوية والحضارة البشرية على التعايش معًا."
+        },
+        {
+            "english": "Spatial-temporal reasoning",
+            "arabic": "الاستدلال المكاني-الزماني",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/spatial-temporal-reasoning",
+            "description": "هو مجال للذكاء الاصطناعي المستمد من مجالات علوم الحاسوب والعلوم المعرفية وعلم النفس المعرفي."
+        },
+        {
+            "english": "Abductive reasoning",
+            "arabic": "الاستدلال المنطقي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/abductive-reasoning",
+            "description": "استخدام المعرفة الحالية للوصول إلى استنتاجات أو توقعات أو وضع تفسيرات. ويبدأ بمجموعة غير كاملة من الملاحظات للوصول إلى أقرب التفسيرات."
+        },
+        {
+            "english": "Stochastic optimization",
+            "arabic": "الاستمثال الاحتمالي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/stochastic-optimization",
+            "description": "طريقة تحسين تولد وتستخدم المتغيرات العشوائية."
+        },
+        {
+            "english": "Automated reasoning",
+            "arabic": "الاستنتاج المؤتمت",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/automated-reasoning",
+            "description": "عملية عامة تمنح خوارزميات تعلم الآلة إطاراً منظماً لوضع نهج لحل المشكلات."
+        },
+        {
+            "english": "Blue Economy",
+            "arabic": "الاقتصاد الأزرق",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/blue-economy",
+            "description": "يشير الاقتصاد الأزرق إلى القطاع الاقتصادي القائم على الاستخدام المستدام لموارد المحيطات من أجل كسب العيش وتوليد الإيرادات."
+        },
+        {
+            "english": "Circular Economy",
+            "arabic": "الاقتصاد الدائري",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/circular-economy",
+            "description": "في الاقتصاد الدائري، يتم استخدام السلع والخدمات لأطول فترة ممكنة ويتم تجنب جميع أشكال الهدر أو إعادتها مرة أخرى إلى سلسلة القيمة الخاصة بإنتاج السلع أو الخدمات."
+        },
+        {
+            "english": "Motion capture",
+            "arabic": "الالتقاط البصري للحركة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/motion-capture",
+            "description": "عملية تسجيل حركة الأشياء أو الأشخاص. تُستخدَم في التطبيقات العسكرية والترفيهية والرياضية والطبية وللتحقق من صحة رؤية الحواسيب والروبوتات."
+        },
+        {
+            "english": "Backpropagation",
+            "arabic": "الانتشار الخلفي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/backpropagation",
+            "description": "أسلوب تعلم خاضع للإشراف للشبكات العصبية يحسب تدرج النسب لترجيح المتغيرات المختلفة. وتمثل التسمية اختصارًا لمصطلح الانتشار العكسي للأخطاء، وتعني حساب الخطأ عند المخرجات وتوزيعه عكسيًا عبر طبقات الشبكة"
+        },
+        {
+            "english": "Teleportation",
+            "arabic": "الانتقال الآني",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/teleportation",
+            "description": "الانتقال من مكانٍ إلى آخر بصورة لحظية، ويرتبط ذلك بالخيال العلمي."
+        },
+        {
+            "english": "Brute-force search",
+            "arabic": "البحث الشامل",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/brute-force-search",
+            "description": "تقنية عامة لحل المشكلات تتضمن تحديد جميع الحلول المحتملة وتقييم درجة وفاء كل حل بمتطلبات المشكلة."
+        },
+        {
+            "english": "Search for Extraterrestrial Intelligence",
+            "arabic": "البحث عن أشكال الحياة الذكية خارج الأرض",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/search-for-extraterrestrial-intelligence",
+            "description": "هو مصطلح عام لعمليات البحث العلمي عن حياة ذكية خارج كوكب الأرض، وتشمل على سبيل المثال مراقبة الإشعاع الكهرومغناطيسي بحثًا عن علامات الإرسال من الحضارات على الكواكب الأخرى."
+        },
+        {
+            "english": "Declarative programming",
+            "arabic": "البرمجة التصريحية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/declarative-programming",
+            "description": "نموذج البرمجة الذي يحدد فيه المبرمج ما يجب أن ينجزه البرنامج دون تحديد كيفية تنفيذه."
+        },
+        {
+            "english": "Abductive logic programming",
+            "arabic": "البرمجة المنطقية الاستدلالية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/abductive-logic-programming",
+            "description": "إطار لتمثيل المعرفة عالية المستوى يستخدم لحل المشكلات اعتمادًا على المنطق الاستدلالي. وهو يعزز البرمجة المنطقية العادية من خلال تعريف بعض المسندات بصورةٍ غير كاملة، فتصبح مسندات قابلة للاستدلال. وتحل المشكلة من خلال اشتقاق فرضيات على هذه المسندات القابلة للاستدلال. وقد تكون هذه المشكلات إما ملاحظات تحتاج إلى شرح (مثلما نجد في الاستدلال الكلاسيكي) أو أهداف يجب تحقيقها (مثل الحال في البرمجة المنطقية العادية)"
+        },
+        {
+            "english": "Carbapenem resistant Enterobacteriaceae (CRE)",
+            "arabic": "البكتيريا المعوية المقاومة للكاربابينيم",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/carbapenem-resistant-enterobacteriaceae-cre",
+            "description": "نوع من البكتيريا"
+        },
+        {
+            "english": "Central Bank",
+            "arabic": "البنك المركزي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/central-bank",
+            "description": "البنك المركزي هو مؤسسة عامة تدير العملة والاستقرار المالي من خلال تحديد أسعار الفائدة في أغلب الأحيان. ويُُشار إلى ذلك أيضاًً باسم السياسة النقدية للدولة."
+        },
+        {
+            "english": "Big data",
+            "arabic": "البيانات الضخمة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/big-data",
+            "description": "مصطلح يشير إلى مجموعة بيانات يصعب تخزينها أو معالجتها بالأدوات أو التطبيقات التقليدية بسبب ضخامتها وتعقيدها"
+        },
+        {
+            "english": "Carbon-dating",
+            "arabic": "التأريخ باستخدام الكربون",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/carbon-dating",
+            "description": "حساب عمر الأجسام القديمة من خلال قياس كمية صور الكربون المختلفة الموجودة في الجسم."
+        },
+        {
+            "english": "Urbanisation",
+            "arabic": "التحضر",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/urbanisation",
+            "description": "انتقال الناس إلى المدن وزيادة حجم التطور واتساعه، أو نمو المراكز الحضرية وتحولها إلى مراكز عالمية محورية."
+        },
+        {
+            "english": "Transcranial magnetic stimulation",
+            "arabic": "التحفيز المغناطيسي عبر القحف",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/transcranial-magnetic-stimulation",
+            "description": "طريقة تحفيز دماغي غير باضعة يُستخدم فيها مجال مغناطيسي متغير لإنتاج تيار كهربائي في منطقة معينة من الدماغ بالحث الكهرومغناطيسي."
+        },
+        {
+            "english": "Intelligent control",
+            "arabic": "التحكم الذكي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/intelligent-control",
+            "description": "نوع من تقنيات التحكم تستخدم أساليب حوسبة الذكاء الاصطناعي مثل الشبكات العصبية الاصطناعية واحتمالات بيشان والمنطق الضبابي وتعلم الآلة والتعلم المعزِّز والحوسبة التطورية وخوارزميات الجينات."
+        },
+        {
+            "english": "Stochastic semantic analysis",
+            "arabic": "التحليل الدلالي العشوائي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/stochastic-semantic-analysis",
+            "description": "هو نهج يستخدم في علوم الحاسوب كدلالة لفهم اللغة الطبيعية. تستخدم النماذج العشوائية عمومًا تعريف مقاطع الكلمات كوحدات دلالية أساسية للنماذج الدلالية، وفي بعض الحالات تتضمن نهجًا ثنائي الطبقات."
+        },
+        {
+            "english": "Morphological analysis",
+            "arabic": "التحليل الشكلي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/morphological-analysis",
+            "description": "التحليل الشكلي تقنية لدراسة المشكلات المعقدة بطريقة ذات هيكلية محددة."
+        },
+        {
+            "english": "Cluster analysis",
+            "arabic": "التحليل العنقودي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/cluster-analysis",
+            "description": "تقنية تصنيف إحصائي لمعرفة انتماء الأفراد لمجموعات مختلفة من خلال تنفيذ مقارنات كمية ذات خواص متعددة."
+        },
+        {
+            "english": "Predictive Analytics",
+            "arabic": "التحليلات التنبؤية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/predictive-analytics",
+            "description": "استخدام الإحصاءات والمحاكاة لتوقع الأداء المستقبلي بناءً على البيانات الحالية والتاريخية."
+        },
+        {
+            "english": "Biochemical conversion",
+            "arabic": "التحول الكيميائي الحيوي.",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/biochemical-conversion",
+            "description": "يتضمن استخدام إنزيمات البكتيريا والكائنات الدقيقة الأخرى لتحليل الكتلة الحيوية من خلال عملية الهضم اللاهوائي أو التخمر أو التسميد."
+        },
+        {
+            "english": "Automated planning and scheduling",
+            "arabic": "التخطيط المؤتمت",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/automated-planning-and-scheduling",
+            "description": "التخطيط المؤتمت هو فرع من الذكاء الاصطناعي يركز على تحقيق الاستراتيجيات أو تسلسل الإجراءات، وينفذ عبر برمجيات عملاء أذكياء وروبوتات مستقلة ومركبات ذاتية القيادة. وخلافًا لمشكلات التحكم والتصنيف الكلاسيكية، فإن الحلول معقدة ويجب اكتشافها وتحسينها في فضاء متعدد الأبعاد."
+        },
+        {
+            "english": "Cultural Heritage",
+            "arabic": "التراث الثقافي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/cultural-heritage",
+            "description": "يشمل التراث الثقافي المواقع والأشياء والممارسات التي يعتبرها المجتمع قديمة وتستحق الحفاظ عليها. ويمكن أن تكون رمزية أو تاريخية أو فنية أو جمالية أو علمية أو غيرها."
+        },
+        {
+            "english": "Backward chaining",
+            "arabic": "التسلسل الخلفي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/backward-chaining",
+            "description": "طريقة استنتاج تعمل في خلف الهدف. وتستخدم في النظرية الآلية ومحركات الاستنتاج ومساعدات الإثبات وتطبيقات الذكاء الاصطناعي الأخرى."
+        },
+        {
+            "english": "Search Engine Marketing (SEM)",
+            "arabic": "التسويق عبر محركات البحث",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/search-engine-marketing",
+            "description": "شكل من أشكال التسويق عبر شبكة الإنترنت يتضمن الترويج لمواقع الشبكة من خلال زيادة ظهورها في صفحات نتائج محرك البحث بشكل أساسي من خلال الإعلانات المدفوعة."
+        },
+        {
+            "english": "Responsive web design",
+            "arabic": "التصميم المتجاوب",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/responsive-web-design",
+            "description": "هي طريقة لتصميم صفحات مواقع الإنترنت لنتناسب مع مجموعة متنوعة من الأجهزة والنوافذ أو أحجام الشاشات."
+        },
+        {
+            "english": "Computer-aided design (CAD)",
+            "arabic": "التصميم بمساعدة الحاسوب",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/computer-aided-design-cad",
+            "description": "استخدام البرمجيات الحاسوبية في التصميم. ويستخدم المهندسون والمصممون هذه البرمجيات لتطوير نماذج ثنائية وثلاثية الأبعاد."
+        },
+        {
+            "english": "Statistical classification",
+            "arabic": "التصنيف الإحصائي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/statistical-classification",
+            "description": "عملية تصنيف بيانات جديدة ضمن مجموعة من الأصناف بناءً على مجموعة تدريب تحتوي على بيانات معلومة التصنيف."
+        },
+        {
+            "english": "Foveated rendering",
+            "arabic": "التصيير المركزي للصورة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/foveated-rendering",
+            "description": "تقنية تستخدم متتيع للعين مثبت في نظارة واقع افتراضي لتقليل حمل التصيير عبر تقليل جودة الصورة في الرؤية المحيطية."
+        },
+        {
+            "english": "Humanisation",
+            "arabic": "التوسع البشري",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/humanisation",
+            "description": "النمو الهائل لسكان العالم وتأثيراته على التحضر والضغوط التي يخلفها على البيئة."
+        },
+        {
+            "english": "Technification",
+            "arabic": "التوسع التقني",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/technification",
+            "description": "اعتماد التقنيات على نطاق واسع لتغيير طريقة عيشنا وعملنا وتأدية أعمالنا وقيامنا بالأنشطة الاقتصادية وما شابه ذلك."
+        },
+        {
+            "english": "Fourth industrial revolution",
+            "arabic": "الثورة الصناعية الرابعة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/fourth-industrial-revolution",
+            "description": "مصطلح يصف ذوبان الفوارق البارزة بين العوالم الفيزيائية والرقمية والبيولوجية نتيجة لتقدم تقنيات الذكاء الاصطناعي وإنترنت الأشياء وغيرها من التقنيات."
+        },
+        {
+            "english": "Perihelion",
+            "arabic": "الحضيض الشمسي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/perihelion",
+            "description": "أقرب نقطة في مدار كوكب أو كويكب أو مذنب إلى الشمس."
+        },
+        {
+            "english": "SLD resolution (Selective Linear Definite clause resolution)",
+            "arabic": "الحل المشروط بمعرّف خطي انتقائي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/sld-resolution",
+            "description": "هو قاعدة الاستدلال الأساسية المستخدمة في البرمجة المنطقية، وتعد تأكيدًا لقوانين هورن ودحضًا لها في الوقت ذاته."
+        },
+        {
+            "english": "Convection",
+            "arabic": "الحمل الحراري",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/convection",
+            "description": "حركة الغازات أو السوائل التي تتضمن انتقال الأجزاء الساخنة إلى أعلى والباردة إلى أسفل."
+        },
+        {
+            "english": "Cloud Computing",
+            "arabic": "الحوسبة السحابية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/cloud-computing",
+            "description": "المصادر والأنظمة الحاسوبية المتوفرة تحت الطلب عبر الشبكة لتوفير عدد من الخدمات الحاسوبية المتكاملة. وتشمل تلك الموارد مساحة لتخزين البيانات والنسخ الاحتياطي والمزامنة الذاتية بالإضافة إلى معالجة البيانات الضخمة."
+        },
+        {
+            "english": "Light-based computing",
+            "arabic": "الحوسبة الضوئية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/light-based-computing",
+            "description": "ترددات ضوئية مرئية تستخدم كبدائل حاسوبية لقيم في منصة حاسوبية. ويعبر كل تردد عن قيمة حسابية أو حالة أو ما شابه ذلك، وهو قابل للدمج مع ترددات أخرى لتشكيل محصلة من الترددات الضوئية التي تعبر قيمتها النهائية عن عملية حاسوبية، كالجمع أو طرح أو ما شابه."
+        },
+        {
+            "english": "Photonic Quantum Computing",
+            "arabic": "الحوسبة الكمومية الضوئية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/photonic-quantum-computing",
+            "description": "شكل من أشكال الحوسبة الكمومية يتمتع بخواص منخفضة الضوضاء ويقدّم سهولة في المعالجة على مستوى الفوتون الواحد."
+        },
+        {
+            "english": "Soft computing",
+            "arabic": "الحوسبة اللينة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/soft-computing",
+            "description": "مجموعة من التقنيات الحسابية القائمة على الذكاء الاصطناعي لاتخاذ قرارات بشرية والاختيار الطبيعي الذي يوفر حلًا سريعًا وفعالًا من حيث التكلفة لمشاكل معقدة للغاية لا توجد لها صيغ تحليلية بسبب الحاجة إلى عمليات حاسوبية صعبة."
+        },
+        {
+            "english": "Autonomic computing",
+            "arabic": "الحوسبة المؤتمتة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/autonomic-computing",
+            "description": "هي قدرة الحاسوب على التحكم في ذاته عبر تقنيات تكيفية تزيد من قدرات الحوسبة وتقلل من الوقت الذي يحتاجه اختصاصيو الحاسوب لحل صعوبات النظام أو إجراء عمليات الصيانة الأخرى مثل تحديثات البرمجيات."
+        },
+        {
+            "english": "Ambient Computing",
+            "arabic": "الحوسبة المحيطة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/ambient-computing",
+            "description": "مصطلح يجمع مفاهيم عديدة. ويتضمن مزيجاً من الأجهزة والبرمجيات وخبرة المستخدم والتفاعل بين الإنسان والآلة والتعلم. وتصبح جميع هذه الأشياء فكرة استخدام الحاسوب أو جهاز متصل بالإنترنت دون الحاجة إلى الوعي."
+        },
+        {
+            "english": "Cognitive computing",
+            "arabic": "الحوسبة المعرفية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/cognitive-computing",
+            "description": "التقنيات التي تعتمد على الأساسيات العلمية للذكاء الاصطناعي ومعالجة الإشارات والتعلم الآلي والاتصال بين الإنسان والحاسوب ومعالجة اللغات الطبيعية وغيرها."
+        },
+        {
+            "english": "Server Side Computation",
+            "arabic": "الحوسبة ضمن المخدم",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/server-side-computation",
+            "description": "تعني فكرة تحديد موقع عمليات الحوسبة بطريقة فعالة أكثر بتنفيذها في الموقع ذاته الذي تخزن فيه مجموعات البيانات المعالجة. وكان هذا يعني وجود مخدم ينفذ عمليات الحوسبة لأنه يتحكم بمجموعة البيانات المعنية."
+        },
+        {
+            "english": "Photovoltaics",
+            "arabic": "الخلايا الكهروضوئية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/photovoltaics",
+            "description": "أحد فروع التقنية المختص بإنتاج التيار الكهربائي عند نقاط الاتصال مادتين."
+        },
+        {
+            "english": "Pathfinding",
+            "arabic": "الخوارزميات الاستطلاعية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/pathfinding",
+            "description": "التخطيط بواسطة تطبيق حاسوبي لأقصر طريق بين نقطتين. وهو خيار عملي لحل المتاهات."
+        },
+        {
+            "english": "Computational humourhumour",
+            "arabic": "الدعابة الحوسبية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/computational-humourhumour",
+            "description": "مجموعة فرعية من اللغويات الحاسوبية والذكاء الاصطناعي التي تعتمد على استخدام الحواسيب في أبحاث الدعابة."
+        },
+        {
+            "english": "MOOC",
+            "arabic": "الدورة التدريبية المفتوحة على الإنترنت",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/mooc",
+            "description": "الدورة التدريبية المفتوحة على الإنترنت هي دورة تدريبية عبر الإنترنت تهدف إلى المشاركة غير المحدودة والوصول المفتوح عبر الويب."
+        },
+        {
+            "english": "Advanced machine intelligence",
+            "arabic": "الذكاء الآلي المتقدم",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/advanced-machine-intelligence",
+            "description": "الذكاء الآلي المتقدم نتاج خوارزميات وبيانات وقوة معالجة تتيح للحواسيب التعلّم من البيانات وتحليل مجموعات ضخمة من البيانات ونمذجتها بسرعة لحل المشكلات بطريقة متقدمة وإنجاز المهام المعقدة."
+        },
+        {
+            "english": "Artificial intelligence",
+            "arabic": "الذكاء الاصطناعي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/artificial-intelligence",
+            "description": "قدرة الآلة على محاكاة السلوك البشري الذكي."
+        },
+        {
+            "english": "Nouvelle AI",
+            "arabic": "الذكاء الاصطناعي الحديث",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/nouvelle-ai",
+            "description": "نهج للذكاء الاصطناعي ابتكره العالم الأسترالي الأمريكي رودني بروكس في مختبر الذكاء الاصطناعي في معهد ماساتشوستس للتقنية. يختلف الذكاء الاصطناعي الحديث عن الذكاء الاصطناعي القوي الذي يركز على الأداء ذي المستوى البشري، إذ يهدف إلى تقديم أداء بمستوى أداء الحشرات. يرفض الذكاء الاصطناعي الجديد اعتماد الذكاء الاصطناعي الرمزي على بناء نماذج داخلية للواقع."
+        },
+        {
+            "english": "Symbolic artificial intelligence",
+            "arabic": "الذكاء الاصطناعي الرمزي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/symbolic-artificial-intelligence",
+            "description": "فرع من فروع الذكاء الاصطناعي يحدد بوضوح قواعد سلوك برامج الحاسوب."
+        },
+        {
+            "english": "Distributed artificial intelligence",
+            "arabic": "الذكاء الاصطناعي الموزع",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/distributed-artificial-intelligence",
+            "description": "نوع من الذكاء الاصطناعي يتضمن فئة من التقنيات والوسائل التي تتضمن ذكاء السرب والتقنيات متعددة العناصر. ويركز على تطوير حلول موزعة لمشكلةٍ معينة."
+        },
+        {
+            "english": "Computational intelligence",
+            "arabic": "الذكاء الحوسبي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/computational-intelligence",
+            "description": "فرع  من الذكاء الاصطناعي يهدف إلى ابتكار نهج جديد لتحليل المعالجة المرنة للمعلومات المرتبطة بالإنسان مثل الإحساس والفهم والتعلم والإدراك والتفكير."
+        },
+        {
+            "english": "Synthetic intelligence",
+            "arabic": "الذكاء المصطنع",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/synthetic-intelligence",
+            "description": "مصطلح بديل للذكاء الاصطناعي يؤكد أن ذكاء الآلات لا يجب أن يكون تقليدًا أو اصطناعيًا وإنما شكلاً حقيقياً من الذكاء."
+        },
+        {
+            "english": "Functional magnetic resonance",
+            "arabic": "الرنين المغناطيسي الوظيفي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/functional-magnetic-resonance",
+            "description": "تقنية لقياس نشاط الدماغ. ويعمل من خلال رصد التغيرات في مستوى الأكسجين في الدم والتروية الدموية التي تحدث بسبب النشاط العصبي في منطقة من الدماغ عندما يزداد نشاطها بسبب استهلاكها لكمية أكبر من الأكسجين ما يؤدي إلى زيادة التروية الدموية لهذه المنطقة. ويستخدم الرنين المغناطيسي الوظيفي لرسم خرائط توضح دور كل منطقة من الدماغ في العمليات العقلية المختلفة."
+        },
+        {
+            "english": "Soft robotics",
+            "arabic": "الروبوتات اللينة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/soft-robotics",
+            "description": "هو فرع من علم تطوير الروبوتات الذي يهتم بتصميم الروبوتات من مواد متوافقة ومماثلة للمواد الموجودة في الكائنات الحية."
+        },
+        {
+            "english": "Biomimetic robotics",
+            "arabic": "الروبوتات المحاكية للكائنات الحية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/biomimetic-robotics",
+            "description": "الروبوتات التي تحاكي حركات البشر أو الحيوانات وتصرفاتها."
+        },
+        {
+            "english": "Epistasis",
+            "arabic": "الرَّوكَبة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/epistasis",
+            "description": "تثبيط تأثير مورثة معينة عن طريق مورثة أخرى"
+        },
+        {
+            "english": "Computational mathematics",
+            "arabic": "الرياضيات الحوسبية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/computational-mathematics",
+            "description": "أبحاث الرياضيات في مجالات العلوم والهندسة التي تلعب فيها الحوسبة الدور المحوري."
+        },
+        {
+            "english": "Scenarios",
+            "arabic": "السيناريوهات",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/scenarios",
+            "description": "السيناريوهات المستقبلية تمثل إحدى المنهجيات النوعية لاستشراف المستقبل التي تنظر إلى المستقبل برؤية أوسع وتتناول الأحداث وآليات التغيير، بالإضافة إلى اكتشاف المخاطر المستقبلية والفرص المتاحة."
+        },
+        {
+            "english": "Convolutional Neural Network (CNN)",
+            "arabic": "الشبكة العصبية الالتفافية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/convolutional-neural-network-cnn",
+            "description": "خوارزمية تعلم عميق يمكن إدخال الصور إليها فتحدد العناصر المهمة فيها وتميز بينها"
+        },
+        {
+            "english": "Net zero",
+            "arabic": "الصافي الصفري",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/net-zero",
+            "description": "الحالة التي تتساوى وتتوازن فيها كمية غازات الدفيئة المنبعثة في الغلاف الجوي مع كمية غازات الدفيئة المزالة من الغلاف الجوي."
+        },
+        {
+            "english": "Precision Medicine",
+            "arabic": "الطب الدقيق",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/precision-medicine",
+            "description": "نموذج طبي يقترح تخصيص الرعاية الصحية، وتُصمم فيه القرارات الطبية أو العلاجات أو الممارسات أو المنتجات لتناسب فئة محددة من المرضى بدلًا من نموذج «دواء واحد يناسب الجميع»."
+        },
+        {
+            "english": "Personalized Medicine",
+            "arabic": "الطب الشخصي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/personalized-medicine",
+            "description": "يسمى أيضًا الطب الدقيق، وهو نموذج طبي يفصل الأشخاص إلى مجموعات مختلفة، ويعتمد على القرارات الطبية والممارسات والتدخلات والمنتجات المصممة لكل مريض على حدة بناءً على استجابته المتوقعة أو خطر الإصابة بمرض معين."
+        },
+        {
+            "english": "Bioprinting",
+            "arabic": "الطباعة الحيوية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/bioprinting-2",
+            "description": "الطباعة الحيوية هي تقنية تتم فيها طباعة الأحبار الحيوية والمواد الحيوية بشكل ثلاثي الأبعاد لبناء هياكل ثلاثية الأبعاد تشبه الأنسجة الطبيعية."
+        },
+        {
+            "english": "3D Print",
+            "arabic": "الطباعة ثلاثية الأبعاد",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/3d-print",
+            "description": "عملية إنتاج أجسام ثلاثية الأبعاد باستخدام ملفات رقمية"
+        },
+        {
+            "english": "Centrifuging",
+            "arabic": "الطرد المركزي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/centrifuging",
+            "description": "فعل يشير إلى التعرض إلى قوة الطرد المركزي خاصةً داخل الجهاز"
+        },
+        {
+            "english": "Fluent",
+            "arabic": "الطلاقة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/fluent",
+            "description": "هي حالة يمكن أن تتغير بمرور الوقت. يمكن تمثيل الطلاقة في المناهج المنطقية للتفكير حول الأفعال بمنطق من الدرجة الأولى من خلال مسندات لها عوامل تعتمد على الوقت."
+        },
+        {
+            "english": "Gene therapy",
+            "arabic": "العلاج الوراثي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/gene-therapy",
+            "description": "ينطوي العلاج الوراثي على تعديل مورثات الفرد لعلاج مرض أو الشفاء منه. تشمل العلاجات الوراثية استبدال المورثة المسببة للمرض بمورثة سليمة أو التخلص من المورثة المسببة للمرض أو إضافة مورثة جديدة أو معدّل لعلاج المرض. وما زالت العلاجات الوراثية في مرحلة التجربة لعلاج السرطان والأمراض الوراثية والمعدية."
+        },
+        {
+            "english": "Digital native brand (DNB)",
+            "arabic": "العلامات التجارية الرقمية الأصلية (DNBs)",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/digital-native-brand-dnb",
+            "description": "تُسمى أيضاً الشركات الافتراضية الأصلية(NVCs) وهي علامات تجارية نشأت وتعمل بالكامل عبر الإنترنت. ولا تمتلك هذه العلامات وجوداً مادياً ويعمل موظفوها عن بُعد، ومع ذلك فإن العديد من هذه الشركات قادرة على تحقيق إيرادات مماثلة لإيرادات أكبر الشركات أو حتى تجاوزها. وقد يقتصر الوجود المادي لهذه «فورتشن 500» أو «جلوبال » على لائحة الشركات على الشحن والتوزيع في حالة البضائع المادية."
+        },
+        {
+            "english": "Cognitive science",
+            "arabic": "العلم المعرفي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/cognitive-science",
+            "description": "علم يعتمد على مجالات عديدة مثل الذكاء الاصطناعي وعلم النفس وغيرها لوضع نظريات عن الحس البشري والتفكير والتعلم."
+        },
+        {
+            "english": "Cognitive architecture",
+            "arabic": "العمارة المعرفية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/cognitive-architecture",
+            "description": "نظرية تتضمن الهياكل الثابتة التي تكون العقل سواء ف الأنظمة الطبيعية أو الاصطناعية وكيفية عملها معًا بالتعاون مع والمعرفة والمهارات التي تنتج السلوك الذكي في بيئات متنوعة."
+        },
+        {
+            "english": "Stablecoins",
+            "arabic": "العملات الثابتة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/stablecoins",
+            "description": "العملات الثابتة نوع من العملات الرقمية ذات سعر يرتبط بعملة مشفرة أو عملات ورقية أو سلع متداولة في البورصة (مثل المعادن الثمينة أو المعادن الصناعية)."
+        },
+        {
+            "english": "Structural Elements",
+            "arabic": "العناصر البنيوية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/structural-elements",
+            "description": "تستخدم في التحليل الهيكلي لتقسيم الهيكل المعقد إلى عناصر بسيطة، ولا يمكن تقسيم العنصر إلى أجزاء من أنواع مختلفة. يمكن أن تكون العناصر خطوطًا أو أسطحًا أو أحجامًا."
+        },
+        {
+            "english": "Semantic elements",
+            "arabic": "العناصر الدلالية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/semantic-elements",
+            "description": "هي جزء من الكود البرمجي يستخدم الكلمات اللغة البشرية لشرح وظيفة الكود البرمجي بوضوح ."
+        },
+        {
+            "english": "Solution blow spinning",
+            "arabic": "الغزل بالنفخ البثقي للمحلول",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/solution-blow-spinning",
+            "description": "تقنية تستخدم مضخة حقن لتوصيل محلول بوليمر إلى جهاز يتكون من فوهات متحدة المركز، إذ يُضخ محلول البوليمر عبر الفوهة الداخلية بينما يتم الحفاظ على تدفق غاز ثابت وعالي السرعة من خلال الفوهة الخارجية."
+        },
+        {
+            "english": "Cerebral cortex",
+            "arabic": "القشرة المخية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/cerebral-cortex",
+            "description": "الطبقة السطحية من المادة الرمادية في الدماغ، وتتضمن التلافيف وتلعب دورًا رئيسًا في التناسق بين الوظائف الحسية والحركية."
+        },
+        {
+            "english": "The Transiting Exoplanet Survey Satellite (Tess)",
+            "arabic": "القمر الاصطناعي الماسح للكواكب الخارجية العابرة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/the-transiting-exoplanet-survey-satellite",
+            "description": "تلسكوب فضائي ضمن برنامج مستكشفي ناسا صمم للبحث عن الكواكب الموجودة خارج المجموعة الشمسية باستخدام طريقة العبور في منطقة أكبر من المنطقة التي يغطيها تلسكوب كبلر بنحو 400 مرة."
+        },
+        {
+            "english": "Pod",
+            "arabic": "الكبسولة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/pod",
+            "description": "وحدة قابلة للانفصال أو قائمة بذاتها ضمن طائرة أو مركبة فضائية أو عربة أو سفينة، ولها وظيفة معينة."
+        },
+        {
+            "english": "Cobots",
+            "arabic": "الكوبوت",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/cobots",
+            "description": "روبوت تعاوني صناعي يمكنه العمل بأمان جنباًً إلى جنب مع البشر في مساحة عمل مشتركة."
+        },
+        {
+            "english": "Computational chemistry",
+            "arabic": "الكيمياء الحاسوبية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/computational-chemistry",
+            "description": "فرع من الكيمياء التي تستفيد من المحاكاة الحاسوبية للعمل على حل المسائل والتفاعلات الكيميائية ومعرفة خصائص الجزيئات الناتجة عن تلك التفاعلات."
+        },
+        {
+            "english": "Computational linguistics",
+            "arabic": "اللغويات الحوسبية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/computational-linguistics",
+            "description": "أبحاث اللغويات التي تجرى باستخدام الحواسيب"
+        },
+        {
+            "english": "Hand-Wing Index (HWI)",
+            "arabic": "المؤشر الجناحي اليدوي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/hand-wing-index-hwi",
+            "description": "نسبة مسافة كيب (المسافة بين طرف الريشة الثانوية الأولى، وطرف الريشة الرئيسة الطولى) إلى إجمالي وتر جناح الطائر. ومِن ثَم ممكن عدُّه مسافةَ كيب بالنسبة للحجم. وعلوُّ المؤشر يدل على جناح مدبب (نسبة باعية عالية) مناسبة للطيران المطوَّل، وانخفاضه يدل على جناح مستدير (نسبة باعية منخفضة)، لطيران أقصر أو أضعف."
+        },
+        {
+            "english": "Synthetic organisms",
+            "arabic": "المتعضيات الاصطناعية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/synthetic-organisms",
+            "description": "مجال بحث متعدد التخصصات يسعى إلى إنشاء أجزاء وأجهزة وأنظمة بيولوجية جديدة أو إعادة تصميم الأنظمة الموجودة بالفعل في الطبيعة."
+        },
+        {
+            "english": "Cryo-electron microscopy",
+            "arabic": "المجهر الإلكتروني فائق البرودة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/cryo-electron-microscopy",
+            "description": "مجهر إلكتروني يفحص العينات المبردة الموضوعة في بيئة من الجليد اللابلوري"
+        },
+        {
+            "english": "Simulation",
+            "arabic": "المحاكاة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/simulation",
+            "description": "أسلوب راسخ القواعد نسبياً، ويستخدم في بناء صورة للتطورات المستقبلية المحتملة."
+        },
+        {
+            "english": "Biomimicry",
+            "arabic": "المحاكاة الحيوية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/biomimicry",
+            "description": "تعني محاكاة الطبيعة تقليد الأشكال أو الخصائص أو العمليات الحيوية الطبيعية في إطار مناهج الهندسة والتصميم لتطوير منتجات وعمليات بجودة أفضل."
+        },
+        {
+            "english": "Whole brain emulation (WBE)",
+            "arabic": "المحاكاة الكاملة للدماغ",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/whole-brain-emulation-wbe",
+            "description": "المحاكاة الكاملة للدماغ عملية افتراضية لمسح الدماغ بأكمله ونسخ كل خلية عصبية فيه (يقدر عددها بنحو 86 مليار خلية) وكل اتصال عصبي لمحاكاة جميع وظائف الدماغ على حاسوب ليصبح قادراً على العمل والاستجابة بالطريقة التي يعمل بها الدماغ الأصلي."
+        },
+        {
+            "english": "Social graph",
+            "arabic": "المخطط الاجتماعي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/social-graph",
+            "description": "تمثيل للترابط بين العلاقات في الشبكة الاجتماعية على شبكة الإنترنت."
+        },
+        {
+            "english": "Sun synchronous orbit",
+            "arabic": "المدار المتزامن مع الشمس",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/sun-synchronous-orbit",
+            "description": "هو مدار قطبي تقريبًا حول كوكب يمر القمر الاصطناعي فيه فوق أي نقطة معينة من سطح الكوكب يوميًا في نفس التوقيت الشمسي."
+        },
+        {
+            "english": "Autonomous ground vehicle (AGV)",
+            "arabic": "المركبات الأرضية ذاتية القيادة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/autonomous-ground-vehicle-agv",
+            "description": "بواسطة مجموعة من النقاط المبرمجة مسبقاً بالإضافة إلى الرؤية الحاسوبية وأجهزة الاستشعار. وتستخدم المركبات الأرضية الآلية الأكثر تقدماً الذكاء الاصطناعي لاتخاذ القرارات والتنقل في مختلف المواقع."
+        },
+        {
+            "english": "Autonomous ground vehicle (AGV) Lockers",
+            "arabic": "المركبات الأرضية ذاتية القيادة المزودة بخزائن",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/autonomous-ground-vehicle-agv-lockers",
+            "description": "هي مركبات أرضية آلية مزودة بخزائن، يمكنها التنقل في الأحياء السكنية وإيصال الطلبات إلى أبواب المنازل، ثم إخطار الزبائن لاستلامها."
+        },
+        {
+            "english": "Biofoundries",
+            "arabic": "المسابك الحيوية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/biofoundries",
+            "description": "تطبق المسابك الحيوية المبادئ الهندسية، ومنها وضع النماذج الأولية والاختبار والتوحيد القياسي، في مجال الهندسة الوراثية للخلايا الحية ضمن تطبيقات محددة، ومنها استحداث أنواع من المواد الحيوية أو الوقود الحيوي. تشبه المسابك الحيوية مختبرات مؤتمتة تنتج كميات كبيرة من السوائل الأساسية التي تتيح دورات تصميم وإنشاء واختبار وتعلّم فائقة السرعة."
+        },
+        {
+            "english": "Nova",
+            "arabic": "المستعر أو الطارف",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/nova",
+            "description": "نجم يبدي زيادة كبيرة مفاجئة في السطوع ثم يعود ببطء إلى حالته الأصلية خلال بضعة أشهر."
+        },
+        {
+            "english": "Metallicity",
+            "arabic": "المعدنية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/metallicity",
+            "description": "وفرة العناصر الأثقل من الهيدروجين أو الهيليوم في جسم معين."
+        },
+        {
+            "english": "Overfitting",
+            "arabic": "الملاءمة المفرطة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/overfitting",
+            "description": "وضع تحليل يتوافق بصورة وثيقة جدًا أو تامة مع مجموعة معينة من البيانات، ما قد يعوق ملاءمة المزيد من البيانات أو توقع الملاحظات المستقبلية بشكلٍ موثوق."
+        },
+        {
+            "english": "Default logic",
+            "arabic": "المنطق الافتراضي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/default-logic",
+            "description": "طريقة للاستدلال تساعد في عمل استنتاجات معقولة عند وجود معلومات غير كاملة أو محدودة عن المشكلة المطروحة."
+        },
+        {
+            "english": "Biodome",
+            "arabic": "المنطقة الأحيائية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/biodome",
+            "description": "المنطقة الأحيائية هي نظام بيئي قائم بذاته يمكن استخدامه للبحث العلمي والتعليم وحماية البيئة والسياحة."
+        },
+        {
+            "english": "Active skills",
+            "arabic": "المهارات الفعّالة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/active-skills",
+            "description": "يجب أن تكون المهارات التي نحتاجها في المستقبل فعّالة وديناميكية بطبيعتها، وهي تمكننا من التواصل والمشاركة في تغيير العالم."
+        },
+        {
+            "english": "Adaptive materials",
+            "arabic": "المواد التكيفية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/adaptive-materials",
+            "description": "تُصمَّم المواد التكيفية على المستوى الجزيئي لتكييف خصائصها استجابةً لتغير العوامل الخارجية. مثلاً، قد تعدّل المادة قدرتها على امتصاص الحرارة أو إطلاقها استجابةً لتغير درجة الحرارة، لتحافظ على درجة الحرارة ضمن حدود محددة مسبقاً. وقد تُصمَّم المواد التكيفية لتتأثر بالماء أو الضوء أو الحرارة أو عوامل أخرى."
+        },
+        {
+            "english": "Biomaterials",
+            "arabic": "المواد الحيوية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/biomaterials",
+            "description": "تشمل المواد الحيوية أي مادة أو سطح أو تركيب يتفاعل مع النظم الحيوية. وقد تكون هذه المواد طبيعية أو صنعية، وتتضمن مكونات من المعادن أو البوليمر أو السيراميك. تُصمَّم هذه المواد لتكون لها خصائص محددة لاستخدامها في مجالات معينة، ومنها الطب والرعاية الصحية والنسيج ومواد البناء والتغليف."
+        },
+        {
+            "english": "Biomaterials",
+            "arabic": "المواد الحيوية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/biomaterials-2",
+            "description": "تشمل المواد الحيوية أي مادة أو سطح أو تركيبة تتفاعل مع النظم الحيوية. وقد تكون هذه المواد طبيعية أو اصطناعية، وتتضمن مكونات من المعادن أو البوليمر أو السيراميك. وتُُصمََّم هذه المواد لتكون لها خصائص محددة بهدف استخدامها في مجالات معينة، منها الطب والرعاية الصحية وإنتاج الأنسجة ومواد البناء وعمليات التغليف."
+        },
+        {
+            "english": "Carbon-based nanomaterials (CBM)",
+            "arabic": "المواد النانوية (بحجم النانو) القائمة على الكربون",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/carbon-based-nanomaterials-cbm",
+            "description": "تكون المواد النانوية القائمة على الكربون بمقياس يتراوح من نانومتر واحد إلى 100 نانومتر، ويمكن أن تشمل أنابيب النانو، والغرافين، والنقاط الكمومية الكربونية."
+        },
+        {
+            "english": "Phase Change Material",
+            "arabic": "المواد متغيرة الطور",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/phase-change-material",
+            "description": "مادة تطلق طاقة عند تغير الطور أو تمتصها فتوفر حرارة يُستفاد منها في التدفئة والتبريد."
+        },
+        {
+            "english": "Router",
+            "arabic": "الموجه",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/router",
+            "description": "أداة كهربائية مزودة بقاطع حاد تستخدم في أعمال النجارة لحفر أخاديد للوصلات والقوالب الزخرفية وغيرها."
+        },
+        {
+            "english": "Superconductivity and ambient superconductors",
+            "arabic": "الموصلية الفائقة والموصلات الفائقة في حرارة الغرفة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/superconductivity-and-ambient-superconductors",
+            "description": "تعني الموصلية الفائقة اختفاء مقاومة التيار الكهربائي المستمر. وتصل عدة مواد إلى هذه الحالة عند بلوغها درجات حرارة منخفضة جداً. والموصلات الفائقة في حرارة الغرفة، مواد تمتاز بخصائص الموصلية الفائقة دون الحاجة إلى تبريدها."
+        },
+        {
+            "english": "Superfluidity",
+            "arabic": "الميوعة الفائقة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/superfluidity",
+            "description": "خاصية التدفق دون احتكاك أو لزوجة مثل الهيليوم السائل تحت حوالي 2.18 كلفن (-270 درجة حرارة مئوية)"
+        },
+        {
+            "english": "Peer to Peer",
+            "arabic": "الند للند",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/peer-to-peer",
+            "description": "مصطلح يشير إلى الشبكات التي يعمل فيها كل حاسوب خادمًا للحواسيب الأخرى، ما يتيح الوصول المشترك إلى الملفات والملحقات دون الحاجة إلى خادم مركزي."
+        },
+        {
+            "english": "Radioactive isotope",
+            "arabic": "النظائر المشعة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/radioactive-isotope",
+            "description": "النظائر المشعة أو النويدات المشعة، تشمل عدة أنواع من عنصر كيميائي واحد، ولها كتل مختلفة. تكون نواتها غير مستقرة وتبدد الطاقة الزائدة عبر إطلاق أشعة ألفا وبيتا وجاما بصورة تلقائية."
+        },
+        {
+            "english": "Rule-based system",
+            "arabic": "النظم المبنية على القواعد",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/rule-based-system",
+            "description": "نظام يطبق قواعد وضعها الإنسان لتخزين البيانات وفرزها ومعالجتها ويحاكي بذلك الذكاء البشري."
+        },
+        {
+            "english": "Transfer learning",
+            "arabic": "النقل الاستقرائي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/transfer-learning",
+            "description": "مشكلة بحثية في التعلم الآلي تركز على تخزين المعرفة المكتسبة من حل مشكلة معينة وتطبيقها على مشكلة مختلفة قريبة منها."
+        },
+        {
+            "english": "Modelling",
+            "arabic": "النمذجة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/modelling",
+            "description": "النمذجة هي إحدى المنهجيات الكمية لاستشراف المستقبل التي تساعدنا في فهم التسلسل المنطقي للأحداث"
+        },
+        {
+            "english": "Northern Annular Mode (NAM)",
+            "arabic": "النمط الحلقي الشمالي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/northern-annular-mode",
+            "description": "يُسمّى أيضًا تذبذب القطب الشمالي، وهو صورة طبيعية لتقلب المناخ، ويوجد نمط مماثل له فوق المحيط الأطلسي، لكنه يبدو حلقيًا أكثر عند النظر إليه من الأعلى."
+        },
+        {
+            "english": "Network motif",
+            "arabic": "النمط المتكرر للشبكة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/network-motif",
+            "description": "رسوم بيانية فرعية أو أنماط لرسم بياني أكبر، متكررة ولها أهمية إحصائية."
+        },
+        {
+            "english": "Predictive Model",
+            "arabic": "النموذج التنبؤي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/predictive-model",
+            "description": "استخدام النتائج المعروفة لإنشاء نموذج ومعالجته والتحقق من صحته لاستخدامه للتنبؤ بالنتائج المستقبلية."
+        },
+        {
+            "english": "Neurotransmitters",
+            "arabic": "النواقل العصبية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/neurotransmitters",
+            "description": "النواقل العصبية مراسيل كيميائية تنقل الإشارات بين الخلايا العصبية عبر المشابك. وتتحكم النواقل العصبية بمجموعة من الوظائف وتشمل السيروتونين المسؤول عن التحكم بالمزاج والميلاتونين المسؤول عن تنظيم النوم."
+        },
+        {
+            "english": "Geoengineering",
+            "arabic": "الهندسة الجيولوجية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/geoengineering",
+            "description": "التدخل المتعمَّد على نطاق واسع في الأنظمة الطبيعية الأرضية لمواجهة التغير المناخي. تشمل الهندسة الجيولوجية مجموعة من التقنيات المصممة للتأثير على البيئة بطريقة تحد من آثار تغير المناخ أو التصدي لها جزئياً. وتشمل أساليب الهندسة الجيولوجية إدارة الإشعاع الشمسي واستمطار السحب والتقاط ثاني أكسيد الكربون."
+        },
+        {
+            "english": "Solar geoengineering",
+            "arabic": "الهندسة الشمسية للأرض",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/solar-geoengineering",
+            "description": "هو نوع من هندسة المناخ يُعكس فيه ضوء الشمس للحد من ظاهرة الاحتباس الحراري أو عكس مسارها. وتشمل الطرق المقترحة زيادة البياض الكوكبي عن طريق حقن رذاذ كبريتات في طبقة الستراتوسفير مثلًا."
+        },
+        {
+            "english": "Biomedical engineering",
+            "arabic": "الهندسة الطبية الحيوية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/biomedical-engineering",
+            "description": "عملية مزج مبادئ الهندسة مع المعرفة الطبية لتلبية الاحتياجات الطبية. وساعدت في تطوير ابتكارات منقذة للحياة."
+        },
+        {
+            "english": "3D Holograms",
+            "arabic": "الهولوجرام ثلاثي الأبعاد",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/3d-holograms",
+            "description": "عرض ثلاثي الأبعاد لا يتطلب نظارات معينة لمشاهدته. وتستخدم هذه التقنية لعرض المنتجات والأشياء والرسوم المتحركة بصورة ثلاثية الأبعاد فتبدو كأنها أشياء حقيقة طافية في الهواء."
+        },
+        {
+            "english": "Frontend",
+            "arabic": "الواجهة الأمامية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/frontend",
+            "description": "الجزء الذي يتعامل معه المستخدم مباشرةً في البرنامج الحاسوبي أو التطبيق"
+        },
+        {
+            "english": "Backend",
+            "arabic": "الواجهة الخلفية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/backend",
+            "description": "جزء من نظام الحاسوب أو التطبيق لا يدخله المستخدم مباشرةً ويستخدم تخزين البيانات وتعديلها."
+        },
+        {
+            "english": "Biomarker",
+            "arabic": "الواسم الحيوي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/biomarker",
+            "description": "يقيس الواسم الحيوي، بغض النظر عن نوعه، ما يحدث في الخلية أو الكائن الحي في وقت معيّّن. ويمكن أن تكون الواسمات الحيوية بمثابة أنظمة إنذار مبكر حول صحتك."
+        },
+        {
+            "english": "Augmented reality",
+            "arabic": "الواقع المعزز",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/augmented-reality",
+            "description": "تقنية تدمج الصورة التي يولدها الحاسوب في رؤية المستخدم للعالم الحقيقي ما ينتج رؤية مدمجة."
+        },
+        {
+            "english": "Augmented Reality (AR)",
+            "arabic": "الواقع المعزز",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/augmented-reality-ar",
+            "description": "يشمل الواقع المعزز كلاًً من الأجهزة التقنية القابلة للارتداء والمخرجات الناتجة عن الجمع بين الواقع الافتراضي أو الوسائط الرقمية، والروائح والأصوات وغيرها من الإمكانيات الحسية في العالم الواقعي."
+        },
+        {
+            "english": "Self-Closing Tag",
+            "arabic": "الوسم ذاتي الإغلاق",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/self-closing-tag",
+            "description": "أحد عناصر تعليمات لغة ترميز النص الفائق البرمجية. عادةً ما يستخدم الوسم ذاتي الإغلاق إشارة \"/\" لإغلاق وسم البداية."
+        },
+        {
+            "english": "Opening and closing tags (HTML tags)",
+            "arabic": "الوسوم الافتتاحية ووسوم الإغلاق",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/opening-and-closing-tags",
+            "description": "يبدأ الوسم الافتتاحي قسمًا من محتوى الصفحة، وينهيه وسم الإغلاق."
+        },
+        {
+            "english": "Intelligent Agent",
+            "arabic": "الوكيل الذكي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/intelligent-agent",
+            "description": "كيان مستقل يعمل على بيئة معينة باستخدام الحساسات والمحركات لتحقيق الأهداف. وقد يتعلم الوكيل الذكي من البيئة لتحقيق أهدافه"
+        },
+        {
+            "english": "Proton Emission",
+            "arabic": "انبعاث البروتون",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/proton-emission",
+            "description": "نوع نادر من التحلل الإشعاعي يُطرَد فيه البروتون من النواة."
+        },
+        {
+            "english": "Multilevel selection (group selection)",
+            "arabic": "انتخاب متعدد المستويات",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/multilevel-selection",
+            "description": "آلية تطور مقترحة يعمل فيها الانتقاء الطبيعي على مستوى المجموعة بدلًا من المستوى التقليدي (مستوى الفرد)."
+        },
+        {
+            "english": "Orbital Eccentricity",
+            "arabic": "انحراف مداري",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/orbital-eccentricity",
+            "description": "قيمة رقمية بلا واحدة تحدد مقدار انحراف مدار جسم يدور حول جسم آخر عن دائرة كاملة."
+        },
+        {
+            "english": "Solar eruptions",
+            "arabic": "اندفاعات شمسية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/solar-eruptions",
+            "description": "اندلاع مفاجئ للطاقة المغناطيسية على سطح الشمس أو بالقرب منها، وعادة ما يرتبط بالبقع الشمسية ويصاحبه اندفاعات للإشعاعات والجسيمات الكهرومغناطيسية."
+        },
+        {
+            "english": "Intelligence Explosion",
+            "arabic": "انفجار الذكاء",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/intelligence-explosion",
+            "description": "مصطلح يصب النتائج النهائية للعمل على الذكاء الاصطناعي العام والذي يعتقد أنه سيؤدي إلى تفرد الذكاء الاصطناعي لينتج ذكاءً اصطناعياً فائقًا يفوق القدرات المعرفية البشرية. ويعني مصطلح انفجار الذكاء أن جوانب التكرار الذاتي للذكاء الاصطناعي ستتخذ القرارات بدلًا من البشر. ويصف المصطلح سيناريوهات مستقبلية عديدة."
+        },
+        {
+            "english": "Python",
+            "arabic": "بايثون (لغة برمجة عالية المستوى)",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/python",
+            "description": "لغة برمجة مفسرة عالية المستوى متعددة الاستخدامات."
+        },
+        {
+            "english": "Hazmat Suit",
+            "arabic": "بذلة حماية (هازمات)",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/hazmat-suit",
+            "description": "هي من معدات الحماية الشخصية، تتألف من رداء غير مُنفذ، وأدوات أخرى مصمَّمة خصوصًا لحماية لابسها من المواد الخطيرة والكيماويات والعوامل الحيوية والمشعة –لكنها لا تناسب الحروب– في أثناء التعامل مع بيئة يُحتمل فيها وجود تلك الأشياء الخطيرة."
+        },
+        {
+            "english": "Natural language programming",
+            "arabic": "برمجة اللغات الطبيعية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/natural-language-programming",
+            "description": "(في مجال الحوسبة): لغة بشرية مثل الإنجليزية والروسية والألمانية... وتختلف عن لغة الأوامر أو لغة البرمجة المصطنعة التي يخاطب فيها البشر الحاسوب."
+        },
+        {
+            "english": "Inductive Logic Programming (ILP)",
+            "arabic": "برمجة المنطق الاستقرائي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/inductive-logic-programming-ilp",
+            "description": "الحقل الفرعي لتعلم الآلة الذي يستخدم منطق الدرجة الأولى لتمثيل الفرضيات والبيانات. وتستهدف برمجة المنطق الاستقرائي المشكلات التي تتضمن البيانات المنظمة والمعرفة الأساسية. وتتعامل مع مجموعة متنوعة من مشكلات تعلم الآلة مثل التصنيف والانحدار والتكتل والتعلم المعزز. وتستخدم غالبًا ترقيات أنظمة تعلم الآلة الحالية."
+        },
+        {
+            "english": "Bayesian programming",
+            "arabic": "برمجة بايزية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/bayesian-programming",
+            "description": "طريقة إحصائية لوضع نماذج الاحتمالات وحل المشكلات ذات النهايات المفتوحة والمعلومات غير الكاملة. وتهدف البرمجة البايزية إلى التعبير عن الحدس البشري جبريًا وتطوير أنظمة ذكاء اصطناعي أكثر تنوعًا وذكاءً."
+        },
+        {
+            "english": "Object-Oriented Programming (OOP)",
+            "arabic": "برمجة كائنية التوجه",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/object-oriented-programming",
+            "description": "نموذج برمجة يعتمد على مفهوم الكائنات (العناصر)، وقد يحتوي على بيانات وأسطر برمجية: بيانات على صورة حقول، وأسطر برمجية على صورة إجراءات."
+        },
+        {
+            "english": "Logic programming",
+            "arabic": "برمجة منطقية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/logic-programming",
+            "description": "استراتيجية برمجية تستخدم دوائر منطقية عوضًا عن دوال رياضية فقط للتحكم في كيفية التعبير عن الحقائق والقواعد، كثيرًا ما تستخدم البرمجية المنطقية في البرمجة الوراثية، ويعتمد نهجها على تغذية نموذج بالهدف اللازم تحقيقه عوضًا عن كيفية تحقيقه. وتكتب القواعد المنطقية للبرمجية في صورة بنود منطقية، عوضًا عن الاعتماد على تدفق ضبط منظم يحدد موعد تنفيذ التعليمات وكيفية تقييم الوظائف."
+        },
+        {
+            "english": "Structure-mapping engines",
+            "arabic": "برمجيات تعيين التشابه",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/structure-mapping-engines",
+            "description": "تطبيق في برنامج خوارزمية للمطابقة التناظرية على أساس النظرية النفسية لـديدري غنتنر."
+        },
+        {
+            "english": "Open-source software",
+            "arabic": "برمجيات مفتوحة المصدر",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/open-source-software",
+            "description": "نوع من برامج الحاسوب تُنشر فيه التعليمات البرمجية المصدرية بموجب ترخيص يمنح فيه صاحب حقوق النشر للمستخدمين حقوق استخدام البرنامج ودراسته وتغييره وتوزيعه على أي شخص ولأي غرض."
+        },
+        {
+            "english": "Bone Morphogenetic Protein",
+            "arabic": "بروتين التخلق العظمي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/bone-morphogenetic-protein",
+            "description": "بروتين يحفز تكوين العظام والتئامها."
+        },
+        {
+            "english": "Prolog",
+            "arabic": "برولوج (لغة برمجة منطقية)",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/prolog",
+            "description": "لغة برمجة منطقية مرتبطة بالذكاء الاصطناعي واللغويات الحاسوبية."
+        },
+        {
+            "english": "Time stamp",
+            "arabic": "بصمة زمنية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/time-stamp",
+            "description": "سجل رقمي لوقت وقوع حدث معين."
+        },
+        {
+            "english": "Flow battery",
+            "arabic": "بطارية تدفق",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/flow-battery",
+            "description": "نوع من الخلايا الكهروكيميائية التي تولد الطاقة الكيميائية عبر مركبين كيميائيين مذابين في سوائل داخل النظام ومفصولين بغشاء"
+        },
+        {
+            "english": "Pixels Per Inch (PPI)",
+            "arabic": "بكسل لكل بوصة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/pixels-per-inch",
+            "description": "وحدة قياس كثافة البكسل لأجهزة عرض الصور الإلكترونية، كشاشات الحاسوب أو التلفاز، أو أجهزة التصوير الرقمي كالكاميرات والماسحات الضوئية."
+        },
+        {
+            "english": "Blockchain",
+            "arabic": "بلوكتشين",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/blockchain",
+            "description": "هي قاعدة بيانات موزعة تمتاز بقدرتها على إدارة قائمة متزايدة باستمرار من السجلات المسماة كُتلا."
+        },
+        {
+            "english": "Environment",
+            "arabic": "بيئة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/environment",
+            "description": "الظروف والأشياء التي تحيط بالشخص, مجموع العناصر الفيزيائية والكيميائية والحيوية التي تؤثر على الكائن الحي أو المجتمع وتحدد طريقة حياته"
+        },
+        {
+            "english": "Integrated Development Environment (IDE)",
+            "arabic": "بيئة تطوير متكاملة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/ide-integrated-development-environment",
+            "description": "تطبيقات تقدم قدرات شاملة لمبرمجي الحواسيب لتطوير البرمجيات."
+        },
+        {
+            "english": "Abstraction",
+            "arabic": "تجرد",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/abstraction",
+            "description": "عملية فصل شيءٍ عن العوامل المحيطة به التعامل مع الأفكار بدلًا من الأحداث"
+        },
+        {
+            "english": "Radio-frequency identification (RFID)",
+            "arabic": "تحديد الهوية بموجات الراديو",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/radio-frequency-identification",
+            "description": "طريقة تعتمد على المجالات الكهرومغناطيسية لتحديد الوسوم المرفقة بالعناصر وتعقبها تلقائيًا. يتكون وسم تحديد الهوية بموجات الراديو من معيد بث لاسلكي صغير مؤلف من جهاز استقبال وجهاز إرسال."
+        },
+        {
+            "english": "Spacewalks",
+            "arabic": "تحركات خارج المركبة الفضائية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/spacewalks",
+            "description": "فترة من النشاطات البدنية التي يكون بها رائد فضاء خارج مركبة فضائية."
+        },
+        {
+            "english": "Website optimization",
+            "arabic": "تحسين الموقع الإلكتروني",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/website-optimization",
+            "description": "عملية استخدام تجارب خاضعة للتحكم لتحسين قدرة المواقع الإلكترونية على قيادة أهداف العمل"
+        },
+        {
+            "english": "Search Engine Optimization (SEO)",
+            "arabic": "تحسينات الموقع أمام محركات البحث",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/search-engine-optimization",
+            "description": "هي عملية تحسين عدد ونوعية زيارات موقع أو صفحة على شبكة الإنترنت ونوعيتها انطلاقًا من محركات البحث."
+        },
+        {
+            "english": "Opinion mining (sentiment analysis)",
+            "arabic": "تحليل المشاعر",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/opinion-mining",
+            "description": "استخدام معالجة اللغة الطبيعية وتحليل النصوص واللغويات الحسابية والقياسات الحيوية لتحديد الحالات العاطفية والمعلومات الذاتية واستخراجها وقياسها ودراستها بصورة منهجية."
+        },
+        {
+            "english": "PESTLE analysis",
+            "arabic": "تحليل بيستل",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/pestle-analysis",
+            "description": "يهدف التحليل إلى إنشاء إطار عمل لدراسة العوامل الرئيسة الستة التالية: السياسية والاقتصادية والاجتماعية والتقنية والقانونية والبيئية."
+        },
+        {
+            "english": "SWOT analysis",
+            "arabic": "تحليل سوات",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/swot-analysis",
+            "description": "يهدف التحليل إلى إنشاء إطار عمل منطقي لتحليل نقاط القوة والضعف والفرص والتهديدات."
+        },
+        {
+            "english": "Biomass conversion",
+            "arabic": "تحول الكتلة الحيوية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/biomass-conversion",
+            "description": "عملية تحول الكتلة الحيوية إلى طاقة، وهي مادة عضوية تمثل مصدر متجدد للطاقة تستخلص من النباتات والحيوانات، ."
+        },
+        {
+            "english": "Caching",
+            "arabic": "تخزين مؤقت",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/caching",
+            "description": "ذاكرة حاسوبية مؤقتة تستخدم لتخزين الأوامر أو البيانات المتكررة أو تلك التي استخدمت مؤخرًا بصورة مؤقتة."
+        },
+        {
+            "english": "Genome sequence",
+            "arabic": "تسلسل الجينوم",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/genome-sequence",
+            "description": "معرفة ترتيب قواعد الحمض النووي أو نيوكليوتيداته في جينوم معين، أي ترتيب (إيه وسي وجي وتي) الذي يشكِّل الحمض النووي للكائن الحي."
+        },
+        {
+            "english": "Disease classifiers",
+            "arabic": "تصنيف المرض",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/disease-classifiers",
+            "description": "تحليل بيانات المرض وإزالة التناقضات وتصحيح البيانات الخاطئة لضمان صحة تعريف المرض وتصنيفه."
+        },
+        {
+            "english": "Intelligence amplification",
+            "arabic": "تضخيم الذكاء",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/intelligence-amplification",
+            "description": "يعني أن التقنيات قد تساعد الذكاء البشري بدلًا من العمل كذكاء اصطناعي مستقل. وتعمل أنظمة تضخيم الذكاء على تعزيز ذكاء الإنسان لتحسين قدرته على اتخاذ القرارات."
+        },
+        {
+            "english": "Batch normalization",
+            "arabic": "تطبيع الدفعة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/batch-normalization",
+            "description": "تقنية تحسّن سرعة الشبكات العصبية وأداءها وثباتها. وتستخدم لتطبيع طبقة المدخلات إحصائيًا من خلال إعادة التمركز وإعادة تحديد المقياس."
+        },
+        {
+            "english": "Native Apps",
+            "arabic": "تطبيق الجوال الأصلي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/native-apps",
+            "description": "تطبيق برمجي مصمم بلغة برمجة معينة لمنصة محددة، إما آي أو إس أو أندرويد."
+        },
+        {
+            "english": "Hybrid App",
+            "arabic": "تطبيق هجين",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/hybrid-app",
+            "description": "تطبيق يجمع بين تطبيقات الإنترنت المصمَّمة لمتصفحات الإنترنت، والتطبيقات الأصلية المصمَّمة لمنصات محددة لا بد من تثبيتها على الجهاز."
+        },
+        {
+            "english": "Progressive Web App",
+            "arabic": "تطبيق ويب تقدمي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/progressive-web-app",
+            "description": "نوع من برامج التطبيقات المقدمة عبر الإنترنت، والمصممة باستخدام تقنيات الويب الشائعة، ومنها لغة ترميز النص الفائق (إتش تي إم إل) وأوراق الأنماط المتتالية (سي إس إس) وجافا سكريبت."
+        },
+        {
+            "english": "Mobile Applications (or apps)",
+            "arabic": "تطبيقات الأجهزة المحمولة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/mobile-applications",
+            "description": "برنامج حاسوبي صمم كي يعمل على الأجهزة المحمولة مثل الهواتف والحواسيب اللوحية والساعات."
+        },
+        {
+            "english": "Web apps",
+            "arabic": "تطبيقات الويب",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/web-apps",
+            "description": "تطبيقات تستخدم خوادم شبكة الإنترنت، وتختلف عن التطبيقات التقليدية التي تعمل على الحواسيب بصورةٍ محلية."
+        },
+        {
+            "english": "Machine learning",
+            "arabic": "تعلم الآلة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/machine-learning",
+            "description": "أحد تطبيقات الذكاء الاصطناعي، يتيح للأنظمة التعلم والتحسين تلقائيًا بالتجربة دون الحاجة إلى برمجتها مباشرة. يركز تعلم الآلة على تطوير برامج حاسوب بإمكانها الوصول إلى البيانات واستخدامها للتعلم ذاتيًا."
+        },
+        {
+            "english": "Similarity learning",
+            "arabic": "تعلم التشابه",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/similarity-learning",
+            "description": "هو مجال من مجالات تعلم الآلة في الذكاء الاصطناعي الخاضع للإشراف البشري. يرتبط ارتباطًا وثيقًا بتحليل الانحدار الإحصائي والتصنيف الإحصائي، ولكن هدفه هو تعلم دالة تقيس مدى التشابه أو الارتباط بين كائنين."
+        },
+        {
+            "english": "Temporal difference learning",
+            "arabic": "تعلم الفوارق الزمنية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/temporal-difference-learning",
+            "description": "مصطلح يشير إلى فئة من طرائق التعلم التعزيزية الخالية من النماذج والتي تتضمن التعلم عن طريق الانطلاق من التقدير الحالي لدالة القيمة."
+        },
+        {
+            "english": "Technology education",
+            "arabic": "تعليم التقنية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/technology-education",
+            "description": "دراسة التقنية كي يتعلم الطلاب العمليات والمعارف المرتبطة بها. ويغطي ذلك قدرة الإنسان على تشكيل العالم المادي وتغييره كي يلبي الاحتياجات من خلال تعديل المواد والأدوات باستخدام التقنيات."
+        },
+        {
+            "english": "Biospherisation",
+            "arabic": "تغير المحيط الحيوي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/biospherisation",
+            "description": "التغيرات التي تؤثر على المحيط الحيوي نتيجة التدخل البشري."
+        },
+        {
+            "english": "Dimensionality reduction",
+            "arabic": "تقليل الأبعاد",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/dimensionality-reduction",
+            "description": "عملية تقليل عدد المتغيرات العشوائية التي تخضع للدراسة."
+        },
+        {
+            "english": "Construction technology",
+            "arabic": "تقنية التشييد",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/construction-technology",
+            "description": "مصطلح يشير إلى أدوات مبتكرة وآلات وتعديلات وبرمجيات تستخدم خلال مرحلة تشييد مشروع فتساعد في تطوير وسائل البناء ويتضمن ذلك الأدوات المؤتمتة وشبه المؤتمتة."
+        },
+        {
+            "english": "Distributed Ledger Technology (DLT)",
+            "arabic": "تقنية الحسابات الموزعة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/distributed-ledger-technology",
+            "description": "تقنية تجمع البيانات الرقمية المنسوخة والمشتركة والمتزامنة والمنتشرة جغرافيًا عبر مواقع أو دول أو مؤسسات متعددة. لا يوجد في هذه التقنية مسؤول مركزي، خلافًا لقاعدة البيانات الموزعة. يعد نظام بلوكتشين أحد أشكال تقنية دفاتر الحسابات الموزعة، وهو نظام قد يكون عامًا أو خاصًا"
+        },
+        {
+            "english": "Food service Technology",
+            "arabic": "تقنية تموينية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/food-service-technology",
+            "description": "الأوجه التقنية لخدمات الطعام والضيافة خاصةً عندما ترتبط بجوانب تجارية وصحية. وتغطي أيضًا اتجاهات السوق في استخدام تقنيات خدمات الطعام ومعلومات السلامة والصحة. وتتضمن مساهمات من المختصين في أبحاث السوق ونفسية الزبائن والاقتصاديات والنمذجة والمحاكاة وحفظ الطعام وسلامته وتحليل المخاطر وتصميم الآلات وهندستها"
+        },
+        {
+            "english": "Biomedical technology",
+            "arabic": "تقنية طبية حيوية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/biomedical-technology",
+            "description": "استخدام التقنية والهندسة في الكائنات الحية ويتضمن ذلك أنشطة متعددة، مثل تصميم الأجهزة الطبية وإجراء الأبحاث."
+        },
+        {
+            "english": "Data integration",
+            "arabic": "تكامل البيانات",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/data-integration",
+            "description": "مصطلح يشير إلى العمليات التقنية والتجارية المستخدمة في دمج البيانات من مصادر متعددة لإنتاج رؤية موحدة للبيانات."
+        },
+        {
+            "english": "Convolutional",
+            "arabic": "تلافيف",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/convolutional",
+            "description": "نتوءات غير منتظمة تفصل بينها أخاديد على سطح الدماغ."
+        },
+        {
+            "english": "Structural coloration",
+            "arabic": "تلوين بنيوي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/structural-coloration",
+            "description": "هو إنتاج اللون عن طريق أسطح مشكلة بشكل دقيق بما يكفي للتداخل مع الضوء المرئي، وأحيانًا بالاشتراك مع الملونات."
+        },
+        {
+            "english": "Knowledge representation and reasoning",
+            "arabic": "تمثيل المعرفة والاستنتاج",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/knowledge-representation-and-reasoning",
+            "description": "التلاعب بمقترحات تشفير الرموز لإنتاج تمثيلات خاصة بقترحات جديدة"
+        },
+        {
+            "english": "Pattern recognition",
+            "arabic": "تمييز الأنماط",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/pattern-recognition",
+            "description": "التعرف الآلي على أنماط البيانات وانتظامها."
+        },
+        {
+            "english": "Natural Language Generation (NLG)",
+            "arabic": "توليد اللغات الطبيعية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/natural-language-generation",
+            "description": "عملية برمجية تحول البيانات المنظمة إلى لغة طبيعية. تُستخدم هذه العملية لإنتاج محتوى طويل الصياغة للمؤسسات لأتمتة التقارير المخصصة وإنتاج محتوى مخصص لموقع ويب أو تطبيق جهاز محمول."
+        },
+        {
+            "english": "Ontology learning",
+            "arabic": "توليد وتحصيل الأنطولوجيات",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/ontology-learning",
+            "description": "الإنشاء التلقائي أو شبه التلقائي للأنطولوجيات، ويشمل ذلك استخراج مصطلحات المجال المقابلة والعلاقات بين المفاهيم التي تمثلها هذه المصطلحات من مجموعة نصوص اللغة الطبيعية، وتشفيرها بلغة أنطولوجية لتسهيل استرجاعها."
+        },
+        {
+            "english": "Solar flare",
+            "arabic": " توهج شمسي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/words/solar-flare/",
+            "description": " اندلاع قصير لإشعاع شديد الطاقة من سطح الشمس ويرتبط بالبقع الشمسية ويسبب اضطرابات الراديو والمغناطيسية على الأرض "
+        },
+        {
+            "english": "Black hole",
+            "arabic": "ثقب أسود",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/black-hole",
+            "description": "منطقة من الزمكان تتمتع بجاذبية قوية جدًا فلا تسمح لأي شيء - ولا حتى الجسيمات أو موجات الإشعاع الكهرومغناطيسي مثل الضوء - بالإفلات منها"
+        },
+        {
+            "english": "Massive Black hole (supermassive black hole)",
+            "arabic": "ثقب اسود فائق الضخامة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/massive-black-hole",
+            "description": "أكبر أنواع الثقوب السوداء، وتتراوح كتلته من ملايين إلى مليارات كتلة الشمس."
+        },
+        {
+            "english": "Firewall",
+            "arabic": "جدار ناري",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/firewall",
+            "description": "نظام صمم كي يمنع الدخول غير المرغوب فيه إلى الشبكات الخاصة"
+        },
+        {
+            "english": "Futures Table",
+            "arabic": "جدول المستقبل",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/futures-table",
+            "description": "جدول المستقبل أداة تساعدنا في تنظيم أفكارنا عن المستقبل، فهي تطلب منا ملء جدول بإدخال أسئلتنا الرئيسية في عناوين السطور الأفقية ثم إضافة العوامل أو القطاعات أو التأثيرات الرئيسية المرتبطة بالسيناريو الذي نتصوره في عناوين الأعمدة، ثم نعمل على ملء بقية الخلايا بناء على ذلك."
+        },
+        {
+            "english": "Supramolecules",
+            "arabic": "جزيئات ضخمة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/supramolecules",
+            "description": "فرع من فروع الكيمياء الذي يهتم بالأنظمة الكيميائية المكونة من عدد ضخم من الجزيئات."
+        },
+        {
+            "english": "Beta Particle",
+            "arabic": "جسيمات بيتا",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/beta-particle",
+            "description": "إلكترونات سريعة الحركة تنتج عن تحلل المواد في صورة إشعاعات."
+        },
+        {
+            "english": "Subatomic particles",
+            "arabic": "جسيمات دون ذرية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/subatomic-particles",
+            "description": "جسيمات أصغر من الذرات مثل البروتونات والإلكترونات والنيوترونات."
+        },
+        {
+            "english": "Centrifuge",
+            "arabic": "جهاز الطرد المركزي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/centrifuge",
+            "description": "جهاز يستخدم قوة الطرد المركزي لفصل المواد ذات الكثافات المختلفة أو التخلص من الرطوبة أو محاكاة تأثيرات الجاذبية."
+        },
+        {
+            "english": "Wearable device",
+            "arabic": "جهاز قابل للارتداء",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/wearable-device",
+            "description": "أجهزة إلكترونية ذكية قابلة للارتداء بالقرب من سطح الجلد أو عليه مباشرةً كي ترصد المعلومات المرتبطة بالعلامات الحيوية وغيرها وتحللها وتنقلها لمتابعة حالة الشخص بصورةٍ لحظية."
+        },
+        {
+            "english": "Deep blue",
+            "arabic": "حاسوب ديب بلو",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/deep-blue",
+            "description": "حاسوب يلعب الشطرنج ويستطيع تحليل 200 مليون موضع محتمل على رقعة الشطرنج. وطوره طالبان في جامعة كارنيجي ميلون في شركة آي بي إم في العام 1985."
+        },
+        {
+            "english": "Super computer",
+            "arabic": "حاسوب فائق",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/super-computer",
+            "description": "حاسوب يتمتع بمستوى عالٍ من الأداء مقارنة بالحواسيب ذات الأغراض العامة."
+        },
+        {
+            "english": "Block signal",
+            "arabic": "حجب الإشارة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/block-signal",
+            "description": "تكليف نظام التشغيل بإيقاف الإشارة ونقلها في وقتٍ لاحق."
+        },
+        {
+            "english": "Denial of service (DoS)",
+            "arabic": "حجب الخدمة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/denial-of-service-dos",
+            "description": "نوع من الهجمات الإلكترونية التي تقيد الوصول إلى نظام أو عدة أنظمة تقدم الخدمات للمستخدمين."
+        },
+        {
+            "english": "Hypobaric altitude chamber",
+            "arabic": "حجرة ناقصة الضغط",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/hypobaric-altitude-chamber",
+            "description": "غرفة تُستعمل في أبحاث وتدريبات الفضاء الجوي والارتفاعات الأرضية العالية، لمحاكاة آثار تلك الارتفاعات على جسم الإنسان، وخصوصًا نقص الأكسجين ونقص الضغط الجوي."
+        },
+        {
+            "english": "Heuristic",
+            "arabic": "حدس مهني",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/heuristic",
+            "description": "متعلق بالأساليب الاستكشافية لحل المشكلات، المعتمدة على نهوج التعلم الذاتي(مثل تقييم الملاحظات والتعقيبات) لتحسين الأداء."
+        },
+        {
+            "english": "Hyper-Heuristic",
+            "arabic": "حدس مهني فائق",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/hyper-heuristic",
+            "description": "نهج بحثي حدسي مهني، يستهدف –بتوظيف تقنيات تعلم الآلة غالباً– أتمتة عملية اصطفاء حدسيات مهنية أبسط أو إنتاجها أو الجمع بينها أو أقلمتها (هي أو بعض عناصرها)، لحل مشكلات بحثية حسابية بكفاءة. ومن الدوافع إلى دراستها: إنشاء أنظمة تستطيع معالجة مجموعات من المشكلات، بدل حل مشكلة واحدة فقط."
+        },
+        {
+            "english": "Decision boundary",
+            "arabic": "حدود القرار",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/decision-boundary",
+            "description": "الحدود التي تستخدمها مصنّفات الأنماط مثل الشبكة العصبية ذات القيمة الحقيقية لتصنيف أنماط الإدخال إلى عدة فئات."
+        },
+        {
+            "english": "High Specific heat Capacity",
+            "arabic": "حرارة نوعية عالية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/high-specific-heat-capacity",
+            "description": "خاصية متعلقة بتغيرات حرارة المادة بالطاقة المنقولة إلى المادة أو إليها عبر التسخين ( تسخين المادة، أو تسخين محيطها). عند رفع درجة حرارتها بنقل الطاقة إليها بالتسخين، فإن السعة الحرارية الخاصة بها تتحدد بالطاقة المنقولة لكل وحدة كتلة لكل وحدة ارتفاع حرارة."
+        },
+        {
+            "english": "SDK (Software Development Kit)",
+            "arabic": "حزمة أدوات تطوير البرمجيات",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/sdk",
+            "description": "مجموعة من أدوات تطوير البرامج الموجودة في حزمة واحدة قابلة للتثبيت، وتسهل هذه الحزمة تطوير تطبيقات من خلال وجود مترجم ومصحح للأخطاء وربما إطار برمجي. عادة ما تكون الحزمة خاصة بمنصة أجهزة ومجموعة أنظمة التشغيل."
+        },
+        {
+            "english": "Region connection calculus",
+            "arabic": "حساب ارتباط المناطق",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/region-connection-calculus",
+            "description": "يُستخدم للتمثيل المكاني النوعي والاستدلال المنطقي. ويصف المناطق (في الفضاء الإقليدي أو الطوبولوجي) بصورة تجريدية بحسب علاقاتها المحتملة مع بعضها."
+        },
+        {
+            "english": "Situation calculus",
+            "arabic": "حساب الحالة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/situation-calculus",
+            "description": "هي منهج منطقي مصمم لتمثيل المجالات الديناميكية والاستدلال عليها. (الذكاء الاصطناعي)"
+        },
+        {
+            "english": "Propositional calculus",
+            "arabic": "حساب القضايا",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/propositional-calculus",
+            "description": "فرع من المنطق الرمزي يتعامل مع القضايا والعلاقات بينها دون فحص محتواها."
+        },
+        {
+            "english": "Biosensor",
+            "arabic": "حساس بيولوجي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/biosensor",
+            "description": "جهاز يستخدم كائناً حياً أو جزيئات حيوية، مثل الإنزيمات أو الأجسام المضادة، لرصد وجود مواد كيميائية."
+        },
+        {
+            "english": "Nanosensors",
+            "arabic": "حساسات التقنية النانوية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/nanosensors",
+            "description": "حساسات كيميائية أو ميكانيكية تُستَخدم للكشف عن وجود الأنواع الكيميائية والجسيمات النانوية أو مراقبة المعلمات الفيزيائية، ومنها درجة الحرارة، على المقياس النانوي."
+        },
+        {
+            "english": "Closed Loop",
+            "arabic": "حلقة مغلقة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/closed-loop",
+            "description": "نظام تحكم مؤتمت يجري فيه تنظيم العمليات أو الآليات عبر التغذية الراجعة."
+        },
+        {
+            "english": "Evolutionary computation",
+            "arabic": "حوسبة تطورية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/evolutionary-computation",
+            "description": "فرع من الذكاء الاصطناعي يرتبط بشدة بالذكاء الحوسبي. ويتضمن عديدًا من المشكلات التحسين التجميعي والتحسين المستمر"
+        },
+        {
+            "english": "quantum computing",
+            "arabic": "حوسبة كمومية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/quantum-computing",
+            "description": "استخدام الظواهر الكمومية، ومنها التراكب والتشابك، لإجراء العمليات الحسابية. وتسمى الحواسيب التي تجري حسابات كمومية حواسيب كمومية. تعتمد الحوسبة الكمومية على مبادئ ميكانيكا الكم وتستغل قدرة الجسيمات دون الذرية على الوجود ضمن حالتين في الوقت ذاته (مثال: 1 و0) ما يزيد كمية البيانات التي تشفرها (على هيئة كيوبت) بصورة هائلة، ويتيح قدرة حاسوبية مذهلة."
+        },
+        {
+            "english": "Biotic",
+            "arabic": "حيوي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/biotic",
+            "description": "مرتبط بالكائنات الحية أو ناتج عنها."
+        },
+        {
+            "english": "Sitemaps",
+            "arabic": "خريطة الموقع",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/sitemaps",
+            "description": "قائمة لصفحات موقع إلكتروني على شبكة الإنترنت."
+        },
+        {
+            "english": "Existential risk",
+            "arabic": "خطر وجوديّ",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/existential-risk",
+            "description": "خطر يهدد وجود البشرية"
+        },
+        {
+            "english": "Fuel cell",
+            "arabic": "خلية وقود",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/fuel-cell",
+            "description": "خلية كهروكيمائية تولد طاقة كهربائية من الوقود عن طريق تفاعل كهروكيميائي. وتحتاج هذه الخلايا إمداد مستمر من الوقود وعامل مؤكسد، يكون غالبًا الأكسجين، لاستمرار التفاعل وتوليد الكهرباء."
+        },
+        {
+            "english": "Web servers",
+            "arabic": "خوادم ويب",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/web-servers",
+            "description": "البرمجيات أو الأجهزة المخصصة لتشغيل البرنامج الذي يلبي طلبات العملاء على شبكة الإنترنت العالمية"
+        },
+        {
+            "english": "Bees algorithm",
+            "arabic": "خوارزمية النحل",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/bees-algorithm",
+            "description": "خوارزمية تحاكي سلوك أسراب نحل العسل خلال البحث عن الطعام. وتبحث الخوارزمية في نموذجها الأساسي عن الجوار بالإضافة إلى البحث العشوائي وتستخدم لتعزيز التحسن التوافقي والوظيفي."
+        },
+        {
+            "english": "Search algorithm",
+            "arabic": "خوارزمية بحث",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/search-algorithm",
+            "description": "هي أي خوارزمية تساعد في عمليات البحث، أي استرداد المعلومات المخزنة في بعض قواعد البيانات أو محسوبة في مساحة البحث، إما بقيم منفصلة أو مستمرة."
+        },
+        {
+            "english": "Evolutionary algorithm",
+            "arabic": "خوارزمية تطورية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/evolutionary-algorithm",
+            "description": "خوارزميات تحسين معتمدة على الناس ومستلهمة من التطور الحيوي"
+        },
+        {
+            "english": "Grover’s Algorithm",
+            "arabic": "خوارزمية جروفر",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/grovers-algorithm",
+            "description": "هي طريقة سريعة للبحث في قاعدة بيانات باستخدام حاسوب كمومي."
+        },
+        {
+            "english": "Genetic algorithm",
+            "arabic": "خوارزمية جينية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/genetic-algorithm",
+            "description": "منهجية لحل مشكلات الاستمثال المقيَّد وغير المقيد، استنادًا إلى الاصطفاء الطبيعي (محرك التطور البيولوجي)."
+        },
+        {
+            "english": "Rete algorithm",
+            "arabic": "خوارزمية ريتي لمطابقة الأنماط",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/rete-algorithm",
+            "description": "خوارزمية لمطابقة الأنماط لتوليد أنظمة معتمدة على قواعد معينة. طُورت هذه الخوارزمية لتنفيذ العديد من القواعد أو الأنماط بكفاءة على كائنات أو حقائق في قاعدة البيانات. تُستخدم هذه الخوارزمية لتحديد أي قاعدة من قواعد النظام يجب استخدامها بناءً على مخزن البيانات الخاص به."
+        },
+        {
+            "english": "Shor’s algorithm",
+            "arabic": "خوارزمية شور",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/shors-algorithm",
+            "description": "خوارزمية شور هي خوارزمية حاسوبية كمومية متعددة الحدود لتحليل الأعداد الصحيحة، أي بعبارة أخرى، تحل هذه الخوارزمية المسألة التالية: أوجد العوامل الأولية للعدد N إذا كان N عددًا صحيحًا. طور بيتر شور عالم الرياضيات الأمريكي هذه الخوارزمية في العام 1994. لتحليل عدد صحيح N، على الكمبيوتر الكمومي، تعمل خوارزمية شور في زمن متعدد الحدود، وتستخدم بوابات النظام الكمومية مستخدمة الضرب السريع، ما يدل على أن حساب مسألة عامل العدد الصحيح يسهل حلها بكفاءة على حاسوب كمي."
+        },
+        {
+            "english": "Nondeterministic algorithm",
+            "arabic": "خوارزمية متغيرة السلوك",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/nondeterministic-algorithm",
+            "description": "خوارزمية تعرض سلوكيات مختلفة عند تشغيلها أكثر من مرة، حتى للمدخلات ذاتها، خلافًا للخوارزمية القطعية."
+        },
+        {
+            "english": "Simulated annealing",
+            "arabic": "خوارزمية محاكاة التخمير",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/simulated-annealing",
+            "description": "هي خوارزمية احتمالية للبحث عن الحل الأمثل لتابع رياضي معين. وهي طريقة محاكاة رياضية مبدؤها مستمدّ من طريقة التخمير المستخدمة كإحدى طرق معالجة المعادن حراريًا. في طريقة المعالجة هذه تتناوب دورات التبريد البطيء وإعادة التسخين (التخمير) بحيث يتم الوصول إلى وضعية تكون فيها الطاقة أصغرية."
+        },
+        {
+            "english": "Target Function",
+            "arabic": "دالّة الهدف",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/target-function",
+            "description": "المعادلة التي تغذيها الخوارزمية بالبيانات لحساب التوقعات."
+        },
+        {
+            "english": "Scooter",
+            "arabic": "دراجة بخارية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/scooter",
+            "description": "مركبة خفيفة مفتوحة ذات عجلتين يجلس سائقها فوق محرك مغلق ويضع رجليه بالقرب من بعضهما البعض وتلامس قدماه لوحًا سفليًا."
+        },
+        {
+            "english": "Futures Studies",
+            "arabic": "دراسات مستقبلية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/futures-studies",
+            "description": "دراسة شاملة ومتعددة التخصصات للاتجاهات الاجتماعية والتقنية والبيئية لمعرفة شكل حياة الناس في المستقبل"
+        },
+        {
+            "english": "Call to Action (CTA)",
+            "arabic": "دعوة إلى العمل",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/call-to-action-cta",
+            "description": "تحفيز لتنفيذ شيءٍ ما لتحقيق هدف أو حل مشكلة. جزء من المحتوى يدعو القارئ أو المشاهد أو المستمع لتنفيذ مهمة معينة."
+        },
+        {
+            "english": "Data assimilation",
+            "arabic": "دمج البيانات",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/data-assimilation",
+            "description": "تقنية تدمج بيانات المراقبة مع مخرجات النموذج الرقمي للوصول إلى تقدير أمثل للحالة المتطورة للنظام"
+        },
+        {
+            "english": "Data fusion",
+            "arabic": "دمج البيانات",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/data-fusion",
+            "description": "استخدام المعرفة من مصادر مختلفة بصورةٍ متناغمة للمساعدة في فهم ظاهرة معينة، وتصنف خوارزميات دمج البيانات إلى ظاهراتية وغير ظاهراتية."
+        },
+        {
+            "english": "Sensor fusion",
+            "arabic": "دمج بيانات الاستشعار",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/sensor-fusion",
+            "description": "جمع البيانات الحسية أو البيانات المستمدة من مصادر متباينة بحيث تكون المعلومات الناتجة أقل شكًا مما يمكن أن يكون ممكنًا عند استخدام هذه المصادر بشكل فردي."
+        },
+        {
+            "english": "Suborbital",
+            "arabic": "دون المداري",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/suborbital",
+            "description": "يشير إلى مسار لا يكمل مدارًا كاملاً للأرض أو أي جرم سماوي آخر"
+        },
+        {
+            "english": "DeepMind",
+            "arabic": "ديب مايند",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/deepmind",
+            "description": "شركة ذكاء اصطناعي استحوذت عليها جوجل. ابتكرت شبكة تتعلم لعب ألعاب الفيديو بطريقة تشبه طريقة البشر، وآلةَ تيورنج عصبية (شبكة عصبية قد يسعها الولوج في ذاكرة خارجية كآلة تيورنج العادية)، مؤدية إلى حاسوب يحاكي الذاكرة البشرية قصيرة الأمد."
+        },
+        {
+            "english": "Decibel (dB)",
+            "arabic": "ديسيبل",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/decibel-db",
+            "description": "وحدة قياس مدى ارتفاع الصوت."
+        },
+        {
+            "english": "Friendly Artificial Intelligence",
+            "arabic": "ذكاء اصطناعي أنيس",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/friendly-artificial-intelligence",
+            "description": "ذكاء اصطناعي نظري عام يؤثر إيجابيًا على البشرية ويمثل جزءاً من أخلاقيات الذكاء الاصطناعي ويقترب من أخلاقيات الآلات. فعلى الرغم من أن أخلاقيات الآلات تركز على كيفية تصرف العنصر الذكي بصورة أنيسة، لكن الذكاء الاصطناعي الأنيس يركز على كيفية نقل هذا السلوك بصورة عملية."
+        },
+        {
+            "english": "Weak AI",
+            "arabic": "ذكاء اصطناعي ضعيف - ذكاء اصطناعي ضيق",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/weak-ai",
+            "description": "ذكاء اصطناعي يرجز على مهمة صغيرة محددة."
+        },
+        {
+            "english": "Game AI",
+            "arabic": "ذكاء اصطناعي لُعبيّ",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/game-ai",
+            "description": "ذكاء اصطناعي معني برسم مظاهر الذكاء، وخلق تجربة معيَّنة للناظِر، بدل العناية بخلق ذكاء حقيقي كما هو في البشر."
+        },
+        {
+            "english": "Autopilot",
+            "arabic": "ربان آلي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/autopilot",
+            "description": "نظام يستخدم للتحكم في مسار الطائرات والسفن والمركبات الفضائية دون الحاجة إلى تحكم المشغل البشري المستمر فيها يدويًا. ولا يغني الربان الآلي عن المشغل البشري بل يساعده في التحكم في المركبات ما يمنحه إمكانية التركيز على عمليات أهم، مثل مراقبة المسار والطقس وأنظمة المركبة."
+        },
+        {
+            "english": "Supersonic flight",
+            "arabic": "رحلات أسرع من الصوت",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/supersonic-flight",
+            "description": "طائرة قادرة على الطيران بسرعة أعلى من سرعة الصوت."
+        },
+        {
+            "english": "Cartographers",
+            "arabic": "رسامو الخرائط",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/cartographers",
+            "description": "المتخصصون في رسم الخرائط."
+        },
+        {
+            "english": "QR Code (Quick Response Code)",
+            "arabic": "رمز الاستجابة السريعة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/qr-code-quick-response-code",
+            "description": "رمز الاستجابة الضوئي نمط رسومي بشكّل شيفرة تستطيع أجهزة القراءة التعرف عليها ضوئياً وهي تقود إلى صفحة تتضمن معلومات عن الشيء المرتبط بها، وقد يكون ذلك الشيء منتجاً أو موقعاً جغرافياً أو معرضاً أو أي شيء آخر."
+        },
+        {
+            "english": "Chatbot",
+            "arabic": "روبوت الدردشة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/chatbot",
+            "description": "برنامج حاسوبي يجري محادثات مع الأشخاص عبر الإنترنت."
+        },
+        {
+            "english": "Humanoid Robots",
+            "arabic": "روبوت شبه بشري",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/humanoid-robots",
+            "description": "روبوت جسمه مصمَّم على شكل جسم الإنسان."
+        },
+        {
+            "english": "Robocops",
+            "arabic": "روبوتات الشرطة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/robocops",
+            "description": "جهاز آلي قابل للبرمجة يتم التحكم فيه عن بعد قيد التطوير لاستخدامه في تطبيق القانون."
+        },
+        {
+            "english": "Microbotics",
+            "arabic": "روبوتات صغرية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/microbotics",
+            "description": "تسمى أيضًا الروبوتات الدقيقة. وهو مجال الروبوتات المصغرة، وخاصة الروبوتات المتنقلة ذات الأبعاد التي تقل عن 1 مليمتر."
+        },
+        {
+            "english": "reCaptcha",
+            "arabic": "ري كابتشا",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/recaptcha",
+            "description": "تعتمد ري كابتشا على برنامج متطور لتحليل المخاطر وتوليد تحديات تفاعلية لمنع البرامج الخبيثة من التأثير بأنشطة مخربة على موقعك الإلكتروني. وهي تتيح في الوقت ذاته للمستخدمين القانونيين من تسجيل الدخول أو الشراء أو مشاهدة الصفحات أو إنشاء حسابات مع حظر المستخدمين المزيفين"
+        },
+        {
+            "english": "Solar wind",
+            "arabic": "رياح شمسية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/solar-wind",
+            "description": "التدفق المستمر للجسيمات المشحونة من الشمس والتي تنتشر في النظام الشمسي."
+        },
+        {
+            "english": "Space-time",
+            "arabic": "زمكان",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/space-time",
+            "description": "مبدأ يعتبر مفاهيم الزمن والفضاء ثلاثي الأبعاد مندمجة في سلسلة متصلة رباعية الأبعاد."
+        },
+        {
+            "english": "Website traffic",
+            "arabic": "زيارات الموقع الإلكتروني",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/website-traffic",
+            "description": "كمية البيانات التي يرسلها زوار الموقع الإلكتروني ويستقبلونها."
+        },
+        {
+            "english": "DatalogDatalog",
+            "arabic": "سجل البيانات",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/datalogdatalog",
+            "description": "لغة برمجة تستخدم في عمل قاعدة البيانات الاستدلالية"
+        },
+        {
+            "english": "Public ledger",
+            "arabic": "سجل حسابات عام",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/public-ledger",
+            "description": "نظام لحفظ السجلات يحفظ هويات المشاركين في الشبكة وأرصدتهم من العملات المعماة وسجلًا لجميع المعاملات الحقيقية المنفذة بينهم بصورة آمنة وشبه مجهولة."
+        },
+        {
+            "english": "Oort Cloud",
+            "arabic": "سحابة أورط (سحابة تحيط بالمجموعة الشمسية)",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/oort-cloud",
+            "description": "سحابة نظرية معظمها من الكواكب الصغيرة الجليدية، تحيط بالشمس على مسافات تتراوح من ألفي إلى 200 ألف وحدة فلكية."
+        },
+        {
+            "english": "Speed of Light",
+            "arabic": "سرعة الضوء",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/speed-of-light",
+            "description": "يُشار إليها عادةً بحرف سي، وهو ثابت مادي عالمي مهم في العديد من مجالات الفيزياء. تُعرف قيمته الدقيقة بأنها 299792458 مترًا في الثانية."
+        },
+        {
+            "english": "Cell line",
+            "arabic": "سلالة خلوية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/cell-line",
+            "description": "زرعة خلوية تختار لتكوين خلايا مشتقة من نسيج واحد مثل أنسجة الأعضاء."
+        },
+        {
+            "english": "Forward chaining",
+            "arabic": "سَلسلة مستقبلية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/forward-chaining",
+            "description": "السلسلة المستقبلية في الذكاء الاصطناعي تشير إلى سيناريو يزود فيه الذكاء الاصطناعي بمشكلة محددة لحلها. ولتنفيذ ذلك ينظر الذكاء الاصطناعي إلى الوراء لتحديد القواعد التي يجب استخدامها."
+        },
+        {
+            "english": "Swarm behavior/intelligence",
+            "arabic": "سلوك السرب/ ذكاء السرب",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/swarm-behavior-intelligence",
+            "description": "السلوك الجماعي للنظم اللامركزية ذاتية الانتظام، سواءً كانت طبيعية أم اصطناعية"
+        },
+        {
+            "english": "Vehicle-to-Infrastructure",
+            "arabic": "سيارة متصلة بالبنية التحتية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/vehicle-to-infrastructure",
+            "description": "تبادل البيانات لاسلكيًا بين المركبات والبنية التحتية للطرق."
+        },
+        {
+            "english": "Retina display",
+            "arabic": "شاشة عرض رتينا",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/retina-display",
+            "description": "علامة تجارية تملكها شركة آبل وتستخدمها في سلسلة منتجاتها من شاشات العرض البلوري السائل وشاشات الصمامات الثنائية الباعثة للضوء والتي تحتوي على كثافة أعلى من البكسلات مقارنة بشاشات شركة آبل التقليدية"
+        },
+        {
+            "english": "VPN (Virtual Private Network)",
+            "arabic": "شبكة خاصة افتراضية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/vpn",
+            "description": "هي امتداد للشبكة الخاصة عبر الشبكة العامة فتساعد المستخدمين على إرسال البيانات واستقبالها عبر الشبكات المشتركة أو العامة وتبدو حواسيبهم كأنها متصلة مباشرة بالشبكة الخاصة"
+        },
+        {
+            "english": "Semantic network",
+            "arabic": "شبكة دلالية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/semantic-network",
+            "description": "هي قاعدة معرفية تمثل العلاقات الدلالية بين المفاهيم في الشبكة، وغالبًا ما تُستخدم كشكل من أشكال تمثيل المعرفة."
+        },
+        {
+            "english": "Brainet",
+            "arabic": "شبكة دماغية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/brainetbrainet",
+            "description": "اتصال بين أدمغة أكثر من شخص بصورةٍ غير باضعة للتعاون في حل المشكلة. وتتكون هذه الواجهة من جهاز رسم كهرباء الدماغ لتسجيل إشاراته وتحفيز كهرومغناطيسي عبر الجمجمة لنقل المعلومات إلى الدماغ. وتمنح الواجهة ثلاثة أشخاص فرصة التعاون معًا لحل مشكلة عبر الاتصال الدماغي المباشر."
+        },
+        {
+            "english": "Neural network",
+            "arabic": "شبكة عصبونية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/neural-network",
+            "description": "سلسلة من الخوارزميات التي تهدف إلى تعريف العلاقات الأساسية في مجموعة من البيانات بعملية تحاكي الطريقة التي يعمل بها الدماغ البشري."
+        },
+        {
+            "english": "Recurrent Neural Network (RNN)",
+            "arabic": "شبكة عصبونية متكررة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/recurrent-neural-network",
+            "description": "فئة من الشبكات العصبونية الاصطناعية، تشكل فيها الروابط بين العقد رسمًا بيانيًا موجهًا على امتداد تسلسل زمني."
+        },
+        {
+            "english": "Spiking neural network",
+            "arabic": "شبكة عصبونية مثارة بالذبذبات",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/spiking-neural-network",
+            "description": "هي شبكات عصبية اصطناعية تحاكي بشكل وثيق الشبكات العصبية الطبيعية."
+        },
+        {
+            "english": "Behavior tree",
+            "arabic": "شجرة السلوك",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/behavior-tree",
+            "description": "نموذج رياضي لتنفيذ الخطط، ويستخدم في علوم الحاسوب والروبوتات وأنظمة التحكم وألعاب الفيديو. ويصف التبديل بين مجموعة محدودة من المهام بطريقةٍ معيارية. ويستطيع إنشاء مهام صعبة باستخدام مهام بسيطة."
+        },
+        {
+            "english": "Decision tree",
+            "arabic": "شجرة القرارات",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/decision-tree",
+            "description": "رسم لشجرة يستخدم في عملية اتخاذ القرارات في الشركات أو البرامج الحاسوبية. وتمثل فروع الشجرة الخيارات وما يرتبط بها من مخاطر وتكاليف ونتائج واحتمالات."
+        },
+        {
+            "english": "Issue trees",
+            "arabic": "شجرة المشكلات",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/issue-trees",
+            "description": "رسم تفصيلي للسؤال يقسمه رأسيًا إلى مكوناته المختلفة وبعد ذلك يمتد إلى التفاصيل. وتساعد هذه الشجرة في حل المشكلات لأنها تظهر جذورها بالإضافة إلى أنها تقدم الحلول. وتقدم أيضًا نقطة مرجعية لمعرفة مدى ملائمة كل جزء للصورة الكاملة للمشكلة."
+        },
+        {
+            "english": "Monte Carlo tree search",
+            "arabic": "شجرة بحث مونت كارلو",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/monte-carlo-tree-search",
+            "description": "خوارزمية بحث إرشادية لبعض أنواع عمليات اتخاذ القرار، وخاصة المستخدمة في البرمجيات التي تلعب ألعاب الطاولة. تُستخدم شجرة بحث مونت كارلو في هذا السياق لحل شجرة اللعبة."
+        },
+        {
+            "english": "Binary tree",
+            "arabic": "شجرة ثنائية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/binary-tree",
+            "description": "تتكون من عقدتين يمنى ويسرى وعنصر من البيانات. وتسمى العقدة العليا في الشجرة عقدة الجذر، ويتجه المؤشران الأيمن والأيسر نحو أشجار أصغر على الجانبين. وتستخدم الأشجار الثنائية لتنفيذ عمليات بحث ثنائي بالإضافة إلى تصنيف البيانات."
+        },
+        {
+            "english": "Solar sail",
+            "arabic": "شراع شمسي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/solar-sail",
+            "description": "سطح عاكس مصمم لاستخدام ضغط الإشعاع الشمسي لدفع مركبة فضائية."
+        },
+        {
+            "english": "Termination shock",
+            "arabic": "صدمة النهاية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/termination-shock",
+            "description": "أحد الحدود الخارجية لتأثير الشمس، وهي أحد حدود المجموعة الشمسية. وتتباطأ عنده فقاعة جسيمات الرياح الشمسية فتتحرك بسرعة أبطأ من سرعة الصوت."
+        },
+        {
+            "english": "Cascading Style Sheets (CSS)",
+            "arabic": "صفحات الأنماط المتتالية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/css-cascading-style-sheets",
+            "description": "تستخدم لتنسيق صفحات المواقع الإلكترونية."
+        },
+        {
+            "english": "3D retinal sheets",
+            "arabic": "صفيحات شبكية ثلاثية الأبعاد",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/3d-retinal-sheets",
+            "description": null
+        },
+        {
+            "english": "Black box",
+            "arabic": "صندوق أسود",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/black-box",
+            "description": "جهاز أو نظام أو جسم معتم يمكن مراقبة مدخلاته ومخرجاته دون معرفة آلية عمله الداخلية. ويمكن إطلاق صفة جسم أسود على أي شيء، مثل المحرك والترانزستور والدماغ والحكومة."
+        },
+        {
+            "english": "Smart Bandages",
+            "arabic": "ضمادات ذكية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/smart-bandages",
+            "description": "ضماد للجروح مزود بتقنية إضافية لقياس تقدم التئام الجروح وتوزيع الأدوية وتحميل البيانات المتعلقة بعملية الشفاء."
+        },
+        {
+            "english": "Drone",
+            "arabic": "طائرة دون طيار",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/drone",
+            "description": "طائرة لا يقودها طيار توجه عن بعد أو تطير بالاعتماد على القيادة الذاتية أو تبرمج مسبقًا للطيران في مسار محدد."
+        },
+        {
+            "english": "Unmanned Aerial Vehicle",
+            "arabic": "طائرة مسيرة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/unmanned-aerial-vehicle",
+            "description": "طائرة مسيرة تطير دون وجود طيار بشري على متنها."
+        },
+        {
+            "english": "Bioprinting",
+            "arabic": "طباعة حيوية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/bioprinting",
+            "description": "استخدام الطباعة ثلاثية الأبعاد لإنتاج أنسجة، من الخلايا الحية، لاستخدامها في الجراحات الترميمية."
+        },
+        {
+            "english": "Delphi Method",
+            "arabic": "طريقة دلفي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/delphi-method",
+            "description": "طريقة دلفي تهدف إلى التحقق من الآراء والتصورات والمعلومات والرؤى من خلال مشاركة الخبراء في استطلاعات الرأي."
+        },
+        {
+            "english": "Space weather",
+            "arabic": "طقس فضائي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/space-weather",
+            "description": "هو فرع من فيزياء الفضاء وعلم الطيران أو الفيزياء الشمسية ويهتم بالظروف الزمنية المتغيرة داخل النظام الشمسي، بما في ذلك الرياح الشمسية مع التركيز على الفضاء المحيط بالأرض، بما في ذلك الظروف في الغلاف المغناطيسي والغلاف الإيوني والغلاف الحراري والغلاف الخارجي."
+        },
+        {
+            "english": "Misfolded Proteins (Protein Folding)",
+            "arabic": "طوي البروتين",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/misfolded-proteins",
+            "description": "العملية الفيزيائية التي تكتسب من خلالها سلسلة بروتين هيكلها الطبيعي ثلاثي الأبعاد، وهو شكل حيوي وظيفي، بطريقة سريعة وقابلة للتكرار."
+        },
+        {
+            "english": "Spectroscopic",
+            "arabic": "طيفي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/spectroscopic",
+            "description": "جهاز بصري لإنتاج ومراقبة طيف من الضوء أو الإشعاع من أي مصدر ويتكون بشكل أساسي من شق يمر من خلاله الإشعاع وعدسة موجه وموشور."
+        },
+        {
+            "english": "ChronobiologistChronobiologist",
+            "arabic": "عالم الأحياء الزمنية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/chronobiologistchronobiologist",
+            "description": "العالم الذي يدرس الإيقاعات الحيوية"
+        },
+        {
+            "english": "Climatology",
+            "arabic": "عالم المناخ",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/climatology",
+            "description": "خبير في الدراسة العلمية للمناخ."
+        },
+        {
+            "english": "Confounding factor",
+            "arabic": "عامل الإرباك",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/confounding-factor",
+            "description": "تسمى أيضًا المتغيرات المربكة وتشر إلى متغير ثالث لم يقاس ويؤثر على السبب والقيمة المفترضين."
+        },
+        {
+            "english": "Branching factor",
+            "arabic": "عامل التفرع",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/branching-factor",
+            "description": "مصطلح في علوم الحاسوب وهياكل شجرة البيانات ونظرية الألعاب. ويشير إلى عدد العقد الصغيرة داخل العقدة. وإن كانت القيمة غير ثابتة يمكن حساب متوسط عامل التفرع."
+        },
+        {
+            "english": "Catalyst",
+            "arabic": "عامل حفاز",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/catalyst",
+            "description": "مادة تحفز التفاعل الكيميائي في ظروف مختلفة عن الظروف التقليدية وتزيد سرعته"
+        },
+        {
+            "english": "Futures wheel",
+            "arabic": "عجلة المستقبل",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/futures-wheel",
+            "description": "عجلة المستقبل هي أداة بصريّة توفر لنا طريقة منظمة أكثر للتفكير في العواقب المباشرة وغير المباشرة للأحداث المحفزة."
+        },
+        {
+            "english": "Gear VR",
+            "arabic": "عدة الواقع الافتراضي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/gear-vr",
+            "description": "خوذة واقع افتراضي"
+        },
+        {
+            "english": "VR Headset",
+            "arabic": "عدة الواقع الافتراضي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/vr-headset",
+            "description": "جهاز يثبت على الرأس كي يشاهد مستخدمه الواقع الافتراضي"
+        },
+        {
+            "english": "Data visualization",
+            "arabic": "عرض البيانات",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/data-visualization",
+            "description": "عرض البيانات والمعلومات في صورة رسوم"
+        },
+        {
+            "english": "Bugs",
+            "arabic": "عطب برمجي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/bugs",
+            "description": "خطأ في برنامج أو نظام حاسوبي"
+        },
+        {
+            "english": "Spin-based electronics",
+            "arabic": "علم إلكترونات دورانية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/spin-based-electronics",
+            "description": "يهتم بدراسة الدوران الداخلي للإلكترون والعزم المغناطيسي المرتبط به، بالإضافة إلى شحنته الإلكترونية الأساسية في أجهزة الحالة الصلبة."
+        },
+        {
+            "english": "Embryology",
+            "arabic": "علم الأجنة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/embryology",
+            "description": "فرع من علم الأحياء يدرس الأجنة وتطورها"
+        },
+        {
+            "english": "Synthetic biology",
+            "arabic": "علم الأحياء التركيبي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/synthetic-biology",
+            "description": "هي مجال بحثي متعدد التخصصات يسعى إلى إنشاء أجزاء وأجهزة وأنظمة بيولوجية جديدة أو إعادة تصميم الأنظمة الموجودة في الطبيعة. ويعني علم الأحياء التركيبي إعادة تصميم الكائنات الحية والجزيئات أو إعادة هندستها لمنحها خصائص جديدة، على غرار الإنزيمات الصنعية التي تستطيع هضم البلاستيك."
+        },
+        {
+            "english": "Chronobiology",
+            "arabic": "علم الأحياء الزمنية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/chronobiology",
+            "description": "دراسة الإيقاعات الحيوية."
+        },
+        {
+            "english": "Computational neuroscience",
+            "arabic": "علم الأعصاب الحوسبي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/computational-neuroscience",
+            "description": "مجال يهدف إلى تطوير نماذج ونظريات متعددة المراحل للوظائف العصبية ومحاكاتها وتحليلها، وتتضمن هذه النماذج جميع المستويات بداية من الجزيئات عبر الخلايا والشبكات وحتى الإدراك والسلوك."
+        },
+        {
+            "english": "Optogenetics",
+            "arabic": "علم البصريات الوراثي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/optogenetics",
+            "description": "تقنية حيوية تتضمن استخدام الضوء للتحكم بالخلايا العصبية المعدلة وراثيًا للتعبير عن القنوات الأيونية الحساسة للضوء."
+        },
+        {
+            "english": "Data Science",
+            "arabic": "علم البيانات",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/data-science",
+            "description": "العلم الذي يدمج الخبرة ومهارات البرمجة والمعرفة بالرياضيات والإحصاء لاستخلاص أفكار ذات معنى من البيانات."
+        },
+        {
+            "english": "Genomics",
+            "arabic": "علم الجينوم",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/genomics",
+            "description": "علم الجينوم هو مجال متعدد التخصصات في علم الأحياء يركز على تركيب الجينوم ووظيفته وتطوره ويرسم خرائط له، ويشمل تقنيات تعديله أيضًا. والجينوم مجموعة كاملة من الحمض النووي للكائن الحي، تتضمن جميع مورثاته."
+        },
+        {
+            "english": "Theoretical computer science",
+            "arabic": "علم الحاسوب النظري",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/theoretical-computer-science",
+            "description": "فرع من علم الحاسوب العام والرياضيات يركز على الجوانب الرياضية لعلم الحاسوب مثل تكامل لامدا ونظرية النوع."
+        },
+        {
+            "english": "Conservation Biology",
+            "arabic": "علم الحفظ الحيوي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/conservation-biology",
+            "description": "علم يهدف إلى معالجة فقدان التنوع الحيوي. ويقيم التأثيرات البشرية على التنوع الحيوي ويطور خطط عملية لمنع انقراض الأنواع."
+        },
+        {
+            "english": "Semantics",
+            "arabic": "علم الدلالة الصوري",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/semantics",
+            "description": "فرع اللغويات والمنطق الذي يهتم بالمعنى. المجالان الرئيسيان لهذا العلم هما الدلالات المنطقية التي تهتم بأمور مثل المعنى والمرجع والافتراض والتضمين والدلالات المعجمية التي تهتم بتحليل معاني الكلمات والعلاقات بينها."
+        },
+        {
+            "english": "Cloud Robotics",
+            "arabic": "علم الروبوتات السحابي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/cloud-robotics",
+            "description": "جزء من علم الروبوتات يستخدم الحوسبة السحابية لتعزيز قوة الروبوتات."
+        },
+        {
+            "english": "Developmental robotics",
+            "arabic": "علم الروبوتات النمائي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/developmental-robotics",
+            "description": "نهج متعدد التخصصات لتطوير الروبوتات من خلال استلهام أساسيات النمو المعرفي لدى الأطفال."
+        },
+        {
+            "english": "Molecular gastronomy",
+            "arabic": "علم الطهي الجزيئي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/molecular-gastronomy",
+            "description": "تطبيق المبادئ العلمية لفهم عملية تحضير الطعام وتطويرها."
+        },
+        {
+            "english": "Microfluidics",
+            "arabic": "علم الموائع الدقيقة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/microfluidics",
+            "description": "دراسة سلوك السوائل المقيدة هندسيًا بمقياس صغير (أقل من مليمتر عادةً)، تهيمن فيه قوى السطح على القوى الحجمية، والتحكم الدقيق بها والتعامل معها."
+        },
+        {
+            "english": "Half-life",
+            "arabic": "عمر النصف",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/half-life",
+            "description": "الفترة اللازمة لتقل كمية إلى نصف الأصل. ويُستعمل المصطلح عادة في الفيزياء النووية، لوصف مدى سرعة مرور الذرات غير المستقرة بمرحلة الانحلال الإشعاعي، أو مدى مقاومة الذرات المستقرة لذلك الانحلال."
+        },
+        {
+            "english": "Cryptocurrency",
+            "arabic": "عملة معمّاة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/cryptocurrency",
+            "description": "تسمية عامة لأي أصل رقمي أو «عملة رمزية» قابلة للتعدين أو الشراء أو النقل عبر شبكة بلوكتشين أو باستخدام شبكة حسابات موزعة. تُعد بيتكوين أشهر عملة معماة، ويتجاوز عددها الألف عملة، ومنها عملات إيثريوم ولايتكوين ونيو."
+        },
+        {
+            "english": "Development Operations (DevOps)",
+            "arabic": "عمليات التطوير",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/devops-development-operations",
+            "description": "مصطلح يشير إلى تطوير برامج مؤسسية توضح العلاقة بين عمليات التطوير وتقنية المعلومات. وتهدف إلى تعزيز هذه العلاقة."
+        },
+        {
+            "english": "Server Side",
+            "arabic": "عمليات المخدم",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/server-side",
+            "description": "مصطلح يشير إلى العمليات التي يجريها المخدم ضمن حاسوب والمخدم في وقت واحد ضمن الشبكة الحاسوبية."
+        },
+        {
+            "english": "Technological design process",
+            "arabic": "عملية التصميم التقني",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/technological-design-process",
+            "description": "عملية تتضمن الخطوات التالية: تحديد المشكلة والبحث فيها وإنتاج حلول محتملة واختيار أفضلها وتطوير نموذج واختياره وتدقيقه وإعادة اختباره وفقًا للحاجة والإبلاغ بالحل النهائي."
+        },
+        {
+            "english": "Partially observable Markov decision process",
+            "arabic": "عملية قرار ماركوف الملاحظة جزئيًا",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/partially-observable-markov-decision-process",
+            "description": "تعميم لعملية قرار ماركوف المحاكية لعملية قرار الوكيل التي يُفترض فيها أن ديناميكيات النظام تحددها عملية قرار ماركوف، غير أن الوكيل لا يستطيع مراقبة الحالة الأساسية مباشرةً."
+        },
+        {
+            "english": "CRISP DM model",
+            "arabic": "عملية قياسية عبر الصناعة لاستخراج البيانات.",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/crisp-dm-model",
+            "description": "عملية تجري عبر الصناعة لاستخراج البيانات، وتقدم نهج منظم لتخطيط مشروع استخراج البيانات."
+        },
+        {
+            "english": "Reionization",
+            "arabic": "عودة التأين",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/reionization",
+            "description": "العملية التي تسببت في إعادة تأين المادة في الكون بعد انقضاء «العصور المظلمة». وتعد عودة التأين المرحلة الرئيسة الثانية التي حدث فيها تغير طوري للغاز في الكون."
+        },
+        {
+            "english": "Electrospinning",
+            "arabic": "غزل كهربائي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/electrospinning",
+            "description": "عملية تحدث بسبب الجهد الكهربائي وتحكمها الظواهر الكهروهيدروديناميكية وتتكون خلالها ألياف وجسيمات من محلول بوليمر."
+        },
+        {
+            "english": "Abiotic",
+            "arabic": "غير حيوي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/abiotic",
+            "description": "جسم مادي غير حيوي أي غير مشتق من الكائنات الحية."
+        },
+        {
+            "english": "Hypersonic",
+            "arabic": "فائق صوتي - فرط صوتي - فرصوتي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/hypersonic",
+            "description": "متعلق بالسرعات الأعلى من سرعة الصوت بأكثر من 5 أضعاف. أو متعلق بالترددات الصوتية الأعلى من مليار هرتز تقريبًا."
+        },
+        {
+            "english": "Supersonic",
+            "arabic": "فوق صوتي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/supersonic",
+            "description": "سرعة أكبر من سرعة الصوت."
+        },
+        {
+            "english": "Biodegradable",
+            "arabic": "قابل للتحلل الحيوي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/biodegradable",
+            "description": "قابل للتحلل باستخدام البكتيريا أو الكائنات الدقيقة الأخرى ما يحد من التلوث."
+        },
+        {
+            "english": "Satisfiability",
+            "arabic": "قابلية الإرضاء",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/satisfiability",
+            "description": "وهو مفهوم أولي للدلالات في المنطق الرياضي، إذ تكون الصيغة مُرضية إذا كان من الممكن العثور على تفسير (نموذج) تكون فيه الصيغة صحيحة"
+        },
+        {
+            "english": "Test Data Set",
+            "arabic": "قاعدة بيانات الاختبار",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/test-data-set",
+            "description": "قاعدة بيانات تستخدم لتقييم مدى تطابق النموذج النهائي مع قاعدة بيانات التدريب."
+        },
+        {
+            "english": "Graph database",
+            "arabic": "قاعدة بيانات الرسم البياني",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/graph-database",
+            "description": "قاعدة بيانات معتمِدة على الرسوم البيانية في الاستعمالات الدلالية مع العُقد والحواف والخصائص، لتمثيل البيانات وتخزينها."
+        },
+        {
+            "english": "Braincase",
+            "arabic": "قحف الدماغ",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/braincase",
+            "description": "الجزء الذي يحوي الدماغ في الجمجمة."
+        },
+        {
+            "english": "Black hat",
+            "arabic": "قراصنة القبعة السوداء",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/black-hat",
+            "description": "مجموعات قراصنة يمارسون نشاطات غير قانونية وغالبًا ما تدور حولهم القصص والأفلام. يخترق قراصنة القبعة السوداء شبكات وأنظمة آمنة من أجل تدمير أو تعديل أو سرقة بعض البيانات الحساسة أو تحويل الشبكات إلى شبكات غير قابلة للاستخدام"
+        },
+        {
+            "english": "BiohackBiohack",
+            "arabic": "قرصنة حيوية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/biohackbiohack",
+            "description": "تعزيز وظائف الجسم باستخدام أجهزة إلكترونية أو مواد كيميائية حيوية. وقد يشير المصطلح أيضًا إلى تعديل الحالة الحيوية للجسم باستخدام مزيج التقنيات الطبية والغذائية والإلكترونية."
+        },
+        {
+            "english": "Nanorods",
+            "arabic": "قضبان نانوية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/nanorods",
+            "description": "قضيب من مادة بسمك أو قطر لا يتجاوز عدة نانومترات."
+        },
+        {
+            "english": "Stentrode",
+            "arabic": "قطب كهربائي إستنتيّ",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/stentrode",
+            "description": "عبارة عن مجموعة من الأقطاب الصغيرة المثبتة على دعامة تُزرع بشكل دائم في وعاء دموي في الدماغ دون الحاجة إلى إجراء جراحة في الدماغ."
+        },
+        {
+            "english": "Microelectrode",
+            "arabic": "قطب كهربائي صغير",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/microelectrode",
+            "description": "قطب كهربائي دقيق، خاصة ما يدخل في خلية أو نسيج بيولوجي حي عند دراسة خصائصه الكهربائية."
+        },
+        {
+            "english": "EmDrive",
+            "arabic": "قوة الدفع الكهرومغناطيسي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/emdrive",
+            "description": "محرك صاروخي يعمل بالموجات الكهرومغناطيسية ويمثل أحد الابتكارات التي قد تغنينا عن الوقود خلال استكشاف الفضاء"
+        },
+        {
+            "english": "Centrifugal force",
+            "arabic": "قوة الطرد المركزي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/centrifugal-force",
+            "description": "القوة التي تؤثر على الجسم الذي يتحرك في مسار دائري وتدفعه نحو الخارج بعيدًا عن المركز."
+        },
+        {
+            "english": "Fully Autonomous Driving",
+            "arabic": "قيادة ذاتية تامة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/fully-autonomous-driving",
+            "description": "مركبة تشعر بالبيئة المحيطة بها وتعمل بصورة مؤتمتة تمامًا دون تدخل بشري."
+        },
+        {
+            "english": "The Quantified Self",
+            "arabic": "قياس كمي للذات",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/the-quantified-self",
+            "description": "عملية استخدام البيانات الشخصية لتحسين جودة حياة الشخص. ويشير ذلك عادةً إلى الرعاية الصحية."
+        },
+        {
+            "english": "Robot apocalypse",
+            "arabic": "قيامة الروبوتات",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/robot-apocalypse",
+            "description": "مصطلح يصف سيناريو يكون فيه الذكاء الاصطناعي أو الروبوتات مكتفية ذاتيًا وقادرة على التحكم بشكل فعال في الأرض."
+        },
+        {
+            "english": "Extra-terrestrials",
+            "arabic": "كائنات فضائية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/extra-terrestrials",
+            "description": "كائن من عالم آخر شيء ينشأ أو يوجد خارج الأرض وغلافها الجوي"
+        },
+        {
+            "english": "Body Cameras",
+            "arabic": "كاميرات الجسم",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/body-cameras",
+            "description": "نظام تصوير وتسجيل مقاطع فيديو ومقاطع صوتية قابل للارتداء. وتمتاز هذه الأجهزة بتصميمات واستخدامات عديدة، مثل إدماجها في زي رجال الشرطة بالإضافة إلى استخدامات تجارية وطبية."
+        },
+        {
+            "english": "Space relay box",
+            "arabic": "كبسولة الترحيل الفضائي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/space-relay-box",
+            "description": "قمر اصطناعي يستخدم لنقل إشارات الراديو والتلفزيون والهاتف حول الأرض ويدور عادة في مدار ثابت بالنسبة للأرض."
+        },
+        {
+            "english": "CRISPR-Cas9",
+            "arabic": "كريسبر-كاس9",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/crispr-cas9",
+            "description": "أداة تعديل وراثي تتعرف على سلاسل معينة في الحمض النووي وتقطعها من أجل تعديل صفات الكائنات أو معالجة العيوب الجينية."
+        },
+        {
+            "english": "Quark",
+            "arabic": "كوارك",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/quark",
+            "description": "أي جسيم من الجسيمات دون الذرية التي تحمل شحنة كهربائية جزئية، والتي تعد لبنات بناء الهادرونات. لم تُرصَد الكواركات مباشرة، ولكن التنبؤات النظرية القائمة على وجودها أُثبتت تجريبيًا."
+        },
+        {
+            "english": "Ceres",
+            "arabic": "كوكب سيريس القزم",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/ceres",
+            "description": "كوكب قزم يوجد ضمن حزام الكويكبات، ويبعد عن الشمس نحو 2.7 وحدة فلكية، ويبلغ قطره 950 كيلومترًا."
+        },
+        {
+            "english": "Frame language",
+            "arabic": "لغة إطارية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/frame-language",
+            "description": "تقنية تستخدم لعرض البيانات في الذكاء الاصطناعي."
+        },
+        {
+            "english": "Query language",
+            "arabic": "لغة استفسار",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/query-language",
+            "description": "لغة لتحديد إجراءات استرجاع المعلومات من قاعدة بيانات (وتعديلها أحيانًا)."
+        },
+        {
+            "english": "Probabilistic programming language",
+            "arabic": "لغة برمجة احتمالية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/probabilistic-programming-language",
+            "description": "نموذج برمجة تُحدَّد فيه النماذج الاحتمالية، وتُجرى عمليات الاستدلال لهذه النماذج تلقائيًا."
+        },
+        {
+            "english": "Hypertext Markup Language (HTML)",
+            "arabic": "لغة ترميز النص الفائق (إتش تي إم إل)",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/html-hypertext-markup-language",
+            "description": "نظام موحَّد لترميز الملفات النصية لتحديد البُنط واللون والرسوميات والروابط التشعُّبية في صفحات شبكة الإنترنت."
+        },
+        {
+            "english": "Formal language",
+            "arabic": "لغة شكلية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/formal-language",
+            "description": "تتكون اللغة المشكلة في الرياضيات وعلم الحاسوب واللغويات من كلمات مكونة من حروف هجائية مختارة بعناية وفقًا لمجموعة من القواعد."
+        },
+        {
+            "english": "Action language",
+            "arabic": "لغة فعلية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/action-language",
+            "description": "لغة لوصف الأنظمة المتحولة، ويشيع استخدامها في إنشاء نماذج لتأثيرات الإجراءات على العالم. وتُستخدم اللغات الفعلية كثيرًا في مجالات الذكاء الاصطناعي والروبوتات، لأنها تصف كيف تؤثر الإجراءات على تغير حالات الأنظمة بمرور الوقت، ويمكن استخدامها للتخطيط المؤتمت."
+        },
+        {
+            "english": "Constructed language",
+            "arabic": "لغة مصطنعة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/constructed-language",
+            "description": "مصطلح يشير إلى لغة اصطناعية لم تتطور بصورةٍ طبيعية."
+        },
+        {
+            "english": "Information Processing language",
+            "arabic": "لغة معالجة المعلومات",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/information-processing-language",
+            "description": "لغة برمجة يتضمّن ميزات تساعد في البرامج التي تؤدي إجراءات بسيطة لحل المشكلات مثل القوائم وتخصيص الذاكرة الديناميكية وأنواع البيانات والتكرار والدوال كوسائط والتوليد وتعدد المهام التعاوني."
+        },
+        {
+            "english": "Hover Board",
+            "arabic": "لوح طائر",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/hover-board",
+            "description": "مَركبة شخصية ذات محرك، يتألف من لوح للقدم، مثبَّت على عجلتين، ويَتحكم فيها الراكب بطريقة توزيع وزنه."
+        },
+        {
+            "english": "Solar panel",
+            "arabic": "لوحة شمسية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/solar-panel",
+            "description": "لوحة مصممة لامتصاص أشعة الشمس لاستخدامها كمصدر للطاقة لتوليد الكهرباء أو التدفئة."
+        },
+        {
+            "english": "Genetic operator",
+            "arabic": "مؤثر جيني",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/genetic-operator",
+            "description": "عامل يُستعمل في الخوازرميات الوراثية لتوجيهها إلى حل مشكلة معيَّنة."
+        },
+        {
+            "english": "Hazard ratio",
+            "arabic": "مؤشر المخاطر",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/hazard-ratio",
+            "description": "نسبة معدلات الخطورة مقارنة بالظروف، ويحددها مستويان من المتغير التوضيحي."
+        },
+        {
+            "english": "Transhumanism",
+            "arabic": "ما بعد الإنسانية - حركة تطوير البشرية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/transhumanism",
+            "description": "حركة فلسفية تدعو إلى تغيير حالة الإنسان عبر تطوير تقنيات متطورة تتيح تعديل الذكاء البشري والأعضاء البشرية أو تعزيزها، وإتاحتها على نطاق واسع."
+        },
+        {
+            "english": "Metamaterial",
+            "arabic": "مادة خارقة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/metamaterial",
+            "description": "أي مادة مصممة هندسيًا لتكون لها خاصية غير موجودة في المواد الطبيعية."
+        },
+        {
+            "english": "The Epidemic Prediction Initiative (EPI)",
+            "arabic": "مبادرة التنبؤ بالأوبئة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/the-epidemic-prediction-initiative",
+            "description": "تهدف إلى تحسين علم التنبؤ بالأوبئة واستخدامه من خلال تسهيل تدشين مشاريع التنبؤ ذات أهداف الصحة العامة المحددة."
+        },
+        {
+            "english": "Net-Zero Buildings (zero-energy building)",
+            "arabic": "مباني صفرية الطاقة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/net-zero-buildings",
+            "description": "مبنى باستهلاك صافٍ صفري للطاقة، أي أن إجمالي الطاقة المستخدمة في المبنى تعادل كمية الطاقة المتجددة في الموقع لعام معين، أو خارج الموقع في تعريفات أخرى لمصادر الطاقة المتجددة، باستخدام تقنيات مثل المضخات الحرارية والنوافذ عالية الكفاءة والعزل والألواح الشمسية."
+        },
+        {
+            "english": "Renewable",
+            "arabic": "متجدد",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/renewable",
+            "description": "مورد طبيعي أو مصدر لطاقة لا ينضب عن طريق الاستخدام مثل طاقة المياه أو طاقة الرياح أو الطاقة الشمسية."
+        },
+        {
+            "english": "Ensemble Averaging",
+            "arabic": "متوسط المجموعة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/ensemble-averaging",
+            "description": "متوسط الكمية وهو وظيفة الحالة الدقيقة للنظام، وفقًا لتوزيع النظام على الحالات الدقيقة في هذه المجموعة."
+        },
+        {
+            "english": "Ultracompact dwarf galaxy",
+            "arabic": "مجرة قزمة فائقة الصغر",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/ultracompact-dwarf-galaxy",
+            "description": "مجرات تتسم بوجود نجوم معمرة، وهي ذات حجم وسطوع أكبر من العناقيد المغلقة في مجرة درب التبانة، لكنها في الوقت ذاته أكثر ارتصاصًا بكثير من المجرات القزمة العادية ذات السطوع المشابه."
+        },
+        {
+            "english": "Singular Value Decomposition (SVD)",
+            "arabic": "مجزئ القيمة المفردة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/singular-value-decomposition",
+            "description": "هو تحليل لمصفوفة حقيقية أو معقدة يعمم التكوين الإلكتروني لمصفوفة عادية مربعة على أي مصفوفة عبر تمديد التجزيئ القطبي"
+        },
+        {
+            "english": "Visible Infrared Imaging Radiometer Suite (VIIRS)",
+            "arabic": "مجموعة التصوير الشعاعي بالأشعة تحت الحمراء المرئية (في آي آي آر إس)",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/visible-infrared-imaging-radiometer-suite",
+            "description": "أداة استشعار من تصميم وتصنيع شركة رايثيون على متن قمر شراكة سومي الوطنية للمدار القطبي وقمر الرصد الجوي NOAA-20."
+        },
+        {
+            "english": "Data set",
+            "arabic": "مجموعة بيانات",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/data-set",
+            "description": "تجميع مجموعات المعلومات المرتبطة ببعضها والتي تتكون من عناصر منفصلة لكن الحاسوب يستطيع التعامل معها كوحدة."
+        },
+        {
+            "english": "Validation Data Set",
+            "arabic": "مجموعة بيانات التحقق من صحة العمل",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/validation-data-set",
+            "description": "عينة من البيانات التي احتُفظ بها من تدريب النموذج المُستخدم في تخمين مهارة النموذج أثناء ضبط بنية متغيراته الافتراضية."
+        },
+        {
+            "english": "Training Data Set",
+            "arabic": "مجموعة بيانات التدريب",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/training-data-set",
+            "description": "مجموعة أولية من البيانات المستخدمة لمساعدة برنامج على فهم كيفية تطبيق تقنيات مثل الشبكات العصبية للتعلم وتحقيق نتائج متقدمة."
+        },
+        {
+            "english": "Exercise mimetic",
+            "arabic": "محاكِيات التمرُّن",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/exercise-mimetic",
+            "description": "مركب دوائي ينتج فوائد التمرينات الرياضية"
+        },
+        {
+            "english": "Rich Text Editor (RTE)",
+            "arabic": "محرر النص الغني",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/rich-text-editor",
+            "description": "إطار أساسي لإدراج المحتوى النصي في برنامج أدوبي إكسبرنيس مانجر، وبشكل لأساس لمكونات مختلفة، بما في ذلك النصوص والصورة النصية والجدول."
+        },
+        {
+            "english": "Inference engine",
+            "arabic": "محرك استدلال",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/inference-engine",
+            "description": "بروتوكول برنامج للتنقل عبر القواعد والبيانات في نظام معرفي لحل المشكلة. وتتمثل المهمة الرئيسة لمحرك الاستدلال في تحديد القاعدة الأكثر ملاءمة ثم تطبيقها في كل خطوة خلال تشغيل النظام، ويسمى ذلك الاستدلال المستند إلى القواعد"
+        },
+        {
+            "english": "Search engine",
+            "arabic": "محرك بحث",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/search-engine",
+            "description": "برنامج يبحث عن عناصر في قاعدة البيانات التي تتوافق مع الكلمات الأساسية أو الأحرف التي حددها المستخدم أو المستخدمة بشكل خاص للعثور على مواقع معينة على شبكة الإنترنت العالمية."
+        },
+        {
+            "english": "Semantic reasoner",
+            "arabic": "محرك برمجي استدلالي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/semantic-reasoner",
+            "description": "هو برنامج قادر على استنتاج النتائج المنطقية من مجموعة من الحقائق المؤكدة أو البديهيات."
+        },
+        {
+            "english": "Neural Compute Engine",
+            "arabic": "محرك حوسبة عصبية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/neural-compute-engine",
+            "description": "مجموعة عتادية على شريحة مصممة خصيصًا لتشغيل الشبكات العصبونية العميقة بسرعة عالية وطاقة منخفضة دون التأثير على الدقة، ويتيح ذلك للأجهزة رؤية بيئاتها وفهمها والاستجابة لها في الوقت الفعلي."
+        },
+        {
+            "english": "Pulse detonation combustion engines",
+            "arabic": "محركات احتراق التفجير النبضي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/pulse-detonation-combustion-engines",
+            "description": "نوع من أنظمة الدفع. يستخدم موجات تفجيرية لحرق خليط الوقود والمؤكسد."
+        },
+        {
+            "english": "Lab-on-a-chip",
+            "arabic": "مختبر على رقاقة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/lab-on-a-chip",
+            "description": "مختبر على رقاقة هو جهاز يدمج وظيفة مخبرية واحدة أو عدة وظائف مخبرية على دائرة متكاملة واحدة (تسمى عادة \"رقاقة\") يتراوح حجمها من ملليمترات فقط إلى بضعة سنتيمترات مربعة، ويستخدم لتطبيق الأتمتة والفحص عالي الإنتاجية."
+        },
+        {
+            "english": "Server",
+            "arabic": "مخدم",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/server",
+            "description": "جهاز حاسوب أو برنامج حاسوبي يتحكم بالوصول إلى مورد أو خدمة مركزية في الشبكة الحاسوبية."
+        },
+        {
+            "english": "Hazardous Waste",
+            "arabic": "مخلفات خطيرة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/hazardous-waste",
+            "description": "أي ناتج ثانوي صناعي أو مخلَّف تجاري يُحتمَل أن يضر البيئة أو الناس أو الكائنات الحية الأخرى، من الكائنات الحية، لأنه قابل للاشتعال أو الانفجار أو سام أو تفاعُليّ."
+        },
+        {
+            "english": "Orbital precession",
+            "arabic": "مداورة مدارية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/orbital-precession",
+            "description": "تغير اتجاه محور دوران الأرض، أي تغير اتجاه الأرض بالنسبة للحضيض والأوج."
+        },
+        {
+            "english": "Deep space climate observatory (DSCOVR)",
+            "arabic": "مرصد مناخ الفضاء العميق",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/deep-space-climate-observatory-dscovr",
+            "description": "مركبة فضائية مدارها بين الأرض والشمس. وتراقب الرياح الشمسية والجسيمات المنبعثة من الشمس والتي قد تؤثر على الشبكات الكهربائية وأنظمة الاتصالات والأقمار الاصطناعية القريبة من الأرض وتطلق تحذيرات في حالة انبعاثها"
+        },
+        {
+            "english": "Autonomous vehicle",
+            "arabic": "مركبات مستقلة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/autonomous-vehicle",
+            "description": "تُعرف أيضًا باسم السيارة ذاتية القيادة أو المركبة دون سائق أو السيارة الآلية، وهي مركبة قادرة على استشعار بيئتها والتحرك بأمان بقليل من التحكم البشري أو دونه"
+        },
+        {
+            "english": "Spacecraft",
+            "arabic": "مركبة فضائية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/spacecraft",
+            "description": "مركبة تستخدم للرحلات إلى الفضاء"
+        },
+        {
+            "english": "Orbiter",
+            "arabic": "مركبة مدارية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/orbiter",
+            "description": "مسبار فضائي مصمم للذهاب إلى مدارات الكواكب، وهو غير مصمم للهبوط عليها."
+        },
+        {
+            "english": "Data centrecentre",
+            "arabic": "مركز البيانات",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/data-centrecentre",
+            "description": "مجموعة كبيرة من خوادم الحواسيب المرتبطة معًا تستخدمها المنظمات لتخزين البيانات عن بعد ومعالجتها وتوزيعها."
+        },
+        {
+            "english": "Quadcopter",
+            "arabic": "مروحية رباعية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/quadcopter",
+            "description": "طائرة مروحية دون طيار مزودة بأربع شفرات دوارة."
+        },
+        {
+            "english": "Intelligent Personal Assistant",
+            "arabic": "مساعد شخصي ذكي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/intelligent-personal-assistant",
+            "description": "برنامج صمم لمساعدة الأشخاص في المهام الأساسية، ويوفر المعلومات غالبًا باستخدام اللغة الطبيعية. تستخدم معظم برامج المساعد الشخصي الذكي الموارد الموجودة على شبكة الإنترنت للإجابة على أسئلة المستخدم عن الطقس والنتائج الرياضية واتجاهات قيادة المركبات والإجابة على استفسارات مماثلة."
+        },
+        {
+            "english": "Supernova",
+            "arabic": "مستعر أعظم",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/supernova",
+            "description": "انفجار نجمي قوي ومضيء. يحدث هذا الحدث الفلكي العابر خلال المراحل التطورية الأخيرة لنجم هائل أو عندما يمر قزم أبيض (نوع من أنواع النجوم في مجرتنا) باندماج نووي سريع."
+        },
+        {
+            "english": "Lunar Reconnaissance Orbiter (LRO)",
+            "arabic": "مستكشف القمر المداري",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/lunar-reconnaissance-orbiter-lro",
+            "description": "مركبة فضائية روبوتية لوكالة ناسا، تدور حول القمر في مدار قطبي منحرف لرسم الخرائط. وصفت البيانات التي جمعتها المركبة بأنها أساسية للتخطيط لبعثات ناسا المأهولة والروبوتية على القمر."
+        },
+        {
+            "english": "Data warehouse",
+            "arabic": "مستودع البيانات",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/data-warehouse",
+            "description": "مخزن إلكتروني يستطيع تخزين كمية كبيرة من المعلومات للشركة أو المنظمة"
+        },
+        {
+            "english": "Horizon scanning",
+            "arabic": "مسح الأفق",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/horizon-scanning",
+            "description": "يستخدم مسح الأفق لتحديد المعلومات والإشارات ذات التأثير الأكبر على المستقبل. ويشمل ذلك فحص المعلومات والتدقيق في مختلف الإشارات والتعرف على الأنماط لاكتشاف مسار المستقبل المتوقع."
+        },
+        {
+            "english": "Graph traversal",
+            "arabic": "مسح الرسم البياني",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/graph-traversal",
+            "description": "يشير إلى عملية التحقق (مع التحديث أو من دونه) من كل قمة في المخطط."
+        },
+        {
+            "english": "Particle Accelerator",
+            "arabic": "مسرع الجسيمات",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/particle-accelerator",
+            "description": "جهاز لتسريع الجسيمات دون الذرية إلى سرعات عالية بالاعتماد على المجالات الكهربائية أو الكهرومغناطيسية. تُوجَّه الجسيمات المسرّعة عمومًا لتتصادم مع الجسيمات الأخرى، إما بهدف البحث أو لتوليد أشعة عالية الطاقة كأشعة غاما والأشعة السينية."
+        },
+        {
+            "english": "Cyclotron",
+            "arabic": "مسرع دوراني",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/cyclotron",
+            "description": "مسرع تُدفَع فيه الجسيمات المشحونة مثل البروتونات والديترونات بفعل تيار كهربائي متناوب في مجال مغناطيسي ثابت."
+        },
+        {
+            "english": "OpenCog",
+            "arabic": "مشروع أوبن كوج (مشروع بناء إطار برمجي مفتوح المصدر للذكاء الاصطناعي)",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/opencog",
+            "description": "مشروع يهدف إلى بناء إطار عمل مفتوح المصدر للذكاء الاصطناعي."
+        },
+        {
+            "english": "Open Mind Common Sense",
+            "arabic": "مشروع أوبن مايند كومون سينس للذكاء الاصطناعي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/open-mind-common-sense",
+            "description": "مشروع ذكاء اصطناعي في مختبر الوسائط في معهد ماساتشوستس للتقنية، يهدف إلى بناء قاعدة معرفية منطقية كبيرة من مساهمات آلاف الأشخاص عبر الإنترنت والاستفادة منها."
+        },
+        {
+            "english": "Boolean satisfiability problem",
+            "arabic": "مشكلة الإرضاء المنطقية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/boolean-satisfiability-problem",
+            "description": "مشكلة تحديد وجود تفاعل يرضي معادلة منطقية. ويعني ذلك إمكانية إحلال قيم صح أو خطأ محل متغيرات المعادلة المنطقية. وإن كانت القيمة صحيحة تكون المعادلة مرضية أما إن كانت خطأ تكون المعادلة غير مرضية."
+        },
+        {
+            "english": "Authentication",
+            "arabic": "مصادقة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/authentication",
+            "description": "التحقق من هوية المستخدم أو العملية أو الجهاز -بإدخال كلمة السر مثلًا- وتُعد شرطًا أساسيًا للسماح بالوصول إلى الموارد في أي نظام معلوماتي."
+        },
+        {
+            "english": "Carbon sink",
+            "arabic": "مصرّفات الكربون",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/carbon-sink",
+            "description": "الغابات والمحيطات والبيئات الطبيعية الأخرى التي تستطيع امتصاص ثاني أكسيد الكربون من الغلاف الجوي."
+        },
+        {
+            "english": "Deductive classifier",
+            "arabic": "مصنف استدلالي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/deductive-classifier",
+            "description": "صورة تكيفية لمحرك الاستدلال تستخدم لتعزيز دقة واسم التصنيف"
+        },
+        {
+            "english": "Natural Language Processing (NLP)",
+            "arabic": "معالجة اللغات الطبيعية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/natural-language-processing",
+            "description": "مجال فرعي من اللغويات وعلوم الحاسوب والذكاء الاصطناعي يركز على التفاعلات بين الحواسيب واللغة البشرية، وخاصة كيفية برمجة الحواسيب لمعالجة كميات كبيرة من بيانات اللغة الطبيعية وتحليلها."
+        },
+        {
+            "english": "Dam Impact Index (DII):",
+            "arabic": "معامل تأثير السد",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/dam-impact-index-dii",
+            "description": "معامل يقيس نسبة تأثر نظام النهر بالسدود المبنية أو المخطط إنشاءها."
+        },
+        {
+            "english": "Compound annual growth rate (CAGR)",
+            "arabic": "معدل النمو السنوي المركب",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/compound-annual-growth-rate-cagr",
+            "description": "متوسط معدل النمو السنوي خلال فترة زمنية محددة أطول من عام واحد."
+        },
+        {
+            "english": "Behavior informatics",
+            "arabic": "معلوماتية السلوك",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/behavior-informatics",
+            "description": "تهدف إلى الوصول إلى الذكاء السلوكي والرؤية السلوكية. ويختلف الذكاء السلوكي عن تحليل السلوك التطبيقي من المنظور النفسي، لأنه يضع نظريات وأنظمة وأدوات حسابية للنمذجة النوعية والكمية والتمثيل والتحليل والإدارة لسلوكيات الأفراد والمجموعات والمنظمات."
+        },
+        {
+            "english": "Production Rule Representation",
+            "arabic": "معيار تمثيل قواعد التوليد",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/production-rule-representation",
+            "description": "المعيار المقترح لجمعية أوبجكت مانجمنت جروب لتوفير تمثيل نموذج قاعدي حيادي التوريد في لغة النمذجة الموحدة لقواعد التوليد، بأسلوب محركات قواعد التسلسل الأمامي."
+        },
+        {
+            "english": "Bioreactors",
+            "arabic": "مفاعلات حيوية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/bioreactors",
+            "description": "جهاز تجري داخله تفاعلات حيوية على المستوى الصناعي."
+        },
+        {
+            "english": "Fail-safe",
+            "arabic": "مقاوم للأعطال",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/fail-safe",
+            "description": "نظام أو خطة تُفَعّل عند حدوث خطأٍ ما أو لمنع وقوعه."
+        },
+        {
+            "english": "Accelerometer",
+            "arabic": "مقياس التسارع",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/accelerometer",
+            "description": "أداة لقياس تسارع جسم متحرك أو مهتز."
+        },
+        {
+            "english": "USB port",
+            "arabic": "منافذ يو إس بي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/usb-port",
+            "description": "معيار صناعي يحدد مواصفات الكابلات والموصلات والبروتوكولات الخاصة بالاتصال والتواصل وإمدادات الطاقة بين أجهزة الحاسوب والملحقات وأجهزة الحاسوب الأخرى."
+        },
+        {
+            "english": "First-order logic",
+            "arabic": "منطق الرتبة الأولى",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/first-order-logic",
+            "description": "مجموعة من الأنظمة الرسمية المستخدمة في الرياضيات والفلسفة واللغويات وعلوم الحاسوب. ويستخدم منطق الرتبة الأولى متغيرات كمية على أشياء غير منطقية ويسمح باستخدام الجمل التي تتضمن متغيرات،"
+        },
+        {
+            "english": "Predicate logic",
+            "arabic": "منطق الرتبة الأولى",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/predicate-logic",
+            "description": "(منطق رياضي): دالة ذات قيمة منطقية P: X→ {true, false}، وتسمى دالة المسند إلى X."
+        },
+        {
+            "english": "Separation logic",
+            "arabic": "منطق الفصل",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/separation-logic",
+            "description": "هو امتداد لمنطق هوري ويمثل طريقة للتفكير في البرامج."
+        },
+        {
+            "english": "Description logic",
+            "arabic": "منطق الوصف",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/description-logic",
+            "description": "تمثل المعرفة بصورة تعتمد على المنطق لنمذجة موضوع معين من ناحية المفهوم والأدوار والأفراد"
+        },
+        {
+            "english": "Fuzzy logic",
+            "arabic": "منطق ضبابي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/fuzzy-logic",
+            "description": "صورة من قيم منطقية عديدة تكون فيها قيم الحقيقة في المتغيرات أي رقم يقع بين 0 و1. ويعالج مفهوم الحقيقة الجزئي عندما تتراوح قيمة الحقيقة من صحيح تمامًا وحتى خاطئ تمامًا."
+        },
+        {
+            "english": "Decentralised autonomous organisation (DAO)",
+            "arabic": "منظمة مستقلة لامركزية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/decentralised-autonomous-organisation-dao",
+            "description": "مؤسسة يحكمها برنامج بدلاً من رئيس تنفيذي أو مجلس إدارة. ويحتفظ عدد من المعنيين في المنظمة أو المسؤولين عن مشروع معين فيها بمفاتيح الحوكمة ويصوتون على القرارات."
+        },
+        {
+            "english": "Ecosystem",
+            "arabic": "منظومة بيئية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/ecosystem",
+            "description": "مجتمع حيوي من الكائنات الحية أو الجهات المتفاعلة وبيئاتها المادية."
+        },
+        {
+            "english": "System-on-chip",
+            "arabic": "منظومة على رقاقة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/system-on-chip",
+            "description": "دائرة متكاملة تدمج كل أو معظم مكونات الحاسوب أو أي نظام إلكتروني آخر. تشمل هذه المكونات على وحدة معالجة مركزية وذاكرة ومنافذ إدخال وإخراج وتخزين ثانوي، ويكون حجم هذه الرقاقة الصغيرة بحجم العملة المعدنية."
+        },
+        {
+            "english": "Self healing materials",
+            "arabic": "مواد الشفاء الذاتي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/self-healing-materials",
+            "description": "هي مواد اصطناعية أو مركبة اصطناعيًا لديها القدرة المدمجة على إصلاح الأضرار التي تلحق بها تلقائيًا دون أي تشخيص خارجي للمشكلة أو تدخل بشري."
+        },
+        {
+            "english": "Nonrenewable resources",
+            "arabic": "موارد غير متجددة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/nonrenewable-resources",
+            "description": "مواد طبيعية لا تتجدد بالسرعة التي تُستهلك بها."
+        },
+        {
+            "english": "Superconductors",
+            "arabic": "موصلات فائقة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/superconductors",
+            "description": "مواد يمكنها توصيل الكهرباء أو نقل الإلكترونات من ذرة إلى أخرى بدون مقاومة."
+        },
+        {
+            "english": "Quasar",
+            "arabic": "نجم زائف - شبيه بالنجم",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/quasar",
+            "description": "جرم فضائي ضخم وبعيد جدًا، يصدر كميات استثنائية من الطاقة، ويبدو كالنجوم عند رصده بالتلسكوبات. ويقال إن النجوم الزائفة تحتوي على ثقوب سوداء ضخمة وقد تمثل مرحلة من تطور بعض المجرات."
+        },
+        {
+            "english": "Blazars",
+            "arabic": "نجم زائف متوهج",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/blazars",
+            "description": "منطقة في مركز مجرة تنبعث منها إشعاعات قوية جدًا تجاه الأرض."
+        },
+        {
+            "english": "Pulsar",
+            "arabic": "نجم نابض",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/pulsar",
+            "description": "جرم فضائي، يظن العلماء أنه نجم نيوتروني سريع الدوران، يصدر نبضات منتظمة من موجات الراديو وغيرها من الإشعاعات الكهرومغناطيسية بمعدلات تصل إلى ألف نبضة في الثانية."
+        },
+        {
+            "english": "Click-Through Rate (CTR)",
+            "arabic": "نسبة النقر إلى الظهور",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/click-through-rate-ctr",
+            "description": "نسبة زوار الموقع الإلكتروني الذين ينقرون على الرابط وينتقلون من موقع إلكتروني إلى آخر."
+        },
+        {
+            "english": "Bohr Radius",
+            "arabic": "نصف قطر بور",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/bohr-radius",
+            "description": "ثابت فيزيائي يعبر عن المسافة الأرجح بين الإلكترون والنواة في ذرة الهيدروجين في الحالة الأرضية."
+        },
+        {
+            "english": "Semiconductor",
+            "arabic": "نصف ناقل",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/semiconductor",
+            "description": "مادة صلبة لها موصلية كهربائية بين المواد العازلة والمواد المعدنية، وذلك إما بسبب إضافة شوائب أو بسبب تأثيرات درجة الحرارة. تعد الأجهزة المصنوعة من أشباه الموصلات -ولا سيما السيليكون- مكونات أساسية لمعظم الدوائر الإلكترونية."
+        },
+        {
+            "english": "Relational Database Management System (RDBMS)",
+            "arabic": "نظام إدارة قواعد البيانات العلائقية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/relational-database-management-system",
+            "description": "برنامج يتيح إنشاء قاعدة بيانات علائقية وتحديثها وإدارتها."
+        },
+        {
+            "english": "Reasoning system",
+            "arabic": "نظام استدلال",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/reasoning-system",
+            "description": "نظام برمجي يولد استنتاجات من المعرفة المتاحة باستخدام تقنيات منطقية مثل الاستنباط والاستقراء."
+        },
+        {
+            "english": "Space Launch System (SLS)",
+            "arabic": "نظام الإطلاق الفضائي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/space-launch-system",
+            "description": "هي مركبة إطلاق فائقة التحمل، والتي تطورها وكالة ناسا في الولايات المتحدة منذ إعلانها في عام 2011."
+        },
+        {
+            "english": "Global Positioning System (GPS)",
+            "arabic": "نظام التموضع العالمي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/gps",
+            "description": "نظام ملاحة يعتمِد على الأقمار الاصطناعية ومستقبِل وخوارزمية لمزامنة بيانات المواقع والسرعة والزمن، للتنقل برًّا وبحرًا وجوًّا."
+        },
+        {
+            "english": "Closed Loop System",
+            "arabic": "نظام الحلقة المغلقة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/closed-loop-system",
+            "description": "مجموعة من الأجهزة الميكانيكية أو الإلكترونية التي تنظم العملية بصورةٍ مؤتمتة دون تدخل بشري."
+        },
+        {
+            "english": "Open Loop System",
+            "arabic": "نظام الحلقة المفتوحة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/open-loop-system",
+            "description": "نوع من أنظمة التحكم المستمر، لا يكون للمخرج فيه أي أثر أو تأثير على التحكم بإشارة الدخل."
+        },
+        {
+            "english": "Blackboard system",
+            "arabic": "نظام السبورة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/blackboard-system",
+            "description": "نهج ذكاء اصطناعي يعتمد على النموذج المعماري للسبورة، حيث توجد قاعدة معرفية عامة.  وتُحَدث السبورة بصورةٍ متكررة عبر مجموعة متنوعة من مصادر المعرفة المتخصصة، بدءًا من تحديد المشكلة وانتهاءً بالحل. ويحدث كل مصدر معرفة السبورة بحل جزئي عندما تتطابق قيودها الداخلية مع حالة السبورة. ما يساعد المتخصصين على العمل معًا لحل المشكلة. وصمم نموذج السبورة في الأصل للتعامل مع المشكلات المعقدة وغير المحددة بصورةٍ جيدة."
+        },
+        {
+            "english": "Fuzzy Control System",
+            "arabic": "نظام تحكم ضبابي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/fuzzy-control-system",
+            "description": "يشير مصطلح \"ضبابي\" إلى حقيقة أن المنطق المتضمن يمكن أن يتعامل مع مفاهيم لا يمكن التعبير عنها على أنها \"صواب\" أو \"خطأ\" بل \"صواب جزئي\". وعلى الرغم من أن الأساليب البديلة مثل الخوارزميات الوراثية والشبكات العصبية يمكن أن تؤدي المنطق الضبابي ذاته في حالاتٍ عديدة، لكن المنطق الضبابي يمتاز بأن حل المشكلة يمكن أن يصاغ بعبارات يستطيع البشر فهمها، وبهذا يمكن استخدام تجربتهم في تصميم وحدة التحكم."
+        },
+        {
+            "english": "Transition system",
+            "arabic": "نظام حالة الانتقال",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/transition-system",
+            "description": "مفهوم يستخدم في دراسة الحوسبة لوصف السلوك المحتمل للأنظمة المنفصلة."
+        },
+        {
+            "english": "Moving block",
+            "arabic": "نظام حجز متحرك",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/moving-block",
+            "description": "نظام إشارة تُصنّف فيه الحواسيب المناطق حول كل قطار على أنها مناطق خالية أو آمنة في الوقت الفعلي."
+        },
+        {
+            "english": "Expert systems",
+            "arabic": "نظام خبير",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/expert-systems",
+            "description": "برنامج حاسوبي يحاكي منطق الخبير البشري"
+        },
+        {
+            "english": "Decision support system (DSS)",
+            "arabic": "نظام دعم القرارات",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/decision-support-system-dss",
+            "description": "برنامج حاسوبي يدعم اتخاذ القرارات وتقييمها في المنظمات. ويفحص كمية كبيرة من البيانات ويجمع المعلومات الشاملة التي استخدمت في حل المشكلات التي تظهر خلال اتخاذ القرارات."
+        },
+        {
+            "english": "Production system",
+            "arabic": "نظام قواعد الإنتاج",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/production-system",
+            "description": "برنامج حاسوبي يستخدم عادة لتوفير أحد أشكال الذكاء الاصطناعي، ويتكون أساسًا من مجموعة من القواعد المرتبطة بالسلوك، ويتضمن أيضًا الآلية اللازمة لاتباع تلك القواعد، ليستجيب النظام لحالات العالم."
+        },
+        {
+            "english": "Multi-agent system",
+            "arabic": "نظام متعدد الوكلاء",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/multi-agent-system",
+            "description": "نظام محوسب مؤلف من عدة عناصر ذكية متفاعلة (وكلاء). بإمكان الأنظمة متعددة الوكلاء حل المشكلات التي يصعب أو يستحيل حلها على وكيل فردي أو نظام موحد."
+        },
+        {
+            "english": "Humanoid-Bioreactor System",
+            "arabic": "نظام مُفاعل حيوي شبه بشري",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/humanoid-bioreactor-system",
+            "description": "لتصميم الأنسجة، يستخدم العلماء المفاعلات الحيوية المليئة بالمواد الغذائية والمواد الكيميائية والتي تؤدي إلى نمو طبقة من الخلايا. إلا أن خلايا العضلات والأوتار تتطلب القدرة على التمدد والحركة بواسطة الهيكل، والذي يعتبر عنصراً ميكانيكياً لا تستطيع المفاعلات الحيوية محاكاته. ولأن الروبوتات الشبيهة بالبشر قادرة على محاكاة حركة الإنسان، فمن شأنها أن تكون أداة ممتازة. وقد تستخدم كنظام مفاعل حيوي شبيه بالبشر، ويمكن للأنسجة أن تتطور مع القليل من المساعدة الهيكلية من الروبوتات، أي تقريباً بنفس طريقة تطورها على هيكل الإنسان."
+        },
+        {
+            "english": "Discrete system",
+            "arabic": "نظام منفصل",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/discrete-system",
+            "description": "نظام يمكن التعامل معه مباشرةً داخل إطار نظرية الأنظمة الديناميكية. ويتضمن هذا النظام تسجيل الإشارات أو توصيلها أو عرضها بالإضافة إلى عرض البيانات في صورةٍ منفصلة."
+        },
+        {
+            "english": "Computational number theory",
+            "arabic": "نظرية الأعداد الحوسبية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/computational-number-theory",
+            "description": "فرع من نظرية الأعداد، يركز على تطوير خوارزميات حاسوبية فعالة وتنفيذها لحل مشكلات عديدة في نظرية الأعداد."
+        },
+        {
+            "english": "Game theory",
+            "arabic": "نظرية الألعاب",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/game-theory",
+            "description": "دراسة النماذج الرياضية للتفاعل الاستراتيجي بين متخِذي القرار العقلانيين. ولها تطبيقات في مختلف مجالات العلوم الاجتماعية والمنطق وعلم الأنظمة والحاسوب."
+        },
+        {
+            "english": "Automata theory",
+            "arabic": "نظرية التشغيل الذاتي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/automata-theory",
+            "description": "دراسة الآلات المجردة والتشغيل الذاتي بالإضافة إلى المشكلات الحوسبية التي يمكن حلها باستخدام الآلات والتشغيل الذاتي. وهي جزء من علم الحاسوب النظري."
+        },
+        {
+            "english": "Computational complexity theory",
+            "arabic": "نظرية التعقيد الحوسبي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/computational-complexity-theory",
+            "description": "أحد مجالات علم الحواسيب النظري. ويهدف إلى تصنيف الصعوبات العملية في حل المشكلات عن الأشياء الاندماجية والمقارنة بينها."
+        },
+        {
+            "english": "Computational learning theory (CoLT)",
+            "arabic": "نظرية التعلم الحوسبي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/computational-learning-theory-coltcolt",
+            "description": "أحد مجالات أبحاث الذكاء الاصطناعي يدرس تصميم خوارزميات التعلم الآلي لتحديد أنواع المشكلات القابلة للتعلم. ويهدف التعلم الحوسبي إلى فهم برامج التعلم العميق بصورةٍ أفضل."
+        },
+        {
+            "english": "Theory of computation",
+            "arabic": "نظرية الحوسبة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/theory-of-computation",
+            "description": "علم يحدد المشكلات التي يمكن حلها على نموذج حوسبي باستخدام خوارزمية ومدى كفاءة هذه الحلول."
+        },
+        {
+            "english": "Decision theory",
+            "arabic": "نظرية القرار",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/decision-theory",
+            "description": "فرع من النظرية الإحصائية يركز على عملية الاختيار بين البدائل"
+        },
+        {
+            "english": "Graph theory",
+            "arabic": "نظرية المخططات",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/graph-theory",
+            "description": "دراسة المخططات التي هي بِنًى رياضية تُستعمل لنمذجة العلاقات المزدوجة بين الأشياء."
+        },
+        {
+            "english": "Tensor network theory",
+            "arabic": "نظرية شبكة الموتّر",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/tensor-network-theory",
+            "description": "نظرية تشير إلى وظيفة الدماغ التي تقدم نموذجًا رياضيًا لتحويل إحداثيات الزمكان الحسي إلى إحداثيات حركية والعكس بواسطة الشبكات العصبية المخيخية."
+        },
+        {
+            "english": "Agrifood systems",
+            "arabic": "نظم الزراعة الغذائية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/agrifood-systems",
+            "description": "تشمل نظم الزراعة الغذائية جميع أنشطة القطاع الزراعي بشكلٍ عام. وتتضمن بالتحديد جميع العمليات المرتبطة بالإنتاج والتخزين والنقل والتوزيع والتخلص من المنتجات الزراعية.وتشمل أيضاً المدخلات والمخرجات والمستهلكين والموردين والسياسات المتعلقة بالإدارة والتأمين في القطاع الزراعي."
+        },
+        {
+            "english": "Isotope",
+            "arabic": "نظير",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/isotope",
+            "description": "أي صورة من العنصر الكيميائي لديه العدد ذاته من البروتونات في النواة أو العدد الذري ذاته لكن لديه عدد مختلف من النيوترونات. وتكون النتيجة نظيرين من العنصر ذاته لهما وزنين ذريين أو كتلتين جزيئيتين مختلفين."
+        },
+        {
+            "english": "Lagrange Point",
+            "arabic": "نقطة لاغرانج",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/lagrange-point",
+            "description": "مواقع في الفضاء حيث تبقى الأجسام ساكنة. وعند نقاط لاغرانج، تتساوى قوة السحب الجذبي لجسمين ضخمي الحجم تماماً مع قوة الجذب المركزي اللازمة لتحريك جسم صغير معها. وقد توظف مركبة فضائية هذه النقاط لخفض استهلاك الوقود اللازم للبقاء في وضعيته."
+        },
+        {
+            "english": "Embryo transfer",
+            "arabic": "نقل الأجنة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/embryo-transfer",
+            "description": "المرحلة الأخيرة من التخصيب خارج الجسم وتنقل فيها البويضات المخصبة إلى الرحم."
+        },
+        {
+            "english": "Horizontal Gene Tansfer",
+            "arabic": "نقل الجينات الأفقي",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/horizontal-gene-transfer",
+            "description": "حركة للمواد الجينية بين الكائنات أحادية الخلية والكائنات المتعددة الخلايا، تُخالف النقل العمودي للحمض النووي من السلف للخلف (التكاثر). وهو عامل مهم في تطور كائنات حية كثيرة، والآلية الرئيسة لانتشار مقاومة البكتيريا، وله دور مهم في تطور البكتيريا القادرة على تحليل المركبات الجديدة، مثل مبيدات الآفات التي صنعها الإنسان، وفي تطور الحدة الجرثومية وإبقائها وانتقالها."
+        },
+        {
+            "english": "Somatic cell nuclear transfer",
+            "arabic": "نقل نواة الخلية الجسمية",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/somatic-cell-nuclear-transfer",
+            "description": "هي طريقة مخبرية لتشكيل بويضة ملقحة انطلاقًا من خلية جسمية وبويضة. تعتمد هذه التقنية على أخذ بويضة مستأصلة من جسم الأنثى وزرع نواة مانحة من خلية جسدية. تستخدم هذه الطريقة الاستنساخ العلاجي والتناسلي."
+        },
+        {
+            "english": "Data Modelling",
+            "arabic": "نمذجة البيانات",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/data-modelling",
+            "description": "عملية إنتاج نموذج للبيانات لتخزينها في قاعدة البيانات."
+        },
+        {
+            "english": "Waterfall Method",
+            "arabic": "نموذج الشلال",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/waterfall-method",
+            "description": "تقسيم أنشطة المشروع إلى مراحل متسلسلة خطية، وتعتمد كل مرحلة على مخرجات المرحلة السابقة وتتوافق مع تخصيص المهام"
+        },
+        {
+            "english": "Decision Model",
+            "arabic": "نموذج القرار",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/decision-model",
+            "description": "نموذج فكري لمعرفة منطق المنظمة وراء قرارها وتنظيمه وإدارته"
+        },
+        {
+            "english": "Action model learning",
+            "arabic": "نموذج تعلم الفعل",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/action-model-learning",
+            "description": "جزء من تعلم الآلة يركز على إنتاج وتعديل معرفة البرمجيات عن التأثيرات والشروط المسبقة للأفعال القابلة للتنفيذ في بيئتها المحددة. وتقدم هذه المعرفة في صورة لغة تصف الأفعال المستندة إلى المنطق، وتستخدم كدخل لبرامج التخطيط المؤتمت."
+        },
+        {
+            "english": "Abstract data type",
+            "arabic": "نوع البيانات المجردة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/abstract-data-type",
+            "description": "تجريد لمجموعة من العمليات على بيانات غير محددة لا يرتبط بمجموعة محددة من أنواع البيانات الثابتة."
+        },
+        {
+            "english": "Hyperloop",
+            "arabic": "هايبرلوب",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/hyperloop",
+            "description": "هايبرلوب تقنية نقل فائقة السرعة، تستخدم نفقاً أو نظام أنفاق محكم الإغلاق ومنخفض الضغط. ويتيح الرفع الكهرومغناطيسي دفع كبسولات ذاتية التشغيل عبر الهايبرلوب دون أي احتكاك تقريباً."
+        },
+        {
+            "english": "Engineering",
+            "arabic": "هندسة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/engineering",
+            "description": "استخدام العلم والرياضيات للاستفادة من خواص المواد ومصادر الطاقة"
+        },
+        {
+            "english": "Ontology engineering",
+            "arabic": "هندسة الأنطولوجيات",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/ontology-engineering",
+            "description": "مجال يدرس طرائق بناء الأنطولوجيات ومنهجياتها: التمثيلات الرسمية لمجموعة من المفاهيم ضمن مجال معين والعلاقات بين تلك المفاهيم."
+        },
+        {
+            "english": "Knowledge engineering",
+            "arabic": "هندسة المعرفة",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/knowledge-engineering",
+            "description": "عملية محاكاة للكيفية التي يتصرف بها خبير بشري ويتخذ قراراته في مجال محدد"
+        },
+        {
+            "english": "Brain–computer interfaces",
+            "arabic": "واجهات الدماغ والحاسوب",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/brain-computer-interfaces",
+            "description": "واجهات الدماغ والحاسوب أو واجهات الدماغ والآلة مسارات اتصال تستخدم أسلاكاً متصلة بالدماغ أو جهاز خارجي «لقراءة» الإشارات العصبية للدماغ (النشاط الإلكتروني) أو لإرسال إشارات إلى الدماغ باستخدام التيارات الكهربائية."
+        },
+        {
+            "english": "Brain-computer Interfaces (BCI)",
+            "arabic": "واجهات الدماغ والحاسوب",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/brain-computer-interfaces-bci",
+            "description": "واجهات الدماغ والحاسوب أو واجهات الدماغ والآلة هي مسارات اتصال تستخدم أسلاكاًً متصلة بالدماغ أو جهازاًً خارجياًً \"لقراءة\" الإشارات العصبية )النشاط الإلكتروني (أو لإرسال إشارات إلى الدماغ باستخدام التيارات الكهربائية."
+        },
+        {
+            "english": "User Interface (UI)",
+            "arabic": "واجهة المستخدم",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/user-interface",
+            "description": "الحيز الذي تحدث فيه التفاعلات بين البشر والآلات."
+        },
+        {
+            "english": "Brain Computer Interface (BCI)",
+            "arabic": "واجهة تفاعل الدماغ والحاسوب",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/brain-computer-interface-bci",
+            "description": "واجهة تجمع إشارات الدماغ وتحللها وتحولها إلى أوامر تنقل إلى أجهزة تنفذها. ولا تستخدم هذه الواجهات المسارات العصبية العضلية الطبيعية. وتهدف إلى استعادة الوظائف المفيدة لدى الأشخاص المصابين باضطرابات عصبية عضلية مثل التصلب الجانبي والشلل الدماغي والسكتات وإصابات الحبل الشوكي."
+        },
+        {
+            "english": "Mixed Reality",
+            "arabic": "واقع مختلط",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/mixed-reality",
+            "description": "دمج العالمين الحقيقي والافتراضي لإنتاج بيئات وتصورات جديدة، تتعايش فيها الأشياء المادية والرقمية وتتفاعل في الوقت الفعلي."
+        },
+        {
+            "english": "Embodied Agent",
+            "arabic": "وكيل مُجسَّد",
+            "termURL": "https://arabicglossary.dubaifuture.ae/ar/words/embodied-agent",
+            "description": "شخصية افتراضية ينتجها الحاسوب تسلك سلوكًا بشريًا خلال تعاملها مع البيئة"
+        }
+    ]
+}
