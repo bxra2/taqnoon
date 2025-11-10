@@ -125,7 +125,7 @@ function handleSearch() {
             onclick={handleSearch}
             class="px-6 py-3 search-button text-white rounded"
         >
-            إبحث
+            ابحث
         </button>
     </div>
 
@@ -150,7 +150,7 @@ function handleSearch() {
             {/each}
         </ul>
 
-        <div class="flex align-center justify-center mt-6">
+        <div class="mb-4">
             <Paginator
                 bind:currentPage
                 bind:limit
@@ -160,7 +160,7 @@ function handleSearch() {
                 }}
             />
         </div>
-    {:else if query}
+    {:else if query && results.length === 0}
         <p class="text-center text-gray-500">لا توجد نتائج</p>
     {:else}
         <p class="text-center text-gray-500">أدخل كلمة للبحث</p>

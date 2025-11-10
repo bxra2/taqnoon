@@ -17,7 +17,7 @@
         onLimitChange,
     }: Props = $props()
 
-    const pagesToShow = 2 
+    const pagesToShow = 1
     const limitsList = [5, 10, 20, 50]
 
     let totalPages = $derived(Math.ceil(count / limit))
@@ -26,26 +26,36 @@
         calculatePageRange(currentPage, totalPages, pagesToShow)
     )
 
-    function calculatePageRange(current: number, total: number, range: number) {
-        let start = Math.max(1, current - range)
-        let end = Math.min(total, current + range)
+function calculatePageRange(currentPage: number, totalPages: number, pagesToShow: number) {
+    let start = Math.max(1, currentPage - pagesToShow)
+    let end = Math.min(totalPages, currentPage + pagesToShow)
 
-        // Expand range if we have room
-        if (end - start < range * 2) {
-            if (start === 1) {
-                end = Math.min(total, start + range * 2)
-            } else if (end === total) {
-                start = Math.max(1, end - range * 2)
-            }
+    // Try to expand range to full width if possible
+    const desiredCount = pagesToShow * 2 + 1
+    let actualCount = end - start + 1
+
+    if (actualCount < desiredCount) {
+        const remaining = desiredCount - actualCount
+
+        // Shift start left if possible
+        start = Math.max(1, start - remaining)
+        actualCount = end - start + 1
+
+        // Shift end right if still not enough
+        if (actualCount < desiredCount) {
+            end = Math.min(totalPages, end + (desiredCount - actualCount))
         }
-
-        const pages = []
-        for (let i = start; i <= end; i++) {
-            pages.push(i)
-        }
-
-        return pages
     }
+
+    // Build pages array without duplicates
+    const pages = []
+    for (let i = start; i <= end; i++) {
+        pages.push(i)
+    }
+
+    return pages
+}
+
 
     function goToPage(page: number) {
         if (page < 1 || page > totalPages || page === currentPage) return
@@ -233,7 +243,8 @@
             padding: 4px 6px;
         }
 
-        .limit,.pages  {
+        .limit,
+        .pages {
             gap: 8px;
         }
     }
