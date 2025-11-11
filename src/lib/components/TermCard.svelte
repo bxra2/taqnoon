@@ -42,7 +42,7 @@
         {#if term.glossaryAr}
             <small class="arb" dir="rtl">
                 <span>
-                    <b>المعجم: </b>
+                    <b>المعجم:&ensp;</b>
                     <a href={term.glossaryUrl} target="_blank">
                         {term.glossaryAr}
                     </a>
@@ -50,7 +50,7 @@
                 <br />
                 {#if term.publisherAr}
                     <span>
-                        <b>الناشر: </b>
+                        <b>الناشر:&ensp;</b>
                         <a href={term.publisherUrl} target="_blank">
                             {term.publisherAr}
                         </a>
@@ -61,7 +61,7 @@
         {#if term.glossaryEn}
             <small dir="ltr">
                 <span>
-                    <b>Glossary: </b>
+                    <b>Glossary:&ensp;</b>
                     <a href={term.glossaryUrl} target="_blank">
                         {term.glossaryEn}
                     </a>
@@ -69,7 +69,7 @@
                 <br />
                 {#if term.publisherEn}
                     <span>
-                        <b>Publisher: </b>
+                        <b>Publisher:&ensp;</b>
                         <a href={term.publisherUrl} target="_blank">
                             {term.publisherEn}
                         </a>
