@@ -15,8 +15,6 @@
         glossaryUrl: string
     }
     const { term }: { term: Term } = $props()
-
-    console.log(term)
 </script>
 
 <article class="term-card">

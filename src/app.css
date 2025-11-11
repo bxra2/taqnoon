@@ -80,6 +80,9 @@ a {
 
 a:hover {
     text-decoration: underline;
+    text-decoration-thickness: 0.05em;
+    text-underline-offset: 0.15em;
+    text-decoration-thickness: 0.1em;
 }
 
 .search-button {
@@ -148,6 +151,6 @@ footer {
     align-items: center;
     justify-content: space-between;
 }
-.arb{
+.arb {
     word-spacing: 0.2em;
 }

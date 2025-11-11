@@ -62,7 +62,7 @@
 
 <style>
     .switch {
-        height: 70px;
+        height: 40px;
     }
 
     .theme-switch {
