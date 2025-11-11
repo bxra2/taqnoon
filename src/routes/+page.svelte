@@ -3,6 +3,7 @@
     import Glossaries from '$lib/components/Glossaries.svelte'
     import Paginator from '$lib/components/Paginator.svelte'
     import TermCard from '$lib/components/TermCard.svelte'
+    import Loading from '$lib/components/Loading.svelte'
     import { onMount } from 'svelte'
 
     let query = $state('')
@@ -13,6 +14,9 @@
     let limit = $state(10)
     let searchAlign = $state(true)
     let showPublishers = $state(false)
+    let isLoading = $state(true)
+    let isSearching = $state(false)
+    let isEmpty = $state(false)
 
     function changeDirection(event: Event) {
         const target = event.target as HTMLInputElement | null
@@ -26,72 +30,74 @@
     }
 
     onMount(async () => {
-        const modules = import.meta.glob('/src/lib/data/**/*.json')
-        const allData = []
-        const publisherMap = new Map()
+        try {
+            const modules = import.meta.glob('/src/lib/data/**/*.json')
+            const allData = []
+            const publisherMap = new Map()
 
-        for (const path in modules) {
-            const mod = await modules[path]()
-            const json = mod.default
+            for (const path in modules) {
+                const mod = await modules[path]()
+                const json = mod.default
 
-            if (!json.fileData || !Array.isArray(json.entries)) continue
+                if (!json.fileData || !Array.isArray(json.entries)) continue
 
-            const fileMeta = json.fileData
-            const {
-                glossaryEn,
-                glossaryAr,
-                glossaryUrl,
-                publisherEn,
-                publisherAr,
-                publisherUrl,
-            } = fileMeta
-
-            for (const entry of json.entries) {
-                const fullEntry = {
-                    ...entry,
+                const fileMeta = json.fileData
+                const {
                     glossaryEn,
                     glossaryAr,
                     glossaryUrl,
                     publisherEn,
                     publisherAr,
                     publisherUrl,
-                }
+                } = fileMeta
 
-                allData.push(fullEntry)
-
-                const pubKey = publisherEn || publisherAr
-                if (!pubKey) continue
-
-                if (!publisherMap.has(pubKey)) {
-                    publisherMap.set(pubKey, {
-                        publisherEn,
-                        publisherAr,
-                        publisherUrl,
-                        glossaries: new Map(),
-                    })
-                }
-
-                const publisher = publisherMap.get(pubKey)
-                const glossaryKey = glossaryEn || glossaryAr
-                if (!publisher.glossaries.has(glossaryKey)) {
-                    publisher.glossaries.set(glossaryKey, {
+                for (const entry of json.entries) {
+                    const fullEntry = {
+                        ...entry,
                         glossaryEn,
                         glossaryAr,
                         glossaryUrl,
-                    })
+                        publisherEn,
+                        publisherAr,
+                        publisherUrl,
+                    }
+
+                    allData.push(fullEntry)
+
+                    const pubKey = publisherEn || publisherAr
+                    if (!pubKey) continue
+
+                    if (!publisherMap.has(pubKey)) {
+                        publisherMap.set(pubKey, {
+                            publisherEn,
+                            publisherAr,
+                            publisherUrl,
+                            glossaries: new Map(),
+                        })
+                    }
+
+                    const publisher = publisherMap.get(pubKey)
+                    const glossaryKey = glossaryEn || glossaryAr
+                    if (!publisher.glossaries.has(glossaryKey)) {
+                        publisher.glossaries.set(glossaryKey, {
+                            glossaryEn,
+                            glossaryAr,
+                            glossaryUrl,
+                        })
+                    }
                 }
             }
+
+            data = allData
+            publishersData = Array.from(publisherMap.values()).map((pub) => ({
+                ...pub,
+                glossaries: Array.from(pub.glossaries.values()),
+            }))
+        } catch (error) {
+            console.error('Error loading data:', error)
+        } finally {
+            isLoading = false
         }
-
-        data = allData
-        publishersData = Array.from(publisherMap.values()).map((pub) => ({
-            ...pub,
-            glossaries: Array.from(pub.glossaries.values()),
-        }))
-
-        console.log('✅ Loaded entries:', data.length)
-        console.log('✅ Publishers grouped:', publishersData.length)
-        console.log('Sample publisher:', publishersData[0])
     })
 
     let paginatedResults = $derived.by(() => {
@@ -106,13 +112,19 @@
             .replace(/[\u064B-\u065F\u0670\u06D6-\u06ED]/g, '')
     }
 
-    function handleSearch() {
+    async function handleSearch() {
         if (!query.trim()) {
             results = []
             return
         }
 
+        isSearching = true
+        isEmpty = false
         showPublishers = false
+
+        // Simulate async search for better UX
+        await new Promise((resolve) => setTimeout(resolve, 100))
+
         const lower = query.toLowerCase()
         const normalizedQuery = removeDiacritics(query)
         results = data
@@ -148,6 +160,12 @@
             })
 
         currentPage = 1
+        isSearching = false
+        if (results.length === 0) {
+            isEmpty = true
+        } else {
+            isEmpty = false
+        }
     }
     function handleKeydown(event: KeyboardEvent) {
         if (event.key === 'Enter') {
@@ -175,13 +193,20 @@
             class="flex-1 p-3 border rounded"
             dir={searchAlign ? 'rtl' : 'ltr'}
             oninput={changeDirection}
+            disabled={isLoading}
         />
-        <button onclick={handleSearch} class="px-6 py-3 search-button rounded">
-            ابحث
+        <button
+            onclick={handleSearch}
+            class="px-6 py-3 search-button rounded"
+            disabled={isLoading || isSearching}
+        >
+            {'ابحث'}
         </button>
     </div>
 
-    {#if showPublishers}
+    {#if isLoading}
+        <Loading message="جاري تحميل المعاجم..." />
+    {:else if showPublishers}
         <div class="space-y-6" dir="rtl">
             <h2 class="text-2xl text-center font-bold mb-4">
                 الناشرون والمعاجم
@@ -262,9 +287,9 @@
                 }}
             />
         </div>
-    {:else if query && results.length === 0}
-        <!-- <p class="text-center text-gray-500">لا توجد نتائج</p> -->
-    {:else}
-        <!-- <p class="text-center text-gray-500">أدخل كلمة للبحث</p> -->
+    {:else if isSearching}
+        <Loading message="جاري البحث..." />
+    {:else if isEmpty && results.length === 0}
+        <p class="text-center text-gray-500">لا توجد نتائج</p>
     {/if}
 </div>
