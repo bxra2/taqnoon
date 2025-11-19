@@ -96,6 +96,11 @@ a:hover {
     transition: opacity 0.2s ease;
 }
 
+.search-button:disabled {
+    cursor: default;
+    opacity: 0.8;
+    transition: opacity 0.2s ease;
+}
 .term-card {
     background-color: var(--bg-color);
     border: 1px solid var(--border-color);
