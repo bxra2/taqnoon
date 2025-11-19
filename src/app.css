@@ -48,6 +48,7 @@ body {
     transition: background-color 0.3s ease;
     margin: 0;
     padding: 1rem;
+    word-spacing: 0.1em;
     min-height: 100vh;
 }
 
@@ -127,6 +128,7 @@ header {
     font-size: 1.2rem;
     direction: rtl;
     word-spacing: 0.2em;
+    letter-spacing: 0.05rem;
     color: var(--text-color);
     font-family: 'Noto Serif Arabic', serif;
 }
