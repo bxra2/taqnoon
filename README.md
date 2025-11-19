@@ -1,3 +1,24 @@
+# تقنون
+
+##### جامع معاجم تقنية لسهولة البحث و المقارنة فيها
+
+## المعاجم المضافة
+
+| المعجم                                       | الناشر                                | الرابط                                                                                               |
+| -------------------------------------------- | ------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| القاموس التقني المعلوماتي                    | عرب آيز                               | [زيارة](https://archive.org/details/ARB2010AREN/)                                                    |
+| معجم عرب تيرم                                | عرب تيرم                              | [زيارة](https://arabterm.org/)                                                                       |
+| معجم المصطلحات المعلوماتية                   | الجمعية العلمية السورية المعلوماتية   | [زيارة](https://archive.org/details/SOI2000ENAR/mode/2up)                                            |
+| قائمة مصطلحات المعلوماتية                    | مجمع اللغة العربية بدمشق              | [زيارة](https://arabacademy-sy.org/uploads/academy_publication/books/informatic-list.pdf)            |
+| قاموس مصطلحات المستقبل                       | مؤسسة دبي المستقبل                    | [زيارة](https://arabicglossary.dubaifuture.ae/ar/)                                                   |
+| قاموس مصطلحات تكنولوجيا المعلومات والاتصالات | هيئة تنظيم الاتصالات والحكومة الرقمية | [زيارة](https://tdra.gov.ae/ar/Pages/ict-dictionary)                                                 |
+| معجم البيانات و الذكاء الاصطناعي             | الهيئة السعودية للبيانات              | [زيارة](https://sdaia.gov.sa/ar/MediaCenter/KnowledgeCenter/ResearchLibrary/SDAIAPublications15.pdf) |
+| مسرد مصطلحات أمن المعلومات                   | الهيئة الوطنية لخدمة الشبكات          | [زيارة](https://archive.org/details/SYRIA0000ENAR)                                                   |
+
+---
+
+---
+
 # sv
 
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
