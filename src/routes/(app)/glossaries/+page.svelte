@@ -20,6 +20,10 @@
                     </a>
                 </p>
             </div>
+            <div class="flex justify-between items-center mb-6 mt-4">
+                <p class="text-xl">- المعاجم :</p>
+                <p class="text-xl" dir="ltr">- glossaries :</p>
+            </div>
             <ul>
                 {#each publisher.glossaries as glossary}
                     <li class="flex justify-between items-center mx-2">
@@ -28,7 +32,7 @@
                                 {glossary.glossaryAr}
                             </a>
                         </span>
-                        <span dir="ltr">
+                        <span class="text-left" dir="ltr">
                             <a
                                 href={glossary.glossaryUrl}
                                 class="no-underline text-left"

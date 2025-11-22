@@ -20,10 +20,18 @@
 <article class="term-card">
     <header>
         <h2 class="en">
-            <a target="_blank" href={term.termURL}>{term.english}</a>
+            {#if term.termURL}
+                <a target="_blank" href={term.termURL}>{term.english}</a>
+            {:else}
+                {term.english}
+            {/if}
         </h2>
         <h3 class="ar">
-            <a target="_blank" href={term.termURL}>{term.arabic}</a>
+            {#if term.termURL}
+                <a target="_blank" href={term.termURL}>{term.arabic}</a>
+            {:else}
+                {term.arabic}
+            {/if}
         </h3>
     </header>
     {#if term.description}

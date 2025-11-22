@@ -3,23 +3,16 @@
     import DarkMode from '$lib/components/DarkMode.svelte'
     import Glossaries from '$lib/components/Glossaries.svelte'
     import Loading from '$lib/components/Loading.svelte'
-    import '../app.css'
+    import '$src/app.css'
     import { goto } from '$app/navigation'
-    import { navigating } from '$app/stores'
+    import { navigating, page } from '$app/stores'
+    import { isRTL } from '$lib/utils/changeDirection'
 
     let { children } = $props()
     let query = $state('')
-    let searchAlign = $state(true)
-
-    function changeDirection(event: Event) {
-        const target = event.target as HTMLInputElement | null
-        if (target && target.value) {
-            const arabicRegex = /[\u0600-\u06FF]/
-            searchAlign = arabicRegex.test(target.value)
-        } else {
-            searchAlign = false
-        }
-    }
+    let isHome = $derived($page.url.pathname === '/')
+    
+    let searchAlign = $derived(query ? isRTL(query) : true)
 
     function search() {
         const params = new URLSearchParams({ q: query })
@@ -38,9 +31,17 @@
     <link rel="icon" href={favicon} />
 </svelte:head>
 
-<div class="max-w-3xl mx-auto p-6">
+<div
+    class="max-w-3xl mx-auto p-6 {isHome
+        ? 'min-h-screen flex flex-col justify-center'
+        : ''}"
+>
     <div dir="rtl" class="flex items-center justify-between mb-6">
-        <h1 class="text-3xl font-bold text-center">
+        <h1
+            class="text-3xl font-bold text-center {isHome
+                ? 'text-6xl'
+                : 'text-3xl'}"
+        >
             <a href="/">تقنون</a>
         </h1>
         <div class="flex gap-2 items-center">
@@ -58,7 +59,6 @@
             placeholder="ابحث عن مصطلحات تقنية..."
             class="flex-1 p-3 border rounded"
             dir={searchAlign ? 'rtl' : 'ltr'}
-            oninput={changeDirection}
         />
         <button
             onclick={search}

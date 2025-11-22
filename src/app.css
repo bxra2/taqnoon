@@ -52,6 +52,17 @@ body {
     min-height: 100vh;
 }
 
+.logo-header {
+    left: 8px;
+    fill: #24201a;
+    filter: #24201a;
+    z-index: 3;
+}
+.home-logo {
+    fill: #24201a;
+    filter: #24201a;
+    width: 500px;
+}
 input {
     font-family: inherit;
     /* background-color: #fff; */

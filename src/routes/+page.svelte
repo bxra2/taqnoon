@@ -1,6 +1,57 @@
 <script lang="ts">
+    import '$src/app.css'
+    import { goto } from '$app/navigation'
+    import { isRTL } from '$lib/utils/changeDirection'
+    import Glossaries from '$src/lib/components/Glossaries.svelte'
+    import DarkMode from '$src/lib/components/DarkMode.svelte'
+
+    let query = $state('')
+    let searchAlign = $derived(query ? isRTL(query) : true)
+
+    function search() {
+        if (!query) return
+        const params = new URLSearchParams({ q: query })
+        goto(`/search?${params.toString()}`)
+    }
+
+    function handleKeydown(event: KeyboardEvent) {
+        if (event.key === 'Enter') {
+            event.preventDefault()
+            search()
+        }
+    }
 </script>
 
-<!-- <h2 class="text-2xl text-center font-bold mb-4">
-    محرك بحث يتيح لك البحث بين عدة معاجم لمقارنة المصطلحات التقنية
-</h2> -->
+<div class="absolute top-4 left-4">
+    <DarkMode />
+</div>
+
+<div class="min-h-screen flex flex-col justify-center items-center p-6">
+    <div class="flex flex-col items-center gap-4 mb-8">
+        <img class="home-logo" src="/icons/taqnun.svg" alt="تقنون" />
+        <h2 class="text-lg sm:text-xl md:text-2xl text-center font-bold px-4">
+            محرك بحث جامع للمعاجم التقنية لسهولة البحث و المقارنة فيها
+        </h2>
+    </div>
+
+    <div class="flex gap-2 w-full max-w-2xl mb-6" dir="rtl">
+        <input
+            type="text"
+            bind:value={query}
+            onkeydown={handleKeydown}
+            placeholder="ابحث عن مصطلحات تقنية..."
+            class="flex-1 p-3 border rounded"
+            dir={searchAlign ? 'rtl' : 'ltr'}
+        />
+    </div>
+    <div class="flex gap-2 w-full max-w-2xl justify-center" dir="rtl">
+        <Glossaries />
+        <button
+            onclick={search}
+            class="px-6 py-3 search-button rounded"
+            disabled={!query}
+        >
+            ابحث
+        </button>
+    </div>
+</div>
