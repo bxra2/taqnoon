@@ -11,6 +11,14 @@
     src: url('/fonts/Hacen_Newspaper.ttf');
 }
 @font-face {
+    font-family: 'amiri';
+    src: url('/fonts/amiri.ttf');
+}
+@font-face {
+    font-family: 'rubik';
+    src: url('/fonts/rubik.ttf');
+}
+@font-face {
     font-family: 'almahdi';
     src: url('/fonts/almahdi.otf');
 }
