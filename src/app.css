@@ -7,6 +7,10 @@
 #473625 */
 
 @font-face {
+    font-family: 'AmiriTypewriter';
+    src: url('/fonts/AmiriTypewriter.ttf');
+}
+@font-face {
     font-family: 'Hacen';
     src: url('/fonts/Hacen_Newspaper.ttf');
 }
