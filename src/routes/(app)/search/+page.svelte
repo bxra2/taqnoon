@@ -19,8 +19,9 @@
 
     $effect(() => {
         const q = $page.url.searchParams.get('q')
+        const exact = $page.url.searchParams.get('exact') === 'true'
         if (q) {
-            handleSearch(q, allTerms)
+            handleSearch(q, allTerms, exact)
         } else {
             results = []
         }
@@ -45,7 +46,7 @@
             .replace(/[\u064B-\u065F\u0670\u06D6-\u06ED]/g, '')
     }
 
-    async function handleSearch(query: string, terms) {
+    async function handleSearch(query: string, terms, exact: boolean = false) {
         if (!query.trim()) {
             results = []
             console.log('trimimmedd')
@@ -62,6 +63,11 @@
             .filter((item) => {
                 const english = item.english?.toLowerCase() || ''
                 const arabic = removeDiacritics(item.arabic || '')
+                
+                if (exact) {
+                    return english === lower || arabic === normalizedQuery
+                }
+                
                 return (
                     english.includes(lower) || arabic.includes(normalizedQuery)
                 )
@@ -137,6 +143,7 @@
             </button>
         </div>
         <Slider bind:open={showSlider}>
+            <h2 class="text-3xl mt-8 mb-6">عدد النتائج : {results.length}</h2>
             <h2 class="text-3xl mt-8 mb-6">المعاجم</h2>
 
             {#each Object.entries(currentPublishers) as [publisher, glossaries]}

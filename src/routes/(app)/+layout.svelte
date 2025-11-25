@@ -11,11 +11,15 @@
     let { children } = $props()
     let query = $state('')
     let isHome = $derived($page.url.pathname === '/')
+    let exactMatch = $state($page.url.searchParams.get('exact') === 'true')
     
     let searchAlign = $derived(query ? isRTL(query) : true)
 
     function search() {
         const params = new URLSearchParams({ q: query })
+        if (exactMatch) {
+            params.set('exact', 'true')
+        }
         goto(`/search?${params.toString()}`)
     }
 
@@ -51,22 +55,30 @@
     </div>
 
     <!-- Search Bar -->
-    <div class="flex gap-2 mb-6">
-        <input
-            type="text"
-            bind:value={query}
-            onkeydown={handleKeydown}
-            placeholder="ابحث عن مصطلحات تقنية..."
-            class="flex-1 p-3 border rounded"
-            dir={searchAlign ? 'rtl' : 'ltr'}
-        />
-        <button
-            onclick={search}
-            class="px-6 py-3 search-button rounded"
-            disabled={!query}
-        >
-            ابحث
-        </button>
+    <div class="flex flex-col gap-2 mb-6 border p-4 rounded-lg search-bar">
+        <div class="flex gap-2">
+            <input
+                type="text"
+                bind:value={query}
+                onkeydown={handleKeydown}
+                placeholder="ابحث عن مصطلحات تقنية..."
+                class="flex-1 p-3 border rounded"
+                dir={searchAlign ? 'rtl' : 'ltr'}
+            />
+            <button
+                onclick={search}
+                class="px-6 py-3 search-button rounded"
+                disabled={!query}
+            >
+                ابحث
+            </button>
+        </div>
+        <div class="flex items-center gap-2 my-2">
+            <label for="exact" class="flex items-center gap-2 text-sm">
+                بحث مطابق تماماً
+            </label>
+            <input type="checkbox" bind:checked={exactMatch} id="exact" />
+        </div>
     </div>
 
     <!-- Loading State -->

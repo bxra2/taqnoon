@@ -6,11 +6,15 @@
     import DarkMode from '$src/lib/components/DarkMode.svelte'
 
     let query = $state('')
+    let exactMatch = $state(false)
     let searchAlign = $derived(query ? isRTL(query) : true)
 
     function search() {
         if (!query) return
         const params = new URLSearchParams({ q: query })
+        if (exactMatch) {
+            params.set('exact', 'true')
+        }
         goto(`/search?${params.toString()}`)
     }
 
@@ -33,25 +37,32 @@
             محرك بحث جامع للمعاجم التقنية لسهولة البحث و المقارنة فيها
         </h2>
     </div>
-
-    <div class="flex gap-2 w-full max-w-2xl mb-6" dir="rtl">
-        <input
-            type="text"
-            bind:value={query}
-            onkeydown={handleKeydown}
-            placeholder="ابحث عن مصطلحات تقنية..."
-            class="flex-1 p-3 border rounded"
-            dir={searchAlign ? 'rtl' : 'ltr'}
-        />
-    </div>
-    <div class="flex gap-2 w-full max-w-2xl justify-center" dir="rtl">
-        <Glossaries />
-        <button
-            onclick={search}
-            class="px-6 py-3 search-button rounded"
-            disabled={!query}
-        >
-            ابحث
-        </button>
+    <div class="flex flex-col gap-2 w-full max-w-2xl mb-6 border p-4 rounded-lg search-bar" dir="rtl"> 
+        <div class="flex gap-2 w-full max-w-2xl mb-6" dir="rtl">
+            <input
+                type="text"
+                bind:value={query}
+                onkeydown={handleKeydown}
+                placeholder="ابحث عن مصطلحات تقنية..."
+                class="flex-1 p-3 border rounded"
+                dir={searchAlign ? 'rtl' : 'ltr'}
+            />
+        </div>
+        <div class="flex w-full max-w-2xl mb-6 px-1" dir="rtl">
+            <label class="flex items-center gap-2 text-sm cursor-pointer">
+                <input type="checkbox" bind:checked={exactMatch} />
+                بحث مطابق تماماً
+            </label>
+        </div>
+        <div class="flex gap-2 w-full max-w-2xl justify-center" dir="rtl">
+            <Glossaries />
+            <button
+                onclick={search}
+                class="px-6 py-3 search-button rounded"
+                disabled={!query}
+            >
+                ابحث
+            </button>
+        </div>
     </div>
 </div>
