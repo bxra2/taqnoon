@@ -26,36 +26,39 @@
         calculatePageRange(currentPage, totalPages, pagesToShow)
     )
 
-function calculatePageRange(currentPage: number, totalPages: number, pagesToShow: number) {
-    let start = Math.max(1, currentPage - pagesToShow)
-    let end = Math.min(totalPages, currentPage + pagesToShow)
+    function calculatePageRange(
+        currentPage: number,
+        totalPages: number,
+        pagesToShow: number
+    ) {
+        let start = Math.max(1, currentPage - pagesToShow)
+        let end = Math.min(totalPages, currentPage + pagesToShow)
 
-    // Try to expand range to full width if possible
-    const desiredCount = pagesToShow * 2 + 1
-    let actualCount = end - start + 1
+        // Try to expand range to full width if possible
+        const desiredCount = pagesToShow * 2 + 1
+        let actualCount = end - start + 1
 
-    if (actualCount < desiredCount) {
-        const remaining = desiredCount - actualCount
-
-        // Shift start left if possible
-        start = Math.max(1, start - remaining)
-        actualCount = end - start + 1
-
-        // Shift end right if still not enough
         if (actualCount < desiredCount) {
-            end = Math.min(totalPages, end + (desiredCount - actualCount))
+            const remaining = desiredCount - actualCount
+
+            // Shift start left if possible
+            start = Math.max(1, start - remaining)
+            actualCount = end - start + 1
+
+            // Shift end right if still not enough
+            if (actualCount < desiredCount) {
+                end = Math.min(totalPages, end + (desiredCount - actualCount))
+            }
         }
+
+        // Build pages array without duplicates
+        const pages = []
+        for (let i = start; i <= end; i++) {
+            pages.push(i)
+        }
+
+        return pages
     }
-
-    // Build pages array without duplicates
-    const pages = []
-    for (let i = start; i <= end; i++) {
-        pages.push(i)
-    }
-
-    return pages
-}
-
 
     function goToPage(page: number) {
         if (page < 1 || page > totalPages || page === currentPage) return
@@ -136,21 +139,23 @@ function calculatePageRange(currentPage: number, totalPages: number, pagesToShow
 
     <div class="limit">
         {#if limitsList[0] <= count}
-            <span>عدد النتائج</span>
+            <label for="limit-select">عدد النتائج</label>
 
-            {#each limitsList as limitItem}
-                {#if limitItem <= count}
-                    <button
-                        class="limit-btn"
-                        class:active={limit === limitItem}
-                        disabled={limit === limitItem}
-                        onclick={() => changeLimit(limitItem)}
-                        aria-label={`عرض ${limitItem} نتيجة`}
-                    >
-                        {toArabicIndic(limitItem)}
-                    </button>
-                {/if}
-            {/each}
+            <select
+                id="limit-select"
+                class="limit-select"
+                bind:value={limit}
+                onchange={(e) => changeLimit(Number(e.target.value))}
+                aria-label="تغيير عدد النتائج"
+            >
+                {#each limitsList as limitItem}
+                    {#if limitItem <= count}
+                        <option value={limitItem}>
+                            {toArabicIndic(limitItem)}
+                        </option>
+                    {/if}
+                {/each}
+            </select>
         {/if}
     </div>
 </nav>
@@ -181,47 +186,42 @@ function calculatePageRange(currentPage: number, totalPages: number, pagesToShow
         flex-wrap: wrap;
     }
 
-    .page-btn,
-    .limit-btn {
+    .page-btn {
         padding: 6px 8px;
         border: 1px solid #ccc;
         border-radius: 4px;
         cursor: pointer;
-        color: black;
-        background-color: white;
+        /* color: black;
+        background-color: white; */
         box-shadow: 3px 3px 0 #4a4a4a;
         font-family: inherit;
         font-size: 1rem;
         transition: all 0.2s ease;
     }
 
-    .page-btn:disabled,
-    .limit-btn:disabled {
+    .page-btn:disabled {
         cursor: not-allowed;
         opacity: 0.5;
     }
 
-    .page-btn.active,
-    .limit-btn.active {
+    .page-btn.active {
         background-color: #4a4a4a;
         color: white;
         cursor: not-allowed;
     }
 
-    .page-btn:not(:disabled):hover,
-    .limit-btn:not(:disabled):hover {
-        background-color: #eeeeee;
+    .page-btn:not(:disabled):hover {
+        opacity: 0.9;
+        /* background-color: #eeeeee; */
         transform: translateY(-1px);
     }
 
-    .page-btn.active:hover,
-    .limit-btn.active:hover {
+    .page-btn.active:hover {
         background-color: #6e6e6e;
         transform: none;
     }
 
-    .page-btn:focus-visible,
-    .limit-btn:focus-visible {
+    .page-btn:focus-visible {
         outline: 2px solid #4a4a4a;
         outline-offset: 2px;
     }
@@ -232,14 +232,30 @@ function calculatePageRange(currentPage: number, totalPages: number, pagesToShow
         user-select: none;
     }
 
+    .limit-select {
+        padding: 6px 8px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        /* background-color: white; */
+        box-shadow: 3px 3px 0 #4a4a4a;
+        font-family: inherit;
+        font-size: 1rem;
+        cursor: pointer;
+        transition: all 0.2s ease;
+    }
+
+    .limit-select:focus-visible {
+        outline: 2px solid #4a4a4a;
+        outline-offset: 2px;
+    }
+
     @media (max-width: 640px) {
         .pagination {
             flex-direction: column;
             gap: 15px;
         }
 
-        .page-btn,
-        .limit-btn {
+        .page-btn {
             padding: 4px 6px;
         }
 
