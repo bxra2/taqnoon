@@ -3,14 +3,16 @@
     import Loading from '$lib/components/Loading.svelte'
     import Paginator from '$lib/components/Paginator.svelte'
     import TermCard from '$lib/components/TermCard.svelte'
+    import Slider from '$src/lib/components/Slider.svelte'
 
     let { data } = $props()
 
     let currentPage = $state(1)
     let limit = $state(10)
+    let showSlider = $state(false)
     let results = $state([])
     let isSearching = $state(false)
-    let allTerms = [...data.termData || []]
+    let allTerms = [...(data.termData || [])]
     function scrollToTop() {
         window.scrollTo({ top: 0, behavior: 'smooth' })
     }
@@ -92,6 +94,32 @@
         currentPage = 1
         isSearching = false
     }
+    let currentPublishers = $derived(
+        (() => {
+            const grouped: Record<string, Set<string>> = {}
+
+            for (const term of results) {
+                const publisher = term.publisherAr
+                const glossary = term.glossaryAr
+
+                if (!grouped[publisher]) {
+                    grouped[publisher] = new Set()
+                }
+
+                grouped[publisher].add(glossary)
+            }
+
+            // Convert Sets back to arrays
+            return Object.fromEntries(
+                Object.entries(grouped).map(([k, v]) => [k, Array.from(v)])
+            )
+        })()
+    )
+
+    $effect(() => {
+        console.log(results)
+        console.log('currentPublishers', currentPublishers)
+    })
 </script>
 
 <div class="mb-4">
@@ -104,14 +132,32 @@
                 onPageChange={scrollToTop}
                 onLimitChange={scrollToTop}
             />
+            <button onclick={() => (showSlider = true)}>
+                <div class="mt-4 dropdown-icon"></div>
+            </button>
         </div>
+        <Slider bind:open={showSlider}>
+            <h2 class="text-3xl mt-8 mb-6">المعاجم</h2>
 
+            {#each Object.entries(currentPublishers) as [publisher, glossaries]}
+                <div class="publisher-group">
+                    <h3 class="mt-4 text-xl">{publisher}</h3>
+                    <ul>
+                        {#each glossaries as glossary}
+                            <li class="m-4"> - {glossary}</li>
+                        {/each}
+                    </ul>
+                </div>
+            {/each}
+            <!-- {#each currentPublishers as publisher}
+                <h3 class="mt-4 text-xl">{publisher}</h3>
+            {/each} -->
+        </Slider>
         <ul class="space-y-4">
             {#each paginatedResults as term, i (term.id ?? i)}
                 <TermCard {term} />
             {/each}
         </ul>
-
         <div class="mt-4">
             <Paginator
                 bind:currentPage

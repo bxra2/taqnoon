@@ -172,3 +172,14 @@ footer {
 .arb {
     word-spacing: 0.2em;
 }
+
+.dropdown-icon {
+    width: 30px;
+    height: 30px;
+    background-color: var(--border-color); /* the color you want */
+    mask: url('/icons/menu.svg') no-repeat center;
+    filter: contrast(0.02);
+    mask-size: contain;
+    -webkit-mask: url('/icons/menu.svg') no-repeat center;
+    -webkit-mask-size: contain;
+}

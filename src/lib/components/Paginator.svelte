@@ -138,7 +138,7 @@
     </div>
 
     <div class="limit">
-        {#if limitsList[0] <= count}
+        {#if limitsList[0] < count}
             <label for="limit-select">عدد النتائج</label>
 
             <select
