@@ -9,10 +9,11 @@
     import { isRTL } from '$lib/utils/changeDirection'
 
     let { children } = $props()
-    let query = $state('')
+    let query = $state($page.url.searchParams.get('q'))
     let isHome = $derived($page.url.pathname === '/')
     let exactMatch = $state($page.url.searchParams.get('exact') === 'true')
     let includeDescription = $state($page.url.searchParams.get('desc') === 'true')
+    let lookupLocalization = $state($page.url.searchParams.get('lookup') === 'true')
     
     let searchAlign = $derived(query ? isRTL(query) : true)
 
@@ -23,6 +24,9 @@
         }
         if (includeDescription) {
             params.set('desc', 'true')
+        }
+        if (lookupLocalization) {
+            params.set('lookup', 'true')
         }
         goto(`/search?${params.toString()}`)
     }
@@ -77,16 +81,20 @@
                 ابحث
             </button>
         </div>
-        <div class="flex items-center gap-6 my-2">
+         <div class="flex items-center justify-center my-2 gap-6">
+            <input type="checkbox" bind:checked={exactMatch} id="exact" />
             <label for="exact" class="flex items-center gap-2 text-sm">
                 بحث مطابق تماماً
             </label>
-            <input type="checkbox" bind:checked={exactMatch} id="exact" />
+            <input type="checkbox" bind:checked={includeDescription} id="desc" />
 
             <label for="desc" class="flex items-center gap-2 text-sm">
                 يشمل الوصف
             </label>
-            <input type="checkbox" bind:checked={includeDescription} id="desc" />
+            <input type="checkbox" bind:checked={lookupLocalization} id="lookup" />
+            <label for="lookup" class="flex items-center gap-2 text-sm cursor-pointer">
+                بحث في ترجمات البرمجيات مفتوحة المصدر
+            </label>
         </div>
     </div>
 

@@ -191,7 +191,7 @@ input[type="checkbox"] {
     width: 1rem;
     height: 1rem;
     accent-color: var(--accent);
-    outline: 1px solid var(--border-color);
+    /* outline: 1px solid var(--border-color); */
 }
 .dropdown-icon {
     width: 30px;

@@ -8,6 +8,7 @@
     let query = $state('')
     let exactMatch = $state(false)
     let includeDescription = $state(false)
+    let lookupLocalization = $state(false)
     let searchAlign = $derived(query ? isRTL(query) : true)
 
     function search() {
@@ -18,6 +19,9 @@
         }
         if (includeDescription) {
             params.set('desc', 'true')
+        }
+        if (lookupLocalization) {
+            params.set('lookup', 'true')
         }
         goto(`/search?${params.toString()}`)
     }
@@ -60,6 +64,10 @@
             <label class="flex items-center gap-2 text-sm cursor-pointer">
                 <input type="checkbox" bind:checked={includeDescription} />
                 يشمل الوصف
+            </label>
+             <label class="flex items-center gap-2 text-sm cursor-pointer">
+                <input type="checkbox" bind:checked={lookupLocalization} />
+                بحث في ترجمات البرمجيات مفتوحة المصدر
             </label>
         </div>
         <div class="flex gap-2 w-full max-w-2xl justify-center" dir="rtl">
