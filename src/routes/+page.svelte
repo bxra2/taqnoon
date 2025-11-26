@@ -7,6 +7,7 @@
 
     let query = $state('')
     let exactMatch = $state(false)
+    let includeDescription = $state(false)
     let searchAlign = $derived(query ? isRTL(query) : true)
 
     function search() {
@@ -14,6 +15,9 @@
         const params = new URLSearchParams({ q: query })
         if (exactMatch) {
             params.set('exact', 'true')
+        }
+        if (includeDescription) {
+            params.set('desc', 'true')
         }
         goto(`/search?${params.toString()}`)
     }
@@ -48,10 +52,14 @@
                 dir={searchAlign ? 'rtl' : 'ltr'}
             />
         </div>
-        <div class="flex w-full max-w-2xl mb-6 px-1" dir="rtl">
+        <div class="flex w-full max-w-2xl mb-6 px-1 gap-6" dir="rtl">
             <label class="flex items-center gap-2 text-sm cursor-pointer">
                 <input type="checkbox" bind:checked={exactMatch} />
                 بحث مطابق تماماً
+            </label>
+            <label class="flex items-center gap-2 text-sm cursor-pointer">
+                <input type="checkbox" bind:checked={includeDescription} />
+                يشمل الوصف
             </label>
         </div>
         <div class="flex gap-2 w-full max-w-2xl justify-center" dir="rtl">

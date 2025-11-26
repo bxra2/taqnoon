@@ -12,6 +12,7 @@
     let query = $state('')
     let isHome = $derived($page.url.pathname === '/')
     let exactMatch = $state($page.url.searchParams.get('exact') === 'true')
+    let includeDescription = $state($page.url.searchParams.get('desc') === 'true')
     
     let searchAlign = $derived(query ? isRTL(query) : true)
 
@@ -19,6 +20,9 @@
         const params = new URLSearchParams({ q: query })
         if (exactMatch) {
             params.set('exact', 'true')
+        }
+        if (includeDescription) {
+            params.set('desc', 'true')
         }
         goto(`/search?${params.toString()}`)
     }
@@ -73,11 +77,16 @@
                 ابحث
             </button>
         </div>
-        <div class="flex items-center gap-2 my-2">
+        <div class="flex items-center gap-6 my-2">
             <label for="exact" class="flex items-center gap-2 text-sm">
                 بحث مطابق تماماً
             </label>
             <input type="checkbox" bind:checked={exactMatch} id="exact" />
+
+            <label for="desc" class="flex items-center gap-2 text-sm">
+                يشمل الوصف
+            </label>
+            <input type="checkbox" bind:checked={includeDescription} id="desc" />
         </div>
     </div>
 

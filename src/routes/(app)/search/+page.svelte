@@ -20,8 +20,9 @@
     $effect(() => {
         const q = $page.url.searchParams.get('q')
         const exact = $page.url.searchParams.get('exact') === 'true'
+        const desc = $page.url.searchParams.get('desc') === 'true'
         if (q) {
-            handleSearch(q, allTerms, exact)
+            handleSearch(q, allTerms, exact, desc)
         } else {
             results = []
         }
@@ -46,7 +47,7 @@
             .replace(/[\u064B-\u065F\u0670\u06D6-\u06ED]/g, '')
     }
 
-    async function handleSearch(query: string, terms, exact: boolean = false) {
+    async function handleSearch(query: string, terms, exact: boolean = false, includeDescription: boolean = false) {
         if (!query.trim()) {
             results = []
             console.log('trimimmedd')
@@ -63,15 +64,26 @@
             .filter((item) => {
                 const english = item.english?.toLowerCase() || ''
                 const arabic = removeDiacritics(item.arabic || '')
-                
+
+                const hasDescription = !!item.description?.trim()
+
+                if (includeDescription && !hasDescription) {
+                    return false
+                }
+
+                const description = hasDescription
+                    ? removeDiacritics(item.description).toLowerCase()
+                    : ''
                 if (exact) {
                     return english === lower || arabic === normalizedQuery
                 }
-                
+
                 return (
-                    english.includes(lower) || arabic.includes(normalizedQuery)
-                )
-            })
+                    english.includes(lower) ||
+                    arabic.includes(normalizedQuery) ||
+                    (hasDescription && description.includes(normalizedQuery))
+            )
+        })
             .sort((a, b) => {
                 const aEng = a.english?.toLowerCase() || ''
                 const bEng = b.english?.toLowerCase() || ''
@@ -96,7 +108,6 @@
                 return 0
             })
 
-        // Reset to first page when new search results come in
         currentPage = 1
         isSearching = false
     }
