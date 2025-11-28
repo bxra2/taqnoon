@@ -1,6 +1,6 @@
 "use strict";
 
-function setDarkMode(isDarkMode) {
+function setDarkMode(isDarkMode: boolean) {
   const initialReadyState = document.readyState;
 
   // Handle class toggle and color updates in one batch for better performance
@@ -29,7 +29,7 @@ function setDarkMode(isDarkMode) {
   });
 }
 
-function handleDarkModeToggle() {
+function handleDarkModeToggle(event: Event) {
   const isDarkMode = document.documentElement.classList.contains("dark-mode-on");
   const newMode = !isDarkMode;
 
