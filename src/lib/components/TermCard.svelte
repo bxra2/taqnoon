@@ -47,8 +47,8 @@
     {/if}
 
     <footer>
-        {#if term.glossaryAr}
-            <small class="arb" dir="rtl">
+        <small class="arb" dir="rtl">
+                {#if term.glossaryAr}
                 <span>
                     <b>المعجم:&ensp;</b>
                     <a href={term.glossaryUrl} target="_blank">
@@ -56,6 +56,7 @@
                     </a>
                 </span>
                 <br />
+                {/if}
                 {#if term.publisherAr}
                     <span>
                         <b>الناشر:&ensp;</b>
@@ -65,9 +66,8 @@
                     </span>
                 {/if}
             </small>
-        {/if}
-        {#if term.glossaryEn}
             <small dir="ltr">
+                {#if term.glossaryEn}
                 <span>
                     <b>Glossary:&ensp;</b>
                     <a href={term.glossaryUrl} target="_blank">
@@ -75,6 +75,7 @@
                     </a>
                 </span>
                 <br />
+                {/if}
                 {#if term.publisherEn}
                     <span>
                         <b>Publisher:&ensp;</b>
@@ -84,7 +85,6 @@
                     </span>
                 {/if}
             </small>
-        {/if}
     </footer>
 </article>
 
