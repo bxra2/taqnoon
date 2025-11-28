@@ -11,36 +11,35 @@ self.onmessage = async (e) => {
     }
 
     if (e.data.type === 'search') {
-const lower = e.data.query.toLowerCase();
-const normalizedQuery = removeDiacritics(e.data.query);
+        const lower = e.data.query.toLowerCase();
+        const normalizedQuery = removeDiacritics(e.data.query);
 
-let results;
+        let results;
 
-if (e.data.exact) {
-    results = entries.filter(
-        (entry) =>
-            entry.english.toLowerCase() === lower ||
-            entry.arabic.toLowerCase() === normalizedQuery
-    );
-} else {
-    const exactMatches = entries.filter(
-        (entry) =>
-            entry.english.toLowerCase() === lower ||
-            entry.arabic.toLowerCase() === normalizedQuery
-    );
-
-    const partialMatches = entries.filter(
-        (entry) =>
-            !exactMatches.includes(entry) && (
-                entry.english.toLowerCase().includes(lower) ||
-                entry.arabic.toLowerCase().includes(normalizedQuery)
+        if (e.data.exact) {
+            results = entries.filter(
+                (entry) =>
+                    entry.english.toLowerCase() === lower ||
+                    entry.arabic.toLowerCase() === normalizedQuery
             )
-    );
+        } else {
+            const exactMatches = entries.filter(
+                (entry) =>
+                    entry.english.toLowerCase() === lower ||
+                    entry.arabic.toLowerCase() === normalizedQuery
+            )
 
-    results = [...exactMatches, ...partialMatches];
-}
+            const partialMatches = entries.filter(
+                (entry) =>
+                    !exactMatches.includes(entry) && (
+                        entry.english.toLowerCase().includes(lower) ||
+                        entry.arabic.toLowerCase().includes(normalizedQuery)
+                    )
+            );
 
-self.postMessage({ type: 'results', results });
+            results = [...exactMatches, ...partialMatches]
+        }
 
+        self.postMessage({ type: 'results', results })
     }
 };

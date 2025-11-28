@@ -4,6 +4,9 @@
     import Paginator from '$lib/components/Paginator.svelte'
     import TermCard from '$lib/components/TermCard.svelte'
     import Slider from '$src/lib/components/Slider.svelte'
+    import { browser } from '$app/environment'
+    import { getContext, onDestroy } from 'svelte'
+    import { removeDiacritics } from '$src/lib/utils/removeDiacritics.js'
 
     let { data } = $props()
 
@@ -13,49 +16,124 @@
     let results = $state([])
     let isSearching = $state(false)
     let allTerms = [...(data.termData || [])]
+    let localizationResults = $state([])
+    let isWorkerSearching = $state(false)
+
     function scrollToTop() {
         window.scrollTo({ top: 0, behavior: 'smooth' })
+    }
+    const localizationWorker = getContext<Worker>('localizationWorker')
+
+    if (browser && localizationWorker) {
+        const handleMessage = (e) => {
+            if (e.data.type === 'loaded') {
+                console.log(`Worker loaded ${e.data.count} entries`)
+            }
+            if (e.data.type === 'results') {
+                // This will trigger mergedResults to recalculate
+                localizationResults = e.data.results
+                isWorkerSearching = false
+            }
+        }
+        
+        localizationWorker.addEventListener('message', handleMessage)
+        
+        onDestroy(() => {
+            localizationWorker.removeEventListener('message', handleMessage)
+        })
     }
 
     $effect(() => {
         const q = $page.url.searchParams.get('q')
         const exact = $page.url.searchParams.get('exact') === 'true'
         const desc = $page.url.searchParams.get('desc') === 'true'
+        const lookup = $page.url.searchParams.get('lookup') === 'true'
         if (q) {
-            handleSearch(q, allTerms, exact, desc)
+            handleSearch(q, allTerms, exact, desc, lookup)
         } else {
             results = []
+            localizationResults = []
         }
+    })
+
+    let mergedResults = $derived.by(() => {
+        console.log('Recalculating mergedResults:', {
+            resultsLength: results.length,
+            localizationLength: localizationResults.length
+        })
+
+        // If no localization results, just return regular results
+        if (localizationResults.length === 0) {
+            return results
+        }
+        
+        const uniqueTerms = new Map()
+        
+        for (const term of results) {
+            uniqueTerms.set(term.id, term)
+        }
+        
+        for (const term of localizationResults) {
+            if (uniqueTerms.has(term.id)) {
+                // Merge properties from both sources
+                uniqueTerms.set(term.id, {
+                    ...uniqueTerms.get(term.id),
+                    ...term,
+                    fromLocalization: true
+                })
+            } else {
+                // Add new term from localization
+                uniqueTerms.set(term.id, { ...term, fromLocalization: true })
+            }
+        }
+        
+        const merged = Array.from(uniqueTerms.values())
+        return merged
     })
 
     let paginatedResults = $derived.by(() => {
         const startIndex = (currentPage - 1) * limit
         const endIndex = startIndex + limit
-        return results.slice(startIndex, endIndex)
+        return mergedResults.slice(startIndex, endIndex)
     })
 
     // Show empty state only when not searching and query exists but no results
     let showEmptyState = $derived(
         !isSearching &&
-            results.length === 0 &&
+            !isWorkerSearching &&
+            mergedResults.length === 0 &&
             $page.url.searchParams.get('q')?.trim()
     )
 
-    function removeDiacritics(text: string): string {
-        return text
-            .normalize('NFKD')
-            .replace(/[\u064B-\u065F\u0670\u06D6-\u06ED]/g, '')
-    }
-
-    async function handleSearch(query: string, terms, exact: boolean = false, includeDescription: boolean = false) {
+    async function handleSearch(
+        query: string,
+        terms,
+        exact: boolean = false,
+        includeDescription: boolean = false,
+        lookupLocalization: boolean = false
+    ) {
         if (!query.trim()) {
             results = []
-            console.log('trimimmedd')
+            localizationResults = []
             return
         }
 
         isSearching = true
+        
+        if (!lookupLocalization) {
+            localizationResults = []
+        }
+        
         await new Promise((resolve) => setTimeout(resolve, 100))
+
+        if (lookupLocalization && localizationWorker) {
+            isWorkerSearching = true
+            localizationWorker.postMessage({
+                type: 'search',
+                query,
+                exact,
+            })
+        }
 
         const lower = query.toLowerCase()
         const normalizedQuery = removeDiacritics(query)
@@ -82,8 +160,8 @@
                     english.includes(lower) ||
                     arabic.includes(normalizedQuery) ||
                     (hasDescription && description.includes(normalizedQuery))
-            )
-        })
+                )
+            })
             .sort((a, b) => {
                 const aEng = a.english?.toLowerCase() || ''
                 const bEng = b.english?.toLowerCase() || ''
@@ -115,7 +193,7 @@
         (() => {
             const grouped: Record<string, Set<string>> = {}
 
-            for (const term of results) {
+            for (const term of mergedResults) {
                 const publisher = term.publisherAr
                 const glossary = term.glossaryAr
 
@@ -132,20 +210,15 @@
             )
         })()
     )
-
-    $effect(() => {
-        console.log(results)
-        console.log('currentPublishers', currentPublishers)
-    })
 </script>
 
 <div class="mb-4">
-    {#if results.length > 0}
+    {#if mergedResults.length > 0}
         <div class="mb-4">
             <Paginator
                 bind:currentPage
                 bind:limit
-                count={results.length}
+                count={mergedResults.length}
                 onPageChange={scrollToTop}
                 onLimitChange={scrollToTop}
             />
@@ -154,7 +227,11 @@
             </button>
         </div>
         <Slider bind:open={showSlider}>
-            <h2 class="text-3xl mt-8 mb-6">عدد النتائج : {results.length}</h2>
+            <h2 class="text-3xl mt-8 mb-6">عدد النتائج : {mergedResults.length}</h2>
+            {#if localizationResults.length > 0}
+                <h2 class="text-3xl mt-8 mb-6">النتائج المعجمية: {results.length}</h2>
+                <h2 class="text-3xl mt-8 mb-6">النتائج المترجمة: {localizationResults.length}</h2>
+            {/if}
             <h2 class="text-3xl mt-8 mb-6">المعاجم</h2>
 
             {#each Object.entries(currentPublishers) as [publisher, glossaries]}
@@ -167,9 +244,6 @@
                     </ul>
                 </div>
             {/each}
-            <!-- {#each currentPublishers as publisher}
-                <h3 class="mt-4 text-xl">{publisher}</h3>
-            {/each} -->
         </Slider>
         <ul class="space-y-4">
             {#each paginatedResults as term, i (term.id ?? i)}
@@ -180,11 +254,11 @@
             <Paginator
                 bind:currentPage
                 bind:limit
-                count={results.length}
+                count={mergedResults.length}
                 onPageChange={scrollToTop}
             />
         </div>
-    {:else if isSearching}
+    {:else if isSearching || isWorkerSearching}
         <Loading message="جاري البحث..." />
     {:else if showEmptyState}
         <p class="text-center text-gray-500">لا توجد نتائج</p>

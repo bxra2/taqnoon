@@ -7,8 +7,23 @@
     import { goto } from '$app/navigation'
     import { navigating, page } from '$app/stores'
     import { isRTL } from '$lib/utils/changeDirection'
+    import { setContext } from 'svelte'
+    import { browser } from '$app/environment'
 
     let { children } = $props()
+
+    let localizationWorker: Worker | undefined = $state()
+
+    if (browser) {
+        localizationWorker = new Worker(
+            new URL('$lib/workers/localization-worker.ts', import.meta.url),
+            { type: 'module' }
+        )
+        localizationWorker.postMessage({ type: 'load' })
+    }
+
+    setContext('localizationWorker', localizationWorker)
+
     let query = $state($page.url.searchParams.get('q'))
     let isHome = $derived($page.url.pathname === '/')
     let exactMatch = $state($page.url.searchParams.get('exact') === 'true')
