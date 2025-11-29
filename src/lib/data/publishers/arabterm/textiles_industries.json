@@ -851,7 +851,7 @@
             "french": "Cashwool",
             "german": "Cashwool (f)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=83085",
-            "description": null,
+            "description": "",
             "image_uri_remote": null,
             "image_uri_extract": null
         },
@@ -2622,7 +2622,7 @@
             "french": "section de la fibre",
             "german": "Faserquerschnitt (m)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=85465",
-            "description": null,
+            "description": "",
             "image_uri_remote": "http://www.arabterm.org/typo3temp/pics/1372b901c1.jpg",
             "image_uri_extract": "https://raw.githubusercontent.com/forzagreen/arabterm/main/images/34_85465.jpg"
         },
@@ -2820,7 +2820,7 @@
             "french": "brillance de lin",
             "german": "Leinenglanz (m)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=85616",
-            "description": null,
+            "description": "",
             "image_uri_remote": null,
             "image_uri_extract": null
         },
@@ -4096,7 +4096,7 @@
             "french": "les normes d'étalonnage international du coton",
             "german": "ICC-Baumwolle (f)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=85474",
-            "description": null,
+            "description": "",
             "image_uri_remote": null,
             "image_uri_extract": null
         },
@@ -5361,7 +5361,7 @@
             "french": "Melafix",
             "german": "Melafix",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=86165",
-            "description": null,
+            "description": "",
             "image_uri_remote": null,
             "image_uri_extract": null
         },
@@ -10927,7 +10927,7 @@
             "french": "anorak",
             "german": "Anorak (m)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=86575",
-            "description": null,
+            "description": "",
             "image_uri_remote": null,
             "image_uri_extract": null
         },
@@ -12093,7 +12093,7 @@
             "french": "chapeau de Napoléon",
             "german": "Napoleonshut (m)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=87348",
-            "description": null,
+            "description": "",
             "image_uri_remote": null,
             "image_uri_extract": null
         },
@@ -12291,7 +12291,7 @@
             "french": "chemisier pull",
             "german": "Pullibluse (f)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=87033",
-            "description": null,
+            "description": "",
             "image_uri_remote": null,
             "image_uri_extract": null
         },
@@ -14436,7 +14436,7 @@
             "french": "chaîne",
             "german": "Kette (f)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=85196",
-            "description": null,
+            "description": "",
             "image_uri_remote": null,
             "image_uri_extract": null
         },
@@ -15283,7 +15283,7 @@
             "french": "laine intelligente",
             "german": "Clever Wool (f)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=86716",
-            "description": null,
+            "description": "",
             "image_uri_remote": null,
             "image_uri_extract": null
         },
@@ -15426,7 +15426,7 @@
             "french": "nébulosité",
             "german": "Wolkigkeit (f)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=84517",
-            "description": null,
+            "description": "",
             "image_uri_remote": null,
             "image_uri_extract": null
         },
@@ -16845,7 +16845,7 @@
             "french": "corsage",
             "german": "Corsage (f)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=86729",
-            "description": null,
+            "description": "",
             "image_uri_remote": null,
             "image_uri_extract": null
         },
@@ -17637,7 +17637,7 @@
             "french": "réticulation",
             "german": "Quervernetzung (f)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=86183",
-            "description": null,
+            "description": "",
             "image_uri_remote": null,
             "image_uri_extract": null
         },
@@ -18935,7 +18935,7 @@
             "french": "djellaba",
             "german": "Djellabah-Kleid (n)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=86735",
-            "description": null,
+            "description": "",
             "image_uri_remote": null,
             "image_uri_extract": null
         },
@@ -19144,7 +19144,7 @@
             "french": "collant effet changeant",
             "german": "Double layers",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=86737",
-            "description": null,
+            "description": "",
             "image_uri_remote": null,
             "image_uri_extract": null
         },
@@ -19243,7 +19243,7 @@
             "french": "double bordure255t",
             "german": "Doppelrand m)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=84437",
-            "description": null,
+            "description": "",
             "image_uri_remote": null,
             "image_uri_extract": null
         },
@@ -20585,7 +20585,7 @@
             "french": "motif ethnique",
             "german": "Ethno-Muster (n)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=84622",
-            "description": null,
+            "description": "",
             "image_uri_remote": null,
             "image_uri_extract": null
         },
@@ -20662,7 +20662,7 @@
             "french": "vêtements de soirée / tenues de soirée",
             "german": "Abendbekleidung (f)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=86583",
-            "description": null,
+            "description": "",
             "image_uri_remote": null,
             "image_uri_extract": null
         },
@@ -21267,7 +21267,7 @@
             "french": "peau de singe",
             "german": "Affenhaut (f)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=83696",
-            "description": null,
+            "description": "",
             "image_uri_remote": null,
             "image_uri_extract": null
         },
@@ -29594,7 +29594,7 @@
             "french": "degré bas",
             "german": "Low grades",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=85624",
-            "description": null,
+            "description": "",
             "image_uri_remote": null,
             "image_uri_extract": null
         },
@@ -30144,7 +30144,7 @@
             "french": "jupe coordonnée",
             "german": "Matching Skirts",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=86963",
-            "description": null,
+            "description": "",
             "image_uri_remote": null,
             "image_uri_extract": null
         },
@@ -30595,7 +30595,7 @@
             "french": "maille",
             "german": "Masche (f)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=84460",
-            "description": null,
+            "description": "",
             "image_uri_remote": null,
             "image_uri_extract": null
         },
@@ -30903,7 +30903,7 @@
             "french": "microscopie",
             "german": "Mikroskopie (f)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=85483",
-            "description": null,
+            "description": "",
             "image_uri_remote": null,
             "image_uri_extract": null
         },
@@ -31794,7 +31794,7 @@
             "french": "mite",
             "german": "Motte (f)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=85485",
-            "description": null,
+            "description": "",
             "image_uri_remote": null,
             "image_uri_extract": null
         },
@@ -31816,7 +31816,7 @@
             "french": "attaques de mites",
             "german": "Mottenbefall (m)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=85486",
-            "description": null,
+            "description": "",
             "image_uri_remote": null,
             "image_uri_extract": null
         },
@@ -31827,7 +31827,7 @@
             "french": "œufs de mites",
             "german": "Mottenkugeln (f)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=85489",
-            "description": null,
+            "description": "",
             "image_uri_remote": null,
             "image_uri_extract": null
         },
@@ -31915,7 +31915,7 @@
             "french": "gants mousquetaire",
             "german": "Mousequetaire (m)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=87345",
-            "description": null,
+            "description": "",
             "image_uri_remote": null,
             "image_uri_extract": null
         },
@@ -32685,7 +32685,7 @@
             "french": "bandana / foulard au cou",
             "german": "Nikituch (n)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=87350",
-            "description": null,
+            "description": "",
             "image_uri_remote": null,
             "image_uri_extract": null
         },
@@ -32784,7 +32784,7 @@
             "french": "déshabillé",
             "german": "Déshabillé (n)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=86789",
-            "description": null,
+            "description": "",
             "image_uri_remote": null,
             "image_uri_extract": null
         },
@@ -33741,7 +33741,7 @@
             "french": "matières textiles bio",
             "german": "Bio-Textilien (f)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=86586",
-            "description": null,
+            "description": "",
             "image_uri_remote": null,
             "image_uri_extract": null
         },
@@ -34434,7 +34434,7 @@
             "french": "paréo",
             "german": "Pareo (m)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=87356",
-            "description": null,
+            "description": "",
             "image_uri_remote": null,
             "image_uri_extract": null
         },
@@ -34478,7 +34478,7 @@
             "french": "tissu partiel",
             "german": "Partielgewebe (n)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=83986",
-            "description": null,
+            "description": "",
             "image_uri_remote": null,
             "image_uri_extract": null
         },
@@ -34742,7 +34742,7 @@
             "french": "béret-casquette",
             "german": "Schirmmütze (f)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=87371",
-            "description": null,
+            "description": "",
             "image_uri_remote": null,
             "image_uri_extract": null
         },
@@ -34984,7 +34984,7 @@
             "french": "jupe à basque",
             "german": "Schoßrock (m)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=87094",
-            "description": null,
+            "description": "",
             "image_uri_remote": null,
             "image_uri_extract": null
         },
@@ -38768,7 +38768,7 @@
             "french": "échantillonnage",
             "german": "Bemusterung (f) (Probenahme)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=85468",
-            "description": null,
+            "description": "",
             "image_uri_remote": null,
             "image_uri_extract": null
         },
@@ -38900,7 +38900,7 @@
             "french": "chèche",
             "german": "Schärpe (f)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=87367",
-            "description": null,
+            "description": "",
             "image_uri_remote": null,
             "image_uri_extract": null
         },
@@ -39032,7 +39032,7 @@
             "french": "microscopie électronique à balayage",
             "german": "Rastereielektronenmikroskop (n)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=85515",
-            "description": null,
+            "description": "",
             "image_uri_remote": null,
             "image_uri_extract": null
         },
@@ -40187,7 +40187,7 @@
             "french": "t-shirt manteau",
             "german": "Shirtmantel",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=87106",
-            "description": null,
+            "description": "",
             "image_uri_remote": null,
             "image_uri_extract": null
         },
@@ -40253,7 +40253,7 @@
             "french": "costume chemise",
             "german": "Hemdanzug (m)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=86808",
-            "description": null,
+            "description": "",
             "image_uri_remote": null,
             "image_uri_extract": null
         },
@@ -41397,7 +41397,7 @@
             "french": "fils de bandelette",
             "german": "Folienfasern (f)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=86134",
-            "description": null,
+            "description": "",
             "image_uri_remote": null,
             "image_uri_extract": null
         },
@@ -43707,7 +43707,7 @@
             "french": "col anglais",
             "german": "Tab-Kragen (m)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=85098",
-            "description": null,
+            "description": "",
             "image_uri_remote": null,
             "image_uri_extract": null
         },
@@ -44829,7 +44829,7 @@
             "french": "costume trois pièces [pantalon, gilet, veston]",
             "german": "Anzug (m) dreiteilig",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=86829",
-            "description": null,
+            "description": "",
             "image_uri_remote": null,
             "image_uri_extract": null
         },
@@ -45984,7 +45984,7 @@
             "french": "technique de cueillage",
             "german": "Fangtechnik (f)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=84446",
-            "description": null,
+            "description": "",
             "image_uri_remote": null,
             "image_uri_extract": null
         },
@@ -46072,7 +46072,7 @@
             "french": "turban",
             "german": "Turban (m)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=87395",
-            "description": null,
+            "description": "",
             "image_uri_remote": null,
             "image_uri_extract": null
         },
