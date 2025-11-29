@@ -52,9 +52,10 @@ export async function fetchAndParseAllPoFiles({ concurrency = 4 } = {}) {
             arabic: p.arabic,
             glossaryEn: src.projectEn,
             glossaryAr: src.projectAr,
+            glossaryUrl: src.url,
             publisherAr: src.publisherAr,
             publisherEn: src.publisherEn,
-            sourceUrl: src.url
+            termURL: src.url
           });
         }
       } catch (err) {
