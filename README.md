@@ -14,26 +14,12 @@
 | قاموس مصطلحات تكنولوجيا المعلومات والاتصالات | هيئة تنظيم الاتصالات والحكومة الرقمية | [زيارة](https://tdra.gov.ae/ar/Pages/ict-dictionary)                                                 |
 | معجم البيانات و الذكاء الاصطناعي             | الهيئة السعودية للبيانات              | [زيارة](https://sdaia.gov.sa/ar/MediaCenter/KnowledgeCenter/ResearchLibrary/SDAIAPublications15.pdf) |
 | مسرد مصطلحات أمن المعلومات                   | الهيئة الوطنية لخدمة الشبكات          | [زيارة](https://archive.org/details/SYRIA0000ENAR)                                                   |
+| مشروع المصطلحات الخاصة            | المنظمة العربية للترجمة          | [زيارة](https://archive.org/details/NAH2012ENFRAR/)                                                   |
+| دليل وظيفي في المعلوميات           | المجلس الأعلى للغة العربية          | [زيارة](https://www.hcla.dz/media/magazines/pdf/da5.pdf)                                                   |
 
 ---
 
 ---
-
-# sv
-
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
-
-## Creating a project
-
-If you're seeing this, you've probably already done this step. Congrats!
-
-```sh
-# create a new project in the current directory
-npx sv create
-
-# create a new project in my-app
-npx sv create my-app
-```
 
 ## Developing
 
