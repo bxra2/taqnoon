@@ -1,16 +1,30 @@
 import { removeDiacritics } from '$lib/utils/removeDiacritics';
 import { fetchAndParseAllPoFiles } from '../utils/fetchAllPoFiles';
 let entries: { english: string; arabic: string }[] = [];
+let isLoaded = false
 
 self.onmessage = async (e) => {
     if (e.data.type === 'load') {
-        const allEntries = await fetchAndParseAllPoFiles();
-        entries = allEntries;
-
-        self.postMessage({ type: 'loaded', count: entries.length });
+        if (isLoaded) {
+            self.postMessage({ type: 'ready', count: entries.length });
+            return;
+        }
+        try {
+            const allEntries = await fetchAndParseAllPoFiles();
+            entries = allEntries;
+            isLoaded = true
+            self.postMessage({ type: 'ready', count: entries.length })
+        } catch (error) {
+            self.postMessage({ type: 'error', message: 'فشل تحميل الترجمات' })
+        }
+        return
     }
 
     if (e.data.type === 'search') {
+        if (!isLoaded) {
+            self.postMessage({ type: 'error', message: 'الترجمات لم تحمل بعد' })
+            return
+        }
         const lower = e.data.query.toLowerCase();
         const normalizedQuery = removeDiacritics(e.data.query);
 
@@ -20,20 +34,20 @@ self.onmessage = async (e) => {
             results = entries.filter(
                 (entry) =>
                     entry.english.toLowerCase() === lower ||
-                    entry.arabic.toLowerCase() === normalizedQuery
+                    removeDiacritics(entry.arabic) === normalizedQuery
             )
         } else {
             const exactMatches = entries.filter(
                 (entry) =>
                     entry.english.toLowerCase() === lower ||
-                    entry.arabic.toLowerCase() === normalizedQuery
+                    removeDiacritics(entry.arabic) === normalizedQuery
             )
 
             const partialMatches = entries.filter(
                 (entry) =>
                     !exactMatches.includes(entry) && (
                         entry.english.toLowerCase().includes(lower) ||
-                        entry.arabic.toLowerCase().includes(normalizedQuery)
+                        removeDiacritics(entry.arabic).includes(normalizedQuery)
                     )
             );
 
@@ -42,4 +56,4 @@ self.onmessage = async (e) => {
 
         self.postMessage({ type: 'results', results })
     }
-};
+}

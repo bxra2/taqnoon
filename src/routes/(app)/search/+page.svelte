@@ -1,12 +1,12 @@
 <script lang="ts">
-    import { page } from '$app/stores'
+    import { page } from '$app/state'
     import Loading from '$lib/components/Loading.svelte'
     import Paginator from '$lib/components/Paginator.svelte'
     import TermCard from '$lib/components/TermCard.svelte'
     import Slider from '$src/lib/components/Slider.svelte'
-    import { browser } from '$app/environment'
-    import { getContext, onDestroy } from 'svelte'
+    import { onMount } from 'svelte'
     import { removeDiacritics } from '$src/lib/utils/removeDiacritics.js'
+    import { getLocalizationWorker, workerReady } from '$lib/stores/localizationWorker'
 
     let { data } = $props()
 
@@ -18,36 +18,48 @@
     let allTerms = [...(data.termData || [])]
     let localizationResults = $state([])
     let isWorkerSearching = $state(false)
+    let localizationWorker: Worker | null = null
+    let messageHandler: ((e: MessageEvent) => void) | undefined
 
     function scrollToTop() {
         window.scrollTo({ top: 0, behavior: 'smooth' })
     }
-    const localizationWorker = getContext<Worker>('localizationWorker')
 
-    if (browser && localizationWorker) {
-        const handleMessage = (e) => {
-            if (e.data.type === 'loaded') {
-                console.log(`Worker loaded ${e.data.count} entries`)
-            }
+    onMount(() => {
+        // Get the worker from the shared store
+        localizationWorker = getLocalizationWorker()
+        
+        if (!localizationWorker) {
+            console.warn('Localization worker not initialized')
+            return
+        }
+
+        messageHandler = (e: MessageEvent) => {
             if (e.data.type === 'results') {
-                // This will trigger mergedResults to recalculate
+                console.log(`Received ${e.data.results.length} localization results`)
                 localizationResults = e.data.results
+                isWorkerSearching = false
+            }
+            if (e.data.type === 'error') {
+                console.error('Worker error:', e.data.message)
                 isWorkerSearching = false
             }
         }
         
-        localizationWorker.addEventListener('message', handleMessage)
+        localizationWorker.addEventListener('message', messageHandler)
         
-        onDestroy(() => {
-            localizationWorker.removeEventListener('message', handleMessage)
-        })
-    }
+        return () => {
+            if (localizationWorker && messageHandler) {
+                localizationWorker.removeEventListener('message', messageHandler)
+            }
+        }
+    })
 
     $effect(() => {
-        const q = $page.url.searchParams.get('q')
-        const exact = $page.url.searchParams.get('exact') === 'true'
-        const desc = $page.url.searchParams.get('desc') === 'true'
-        const lookup = $page.url.searchParams.get('lookup') === 'true'
+        const q = page.url.searchParams.get('q')
+        const exact = page.url.searchParams.get('exact') === 'true'
+        const desc = page.url.searchParams.get('desc') === 'true'
+        const lookup = page.url.searchParams.get('lookup') === 'true'
         if (q) {
             handleSearch(q, allTerms, exact, desc, lookup)
         } else {
@@ -57,12 +69,6 @@
     })
 
     let mergedResults = $derived.by(() => {
-        console.log('Recalculating mergedResults:', {
-            resultsLength: results.length,
-            localizationLength: localizationResults.length
-        })
-
-        // If no localization results, just return regular results
         if (localizationResults.length === 0) {
             return results
         }
@@ -75,14 +81,12 @@
         
         for (const term of localizationResults) {
             if (uniqueTerms.has(term.id)) {
-                // Merge properties from both sources
                 uniqueTerms.set(term.id, {
                     ...uniqueTerms.get(term.id),
                     ...term,
                     fromLocalization: true
                 })
             } else {
-                // Add new term from localization
                 uniqueTerms.set(term.id, { ...term, fromLocalization: true })
             }
         }
@@ -96,13 +100,13 @@
         const endIndex = startIndex + limit
         return mergedResults.slice(startIndex, endIndex)
     })
-
     // Show empty state only when not searching and query exists but no results
     let showEmptyState = $derived(
         !isSearching &&
             !isWorkerSearching &&
             mergedResults.length === 0 &&
-            $page.url.searchParams.get('q')?.trim()
+            page.url.searchParams.get('q')?.trim() &&
+            (!page.url.searchParams.get('lookup') || $workerReady)
     )
 
     async function handleSearch(
@@ -126,13 +130,15 @@
         
         await new Promise((resolve) => setTimeout(resolve, 100))
 
-        if (lookupLocalization && localizationWorker) {
+        if (lookupLocalization && localizationWorker && $workerReady) {
             isWorkerSearching = true
             localizationWorker.postMessage({
                 type: 'search',
                 query,
                 exact,
             })
+        } else if (lookupLocalization && !$workerReady) {
+            console.warn('Worker not ready yet for localization search')
         }
 
         const lower = query.toLowerCase()
@@ -168,13 +174,11 @@
                 const aAr = removeDiacritics(a.arabic || '')
                 const bAr = removeDiacritics(b.arabic || '')
 
-                // Exact matches first
                 const aExact = aEng === lower || aAr === normalizedQuery
                 const bExact = bEng === lower || bAr === normalizedQuery
                 if (aExact && !bExact) return -1
                 if (bExact && !aExact) return 1
 
-                // Starts-with next
                 const aStarts =
                     aEng.startsWith(lower) || aAr.startsWith(normalizedQuery)
                 const bStarts =
@@ -182,10 +186,11 @@
                 if (aStarts && !bStarts) return -1
                 if (bStarts && !aStarts) return 1
 
-                // Otherwise keep original order
                 return 0
-            })
-
+            }).map((item, index) => ({...item,
+                id: item.id || `${item.publisherEn}${item.english}${index}`
+            }))
+            // add id to results
         currentPage = 1
         isSearching = false
     }
@@ -204,7 +209,6 @@
                 grouped[publisher].add(glossary)
             }
 
-            // Convert Sets back to arrays
             return Object.fromEntries(
                 Object.entries(grouped).map(([k, v]) => [k, Array.from(v)])
             )
@@ -227,10 +231,16 @@
             </button>
         </div>
         <Slider bind:open={showSlider}>
-            <h2 class="text-3xl mt-8 mb-6">عدد النتائج : {mergedResults.length}</h2>
+            <h2 class="text-3xl mt-8 mb-6">
+                عدد النتائج : {mergedResults.length}
+            </h2>
             {#if localizationResults.length > 0}
-                <h2 class="text-3xl mt-8 mb-6">النتائج المعجمية: {results.length}</h2>
-                <h2 class="text-3xl mt-8 mb-6">النتائج المترجمة: {localizationResults.length}</h2>
+                <h2 class="text-3xl mt-8 mb-6">
+                    النتائج المعجمية: {results.length}
+                </h2>
+                <h2 class="text-3xl mt-8 mb-6">
+                    النتائج المترجمة: {localizationResults.length}
+                </h2>
             {/if}
             <h2 class="text-3xl mt-8 mb-6">المعاجم</h2>
 
@@ -245,6 +255,13 @@
                 </div>
             {/each}
         </Slider>
+        {#if isWorkerSearching}
+            <div class="mb-4 p-3 bg-blue-50 dark:bg-blue-900/20 rounded border border-blue-200 dark:border-blue-800 text-center">
+                <span class="text-sm text-blue-700 dark:text-blue-300">
+                    جاري البحث في الترجمات...
+                </span>
+            </div>
+        {/if}
         <ul class="space-y-4">
             {#each paginatedResults as term, i (term.id ?? i)}
                 <TermCard {term} />
@@ -260,6 +277,11 @@
         </div>
     {:else if isSearching || isWorkerSearching}
         <Loading message="جاري البحث..." />
+        {#if isWorkerSearching && !isSearching}
+            <p class="text-center text-sm text-gray-600 dark:text-gray-400 mt-2">
+                البحث في الترجمات قد يستغرق بعض الوقت...
+            </p>
+        {/if}
     {:else if showEmptyState}
         <p class="text-center text-gray-500">لا توجد نتائج</p>
     {/if}

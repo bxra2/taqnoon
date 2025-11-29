@@ -47,7 +47,7 @@ export async function fetchAndParseAllPoFiles({ concurrency = 4 } = {}) {
         const parsed = parsePo(text);
         for (const p of parsed) {
           allEntries.push({
-            id: src.publisherEn+idCounter++,
+            id: src.publisherEn+p.english+idCounter++,
             english: p.english,
             arabic: p.arabic,
             glossaryEn: src.projectEn,

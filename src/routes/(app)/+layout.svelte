@@ -5,31 +5,26 @@
     import Loading from '$lib/components/Loading.svelte'
     import '$src/app.css'
     import { goto } from '$app/navigation'
-    import { navigating, page } from '$app/stores'
+    import { navigating } from '$app/stores'
+    import { page } from '$app/state'
     import { isRTL } from '$lib/utils/changeDirection'
-    import { setContext } from 'svelte'
-    import { browser } from '$app/environment'
+    import {
+        workerReady,
+        workerError,
+    } from '$lib/stores/localizationWorker'
 
     let { children } = $props()
 
-    let localizationWorker: Worker | undefined = $state()
+    let query = $state(page.url.searchParams.get('q'))
+    let isHome = $derived(page.url.pathname === '/')
+    let exactMatch = $state(page.url.searchParams.get('exact') === 'true')
+    let includeDescription = $state(
+        page.url.searchParams.get('desc') === 'true'
+    )
+    let lookupLocalization = $state(
+        page.url.searchParams.get('lookup') === 'true'
+    )
 
-    if (browser) {
-        localizationWorker = new Worker(
-            new URL('$lib/workers/localization-worker.ts', import.meta.url),
-            { type: 'module' }
-        )
-        localizationWorker.postMessage({ type: 'load' })
-    }
-
-    setContext('localizationWorker', localizationWorker)
-
-    let query = $state($page.url.searchParams.get('q'))
-    let isHome = $derived($page.url.pathname === '/')
-    let exactMatch = $state($page.url.searchParams.get('exact') === 'true')
-    let includeDescription = $state($page.url.searchParams.get('desc') === 'true')
-    let lookupLocalization = $state($page.url.searchParams.get('lookup') === 'true')
-    
     let searchAlign = $derived(query ? isRTL(query) : true)
 
     function search() {
@@ -96,23 +91,39 @@
                 ابحث
             </button>
         </div>
-         <div class="flex items-center justify-center my-2 gap-6">
+        <div class="flex items-center justify-center my-2 gap-6">
             <input type="checkbox" bind:checked={exactMatch} id="exact" />
             <label for="exact" class="flex items-center gap-2 text-sm">
-                بحث مطابق تماماً
+                بحث مطابق
             </label>
-            <input type="checkbox" bind:checked={includeDescription} id="desc" />
-
+            <input
+                type="checkbox"
+                bind:checked={includeDescription}
+                id="desc"
+            />
             <label for="desc" class="flex items-center gap-2 text-sm">
                 يشمل الوصف
             </label>
-            <input type="checkbox" bind:checked={lookupLocalization} id="lookup" />
-            <label for="lookup" class="flex items-center gap-2 text-sm cursor-pointer">
+            <input
+                type="checkbox"
+                bind:checked={lookupLocalization}
+                id="lookup"
+                disabled={!$workerReady}
+            />
+            <label
+                for="lookup"
+                class="flex items-center gap-2 text-sm cursor-pointer"
+                class:opacity-50={!$workerReady}
+            >
                 بحث في ترجمات البرمجيات مفتوحة المصدر
             </label>
         </div>
     </div>
-
+    {#if !$workerReady && !$workerError}
+        <span class="text-xs opacity-60">(جاري التحميل...)</span>
+    {:else if $workerError}
+        <span class="text-xs text-red-500">({$workerError})</span>
+    {/if}
     <!-- Loading State -->
     {#if $navigating}
         <Loading message="جاري تحميل المعاجم..." />

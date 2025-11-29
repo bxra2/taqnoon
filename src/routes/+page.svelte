@@ -4,6 +4,8 @@
     import { isRTL } from '$lib/utils/changeDirection'
     import Glossaries from '$src/lib/components/Glossaries.svelte'
     import DarkMode from '$src/lib/components/DarkMode.svelte'
+    import Loading from '$src/lib/components/Loading.svelte'
+    import { workerReady, workerError } from '$lib/stores/localizationWorker'
 
     let query = $state('')
     let exactMatch = $state(false)
@@ -45,7 +47,7 @@
             محرك بحث جامع للمعاجم التقنية لسهولة البحث و المقارنة فيها
         </h2>
     </div>
-    <div class="flex flex-col gap-2 w-full max-w-2xl mb-6 border p-4 rounded-lg search-bar" dir="rtl"> 
+    <div class="flex flex-col gap-2 w-full max-w-2xl mb-6 border p-4 rounded-lg search-bar" dir="rtl">
         <div class="flex gap-2 w-full max-w-2xl mb-6" dir="rtl">
             <input
                 type="text"
@@ -59,15 +61,21 @@
         <div class="flex w-full max-w-2xl mb-6 px-1 gap-6" dir="rtl">
             <label class="flex items-center gap-2 text-sm cursor-pointer">
                 <input type="checkbox" bind:checked={exactMatch} />
-                بحث مطابق تماماً
+                بحث مطابق
             </label>
             <label class="flex items-center gap-2 text-sm cursor-pointer">
                 <input type="checkbox" bind:checked={includeDescription} />
                 يشمل الوصف
             </label>
-             <label class="flex items-center gap-2 text-sm cursor-pointer">
-                <input type="checkbox" bind:checked={lookupLocalization} />
-                بحث في ترجمات البرمجيات مفتوحة المصدر
+            <label class="flex items-center gap-2 text-sm cursor-pointer">
+                <input
+                    type="checkbox"
+                    bind:checked={lookupLocalization}
+                    disabled={!$workerReady}
+                />
+                <span class:opacity-50={!$workerReady}>
+                    بحث في ترجمات البرمجيات مفتوحة المصدر
+                </span>
             </label>
         </div>
         <div class="flex gap-2 w-full max-w-2xl justify-center" dir="rtl">
@@ -81,4 +89,11 @@
             </button>
         </div>
     </div>
+    {#if !$workerReady && !$workerError}
+        <span class="text-xs opacity-60">
+            <Loading message="جاري التحميل..." />
+        </span>
+    {:else if $workerError}
+        <span class="text-xs text-red-500">({$workerError})</span>
+    {/if}
 </div>
