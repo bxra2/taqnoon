@@ -10,12 +10,13 @@
 | معجم عرب تيرم                                | عرب تيرم                              | [زيارة](https://arabterm.org/)                                                                       |
 | معجم المصطلحات المعلوماتية                   | الجمعية العلمية السورية المعلوماتية   | [زيارة](https://archive.org/details/SOI2000ENAR/mode/2up)                                            |
 | قائمة مصطلحات المعلوماتية                    | مجمع اللغة العربية بدمشق              | [زيارة](https://arabacademy-sy.org/uploads/academy_publication/books/informatic-list.pdf)            |
+| مسرد معجم مصطلحات الرياضيات                  | مجمع اللغة العربية بدمشق              | [زيارة](https://archive.org/details/DAM2018ENAR-B/mode/2up)                                          |
 | قاموس مصطلحات المستقبل                       | مؤسسة دبي المستقبل                    | [زيارة](https://arabicglossary.dubaifuture.ae/ar/)                                                   |
 | قاموس مصطلحات تكنولوجيا المعلومات والاتصالات | هيئة تنظيم الاتصالات والحكومة الرقمية | [زيارة](https://tdra.gov.ae/ar/Pages/ict-dictionary)                                                 |
 | معجم البيانات و الذكاء الاصطناعي             | الهيئة السعودية للبيانات              | [زيارة](https://sdaia.gov.sa/ar/MediaCenter/KnowledgeCenter/ResearchLibrary/SDAIAPublications15.pdf) |
 | مسرد مصطلحات أمن المعلومات                   | الهيئة الوطنية لخدمة الشبكات          | [زيارة](https://archive.org/details/SYRIA0000ENAR)                                                   |
-| مشروع المصطلحات الخاصة            | المنظمة العربية للترجمة          | [زيارة](https://archive.org/details/NAH2012ENFRAR/)                                                   |
-| دليل وظيفي في المعلوميات           | المجلس الأعلى للغة العربية          | [زيارة](https://www.hcla.dz/media/magazines/pdf/da5.pdf)                                                   |
+| مشروع المصطلحات الخاصة                       | المنظمة العربية للترجمة               | [زيارة](https://archive.org/details/NAH2012ENFRAR/)                                                  |
+| دليل وظيفي في المعلوميات                     | المجلس الأعلى للغة العربية            | [زيارة](https://www.hcla.dz/media/magazines/pdf/da5.pdf)                                             |
 
 ---
 
