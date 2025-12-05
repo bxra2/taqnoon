@@ -60,7 +60,7 @@
 >
     <div dir="rtl" class="flex items-center justify-between mb-6">
         <h1
-            class="text-3xl font-bold text-center {isHome
+            class="text-3xl font-bold text-center almahdi {isHome
                 ? 'text-6xl'
                 : 'text-3xl'}"
         >

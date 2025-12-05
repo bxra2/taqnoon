@@ -27,8 +27,8 @@
     src: url('/fonts/almahdi.otf');
 }
 @font-face {
-    font-family: 'naskh';
-    src: url('/fonts/decotype_naskh.ttf');
+    font-family: 'arabic-ui';
+    src: url('/fonts/arabic-ui-display.ttf');
 }
 :root {
     --bg-color: #f0efea;
@@ -37,6 +37,9 @@
     --border-color: #cfcaba;
     --border-focus: #837b73;
     --muted: #6b5b4b;
+}
+.almahdi{
+    font-family: 'almahdi' !important;
 }
 
 [data-theme='dark'] {
@@ -51,7 +54,7 @@
     --shadow: rgba(0, 0, 0, 0.3);
 }
 * {
-    font-family: 'Playfair Display', 'almahdi' !important;
+    font-family: 'Playfair Display', 'arabic-ui' !important;
 }
 body {
     background-color: var(--bg-color);
@@ -153,7 +156,7 @@ header {
     word-spacing: 0.2em;
     letter-spacing: 0.05rem;
     color: var(--text-color);
-    font-family: 'Noto Serif Arabic', serif;
+    font-family: 'arabic-ui', serif;
 }
 
 .translations p {
