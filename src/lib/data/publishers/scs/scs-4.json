@@ -3231,7 +3231,7 @@
             "termURL": " https://scs.org.sy/scs/qamous/search?q=scs/qamous/showterm/3537"
         },
         {
-            "english": "URL",
+            "english": "termURL",
             "arabic": "عنوان مَوْرِد نظامي",
             "description": "مختصر: Uniform Resource Locator. عنوانُ مَوْرِدٍ على إنترنت. تُستخدَمُ URL من قبل متصفِّحات Web للعثور على الموارد. يحدِّد URL الميفاقَ protocol الواجبَ استخدامُه للنفاذ إلى الموْرد المطلوب (مثل //:http لصفحة موطن على Web، أو //:ftp لموقع FTP) ويحدِّد اسمَ المخدِّمِ الذي يوجد عنده المورد (مثل (//www.whitehouse.gov)، ويحدِّد، اختيارياً، المسارَ للوصول إلى المورد (مثل ملف HTML أو وثيقة على المخدِّم).",
             "termURL": " https://scs.org.sy/scs/qamous/search?q=scs/qamous/showterm/3538"

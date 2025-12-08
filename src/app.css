@@ -30,6 +30,10 @@
     font-family: 'arabic-ui';
     src: url('/fonts/arabic-ui-display.ttf');
 }
+@font-face {
+    font-family: 'mestika';
+    src: url('/fonts/mestika.otf');
+}
 :root {
     --bg-color: #f0efea;
     --text-color: #141413;
@@ -39,7 +43,7 @@
     --muted: #6b5b4b;
 }
 .almahdi{
-    font-family: 'almahdi' !important;
+    font-family: 'mestika' !important;
 }
 
 [data-theme='dark'] {
@@ -54,7 +58,7 @@
     --shadow: rgba(0, 0, 0, 0.3);
 }
 * {
-    font-family: 'Playfair Display', 'arabic-ui' !important;
+    font-family: 'Playfair Display', 'mestika' !important;
 }
 body {
     background-color: var(--bg-color);
@@ -154,7 +158,6 @@ header {
     font-size: 1.2rem;
     direction: rtl;
     word-spacing: 0.2em;
-    letter-spacing: 0.05rem;
     color: var(--text-color);
     font-family: 'arabic-ui', serif;
 }
