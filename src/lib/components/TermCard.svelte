@@ -1,5 +1,6 @@
 <!-- partial -->
 <script lang="ts">
+    import { marked } from 'marked'
     export interface Term {
         english: string
         arabic: string
@@ -36,7 +37,7 @@
     </header>
     {#if term.description}
         <b>الوصف: </b>
-        <p class="desc">{term.description}</p>
+        <p class="desc">{@html marked.parse(term.description)}</p>
     {/if}
 
     {#if term.german || term.french}
