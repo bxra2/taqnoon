@@ -31,8 +31,8 @@
     src: url('/fonts/arabic-ui-display.ttf');
 }
 @font-face {
-    font-family: 'kookies';
-    src: url('/fonts/kookies.otf');
+    font-family: 'IBMPlexSansArabic';
+    src: url('/fonts/IBMPlexSansArabic.ttf');
 }
 :root {
     --bg-color: #f0efea;
@@ -43,7 +43,7 @@
     --muted: #6b5b4b;
 }
 .almahdi{
-    font-family: 'kookies' !important;
+    font-family: 'IBMPlexSansArabic' !important;
 }
 
 [data-theme='dark'] {
@@ -58,7 +58,7 @@
     --shadow: rgba(0, 0, 0, 0.3);
 }
 * {
-    font-family: 'Playfair Display', 'kookies' !important;
+    font-family: 'Playfair Display', 'IBMPlexSansArabic' !important;
 }
 body {
     background-color: var(--bg-color);
