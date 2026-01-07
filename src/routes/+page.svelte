@@ -79,7 +79,6 @@
             </label>
         </div>
         <div class="flex gap-2 w-full max-w-2xl justify-center" dir="rtl">
-            <Glossaries />
             <button
                 onclick={search}
                 class="px-6 py-3 search-button rounded"
