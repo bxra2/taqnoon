@@ -2,16 +2,47 @@
     import '$src/app.css'
     import { goto } from '$app/navigation'
     import { isRTL } from '$lib/utils/changeDirection'
-    import Glossaries from '$src/lib/components/Glossaries.svelte'
     import DarkMode from '$src/lib/components/DarkMode.svelte'
     import Loading from '$src/lib/components/Loading.svelte'
     import { workerReady, workerError } from '$lib/stores/localizationWorker'
 
+    let { data } = $props()
     let query = $state('')
     let exactMatch = $state(false)
     let includeDescription = $state(false)
     let lookupLocalization = $state(false)
     let searchAlign = $derived(query ? isRTL(query) : true)
+
+    let randomTerms = $state<string[]>([])
+
+    $effect(() => {
+        if (data.termData && data.termData.length > 0 && randomTerms.length === 0) {
+            const oneWordTerms = data.termData
+                .filter((t: any) => {
+                    const ar = t.arabic?.trim()
+                    const en = t.english?.trim()
+                    // Check for single word (no spaces)
+                    return (ar && !ar.includes(' ')) || (en && !en.includes(' '))
+                })
+                .map((t: any) => {
+                     // Prefer Arabic, then English
+                     const ar = t.arabic?.trim()
+                     if (ar && !ar.includes(' ')) return ar
+                     return t.english?.trim()
+                })
+            
+            // Randomize and pick 10
+            const unique = new Set<string>()
+            const max = oneWordTerms.length
+
+            while (unique.size < 10 && unique.size < max) {
+                const idx = Math.floor(Math.random() * max)
+                unique.add(oneWordTerms[idx])
+            }
+
+            randomTerms = [...unique]
+        }
+    })
 
     function search() {
         if (!query) return
@@ -81,12 +112,31 @@
         <div class="flex gap-2 w-full max-w-2xl justify-center" dir="rtl">
             <button
                 onclick={search}
-                class="px-6 py-3 search-button rounded"
+                class="search-button px-8 py-3.5 mb-[1px] bg-primary text-white rounded-xl hover:bg-primary/90 transition-colors flex items-center gap-2 font-bold shadow-lg shadow-primary/20"
                 disabled={!query}
             >
                 ابحث
             </button>
         </div>
+
+        {#if randomTerms.length > 0}
+            <div class="w-full pt-4 mt-2 border-t border-gray-100 dark:border-stone-700">
+                <p class="text-xs text-center text-gray-400 mb-3">مقترحات للبحث</p>
+                <div class="flex flex-wrap justify-center gap-2">
+                    {#each randomTerms as term}
+                        <button
+                            class="px-3 py-1.5 text-sm bg-gray-50 dark:bg-stone-800 hover:bg-primary/10 hover:text-primary rounded-full transition-colors border border-gray-200 dark:border-stone-700"
+                            onclick={() => {
+                                query = term
+                                search()
+                            }}
+                        >
+                            {term}
+                        </button>
+                    {/each}
+                </div>
+            </div>
+        {/if}
     </div>
     {#if !$workerReady && !$workerError}
         <span class="text-xs opacity-60">

@@ -66,9 +66,10 @@ body {
     line-height: 1.6;
     transition: background-color 0.3s ease;
     margin: 0;
-    padding: 1rem;
+    /* padding: 1rem; */
     word-spacing: 0.1em;
     min-height: 100dvh;
+    max-height: 100dvh;
 }
 
 .logo-header {
@@ -84,7 +85,8 @@ body {
 }
 input {
     font-family: inherit;
-    /* background-color: #fff; */
+    background-color: transparent;
+    color: var(--text-color);
     border: 1px solid var(--border-color);
     padding: 0.6rem 0.8rem;
     width: 100%;
@@ -93,8 +95,13 @@ input {
     transition: border-color 0.2s;
 }
 
+input::placeholder {
+    color: var(--muted);
+    opacity: 0.7;
+}
+
 input:focus {
-    border-color: var(--border);
+    border-color: var(--border-focus);
 }
 
 h1,
@@ -126,7 +133,9 @@ a:hover {
     opacity: 0.8;
     transition: opacity 0.2s ease;
 }
-
+.accent{
+    background-color: var(--accent);
+}
 .search-button:disabled {
     cursor: default;
     opacity: 0.8;
