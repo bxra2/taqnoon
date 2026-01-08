@@ -313,7 +313,7 @@
             "id": 44.0,
             "english": "add-on-kit",
             "french": "kit complémentaire",
-            "arabic": null,
+            "arabic": "عُدَّة إضَافِيِّة",
             "description": "مجموعة عناصر تشكل وحدة جاهزة."
         },
         {
@@ -600,7 +600,7 @@
             "id": 85.0,
             "english": "application action bar",
             "french": "barre de menus",
-            "arabic": null,
+            "arabic": "شَرِيطُ قَائِمَةِ خِيَارَات",
             "description": "لوحة تظهر قائمة أسماء تطبيقات فرعية يمكن للمستعمل أن يختار منها ما يريد."
         },
         {
@@ -1734,7 +1734,7 @@
             "id": 247.0,
             "english": "clip art",
             "french": "image électronique",
-            "arabic": null,
+            "arabic": "صُورَة إِلْكْترُونِيّة",
             "description": "صورة يمكن نسخها من وثيقة أو قرص ليتم استعمالها في ما بعد في قرص أو وثيقة."
         },
         {
@@ -3233,7 +3233,7 @@
             "english": "drag and drop",
             "french": "glisser; déplacer",
             "arabic": "إزْلاق، إسْقاط",
-            "description": null
+            "description": ""
         },
         {
             "id": 462.0,

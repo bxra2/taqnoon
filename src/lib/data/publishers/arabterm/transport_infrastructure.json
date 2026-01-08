@@ -13605,7 +13605,7 @@
             "french": "logistique de distribution",
             "german": "Distributionslogistik",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=77282",
-            "description": ""
+            "description": "هو مصطلح يرتبط في الغالب بمفاهميم مثل الخدمات اللوجيستية إضافة إلى لوجيستية توزيع السلع، حيث ان لوجيستية التوزيع هي وظيفة النقل بين البضائع الناتجة عن عمليات التصنيع المدعمة بالبرمجيات والتقنية ومدى احتياجات المستهلك."
         },
         {
             "id": 77283,
@@ -14964,7 +14964,7 @@
             "french": "évaluation économique (aussi appellée estimation ou analyse)",
             "german": "ökonomische Bewertung",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=76810",
-            "description": ""
+            "description": "يشير إلى طرق مختلفة لتحديد قيمة سياسة أو مشروع أو برنامج معين لمساعدة الأفراد ورجال الأعمال والمجتمعات من حيث اتخاذ القرارات التي المنطوية على المبادلات. يعتبر التقييم الاقتصادي جزءا مهما من عملية صنع القرار ."
         },
         {
             "id": 76811,
@@ -18798,7 +18798,7 @@
             "french": "essence",
             "german": "Benzin",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=78097",
-            "description": ""
+            "description": "مزيج معقد من الهيدروكربونات المتطايرة نسبيا، مع أو بدون كميات صغيرة من المواد المضافة التي يتم الحصول عليها عن طريق مزج تيارات مصفاة ا لتشكيل الوقود صالحة للاستخدام في المحركات الانفجارية. ويشمل بنزين المحرك على درجات من الوقود المتوفر على الرصاص و الخالي من الرصاص من الإضافة إلى مكونات المزج و البنزينن الكحولي."
         },
         {
             "id": 75032,
@@ -19091,7 +19091,7 @@
         {
             "id": 77363,
             "english": "goods-to-man principle",
-            "arabic": "",
+            "arabic": "وفي هذا المبدأ يتم تفريغ البضاعة المقصودة من أحد المخازن عن طريق أحد الرافعات أو الناقلات من خلال استخدام تقنيات الرفع وشاحنات الرفع والنقل.",
             "french": "principe 'marchandise vers l'homme'",
             "german": "Ware-zum-Mann-Prinzip",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=77363",
@@ -31470,7 +31470,7 @@
             "french": "pulvérisation au plasma (atmosphérique)",
             "german": "Plasmaspritzen (atmosphärisch)",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=76537",
-            "description": ""
+            "description": "قوس ضوئي يشتعل بكثافة طاقة عالية ويعطي الجزء الأكبر من طاقته الحرارية للغاز في قطب السالب"
         },
         {
             "id": 76538,
@@ -35106,7 +35106,7 @@
             "french": "relief route principale (liées aux fautes ou aux irrégularitées)",
             "german": "Zughilfsstraße",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=74718",
-            "description": ""
+            "description": "حارة السير أثناء حركة القطارات في حالة الأخطاء والإنحرافات"
         },
         {
             "id": 73325,
@@ -38148,7 +38148,7 @@
             "french": "aiguillage à protection sélective/ propre",
             "german": "Eigen/Zwieschutzweiche",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=74759",
-            "description": ""
+            "description": "الحالات الخاصة لتحويلات الحماية الثنائية لحماية عناصر السير"
         },
         {
             "id": 73361,

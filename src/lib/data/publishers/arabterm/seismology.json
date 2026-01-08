@@ -28,7 +28,7 @@
             "id": 154342,
             "english": "U. Valley",
             "arabic": "واد بشكل U",
-            "french": null,
+            "french": "",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=154342",
             "description": ""
         },
@@ -36,7 +36,7 @@
             "id": 154481,
             "english": "V. shaped valley",
             "arabic": "واد ضيق على شكل V",
-            "french": null,
+            "french": "",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=154481",
             "description": ""
         },
@@ -348,7 +348,7 @@
             "id": 150022,
             "english": "acaustobiolith (non combustible organic rocks)",
             "arabic": "صخورية عضوية غير قابلة للاحتراق",
-            "french": null,
+            "french": "",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=150022",
             "description": ""
         },
@@ -1934,7 +1934,7 @@
             "arabic": "",
             "french": "aiguë marine",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=150220",
-            "description": ""
+            "description": "الأحجار الكريمة ذات اللون الأزرق المخضر مثل البيريل الأزرق المخضر، الزفير الأزرق الباهت التوباس الأخضر"
         },
         {
             "id": 150221,
@@ -19548,7 +19548,7 @@
             "id": 152506,
             "english": "moat (marine geol)",
             "arabic": "منخفض حلفي بحري يحيط بمجموعة جبلية",
-            "french": null,
+            "french": "",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=152506",
             "description": ""
         },
@@ -19556,7 +19556,7 @@
             "id": 152507,
             "english": "moat (volcanic)",
             "arabic": "خندق يحيط بالجانب الداخلي لفوهة البركان",
-            "french": null,
+            "french": "",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=152507",
             "description": ""
         },
@@ -21532,7 +21532,7 @@
             "id": 152872,
             "english": "oligomiktic conglomerate",
             "arabic": "رصيص شبه متجانس",
-            "french": null,
+            "french": "",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=152872",
             "description": ""
         },
@@ -22004,7 +22004,7 @@
             "id": 152936,
             "english": "origin",
             "arabic": "أصل",
-            "french": null,
+            "french": "",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=152936",
             "description": ""
         },
@@ -22020,7 +22020,7 @@
             "id": 152938,
             "english": "original",
             "arabic": "أصلي",
-            "french": null,
+            "french": "",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=152938",
             "description": ""
         },
@@ -22340,7 +22340,7 @@
             "id": 152977,
             "english": "overburden",
             "arabic": "غطاء عقيم",
-            "french": null,
+            "french": "",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=152977",
             "description": ""
         },
@@ -22532,7 +22532,7 @@
             "id": 152878,
             "english": "oôlithe",
             "arabic": "سرء",
-            "french": null,
+            "french": "",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=152878",
             "description": ""
         },
@@ -22852,7 +22852,7 @@
             "id": 153037,
             "english": "partially penetrating well",
             "arabic": "بئر جزئي الاختراق",
-            "french": null,
+            "french": "",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=153037",
             "description": ""
         },
@@ -27068,7 +27068,7 @@
             "id": 153393,
             "english": "rhabdosome",
             "arabic": "هيكل بوليني",
-            "french": null,
+            "french": "",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=153393",
             "description": ""
         },
@@ -27812,7 +27812,7 @@
             "id": 153486,
             "english": "sabkha",
             "arabic": "سبخة",
-            "french": null,
+            "french": "",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=153486",
             "description": ""
         },
@@ -27820,7 +27820,7 @@
             "id": 153487,
             "english": "sabulous",
             "arabic": "رملي",
-            "french": null,
+            "french": "",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=153487",
             "description": ""
         },
@@ -28364,7 +28364,7 @@
             "id": 153555,
             "english": "screenings",
             "arabic": "موارد (ل..) المتبقية بعد الغربال",
-            "french": null,
+            "french": "",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=153555",
             "description": ""
         },
@@ -29900,7 +29900,7 @@
             "id": 153747,
             "english": "soil (fossil)",
             "arabic": "تربة مستحاثة مطمورة",
-            "french": null,
+            "french": "",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=153747",
             "description": ""
         },
@@ -29908,7 +29908,7 @@
             "id": 153748,
             "english": "soil corrosion",
             "arabic": "تآكل أرضي",
-            "french": null,
+            "french": "",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=153748",
             "description": ""
         },
@@ -29916,7 +29916,7 @@
             "id": 153749,
             "english": "soil creep",
             "arabic": "زحف التربة",
-            "french": null,
+            "french": "",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=153749",
             "description": ""
         },
@@ -29924,7 +29924,7 @@
             "id": 153750,
             "english": "soil sliding",
             "arabic": "انزلاق التربة",
-            "french": null,
+            "french": "",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=153750",
             "description": ""
         },
@@ -29932,7 +29932,7 @@
             "id": 153751,
             "english": "soil slumping",
             "arabic": "انهيار التربة",
-            "french": null,
+            "french": "",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=153751",
             "description": ""
         },
@@ -29940,7 +29940,7 @@
             "id": 153752,
             "english": "solar system",
             "arabic": "مجموعة (ال..) الشمسية",
-            "french": null,
+            "french": "",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=153752",
             "description": ""
         },
@@ -29948,7 +29948,7 @@
             "id": 153753,
             "english": "sole",
             "arabic": "سطح (ال..) السفلي لطبقة رسوبية",
-            "french": null,
+            "french": "",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=153753",
             "description": ""
         },
@@ -30012,7 +30012,7 @@
             "id": 153761,
             "english": "solum",
             "arabic": "مستوى (ال..) العلوي من مقطع التربة",
-            "french": null,
+            "french": "",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=153761",
             "description": ""
         },
@@ -30036,7 +30036,7 @@
             "id": 153764,
             "english": "sorosilicate",
             "arabic": "سيليكات مضاعفة",
-            "french": null,
+            "french": "",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=153764",
             "description": ""
         },
@@ -30140,7 +30140,7 @@
             "id": 153777,
             "english": "span",
             "arabic": "مدى، فترة",
-            "french": null,
+            "french": "",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=153777",
             "description": ""
         },
@@ -30172,7 +30172,7 @@
             "id": 153781,
             "english": "sparncian",
             "arabic": "جزء(ال..) العلوي من البيلوسين",
-            "french": null,
+            "french": "",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=153781",
             "description": ""
         },
@@ -30548,7 +30548,7 @@
             "id": 153828,
             "english": "spud-in",
             "arabic": "أبدأ الحفر",
-            "french": null,
+            "french": "",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=153828",
             "description": ""
         },
@@ -30620,7 +30620,7 @@
             "id": 153837,
             "english": "stack",
             "arabic": "صخر عال في بحر، مسلة بحرية",
-            "french": null,
+            "french": "",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=153837",
             "description": ""
         },
@@ -30860,7 +30860,7 @@
             "id": 153867,
             "english": "step fault",
             "arabic": "فالق متدرج",
-            "french": null,
+            "french": "",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=153867",
             "description": ""
         },
@@ -30868,7 +30868,7 @@
             "id": 153868,
             "english": "step fold",
             "arabic": "بنية أحادية الميل",
-            "french": null,
+            "french": "",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=153868",
             "description": ""
         },
@@ -30876,7 +30876,7 @@
             "id": 153869,
             "english": "stephanian",
             "arabic": "طابق (ال..) الأعلى في الفحمي العلوي",
-            "french": null,
+            "french": "",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=153869",
             "description": ""
         },
@@ -30884,7 +30884,7 @@
             "id": 153870,
             "english": "steppe",
             "arabic": "أحد السهول الفسيحة في سيبيريا",
-            "french": null,
+            "french": "",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=153870",
             "description": ""
         },
@@ -30892,7 +30892,7 @@
             "id": 153871,
             "english": "stepped growth",
             "arabic": "نمو مصطبي، نمو متدرج",
-            "french": null,
+            "french": "",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=153871",
             "description": ""
         },
@@ -30900,7 +30900,7 @@
             "id": 153872,
             "english": "steptoe",
             "arabic": "تلة محاطة بالمهارة",
-            "french": null,
+            "french": "",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=153872",
             "description": ""
         },
@@ -30924,7 +30924,7 @@
             "id": 153875,
             "english": "sterography",
             "arabic": "تصوير (ال..) المجسم",
-            "french": null,
+            "french": "",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=153875",
             "description": ""
         },
@@ -31012,7 +31012,7 @@
             "id": 153885,
             "english": "stone coal; anthracite",
             "arabic": "فحم حجري",
-            "french": null,
+            "french": "",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=153885",
             "description": ""
         },
@@ -31044,7 +31044,7 @@
             "id": 153890,
             "english": "stoss",
             "arabic": "سفح الوادي الجليدي",
-            "french": null,
+            "french": "",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=153890",
             "description": ""
         },
@@ -32244,7 +32244,7 @@
             "id": 154040,
             "english": "suture lines",
             "arabic": "خطوط الدرز",
-            "french": null,
+            "french": "",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=154040",
             "description": ""
         },
@@ -35132,7 +35132,7 @@
             "id": 154373,
             "english": "unconfined ground water",
             "arabic": "مياه جوفية ذات مستوى حر",
-            "french": null,
+            "french": "",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=154373",
             "description": ""
         },
@@ -37132,7 +37132,7 @@
             "id": 154624,
             "english": "water table",
             "arabic": "سطح المياه",
-            "french": null,
+            "french": "",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=154624",
             "description": ""
         },
@@ -37436,7 +37436,7 @@
             "id": 154662,
             "english": "wolf set",
             "arabic": "شبكة ولف",
-            "french": null,
+            "french": "",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=154662",
             "description": ""
         },

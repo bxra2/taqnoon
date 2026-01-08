@@ -5274,7 +5274,7 @@
         },
         {
             "id": 211560,
-            "english": "MAP(modified American plan)",
+            "english": "MAP (modified American plan)",
             "arabic": "إسكان مع وجبة",
             "french": "demi-pension",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=211560",
@@ -5282,9 +5282,9 @@
         },
         {
             "id": 211544,
-            "english": "Magasin hors-taxe;",
+            "english": "Magasin hors-taxe",
             "arabic": "السوق الحرة; مجموعة متاجر معفاة من الضرائب",
-            "french": null,
+            "french": "Magasin hors-taxe",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=211544",
             "description": ""
         },
@@ -5932,7 +5932,7 @@
             "id": 209908,
             "english": "agence emettrice",
             "arabic": "",
-            "french": null,
+            "french": "",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=209908",
             "description": ""
         },
@@ -32404,7 +32404,7 @@
             "id": 212202,
             "english": "sch……………….",
             "arabic": "رحلات جوية منتظمة",
-            "french": null,
+            "french": "",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212202",
             "description": ""
         },
@@ -40358,7 +40358,7 @@
             "arabic": "نفقات التعهد، نفقات الصيانة",
             "french": "frais d'entretien",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212833",
-            "description": null
+            "description": ""
         },
         {
             "id": 212834,
@@ -40366,7 +40366,7 @@
             "arabic": "سائح رفيع",
             "french": "touriste d'éxcellence",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212834",
-            "description": null
+            "description": ""
         },
         {
             "id": 212835,
@@ -40374,7 +40374,7 @@
             "arabic": "مضجع علوي، مرقد علوي",
             "french": "couchette supérieure",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212835",
-            "description": null
+            "description": ""
         },
         {
             "id": 212836,
@@ -40382,7 +40382,7 @@
             "arabic": "سطح علوي",
             "french": "pont supérieur",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212836",
-            "description": null
+            "description": ""
         },
         {
             "id": 209828,
@@ -40398,7 +40398,7 @@
             "arabic": "نقل حضري",
             "french": "transport urbain",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212837",
-            "description": null
+            "description": ""
         },
         {
             "id": 208953,
@@ -40406,7 +40406,7 @@
             "arabic": "استعمال",
             "french": "usage",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=208953",
-            "description": null
+            "description": ""
         },
         {
             "id": 208954,
@@ -40414,7 +40414,7 @@
             "arabic": "سهل الاستعمال",
             "french": "facilement utilisable",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=208954",
-            "description": null
+            "description": ""
         },
         {
             "id": 212838,
@@ -40422,7 +40422,7 @@
             "arabic": "وصيل",
             "french": "placeur",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212838",
-            "description": null
+            "description": ""
         },
         {
             "id": 212839,
@@ -40430,7 +40430,7 @@
             "arabic": "وصيلة، آذنة",
             "french": "ouvreuse",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212839",
-            "description": null
+            "description": ""
         },
         {
             "id": 208955,
@@ -40438,7 +40438,7 @@
             "arabic": "برنامج نفعي",
             "french": "programme utilitaire",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=208955",
-            "description": null
+            "description": ""
         },
         {
             "id": 208956,
@@ -40446,7 +40446,7 @@
             "arabic": "قول",
             "french": "propos; énoncé",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=208956",
-            "description": null
+            "description": ""
         },
         {
             "id": 212841,
@@ -40454,7 +40454,7 @@
             "arabic": "غرف شاغرة",
             "french": "chambres libres",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212841",
-            "description": null
+            "description": ""
         },
         {
             "id": 212842,
@@ -40462,7 +40462,7 @@
             "arabic": "إجازة، عطلة",
             "french": "vacances; villégiature",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212842",
-            "description": null
+            "description": ""
         },
         {
             "id": 212843,
@@ -40470,7 +40470,7 @@
             "arabic": "مخيم عطل",
             "french": "colonie de vacances",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212843",
-            "description": null
+            "description": ""
         },
         {
             "id": 212844,
@@ -40478,7 +40478,7 @@
             "arabic": "تأجير موسمي",
             "french": "location saisonniére",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212844",
-            "description": null
+            "description": ""
         },
         {
             "id": 212845,
@@ -40486,7 +40486,7 @@
             "arabic": "مكان عطل",
             "french": "lieu de vacances",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212845",
-            "description": null
+            "description": ""
         },
         {
             "id": 212846,
@@ -40494,7 +40494,7 @@
             "arabic": "مُعَطِّل",
             "french": "vacancier",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212846",
-            "description": null
+            "description": ""
         },
         {
             "id": 212847,
@@ -40502,7 +40502,7 @@
             "arabic": "تلقيح، تطعيم",
             "french": "vaccination",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212847",
-            "description": null
+            "description": ""
         },
         {
             "id": 212848,
@@ -40510,7 +40510,7 @@
             "arabic": "شهادة التلقيح، شهادة التطعيم",
             "french": "certificat de vaccination",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212848",
-            "description": null
+            "description": ""
         },
         {
             "id": 212849,
@@ -40518,7 +40518,7 @@
             "arabic": "خادم",
             "french": "valet de chambre",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212849",
-            "description": null
+            "description": ""
         },
         {
             "id": 208957,
@@ -40526,7 +40526,7 @@
             "arabic": "تحقيق الصدق، تحقق الصحة",
             "french": "validation",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=208957",
-            "description": null
+            "description": ""
         },
         {
             "id": 208958,
@@ -40534,7 +40534,7 @@
             "arabic": "صِحَّة",
             "french": "validité",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=208958",
-            "description": null
+            "description": ""
         },
         {
             "id": 212850,
@@ -40542,7 +40542,7 @@
             "arabic": "صلاحية، مدة الصلاحية",
             "french": "validité; durée de validité",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212850",
-            "description": null
+            "description": ""
         },
         {
             "id": 208959,
@@ -40550,7 +40550,7 @@
             "arabic": "مِحَكَّات الصدق، معايير الصحة",
             "french": "critères de validité",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=208959",
-            "description": null
+            "description": ""
         },
         {
             "id": 212851,
@@ -40558,7 +40558,7 @@
             "arabic": "وادٍ",
             "french": "vallée",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212851",
-            "description": null
+            "description": ""
         },
         {
             "id": 209829,
@@ -40574,7 +40574,7 @@
             "arabic": "قيمة",
             "french": "valeur",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=208960",
-            "description": null
+            "description": ""
         },
         {
             "id": 212852,
@@ -40582,7 +40582,7 @@
             "arabic": "ضريبة على القيمة المضافة",
             "french": "taxe sur la valeur ajoutée (tva)",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212852",
-            "description": null
+            "description": ""
         },
         {
             "id": 209830,
@@ -40590,7 +40590,7 @@
             "arabic": "قيمة العلامات",
             "french": "valeur de notes",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=209830",
-            "description": null
+            "description": ""
         },
         {
             "id": 209831,
@@ -40598,7 +40598,7 @@
             "arabic": "قيمة أشكال السكوت",
             "french": "valeur de silences",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=209831",
-            "description": null
+            "description": ""
         },
         {
             "id": 208961,
@@ -40606,7 +40606,7 @@
             "arabic": "نظام القيم",
             "french": "système des valeurs",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=208961",
-            "description": null
+            "description": ""
         },
         {
             "id": 209832,
@@ -40614,7 +40614,7 @@
             "arabic": "مكبس",
             "french": "piston",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=209832",
-            "description": null
+            "description": ""
         },
         {
             "id": 212853,
@@ -40630,7 +40630,7 @@
             "arabic": "قابلية التغير",
             "french": "variabilité",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=208962",
-            "description": null
+            "description": ""
         },
         {
             "id": 208963,
@@ -40638,7 +40638,7 @@
             "arabic": "متغير",
             "french": "variable",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=208963",
-            "description": null
+            "description": ""
         },
         {
             "id": 212854,
@@ -40646,7 +40646,7 @@
             "arabic": "قمرة قابلة للتغيير، مقصورة متغيرة",
             "french": "cabine variable",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212854",
-            "description": null
+            "description": ""
         },
         {
             "id": 208964,
@@ -40654,7 +40654,7 @@
             "arabic": "تبايُن",
             "french": "variance",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=208964",
-            "description": null
+            "description": ""
         },
         {
             "id": 212855,
@@ -40662,7 +40662,7 @@
             "arabic": "بديلة",
             "french": "variante",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212855",
-            "description": null
+            "description": ""
         },
         {
             "id": 208965,
@@ -40670,7 +40670,7 @@
             "arabic": "تغيُّر",
             "french": "variation",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=208965",
-            "description": null
+            "description": ""
         },
         {
             "id": 209833,
@@ -40678,7 +40678,7 @@
             "arabic": "تنويع",
             "french": "variation",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=209833",
-            "description": null
+            "description": ""
         },
         {
             "id": 212856,
@@ -40686,7 +40686,7 @@
             "arabic": "ضريبة على القيمة المضافة",
             "french": "t v a (taxe sur la valeur ajoutée)",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212856",
-            "description": null
+            "description": ""
         },
         {
             "id": 212857,
@@ -40694,7 +40694,7 @@
             "arabic": "مدير مآدب، طباخ خضر",
             "french": "entremettier",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212857",
-            "description": null
+            "description": ""
         },
         {
             "id": 212858,
@@ -40702,7 +40702,7 @@
             "arabic": "طبق خضار",
             "french": "plat de légumes",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212858",
-            "description": null
+            "description": ""
         },
         {
             "id": 212859,
@@ -40710,7 +40710,7 @@
             "arabic": "طبق نباتي",
             "french": "plat végétarien",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212859",
-            "description": null
+            "description": ""
         },
         {
             "id": 212860,
@@ -40718,7 +40718,7 @@
             "arabic": "حركة السيارات",
             "french": "trafic automobile",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212860",
-            "description": null
+            "description": ""
         },
         {
             "id": 212861,
@@ -40726,7 +40726,7 @@
             "arabic": "عربة",
             "french": "véhicule",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212861",
-            "description": null
+            "description": ""
         },
         {
             "id": 212862,
@@ -40734,7 +40734,7 @@
             "arabic": "بائع متجول، بائع جوال",
             "french": "vendeur ambulant",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212862",
-            "description": null
+            "description": ""
         },
         {
             "id": 212863,
@@ -40742,7 +40742,7 @@
             "arabic": "نظام التهوية، تكييف الهواء",
             "french": "climatisation",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212863",
-            "description": null
+            "description": ""
         },
         {
             "id": 208966,
@@ -40750,7 +40750,7 @@
             "arabic": "اختبار(رائز) القدرة اللفظية",
             "french": "test verbal d'aptitude",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=208966",
-            "description": null
+            "description": ""
         },
         {
             "id": 208967,
@@ -40758,7 +40758,7 @@
             "arabic": "اتصال لفظي",
             "french": "communication verbale",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=208967",
-            "description": null
+            "description": ""
         },
         {
             "id": 208968,
@@ -40766,7 +40766,7 @@
             "arabic": "تفاعُل لفظي",
             "french": "interaction verbale",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=208968",
-            "description": null
+            "description": ""
         },
         {
             "id": 208969,
@@ -40774,7 +40774,7 @@
             "arabic": "تعلّم لفظي",
             "french": "apprentissage verbal",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=208969",
-            "description": null
+            "description": ""
         },
         {
             "id": 208970,
@@ -40782,7 +40782,7 @@
             "arabic": "اختبرا (رائز) لفظي",
             "french": "test verbal",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=208970",
-            "description": null
+            "description": ""
         },
         {
             "id": 208971,
@@ -40790,7 +40790,7 @@
             "arabic": "تحقُّق",
             "french": "vérification",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=208971",
-            "description": null
+            "description": ""
         },
         {
             "id": 212864,
@@ -40798,7 +40798,7 @@
             "arabic": "مناداة المسافرين",
             "french": "appel des passagers",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212864",
-            "description": null
+            "description": ""
         },
         {
             "id": 208972,
@@ -40806,7 +40806,7 @@
             "arabic": "انتقال رأسي، انتقال عمودي",
             "french": "transfert vertical",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=208972",
-            "description": null
+            "description": ""
         },
         {
             "id": 212865,
@@ -40814,7 +40814,7 @@
             "arabic": "مسافر مميز، شخصية مهمة",
             "french": "passager officiel (VIP)",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212865",
-            "description": null
+            "description": ""
         },
         {
             "id": 212866,
@@ -40822,7 +40822,7 @@
             "arabic": "باخرة",
             "french": "navire",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212866",
-            "description": null
+            "description": ""
         },
         {
             "id": 212867,
@@ -40830,7 +40830,7 @@
             "arabic": "دهليز",
             "french": "vestibule",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212867",
-            "description": null
+            "description": ""
         },
         {
             "id": 212868,
@@ -40838,7 +40838,7 @@
             "arabic": "عبْر",
             "french": "via",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212868",
-            "description": null
+            "description": ""
         },
         {
             "id": 209834,
@@ -40846,7 +40846,7 @@
             "arabic": "ميقاع",
             "french": "vibraphone",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=209834",
-            "description": null
+            "description": ""
         },
         {
             "id": 209835,
@@ -40854,7 +40854,7 @@
             "arabic": "ذبذبة",
             "french": "vibration",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=209835",
-            "description": null
+            "description": ""
         },
         {
             "id": 208973,
@@ -40862,7 +40862,7 @@
             "arabic": "فيديو",
             "french": "vidéo",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=208973",
-            "description": null
+            "description": ""
         },
         {
             "id": 208974,
@@ -40870,7 +40870,7 @@
             "arabic": "وحدة العرض بالفيديو",
             "french": "unité de visionnement vidéo",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=208974",
-            "description": null
+            "description": ""
         },
         {
             "id": 208975,
@@ -40878,7 +40878,7 @@
             "arabic": "تجهيزات الفيديو",
             "french": "équipement vidéo",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=208975",
-            "description": null
+            "description": ""
         },
         {
             "id": 208976,
@@ -40886,7 +40886,7 @@
             "arabic": "شريط الفيديو",
             "french": "cassette vidéo",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=208976",
-            "description": null
+            "description": ""
         },
         {
             "id": 212869,
@@ -40894,7 +40894,7 @@
             "arabic": "شريط فيديو",
             "french": "bande vidéo",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212869",
-            "description": null
+            "description": ""
         },
         {
             "id": 209836,
@@ -40918,7 +40918,7 @@
             "arabic": "دارة",
             "french": "villa",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212870",
-            "description": null
+            "description": ""
         },
         {
             "id": 212871,
@@ -40926,7 +40926,7 @@
             "arabic": "قرية",
             "french": "village",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212871",
-            "description": null
+            "description": ""
         },
         {
             "id": 212872,
@@ -40934,7 +40934,7 @@
             "arabic": "كاباريه",
             "french": "cabaret",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212872",
-            "description": null
+            "description": ""
         },
         {
             "id": 212873,
@@ -40942,7 +40942,7 @@
             "arabic": "قرية نادي، فرنادية",
             "french": "village-club",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212873",
-            "description": null
+            "description": ""
         },
         {
             "id": 212874,
@@ -40950,7 +40950,7 @@
             "arabic": "جلبة، جوقة صاخبة",
             "french": "bastringue",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212874",
-            "description": null
+            "description": ""
         },
         {
             "id": 212875,
@@ -40958,7 +40958,7 @@
             "arabic": "سلاُف",
             "french": "cru",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212875",
-            "description": null
+            "description": ""
         },
         {
             "id": 212876,
@@ -40966,7 +40966,7 @@
             "arabic": "معتّق",
             "french": "vin vieux",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212876",
-            "description": null
+            "description": ""
         },
         {
             "id": 209838,
@@ -40982,7 +40982,7 @@
             "arabic": "كمان أوسط",
             "french": "alto",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=209839",
-            "description": null
+            "description": ""
         },
         {
             "id": 209840,
@@ -40990,7 +40990,7 @@
             "arabic": "كمان",
             "french": "violon",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=209840",
-            "description": null
+            "description": ""
         },
         {
             "id": 209841,
@@ -40998,7 +40998,7 @@
             "arabic": "كمان جهير",
             "french": "violoncelle",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=209841",
-            "description": null
+            "description": ""
         },
         {
             "id": 209842,
@@ -41014,7 +41014,7 @@
             "arabic": "عازف بارع",
             "french": "virtuose",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=209843",
-            "description": null
+            "description": ""
         },
         {
             "id": 212877,
@@ -41022,7 +41022,7 @@
             "arabic": "تأشيرة",
             "french": "visa",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212877",
-            "description": null
+            "description": ""
         },
         {
             "id": 212878,
@@ -41030,7 +41030,7 @@
             "arabic": "درجة الرؤية",
             "french": "visibilité",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212878",
-            "description": null
+            "description": ""
         },
         {
             "id": 212879,
@@ -41038,7 +41038,7 @@
             "arabic": "زيارة",
             "french": "visite",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212879",
-            "description": null
+            "description": ""
         },
         {
             "id": 212880,
@@ -41046,7 +41046,7 @@
             "arabic": "بطاقة الزيارة",
             "french": "carte de visite",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212880",
-            "description": null
+            "description": ""
         },
         {
             "id": 212881,
@@ -41054,7 +41054,7 @@
             "arabic": "زائر",
             "french": "visiteur",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212881",
-            "description": null
+            "description": ""
         },
         {
             "id": 212882,
@@ -41062,7 +41062,7 @@
             "arabic": "وفادات سياحية",
             "french": "arrivages touristiques",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212882",
-            "description": null
+            "description": ""
         },
         {
             "id": 212883,
@@ -41070,7 +41070,7 @@
             "arabic": "تصريح الإقامة",
             "french": "permis de séjour",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212883",
-            "description": null
+            "description": ""
         },
         {
             "id": 212884,
@@ -41078,7 +41078,7 @@
             "arabic": "رسم الإقامة",
             "french": "taxe de séjour",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212884",
-            "description": null
+            "description": ""
         },
         {
             "id": 208977,
@@ -41086,7 +41086,7 @@
             "arabic": "معينات بصرية",
             "french": "moyens visuels",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=208977",
-            "description": null
+            "description": ""
         },
         {
             "id": 208978,
@@ -41094,7 +41094,7 @@
             "arabic": "وحدة العرض المرئي",
             "french": "unité de visualisation",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=208978",
-            "description": null
+            "description": ""
         },
         {
             "id": 208979,
@@ -41102,7 +41102,7 @@
             "arabic": "ذاكرة بصرية",
             "french": "mémoire visuelle",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=208979",
-            "description": null
+            "description": ""
         },
         {
             "id": 208980,
@@ -41110,7 +41110,7 @@
             "arabic": "إدراك بصري",
             "french": "perception visuelle",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=208980",
-            "description": null
+            "description": ""
         },
         {
             "id": 209844,
@@ -41118,7 +41118,7 @@
             "arabic": "نشيط",
             "french": "vivace",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=209844",
-            "description": null
+            "description": ""
         },
         {
             "id": 208981,
@@ -41126,7 +41126,7 @@
             "arabic": "تنمية الثروة اللغوية",
             "french": "développement du vocabulaire",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=208981",
-            "description": null
+            "description": ""
         },
         {
             "id": 208982,
@@ -41134,7 +41134,7 @@
             "arabic": "اختبار (رائز) المفردات",
             "french": "test de vocabulaire",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=208982",
-            "description": null
+            "description": ""
         },
         {
             "id": 209845,
@@ -41142,7 +41142,7 @@
             "arabic": "تأليف غنائي",
             "french": "composition vocale",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=209845",
-            "description": null
+            "description": ""
         },
         {
             "id": 209846,
@@ -41150,7 +41150,7 @@
             "arabic": "أوتار صوتية",
             "french": "technique vocale",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=209846",
-            "description": null
+            "description": ""
         },
         {
             "id": 209847,
@@ -41158,7 +41158,7 @@
             "arabic": "تقنية صوتية",
             "french": "technique vocale",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=209847",
-            "description": null
+            "description": ""
         },
         {
             "id": 208983,
@@ -41166,7 +41166,7 @@
             "arabic": "شكل، تلفُّظ",
             "french": "vocalisation",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=208983",
-            "description": null
+            "description": ""
         },
         {
             "id": 208984,
@@ -41174,7 +41174,7 @@
             "arabic": "تعليم مهني",
             "french": "enseignement professionnel",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=208984",
-            "description": null
+            "description": ""
         },
         {
             "id": 209848,
@@ -41182,7 +41182,7 @@
             "arabic": "صوت بشري",
             "french": "voix",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=209848",
-            "description": null
+            "description": ""
         },
         {
             "id": 209849,
@@ -41190,7 +41190,7 @@
             "arabic": "حرف مجهور",
             "french": "consonne sonore",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=209849",
-            "description": null
+            "description": ""
         },
         {
             "id": 209850,
@@ -41198,7 +41198,7 @@
             "arabic": "حرف مهموس",
             "french": "consonne sourde",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=209850",
-            "description": null
+            "description": ""
         },
         {
             "id": 212885,
@@ -41214,7 +41214,7 @@
             "arabic": "جرم الصوت، جهارة الصوت",
             "french": "volume",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=209851",
-            "description": null
+            "description": ""
         },
         {
             "id": 212886,
@@ -41222,7 +41222,7 @@
             "arabic": "سند سياحي",
             "french": "bon d'hôtel; bon d'hébergement; chèque -camping; bon de location",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212886",
-            "description": null
+            "description": ""
         },
         {
             "id": 209852,
@@ -41238,7 +41238,7 @@
             "arabic": "لوحة الصوائت",
             "french": "table des voyelles",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=208985",
-            "description": null
+            "description": ""
         },
         {
             "id": 212887,
@@ -41246,7 +41246,7 @@
             "arabic": "سفر بحري",
             "french": "voyage en mer",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212887",
-            "description": null
+            "description": ""
         },
         {
             "id": 212888,
@@ -41254,7 +41254,7 @@
             "arabic": "نادل",
             "french": "garçon; garçon de salle",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212888",
-            "description": null
+            "description": ""
         },
         {
             "id": 212889,
@@ -41262,7 +41262,7 @@
             "arabic": "مساعد نادل",
             "french": "commis",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212889",
-            "description": null
+            "description": ""
         },
         {
             "id": 212890,
@@ -41270,7 +41270,7 @@
             "arabic": "قائمة الانتظار",
             "french": "liste d'attente",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212890",
-            "description": null
+            "description": ""
         },
         {
             "id": 212891,
@@ -41278,7 +41278,7 @@
             "arabic": "قاعة الانتظار",
             "french": "salle d'attente",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212891",
-            "description": null
+            "description": ""
         },
         {
             "id": 212892,
@@ -41286,7 +41286,7 @@
             "arabic": "نادلة",
             "french": "serveuse",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212892",
-            "description": null
+            "description": ""
         },
         {
             "id": 212893,
@@ -41294,7 +41294,7 @@
             "arabic": "نزهة",
             "french": "excursion; promonade",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212893",
-            "description": null
+            "description": ""
         },
         {
             "id": 212894,
@@ -41302,7 +41302,7 @@
             "arabic": "جولة على الأقدام",
             "french": "excursion à pieds",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212894",
-            "description": null
+            "description": ""
         },
         {
             "id": 208986,
@@ -41310,7 +41310,7 @@
             "arabic": "لوحة جدارية",
             "french": "tableau mural",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=208986",
-            "description": null
+            "description": ""
         },
         {
             "id": 208987,
@@ -41318,7 +41318,7 @@
             "arabic": "شاشة جدارية",
             "french": "écran mural",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=208987",
-            "description": null
+            "description": ""
         },
         {
             "id": 212895,
@@ -41326,7 +41326,7 @@
             "arabic": "طرائد مائية",
             "french": "gibier d'eau",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212895",
-            "description": null
+            "description": ""
         },
         {
             "id": 212896,
@@ -41334,7 +41334,7 @@
             "arabic": "خزانة الملابس",
             "french": "garde robe",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212896",
-            "description": null
+            "description": ""
         },
         {
             "id": 212897,
@@ -41342,7 +41342,7 @@
             "arabic": "مخزن، مستودع",
             "french": "entrepôt",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212897",
-            "description": null
+            "description": ""
         },
         {
             "id": 208988,
@@ -41358,7 +41358,7 @@
             "arabic": "مغسلة",
             "french": "lavabo",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212898",
-            "description": null
+            "description": ""
         },
         {
             "id": 212899,
@@ -41366,7 +41366,7 @@
             "arabic": "غسالة",
             "french": "machine à laver",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212899",
-            "description": null
+            "description": ""
         },
         {
             "id": 212900,
@@ -41374,7 +41374,7 @@
             "arabic": "تجهيزات الغسل",
             "french": "équipement de lavage",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212900",
-            "description": null
+            "description": ""
         },
         {
             "id": 212901,
@@ -41382,7 +41382,7 @@
             "arabic": "غسالة",
             "french": "machine à laver",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212901",
-            "description": null
+            "description": ""
         },
         {
             "id": 212902,
@@ -41390,7 +41390,7 @@
             "arabic": "مغسلة",
             "french": "coin toilette",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212902",
-            "description": null
+            "description": ""
         },
         {
             "id": 212903,
@@ -41398,7 +41398,7 @@
             "arabic": "قمرة مغسلة",
             "french": "cabine lavabo",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212903",
-            "description": null
+            "description": ""
         },
         {
             "id": 212904,
@@ -41406,7 +41406,7 @@
             "arabic": "حارس ليلي",
             "french": "veilleur de nuit; gardien",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212904",
-            "description": null
+            "description": ""
         },
         {
             "id": 212905,
@@ -41414,7 +41414,7 @@
             "arabic": "استشفاء معدني",
             "french": "cure thermale",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212905",
-            "description": null
+            "description": ""
         },
         {
             "id": 212906,
@@ -41422,7 +41422,7 @@
             "arabic": "استشفاءات معدنية",
             "french": "thermalisme",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212906",
-            "description": null
+            "description": ""
         },
         {
             "id": 212907,
@@ -41446,7 +41446,7 @@
             "arabic": "سخّانة، سخانة ماء",
             "french": "chauffe-eau",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212909",
-            "description": null
+            "description": ""
         },
         {
             "id": 212910,
@@ -41454,7 +41454,7 @@
             "arabic": "تزلج على الماء",
             "french": "ski nautique",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212910",
-            "description": null
+            "description": ""
         },
         {
             "id": 212911,
@@ -41462,7 +41462,7 @@
             "arabic": "رياضة مائية",
             "french": "sport nautique",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212911",
-            "description": null
+            "description": ""
         },
         {
             "id": 212912,
@@ -41470,7 +41470,7 @@
             "arabic": "مركز الرياضات المائية",
             "french": "centre de sport nautique",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212912",
-            "description": null
+            "description": ""
         },
         {
             "id": 212913,
@@ -41478,7 +41478,7 @@
             "arabic": "محطة حمامات",
             "french": "station balnéaire",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212913",
-            "description": null
+            "description": ""
         },
         {
             "id": 212914,
@@ -41486,7 +41486,7 @@
             "arabic": "شلال",
             "french": "cascade; chute d'eau",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212914",
-            "description": null
+            "description": ""
         },
         {
             "id": 212915,
@@ -41494,7 +41494,7 @@
             "arabic": "خط ملاحي",
             "french": "voie navigable",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212915",
-            "description": null
+            "description": ""
         },
         {
             "id": 212916,
@@ -41502,7 +41502,7 @@
             "arabic": "آلة تمويج",
             "french": "machine à vagues",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212916",
-            "description": null
+            "description": ""
         },
         {
             "id": 212917,
@@ -41510,7 +41510,7 @@
             "arabic": "طريق",
             "french": "route; voie",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212917",
-            "description": null
+            "description": ""
         },
         {
             "id": 212918,
@@ -41518,7 +41518,7 @@
             "arabic": "قائمة السفر، قائمة الشحن، خط السير",
             "french": "feuille de route",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212918",
-            "description": null
+            "description": ""
         },
         {
             "id": 212919,
@@ -41526,7 +41526,7 @@
             "arabic": "مستراح سياحي، استراحة سياحية",
             "french": "relais de tourisme",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212919",
-            "description": null
+            "description": ""
         },
         {
             "id": 212920,
@@ -41534,7 +41534,7 @@
             "arabic": "طقس",
             "french": "temps",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212920",
-            "description": null
+            "description": ""
         },
         {
             "id": 212921,
@@ -41542,7 +41542,7 @@
             "arabic": "قرير الأرصاد الجوية، نشرة جوية",
             "french": "bulletin météo",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212921",
-            "description": null
+            "description": ""
         },
         {
             "id": 212922,
@@ -41550,7 +41550,7 @@
             "arabic": "حقل عرس",
             "french": "réception de noces",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212922",
-            "description": null
+            "description": ""
         },
         {
             "id": 212923,
@@ -41558,7 +41558,7 @@
             "arabic": "عطلة نهاية الأسبوع",
             "french": "week-end",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212923",
-            "description": null
+            "description": ""
         },
         {
             "id": 212924,
@@ -41566,7 +41566,7 @@
             "arabic": "سعر نهاية الأسبوع",
             "french": "tarif de fin de semaine",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212924",
-            "description": null
+            "description": ""
         },
         {
             "id": 212925,
@@ -41574,7 +41574,7 @@
             "arabic": "رحلة جوية أسبوعية",
             "french": "vol hebdomadaire",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212925",
-            "description": null
+            "description": ""
         },
         {
             "id": 212926,
@@ -41582,7 +41582,7 @@
             "arabic": "تعريفة أسبوعية",
             "french": "tarif hebdomadaire",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212926",
-            "description": null
+            "description": ""
         },
         {
             "id": 212927,
@@ -41590,7 +41590,7 @@
             "arabic": "إقامة أسبوعية",
             "french": "séjour hebdomadaire",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212927",
-            "description": null
+            "description": ""
         },
         {
             "id": 212928,
@@ -41598,7 +41598,7 @@
             "arabic": "وزن",
             "french": "poids",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212928",
-            "description": null
+            "description": ""
         },
         {
             "id": 212929,
@@ -41606,7 +41606,7 @@
             "arabic": "استقبال",
             "french": "acceuil",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212929",
-            "description": null
+            "description": ""
         },
         {
             "id": 209853,
@@ -41614,7 +41614,7 @@
             "arabic": "كلافسان معدل",
             "french": "le clavier bien tempéré",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=209853",
-            "description": null
+            "description": ""
         },
         {
             "id": 212930,
@@ -41638,7 +41638,7 @@
             "arabic": "رُساوة",
             "french": "droit de quai",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212932",
-            "description": null
+            "description": ""
         },
         {
             "id": 208989,
@@ -41646,7 +41646,7 @@
             "arabic": "سبورة بيضاء",
             "french": "tableau blanc",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=208989",
-            "description": null
+            "description": ""
         },
         {
             "id": 212933,
@@ -41654,7 +41654,7 @@
             "arabic": "سياحة بيضاء، سياحة ثلجية",
             "french": "tourisme blanc",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212933",
-            "description": null
+            "description": ""
         },
         {
             "id": 208990,
@@ -41670,7 +41670,7 @@
             "arabic": "طريقة كلية، طريقة إجمالي",
             "french": "méthode globale",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=208991",
-            "description": null
+            "description": ""
         },
         {
             "id": 212934,
@@ -41678,7 +41678,7 @@
             "arabic": "ليلة",
             "french": "nuitée",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212934",
-            "description": null
+            "description": ""
         },
         {
             "id": 209854,
@@ -41686,7 +41686,7 @@
             "arabic": "مستديرة",
             "french": "ronde",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=209854",
-            "description": null
+            "description": ""
         },
         {
             "id": 209855,
@@ -41694,7 +41694,7 @@
             "arabic": "آلات هوائية",
             "french": "instruments à vent",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=209855",
-            "description": null
+            "description": ""
         },
         {
             "id": 212935,
@@ -41702,7 +41702,7 @@
             "arabic": "خمر، نبيذ",
             "french": "vin",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212935",
-            "description": null
+            "description": ""
         },
         {
             "id": 212936,
@@ -41710,7 +41710,7 @@
             "arabic": "خمّار",
             "french": "sommelier",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212936",
-            "description": null
+            "description": ""
         },
         {
             "id": 212937,
@@ -41718,7 +41718,7 @@
             "arabic": "قائمة النبيذ",
             "french": "carte de vins",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212937",
-            "description": null
+            "description": ""
         },
         {
             "id": 212938,
@@ -41726,7 +41726,7 @@
             "arabic": "خازن الخمور، خازن النبيذ",
             "french": "sommelier",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212938",
-            "description": null
+            "description": ""
         },
         {
             "id": 212939,
@@ -41734,7 +41734,7 @@
             "arabic": "خمّارة، محل بيع النبيذ",
             "french": "bistrot",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212939",
-            "description": null
+            "description": ""
         },
         {
             "id": 212940,
@@ -41742,7 +41742,7 @@
             "arabic": "خازن الخمور، خازن النبيذ",
             "french": "sommelier",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212940",
-            "description": null
+            "description": ""
         },
         {
             "id": 212941,
@@ -41750,7 +41750,7 @@
             "arabic": "استراحة شتوية",
             "french": "vacances d'hiver",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212941",
-            "description": null
+            "description": ""
         },
         {
             "id": 212942,
@@ -41758,7 +41758,7 @@
             "arabic": "مشْتى، منتجع شتوي",
             "french": "station d'hiver",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212942",
-            "description": null
+            "description": ""
         },
         {
             "id": 212943,
@@ -41766,7 +41766,7 @@
             "arabic": "محطة الرياضة الشتوية",
             "french": "station de sports d'hiver",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212943",
-            "description": null
+            "description": ""
         },
         {
             "id": 212944,
@@ -41774,7 +41774,7 @@
             "arabic": "رياضة شتوية",
             "french": "sports d'hiver; station de sports d'hiver",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212944",
-            "description": null
+            "description": ""
         },
         {
             "id": 212946,
@@ -41782,7 +41782,7 @@
             "arabic": "قطار الثلج",
             "french": "train de neige",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212946",
-            "description": null
+            "description": ""
         },
         {
             "id": 212947,
@@ -41790,7 +41790,7 @@
             "arabic": "مشَتٍّ",
             "french": "hivernant",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212947",
-            "description": null
+            "description": ""
         },
         {
             "id": 212945,
@@ -41798,7 +41798,7 @@
             "arabic": "مُشَت",
             "french": "hivernant",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212945",
-            "description": null
+            "description": ""
         },
         {
             "id": 212948,
@@ -41806,7 +41806,7 @@
             "arabic": "برقية",
             "french": "télégramme",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212948",
-            "description": null
+            "description": ""
         },
         {
             "id": 208992,
@@ -41814,7 +41814,7 @@
             "arabic": "كلمة",
             "french": "mot",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=208992",
-            "description": null
+            "description": ""
         },
         {
             "id": 208993,
@@ -41822,7 +41822,7 @@
             "arabic": "إحصاء الكلمات",
             "french": "statistiques lexicales",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=208993",
-            "description": null
+            "description": ""
         },
         {
             "id": 208994,
@@ -41830,7 +41830,7 @@
             "arabic": "تواتر الكلمات",
             "french": "fréquence des mots",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=208994",
-            "description": null
+            "description": ""
         },
         {
             "id": 208995,
@@ -41838,7 +41838,7 @@
             "arabic": "قوائم الكلمات",
             "french": "liste de mots",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=208995",
-            "description": null
+            "description": ""
         },
         {
             "id": 208996,
@@ -41846,7 +41846,7 @@
             "arabic": "ترتيب الكلمات",
             "french": "ordre des mots",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=208996",
-            "description": null
+            "description": ""
         },
         {
             "id": 208997,
@@ -41854,7 +41854,7 @@
             "arabic": "معالجة الكلمات",
             "french": "traitement de mots",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=208997",
-            "description": null
+            "description": ""
         },
         {
             "id": 208998,
@@ -41862,7 +41862,7 @@
             "arabic": "مُعالج الكلمات، مِعلاج الكلمات",
             "french": "unité de traitement des mots",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=208998",
-            "description": null
+            "description": ""
         },
         {
             "id": 208999,
@@ -41870,7 +41870,7 @@
             "arabic": "تعرُّف الكلمات",
             "french": "reconnaissance des mots",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=208999",
-            "description": null
+            "description": ""
         },
         {
             "id": 209000,
@@ -41878,7 +41878,7 @@
             "arabic": "تعبير",
             "french": "expression",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=209000",
-            "description": null
+            "description": ""
         },
         {
             "id": 209001,
@@ -41886,7 +41886,7 @@
             "arabic": "كتاب التمارين",
             "french": "livre d'exercices",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=209001",
-            "description": null
+            "description": ""
         },
         {
             "id": 209856,
@@ -41894,7 +41894,7 @@
             "arabic": "أغاني العمل",
             "french": "chants de travail",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=209856",
-            "description": null
+            "description": ""
         },
         {
             "id": 209002,
@@ -41902,7 +41902,7 @@
             "arabic": "وثيقة عمل",
             "french": "document de travail",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=209002",
-            "description": null
+            "description": ""
         },
         {
             "id": 209003,
@@ -41910,7 +41910,7 @@
             "arabic": "مَشْغل، ورشة عمل",
             "french": "atelier",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=209003",
-            "description": null
+            "description": ""
         },
         {
             "id": 212951,
@@ -41918,7 +41918,7 @@
             "arabic": "خريطة العالم",
             "french": "mappemonde",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212951",
-            "description": null
+            "description": ""
         },
         {
             "id": 209004,
@@ -41926,7 +41926,7 @@
             "arabic": "كتابة",
             "french": "écriture",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=209004",
-            "description": null
+            "description": ""
         },
         {
             "id": 209005,
@@ -41934,7 +41934,7 @@
             "arabic": "أنشطة كتابية",
             "french": "activités d'écriture",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=209005",
-            "description": null
+            "description": ""
         },
         {
             "id": 209006,
@@ -41942,7 +41942,7 @@
             "arabic": "مواد الكتابة",
             "french": "matériels d'écriture",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=209006",
-            "description": null
+            "description": ""
         },
         {
             "id": 209007,
@@ -41950,7 +41950,7 @@
             "arabic": "مهارات كتابية",
             "french": "habiletés d'écriture",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=209007",
-            "description": null
+            "description": ""
         },
         {
             "id": 209008,
@@ -41958,7 +41958,7 @@
             "arabic": "لغة مكتوبة",
             "french": "langue écrite",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=209008",
-            "description": null
+            "description": ""
         },
         {
             "id": 209859,
@@ -41966,7 +41966,7 @@
             "arabic": "نغمة ناشزة",
             "french": "fausse nota",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=209859",
-            "description": null
+            "description": ""
         },
         {
             "id": 209010,
@@ -41974,7 +41974,7 @@
             "arabic": "تصوير لاتَمَاسِيِّ، تصوير جاف",
             "french": "xérographie",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=209010",
-            "description": null
+            "description": ""
         },
         {
             "id": 209011,
@@ -41982,7 +41982,7 @@
             "arabic": "نسْخ ضوئي",
             "french": "photocopiage",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=209011",
-            "description": null
+            "description": ""
         },
         {
             "id": 209857,
@@ -41990,7 +41990,7 @@
             "arabic": "خشبية",
             "french": "xylophone",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=209857",
-            "description": null
+            "description": ""
         },
         {
             "id": 212954,
@@ -41998,7 +41998,7 @@
             "arabic": "سفينة نزهة، يخت",
             "french": "bateau de plaisance; yacht",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212954",
-            "description": null
+            "description": ""
         },
         {
             "id": 212955,
@@ -42006,7 +42006,7 @@
             "arabic": "نادي تيخت، نادي يخوت",
             "french": "club de yachting",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212955",
-            "description": null
+            "description": ""
         },
         {
             "id": 212956,
@@ -42014,7 +42014,7 @@
             "arabic": "تَيْخِيت",
             "french": "yachting",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212956",
-            "description": null
+            "description": ""
         },
         {
             "id": 212957,
@@ -42022,7 +42022,7 @@
             "arabic": "صاحب يخت",
             "french": "yachtsman; plaisancier",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212957",
-            "description": null
+            "description": ""
         },
         {
             "id": 209012,
@@ -42038,7 +42038,7 @@
             "arabic": "اليوغا",
             "french": "yoga",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212958",
-            "description": null
+            "description": ""
         },
         {
             "id": 212959,
@@ -42046,7 +42046,7 @@
             "arabic": "نادي الشبان، نادي الفتيان",
             "french": "club d'adolescents",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212959",
-            "description": null
+            "description": ""
         },
         {
             "id": 212960,
@@ -42054,7 +42054,7 @@
             "arabic": "تعريفة الشباب",
             "french": "tarif jeune",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212960",
-            "description": null
+            "description": ""
         },
         {
             "id": 212961,
@@ -42062,7 +42062,7 @@
             "arabic": "بيوت الشباب",
             "french": "auberges de jeuness",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212961",
-            "description": null
+            "description": ""
         },
         {
             "id": 212962,
@@ -42070,7 +42070,7 @@
             "arabic": "راعي بيوت الشباب",
             "french": "agiste",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212962",
-            "description": null
+            "description": ""
         },
         {
             "id": 212963,
@@ -42078,7 +42078,7 @@
             "arabic": "مركز ترفيهي للشباب",
             "french": "centre de loisirs de jeunes",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212963",
-            "description": null
+            "description": ""
         },
         {
             "id": 212964,
@@ -42086,7 +42086,7 @@
             "arabic": "منظمة شبابية",
             "french": "organisation de jeunes",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212964",
-            "description": null
+            "description": ""
         },
         {
             "id": 212965,
@@ -42094,7 +42094,7 @@
             "arabic": "تعريفة الشباب",
             "french": "tarif jeune",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212965",
-            "description": null
+            "description": ""
         },
         {
             "id": 212966,
@@ -42102,7 +42102,7 @@
             "arabic": "سياحة الشباب",
             "french": "tourisme de jeunes",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212966",
-            "description": null
+            "description": ""
         },
         {
             "id": 209858,
@@ -42118,7 +42118,7 @@
             "arabic": "ممر الراجلين",
             "french": "passage pour piétons; passage clouté",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212967",
-            "description": null
+            "description": ""
         },
         {
             "id": 209013,
@@ -42126,7 +42126,7 @@
             "arabic": "مجموعة ضابطة",
             "french": "groupe de contrôle",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=209013",
-            "description": null
+            "description": ""
         },
         {
             "id": 212968,
@@ -42134,7 +42134,7 @@
             "arabic": "منطقة",
             "french": "zone",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212968",
-            "description": null
+            "description": ""
         },
         {
             "id": 212969,
@@ -42142,7 +42142,7 @@
             "arabic": "حديقة الحيوانات",
             "french": "zoo",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212969",
-            "description": null
+            "description": ""
         },
         {
             "id": 212970,
@@ -42150,7 +42150,7 @@
             "arabic": "علم الحيوان",
             "french": "zoologie",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=212970",
-            "description": null
+            "description": ""
         },
         {
             "id": 208094,
@@ -42158,7 +42158,7 @@
             "arabic": "تصحيح",
             "french": "correction",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=208094",
-            "description": null
+            "description": ""
         }
     ]
 }

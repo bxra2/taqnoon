@@ -2893,7 +2893,7 @@
             "english": "Noncluster mode",
             "arabic": "نمط لا عنقودي، نمط لا خصلي"
         },
-        { "english": null, "arabic": "لا شيء، بدون، لا أحد" },
+        { "english": "null", "arabic": "لا شيء، بدون، لا أحد" },
         { "english": "Non-existant", "arabic": "غير موجود" },
         { "english": "Nonlinear", "arabic": "لاخطّي" },
         { "english": "Non-optimal solution", "arabic": "حل ليس أمثَل" },
@@ -2922,7 +2922,7 @@
         { "english": "Notification", "arabic": "تنبيه" },
         { "english": "Notify", "arabic": "تبليغ" },
         { "english": "Notwork", "arabic": "شبكة" },
-        { "english": null, "arabic": "عَدَمْ" },
+        { "english": "null", "arabic": "عَدَمْ" },
         { "english": "Null modem", "arabic": "بلا مودم" },
         { "english": "Null pointer", "arabic": "مؤشّر للاشيء" },
         { "english": "Null string", "arabic": "سلسلة أحرف فارغة" },

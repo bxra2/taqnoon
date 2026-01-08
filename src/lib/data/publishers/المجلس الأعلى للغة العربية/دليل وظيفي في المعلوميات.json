@@ -1530,7 +1530,7 @@
             "id": "255",
             "french": "Bande de fréquence",
             "english": "Frequency band",
-            "arabic": null
+            "arabic": "حيّز التردد"
         },
         {
             "id": "256",
@@ -7656,7 +7656,7 @@
             "id": "1276",
             "french": "Géneération",
             "english": " Generation",
-            "arabic": null
+            "arabic": "توليد / جيل"
         },
         {
             "id": "1277",
@@ -9538,15 +9538,15 @@
         },
         {
             "id": "1590",
-            "french": "~ standard Standard label",
-            "english": "علامة معيارية",
-            "arabic": null
+            "french": "~ standard",
+            "english": "Standard label",
+            "arabic": "علامة معيارية"
         },
         {
             "id": "1591",
-            "french": "Lampe témoin Pilot light",
-            "english": "مصباح تنبيه",
-            "arabic": null
+            "french": "Lampe témoin",
+            "english": "Pilot light",
+            "arabic": "مصباح تنبيه"
         },
         {
             "id": "1592",
@@ -10072,9 +10072,9 @@
         },
         {
             "id": "1679",
-            "french": "Lire Read (to)",
-            "english": "قرأ",
-            "arabic": null
+            "french": "Lire",
+            "english": "Read (to)",
+            "arabic": "قرأ"
         },
         {
             "id": "1680",
@@ -10662,7 +10662,7 @@
             "id": "1777",
             "french": "~ a bascule ",
             "english": "Flip-flop storage",
-            "arabic": null
+            "arabic": "ذاكرة قلاّبة"
         },
         {
             "id": "1778",
@@ -11795,7 +11795,7 @@
         {
             "id": "1966",
             "french": "Nul",
-            "english": null,
+            "english": "null",
             "arabic": "لا عمل"
         },
         {
@@ -12508,7 +12508,7 @@
         },
         {
             "id": "2085",
-            "french": "Panne ",
+            "french": "Panne",
             "english": "Break down",
             "arabic": "عطل, خلل"
         },
@@ -12520,9 +12520,9 @@
         },
         {
             "id": "2087",
-            "french": "Panneau Panel dm «J",
-            "english": "لوحة",
-            "arabic": null
+            "french": "Panneau",
+            "english": "Panel",
+            "arabic": "لوحة"
         },
         {
             "id": "2088",
@@ -13518,7 +13518,7 @@
             "id": "2253",
             "french": "~d'E/S ",
             "english": "I/O processor",
-            "arabic": null
+            "arabic": "معالج إدخال / إخراج"
         },
         {
             "id": "2254",
@@ -13644,7 +13644,7 @@
             "id": "2274",
             "french": "~ heuristique ",
             "english": "Heuristic programming",
-            "arabic": null
+            "arabic": "برمجة تجريبية"
         },
         {
             "id": "2275",
@@ -16348,9 +16348,9 @@
         },
         {
             "id": "2725",
-            "french": "لجفو Tache Task",
-            "english": "مهمة",
-            "arabic": null
+            "french": "Tache",
+            "english": "Task",
+            "arabic": "مهمّة"
         },
         {
             "id": "2726",
@@ -16540,9 +16540,9 @@
         },
         {
             "id": "2757",
-            "french": "Temps ",
-            "english": "زمن, مدة, وقت, فترة",
-            "arabic": null
+            "french": "Temps",
+            "english": "Time",
+            "arabic": "زمن, مدة, وقت, فترة"
         },
         {
             "id": "2758",
@@ -17623,12 +17623,6 @@
             "french": "Vulnérabilité",
             "english": "Vulnerability",
             "arabic": "عدم الحصانة"
-        },
-        {
-            "id": "-",
-            "french": null,
-            "english": null,
-            "arabic": null
         },
         {
             "id": "2939",

@@ -3425,7 +3425,7 @@
             "french": "Novenaire",
             "arabic": "النظام التسعوي"
         },
-        { "english": null, "french": "Nul", "arabic": "صفر، لا أحد، فراغ" },
+        { "english": "null", "french": "Nul", "arabic": "صفر، لا أحد، فراغ" },
         {
             "english": "Null character",
             "french": "Caractère nul",
@@ -4126,7 +4126,6 @@
             "french": "Liste directe",
             "arabic": "لائحة مباشرة"
         },
-        { "english": "# $\\mathbf{Q}$ ", "french": null, "arabic": null },
         {
             "english": "Quantization",
             "french": "Quantification",
@@ -4137,13 +4136,19 @@
             "french": "Quantifier",
             "arabic": "كمم ، حدد كمية كذا"
         },
-        { "english": "Quaternary", "french": "Quaternaire", "arabic": "رباعي" },
+        {   "english": "Quaternary", 
+            "french": "Quaternaire",    
+            "arabic": "رباعي" 
+        },
         {
             "english": "Quibinary code",
             "french": "Code quibinaire",
             "arabic": "كود خماسي - ثنائي"
         },
-        { "english": "Quinary", "french": "Quinaire", "arabic": "خماسي" },
+        {   "english": "Quinary", 
+            "french": "Quinaire",  
+            "arabic": "خماسي" 
+        },
         {
             "english": "Radix",
             "french": "Base de numération",
@@ -4154,7 +4159,10 @@
             "french": "Complément à la base",
             "arabic": "متمم الى القاعدة"
         },
-        { "english": "Random", "french": "Aléatoire", "arabic": "صدفي" },
+        {   "english": "Random", 
+            "french": "Aléatoire",  
+            "arabic": "صدفي" 
+        },
         {
             "english": "Random access",
             "french": "Accès aléatoire",

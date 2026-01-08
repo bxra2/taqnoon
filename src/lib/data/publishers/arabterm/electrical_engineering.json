@@ -1860,7 +1860,7 @@
             "french": "Dynamischer Messfehler (m.)",
             "german": "erreur (f.) de mesure dynamique",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=92824",
-            "description": null
+            "description": ""
         },
         {
             "id": 94136,
@@ -3273,7 +3273,7 @@
             "french": "élément (m.) Lead",
             "german": "Lead-Glied (n.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=94403",
-            "description": null
+            "description": ""
         },
         {
             "id": 93796,
@@ -3525,7 +3525,7 @@
             "french": "entrées du circuit de régulation (pl.+f.)",
             "german": "Regelkreiseingänge (pl.+m.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=93965",
-            "description": null
+            "description": ""
         },
         {
             "id": 93964,
@@ -3534,7 +3534,7 @@
             "french": "sorties du circuit de régulation (pl.+f.)",
             "german": "Regelkreisausgänge (pl.+m.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=93964",
-            "description": null
+            "description": ""
         },
         {
             "id": 94472,
@@ -3750,7 +3750,7 @@
             "french": "Messglied (n.) 2. Ordnung",
             "german": "élément de mesure (m.) de deuxième ordre",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=92848",
-            "description": null
+            "description": ""
         },
         {
             "id": 93841,
@@ -4497,7 +4497,7 @@
             "french": "commande prioritaire",
             "german": "Override Control",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=94316",
-            "description": null
+            "description": ""
         },
         {
             "id": 94442,
@@ -4533,7 +4533,7 @@
             "french": "régulateur (m.) P avec boucle intégrale",
             "german": "P-Regler (m.) mit I-Strecke",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=94203",
-            "description": null
+            "description": ""
         },
         {
             "id": 94204,
@@ -4965,7 +4965,7 @@
             "french": "systèmes de calcul polyadique (pl.+m.)",
             "german": "Polyadische Zahlensysteme (pl.+n.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=93161",
-            "description": null
+            "description": ""
         },
         {
             "id": 94105,
@@ -5703,7 +5703,7 @@
             "french": "rugotest (m.)",
             "german": "Rugotest (m.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=92415",
-            "description": null
+            "description": ""
         },
         {
             "id": 92499,
@@ -5883,7 +5883,7 @@
             "french": "délai de réglage (m.)",
             "german": "Stellzeit (f.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=94004",
-            "description": null
+            "description": ""
         },
         {
             "id": 92874,
@@ -6126,7 +6126,7 @@
             "french": "stabilité (f.) dans les comportements de perturbation et de guide",
             "german": "Stabilität (f.) bei Stör- und Führungsverhalten",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=94521",
-            "description": null
+            "description": ""
         },
         {
             "id": 93061,
@@ -6135,7 +6135,7 @@
             "french": "viscosimètre Stabinger (m.)",
             "german": "Stabinger-Viskosimeter (n.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=93061",
-            "description": null
+            "description": ""
         },
         {
             "id": 93935,
@@ -6162,7 +6162,7 @@
             "french": "valeur d'état (f.)",
             "german": "Zustandsgröße (f.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=94338",
-            "description": null
+            "description": ""
         },
         {
             "id": 93263,
@@ -6369,7 +6369,7 @@
             "french": "TRMS:(racine carrée moyenne efficace réelle",
             "german": "TRMS",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=92041",
-            "description": null
+            "description": ""
         },
         {
             "id": 93402,
@@ -6567,7 +6567,7 @@
             "french": "contrôle (m.) de flux dépendant du temps",
             "german": "Zeitabhängige Ablaufsteuerung (f.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=93132",
-            "description": null
+            "description": ""
         },
         {
             "id": 93843,
@@ -8034,7 +8034,7 @@
             "french": "valeur (f.) régulée auxiliaire",
             "german": "Hilfsregelgröße (f.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=94303",
-            "description": null
+            "description": ""
         },
         {
             "id": 94091,
@@ -8619,7 +8619,7 @@
             "french": "hygromètre (m.) capacitif",
             "german": "kapazitives Hygrometer (n.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=93018",
-            "description": null
+            "description": ""
         },
         {
             "id": 92520,
@@ -8808,7 +8808,7 @@
             "french": "système PT1 (m.), proportionnel avec retard de premier ordre, dans le domaine fréquentiel",
             "german": "Kennkreisfrequenz (f.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=94466",
-            "description": null
+            "description": ""
         },
         {
             "id": 92178,
@@ -8997,7 +8997,7 @@
             "french": "pince ampèremétrique (f.)",
             "german": "Strom-Messzange (f.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=92948",
-            "description": null
+            "description": ""
         },
         {
             "id": 93982,
@@ -9105,7 +9105,7 @@
             "french": "correction de point de comparaison (f.)",
             "german": "Vergleichsstellenkorrektur (f.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=92721",
-            "description": null
+            "description": ""
         },
         {
             "id": 93838,
@@ -9618,7 +9618,7 @@
             "french": "régulateur (m.) constant",
             "german": "Stetiger Regler (m.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=94006",
-            "description": null
+            "description": ""
         },
         {
             "id": 93305,
@@ -9708,7 +9708,7 @@
             "french": "écart de régulation (m.)",
             "german": "Regelabweichung (f.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=93959",
-            "description": null
+            "description": ""
         },
         {
             "id": 93960,
@@ -9717,7 +9717,7 @@
             "french": "différence de régulation (f.)",
             "german": "Regeldifferenz (f.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=93960",
-            "description": null
+            "description": ""
         },
         {
             "id": 93995,
@@ -9834,7 +9834,7 @@
             "french": "plage de réglage (f.)",
             "german": "Stellbereich (m.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=94397",
-            "description": null
+            "description": ""
         },
         {
             "id": 94038,
@@ -10032,7 +10032,7 @@
             "french": "Stabilité (f.) d’un système PT1, proportionnel avec retard de premier ordre",
             "german": "Reglereinstellung (f.) nach Chien, Hrones und Reswick",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=94386",
-            "description": null
+            "description": ""
         },
         {
             "id": 94385,
@@ -10203,7 +10203,7 @@
             "french": "coefficient (m.) de corrélation",
             "german": "Korrelationkoeffizient (m.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=92265",
-            "description": null
+            "description": ""
         },
         {
             "id": 92586,
@@ -10293,7 +10293,7 @@
             "french": "gain (m.) critique du régulateur",
             "german": "Kritische Reglerverstärkung (f.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=94503",
-            "description": null
+            "description": ""
         },
         {
             "id": 94368,
@@ -10842,7 +10842,7 @@
             "french": "durée de rétention (f.)",
             "german": "Vorhaltezeit (f.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=94256",
-            "description": null
+            "description": ""
         },
         {
             "id": 92042,
@@ -11184,7 +11184,7 @@
             "french": "mesure de débit directe (f.)",
             "german": "Unmittelbare Durchflussmessung (f.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=92595",
-            "description": null
+            "description": ""
         },
         {
             "id": 92479,
@@ -11211,7 +11211,7 @@
             "french": "manomètres (pl. + m.) directs",
             "german": "Direkte Druckmessgeräte (pl.+n.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=92511",
-            "description": null
+            "description": ""
         },
         {
             "id": 92764,
@@ -11292,7 +11292,7 @@
             "french": "distribution (f.) discrète de valeur mesurée",
             "german": "Diskrete Messwertverteilung (f.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=92224",
-            "description": null
+            "description": ""
         },
         {
             "id": 93187,
@@ -11526,7 +11526,7 @@
             "french": "procédé (m.) à double rampe",
             "german": "Dual-Slope-Verfahren (n.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=92912",
-            "description": null
+            "description": ""
         },
         {
             "id": 93607,
@@ -11724,7 +11724,7 @@
             "french": "électrolyse (f.)",
             "german": "Elektrolyse (f.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=92754",
-            "description": null
+            "description": ""
         },
         {
             "id": 92755,
@@ -11751,7 +11751,7 @@
             "french": "débitmètre (m.) inductif",
             "german": "Induktiver Durchflussmesser (m.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=92539",
-            "description": null
+            "description": ""
         },
         {
             "id": 92917,
@@ -11787,7 +11787,7 @@
             "french": "tube électronique (m.)",
             "german": "Elektronenröhre (f.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=92757",
-            "description": null
+            "description": ""
         },
         {
             "id": 92918,
@@ -11895,7 +11895,7 @@
             "french": "énergie (f.)",
             "german": "Energie (f.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=92057",
-            "description": null
+            "description": ""
         },
         {
             "id": 94031,
@@ -11985,7 +11985,7 @@
             "french": "propagation (f.) de mesures incertaines",
             "german": "Fehlerfortpflanzung (f.) von Messunsicherheiten",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=92226",
-            "description": null
+            "description": ""
         },
         {
             "id": 92263,
@@ -11994,7 +11994,7 @@
             "french": "propagation (f.) d’erreurs aléatoires",
             "german": "Fehlerfortpflanzung (f.) zufälliger Fehler",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=92263",
-            "description": null
+            "description": ""
         },
         {
             "id": 92163,
@@ -12003,7 +12003,7 @@
             "french": "propagation (f.) d’erreurs systématiques",
             "german": "Fehlerfortpflanzung (f.) systematischer Fehler",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=92163",
-            "description": null
+            "description": ""
         },
         {
             "id": 94009,
@@ -12012,7 +12012,7 @@
             "french": "plage de perturbation (m.)",
             "german": "Störbereich (m.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=94009",
-            "description": null
+            "description": ""
         },
         {
             "id": 92239,
@@ -12264,7 +12264,7 @@
             "french": "ferromagnétique (m.)",
             "german": "ferromagnetisch",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=92739",
-            "description": null
+            "description": ""
         },
         {
             "id": 93745,
@@ -12489,7 +12489,7 @@
             "french": "vitesse d'écoulement dans un tube en fonction de la pression différentielle(f.)",
             "german": "Strömungsgeschwindigkeit (f.) im Rohr als Funktion des Wirkdrucks",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=92574",
-            "description": null
+            "description": ""
         },
         {
             "id": 93273,
@@ -12606,7 +12606,7 @@
             "french": "circuit à quatre fils (m.)",
             "german": "Vierleiter-Schaltung (f.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=92723",
-            "description": null
+            "description": ""
         },
         {
             "id": 93756,
@@ -12624,7 +12624,7 @@
             "french": "fréquence (f.)",
             "german": "Frequenz (f.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=92760",
-            "description": null
+            "description": ""
         },
         {
             "id": 93744,
@@ -12759,7 +12759,7 @@
             "french": "métrologie (f.) des fréquences",
             "german": "Frequenzmessung (f.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=92925",
-            "description": null
+            "description": ""
         },
         {
             "id": 92924,
@@ -13047,7 +13047,7 @@
             "french": "valeur calorifique (f.) spécifique",
             "german": "Spezifischer Brennwert (m.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=93059",
-            "description": null
+            "description": ""
         },
         {
             "id": 93155,
@@ -13128,7 +13128,7 @@
             "french": "capacité (f.) thermique",
             "german": "Wärmekapazität (f.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=92724",
-            "description": null
+            "description": ""
         },
         {
             "id": 92727,
@@ -13308,7 +13308,7 @@
             "french": "erreur (f.) d’hystérésis",
             "german": "Hysterese-Fehler (m.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=92196",
-            "description": null
+            "description": ""
         },
         {
             "id": 94262,
@@ -13344,7 +13344,7 @@
             "french": "éclairement (m.) lumineux",
             "german": "Beleuchtungsstärke (f.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=92976",
-            "description": null
+            "description": ""
         },
         {
             "id": 92977,
@@ -13848,7 +13848,7 @@
             "french": "cadre orienté messages (m.)",
             "german": "Nachstellzeit (f.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=94240",
-            "description": null
+            "description": ""
         },
         {
             "id": 94176,
@@ -14208,7 +14208,7 @@
             "french": "niveau (m.)",
             "german": "Pegel (m.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=92779",
-            "description": null
+            "description": ""
         },
         {
             "id": 94188,
@@ -14613,7 +14613,7 @@
             "french": "partie (f.) linéaire de courbe caractéristique",
             "german": "linearer Anteil (m.) (Kennlinie)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=92168",
-            "description": null
+            "description": ""
         },
         {
             "id": 92321,
@@ -14865,7 +14865,7 @@
             "french": "courbe (f.) d’efficacité lumineuse spectrale",
             "german": "Hellempfindlichkeitskurve (f.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=93013",
-            "description": null
+            "description": ""
         },
         {
             "id": 93256,
@@ -14919,7 +14919,7 @@
             "french": "circuit (m.) magnétique",
             "german": "Magnetischer Kreis (m.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=92772",
-            "description": null
+            "description": ""
         },
         {
             "id": 92743,
@@ -15297,7 +15297,7 @@
             "french": "intervalle (m.) de mesure",
             "german": "Messintervall (n.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=92210",
-            "description": null
+            "description": ""
         },
         {
             "id": 92234,
@@ -15639,7 +15639,7 @@
             "french": "tension (f.) mécanique",
             "german": "Mechanische Spannung (f.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=92448",
-            "description": null
+            "description": ""
         },
         {
             "id": 93096,
@@ -15855,7 +15855,7 @@
             "french": "spectre moléculaire (m.)",
             "german": "Molekülspektrum (n.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=92776",
-            "description": null
+            "description": ""
         },
         {
             "id": 92324,
@@ -15999,7 +15999,7 @@
             "french": "traceur multicanaux (m.)",
             "german": "Mehrkanalschreiber (m.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=92936",
-            "description": null
+            "description": ""
         },
         {
             "id": 94263,
@@ -16494,7 +16494,7 @@
             "french": "régulateur deux points (m.)",
             "german": "Zweipunktregler (m.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=94288",
-            "description": null
+            "description": ""
         },
         {
             "id": 94286,
@@ -17601,7 +17601,7 @@
             "french": "compteur à déplacement",
             "german": "Verdrängungszähler (m.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=92596",
-            "description": null
+            "description": ""
         },
         {
             "id": 92040,
@@ -17772,7 +17772,7 @@
             "french": "différence (f.) de pression",
             "german": "Druckdifferenz (f.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=92512",
-            "description": null
+            "description": ""
         },
         {
             "id": 92536,
@@ -17997,7 +17997,7 @@
             "french": "procédé de coupe tactile (m.)",
             "german": "Tastschnittverfahren (n.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=92417",
-            "description": null
+            "description": ""
         },
         {
             "id": 93328,
@@ -18492,7 +18492,7 @@
             "french": "densité du rayonnement (f.)",
             "german": "Strahldichte (f.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=92681",
-            "description": null
+            "description": ""
         },
         {
             "id": 92680,
@@ -18501,7 +18501,7 @@
             "french": "rayonnement (m.) spécifique",
             "german": "Spezifische Ausstrahlung (f.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=92680",
-            "description": null
+            "description": ""
         },
         {
             "id": 93064,
@@ -18528,7 +18528,7 @@
             "french": "importance du rayonnement (f.)",
             "german": "Strahlstärke (f.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=93062",
-            "description": null
+            "description": ""
         },
         {
             "id": 92353,
@@ -18573,7 +18573,7 @@
             "french": "pyromètre (m.) à rayonnement",
             "german": "Strahlungspyrometer (n.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=92682",
-            "description": null
+            "description": ""
         },
         {
             "id": 92352,
@@ -18681,7 +18681,7 @@
             "french": "variable aléatoire (f.)",
             "german": "Zufallsvariable (f.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=92271",
-            "description": null
+            "description": ""
         },
         {
             "id": 92096,
@@ -18870,7 +18870,7 @@
             "french": "température (f.) de référence pour thermistance CTN",
             "german": "Bezugstemperatur (f.) (NTC)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=92622",
-            "description": null
+            "description": ""
         },
         {
             "id": 92277,
@@ -19401,7 +19401,7 @@
             "french": "rugosité (f.)",
             "german": "Rauheit (f.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=92411",
-            "description": null
+            "description": ""
         },
         {
             "id": 92412,
@@ -19581,7 +19581,7 @@
             "french": "testeur de tension sélectif (m.)",
             "german": "Selektives Spannungsmessgerät (n.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=92944",
-            "description": null
+            "description": ""
         },
         {
             "id": 92676,
@@ -19959,7 +19959,7 @@
             "french": "transitoire (m.)",
             "german": "Einschwingen (n.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=92191",
-            "description": null
+            "description": ""
         },
         {
             "id": 92192,
@@ -19977,7 +19977,7 @@
             "french": "afficheur sept segments (m.)",
             "german": "Siebensegmentanzeige (f.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=92945",
-            "description": null
+            "description": ""
         },
         {
             "id": 92383,
@@ -20184,7 +20184,7 @@
             "french": "valeur calorifique (f.) spécifique",
             "german": "Spezifischer Heizwert (m.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=93060",
-            "description": null
+            "description": ""
         },
         {
             "id": 92347,
@@ -20283,7 +20283,7 @@
             "french": "spline",
             "german": "Spline",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=93493",
-            "description": null
+            "description": ""
         },
         {
             "id": 92437,
@@ -20427,7 +20427,7 @@
             "french": "fonction escalier (f.)",
             "german": "Treppenfunktion (f.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=94419",
-            "description": null
+            "description": ""
         },
         {
             "id": 93628,
@@ -20634,7 +20634,7 @@
             "french": "vecteur d'état (m.)",
             "german": "Zustandsvektor (m.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=94343",
-            "description": null
+            "description": ""
         },
         {
             "id": 92169,
@@ -20715,7 +20715,7 @@
             "french": "valeur (f.) finale stationnaire / stable",
             "german": "Stationärer Endwert (m.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=94396",
-            "description": null
+            "description": ""
         },
         {
             "id": 94329,
@@ -20805,7 +20805,7 @@
             "french": "fonction (f.) échelon / impulsion",
             "german": "Sprungfunktion (f.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=94170",
-            "description": null
+            "description": ""
         },
         {
             "id": 92217,
@@ -20895,7 +20895,7 @@
             "french": "valeur caractéristique de la jauge de déformation métallique",
             "german": "DMS-Kenngröße (f.) (Metall-DMS)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=92473",
-            "description": null
+            "description": ""
         },
         {
             "id": 92431,
@@ -20967,7 +20967,7 @@
             "french": "compensation de température de la jauge de déformation (f.)",
             "german": "DMS-Temperaturkompensation (f.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=92474",
-            "description": null
+            "description": ""
         },
         {
             "id": 92461,
@@ -21012,7 +21012,7 @@
             "french": "structogramme (m.)",
             "german": "Struktogramm (n.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=93351",
-            "description": null
+            "description": ""
         },
         {
             "id": 93286,
@@ -21147,7 +21147,7 @@
             "french": "rapport de commutation (m.)",
             "german": "Schaltverhältnis (n.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=94277",
-            "description": null
+            "description": ""
         },
         {
             "id": 93233,
@@ -21399,7 +21399,7 @@
             "french": "indice de température (m.)",
             "german": "Temperaturbeiwert (m.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=92686",
-            "description": null
+            "description": ""
         },
         {
             "id": 92697,
@@ -21498,7 +21498,7 @@
             "french": "unités de température (pl.+f.)",
             "german": "Temperatureinheit (f.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=92687",
-            "description": null
+            "description": ""
         },
         {
             "id": 92468,
@@ -21678,7 +21678,7 @@
             "french": "thermoélément (m.)",
             "german": "Thermoelement (n.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=92705",
-            "description": null
+            "description": ""
         },
         {
             "id": 92717,
@@ -21687,7 +21687,7 @@
             "french": "branche thermoélectrique (f.)",
             "german": "Thermoschenkel (m.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=92717",
-            "description": null
+            "description": ""
         },
         {
             "id": 92711,
@@ -21966,7 +21966,7 @@
             "french": "base de temps (f.) d'un compteur de fréquence",
             "german": "Zeitbasis (f.) (Frequenzzähler)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=92963",
-            "description": null
+            "description": ""
         },
         {
             "id": 92964,
@@ -22488,7 +22488,7 @@
             "french": "déclencheur (m.)",
             "german": "Trigger (m.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=92954",
-            "description": null
+            "description": ""
         },
         {
             "id": 92719,
@@ -22497,7 +22497,7 @@
             "french": "point triple (m.) de l'eau",
             "german": "Tripelpunkt (m.) des Wassers",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=92719",
-            "description": null
+            "description": ""
         },
         {
             "id": 92221,
@@ -22668,7 +22668,7 @@
             "french": "loi (f.) uniforme",
             "german": "Gleichverteilung (f.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=92228",
-            "description": null
+            "description": ""
         },
         {
             "id": 94443,
@@ -22893,7 +22893,7 @@
             "french": "viscosité (f.)",
             "german": "Viskosität (f.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=93075",
-            "description": null
+            "description": ""
         },
         {
             "id": 93076,
@@ -23001,7 +23001,7 @@
             "french": "cellule de pesée (f.)",
             "german": "Wägezelle (f.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=92508",
-            "description": null
+            "description": ""
         },
         {
             "id": 92507,
@@ -23010,7 +23010,7 @@
             "french": "processus de pesage",
             "german": "Wägeverfahren (n.)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=92507",
-            "description": null
+            "description": ""
         },
         {
             "id": 94429,
@@ -23100,7 +23100,7 @@
             "french": "déviation y (f.) d'un oscilloscope",
             "german": "y-Ablenkung (f.) (Oszilloskop)",
             "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=92960",
-            "description": null
+            "description": ""
         },
         {
             "id": 92438,

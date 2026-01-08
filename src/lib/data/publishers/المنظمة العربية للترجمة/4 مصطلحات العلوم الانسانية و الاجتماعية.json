@@ -637,20 +637,20 @@
         { "english": "Collectivism", "arabic": "جماعية" },
         { "english": "Collectivist Conspiracy", "arabic": "مؤامرة جماعية" },
         { "english": "Collectivist School", "arabic": "المدرسة الجماعية" },
-        { "english": "Collectivization", "arabic": null },
+        { "english": "Collectivization", "arabic": "تجميع" },
         { "english": "Collocative Patterns", "arabic": "طرز تلازم" },
         { "english": "Colonial Exports", "arabic": "صادارتاستعمارية" },
         { "english": "Colonial mode", "arabic": "نمط استعماري" },
-        { "english": "Colonial Trade", "arabic": null },
+        { "english": "Colonial Trade", "arabic": "تجارة استعمارية" },
         { "english": "Colonialism", "arabic": "كولونيالية/ استعمار" },
         { "english": "Colonists", "arabic": "مستوطنون" },
         { "english": "Colorization", "arabic": "استيطان" },
-        { "english": "Combinations", "arabic": "تاركيب" },
-        { "english": "Combining Weights", "arabic": "أوازنالاتحاد الكيميائي" },
+        { "english": "Combinations", "arabic": "تراكيب" },
+        { "english": "Combining Weights", "arabic": "أوزان الاتحاد الكيميائي" },
         { "english": "Comédie humaine", "arabic": "كوميديا بشرية" },
         { "english": "Comedy", "arabic": "كوميديا" },
         { "english": "Comic Strip", "arabic": "قصة مسلسلة" },
-        { "english": "Commenda", "arabic": "شاركة تجارية (القرونالوسطى)" },
+        { "english": "Commenda", "arabic": "شراكة تجارية (القرون الوسطى)" },
         { "english": "Commensurate Justice", "arabic": "عدالة مناسبة" },
         { "english": "Commentary", "arabic": "تعليق" },
         { "english": "Commercial Agriculture", "arabic": "زراعة تجارية" },
@@ -679,8 +679,8 @@
         },
         { "english": "Commoditization", "arabic": "تسليع" },
         { "english": "Commodity", "arabic": "سلعة" },
-        { "english": "Commodity Exchange", "arabic": null },
-        { "english": "Commodity Fetishism", "arabic": null },
+        { "english": "Commodity Exchange", "arabic": "تبادل السلع" },
+        { "english": "Commodity Fetishism", "arabic": "تأليه السلع" },
         { "english": "Common Era", "arabic": "حقبة عامة/ مسيحية" },
         { "english": "Common Good", "arabic": "صالح عام" },
         {
@@ -1162,11 +1162,7 @@
         { "english": "Discipline", "arabic": "فرع معرفي" },
         {
             "english": "Discontinuous",
-            "arabic": "غير متصل: كقولنا منحنى غير متصل أو دالة غير"
-        },
-        {
-            "english": null,
-            "arabic": "متصلة، بالمقارنة مع منحنى متصل أو دالة متصلة"
+            "arabic": "غير متصل: كقولنا منحنى غير متصل أو دالة غير متصلة، بالمقارنة مع منحنى متصل أو دالة متصلة"
         },
         { "english": "Discount Rate", "arabic": "معدل الخصم" },
         { "english": "Discounting", "arabic": "خصم من قيمة المبلغ - الأساس" },
@@ -1175,7 +1171,7 @@
         { "english": "Discourse Terminology", "arabic": "مصطلحات الخطاب" },
         { "english": "Discretionary Power", "arabic": "حرية التصرف" },
         { "english": "Discursive", "arabic": "منطقي" },
-        { "english": "Discursive Ethics", "arabic": "أخلاق خطابية (هابرماس )" },
+        { "english": "Discursive Ethics", "arabic": "أخلاق خطابية (هابرماس)" },
         {
             "english": "Discursive Public Sphere",
             "arabic": "ميدان عام خطابي (هابرماس)"
@@ -1414,9 +1410,8 @@
         { "english": "Enthusiasm", "arabic": "حماس" },
         {
             "english": "Entrepreneur",
-            "arabic": "مبادر (في عالم الأعمال)/مقاول / صاحب المشروع"
+            "arabic": "مبادر (في عالم الأعمال)/مقاول / صاحب المشروع الفردي/ منظم"
         },
-        { "english": null, "arabic": "الفردي/ منظم" },
         { "english": "Entrepreneurial", "arabic": "تنظيمي" },
         { "english": "Entrepreneurial Freedom", "arabic": "حرية التنظيم" },
         {

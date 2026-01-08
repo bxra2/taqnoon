@@ -8244,15 +8244,15 @@
             "id": 174329,
             "english": "joint",
             "arabic": "",
-            "french": null,
+            "french": "",
             "termURL": "",
             "description": ""
         },
         {
             "id": 174330,
             "english": "joint",
-            "arabic": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=174330",
-            "french": null,
+            "arabic": "",
+            "french": "",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=174329",
             "description": ""
         },
@@ -8260,7 +8260,7 @@
             "id": 174331,
             "english": "joint",
             "arabic": "",
-            "french": null,
+            "french": "",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=174331",
             "description": ""
         },
@@ -8348,7 +8348,7 @@
             "id": 174343,
             "english": "knee joint",
             "arabic": "مفصل الركبة",
-            "french": null,
+            "french": "",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=174343",
             "description": ""
         },
@@ -8732,7 +8732,7 @@
             "id": 174390,
             "english": "long sight; hypermetropia",
             "arabic": "طول النظر",
-            "french": null,
+            "french": "",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=174390",
             "description": ""
         },

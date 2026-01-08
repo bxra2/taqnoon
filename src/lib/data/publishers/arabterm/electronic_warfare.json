@@ -700,7 +700,7 @@
             "id": 181733,
             "english": "angle (track-on-jam…)",
             "arabic": "زاوية تتبع التشويش، زاوية تتبع بوجود التشويش",
-            "french": null,
+            "french": "",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=181733",
             "description": "مرادف لـ: home-on-jam."
         },
@@ -1516,7 +1516,7 @@
             "id": 182068,
             "english": "beam sharpening",
             "arabic": "شحذ الحزمة",
-            "french": null,
+            "french": "",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=182068",
             "description": "تنقنية إجراءات مضادة للإجراءات الإلكترونية المضادة، تطبق على رادار تفتيش مُستخدم للتحديد الدقيق للموقع السمتيّ لهدف نقطيّ."
         },
@@ -1596,7 +1596,7 @@
             "id": 182078,
             "english": "best-of-two bistatic homing",
             "arabic": "توجيه بأفضل المحطتين",
-            "french": null,
+            "french": "",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=182078",
             "description": "مرادف ل bistatic illuminator diversity homing."
         },
@@ -1628,7 +1628,7 @@
             "id": 182082,
             "english": "binary moving window detector",
             "arabic": "كاشف النافذة المتحركة الثنائية",
-            "french": null,
+            "french": "",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=182082",
             "description": "مرادف ل: (…detection(double threshold."
         },
@@ -1916,7 +1916,7 @@
             "id": 182118,
             "english": "broadband receiver and displays",
             "arabic": "مستقبل وعارض واسع النطاق",
-            "french": null,
+            "french": "",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=182118",
             "description": "مستقبِل ونظام عرض، يراقب باستمرار كامل نطاق الرادار، بقطع النظر عن موقع هذا الرادار، وذلك بغرض تحديد الترددات وتحديد اتجاهات أقل قدرة تشويش."
         },
@@ -4394,7 +4394,7 @@
         },
         {
             "id": 182361,
-            "english": null,
+            "english": "null",
             "arabic": "انعدام",
             "french": "nul",
             "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=182361",

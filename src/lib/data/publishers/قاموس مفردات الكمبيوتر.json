@@ -10065,7 +10065,6 @@
             "english": "Minor control change",
             "arabic": "تغيير الضبط الأصغر، تغيير التحكم الأدنى مرتبة ، تغيير التحكم الفرعى (الثانوى) ، انقطاع الترتيب في المستوى الأدنى"
         },
-        { "english": "-180", "arabic": null },
         {
             "english": "Minor cycle",
             "arabic": " الدورة الصغرى ، الدورة الفرعية (الثانوية)"
@@ -14306,7 +14305,9 @@
             "english": "Simultaneous",
             "arabic": "التزامن ، التواقت ، الآنية"
         },
-        { "english": "Simultaneous access", "arabic": null },
+        {   "english": "Simultaneous access", 
+            "arabic": "توصل متزامن, متواقت آلي توصل على التوازي آنيا" 
+        },
         {
             "english": "Simultaneous computer",
             "arabic": "حاسب متواقت كمبیوتر آنی کمبیوتر متزامن "
@@ -15263,7 +15264,7 @@
             "arabic": " نظام ترادفی (مترادف)"
         },
         { "english": "Tank", "arabic": " خزان" },
-        { "english": "Tape, شريط", "arabic": null },
+        { "english": "Tape", "arabic": "شريط" },
         { "english": "Tape (TM)", "arabic": " علامة شريط" },
         { "english": "Tape alternation", "arabic": " تناوب الأشرطة" },
         { "english": "Tape block", "arabic": " كتلة بيانات على شريط" },
