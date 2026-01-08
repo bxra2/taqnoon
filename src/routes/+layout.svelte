@@ -15,21 +15,21 @@
 <div class="flex h-screen">
   <!-- Sidebar -->
   <aside
-    class="overflow-hidden border rounded-3xl
-           transition-all duration-200 ease-in-out border-r"
+    class="overflow-hidden rounded-3xl
+           transition-all duration-200 ease-in-out border-r slider"
     class:w-64={open}
     class:w-16={!open}
   >
     <!-- Toggle -->
     <button
-      class="p-4 text-2xl opacity-70 hover:opacity-100"
+      class="p-4 text-4xl opacity-70 hover:opacity-100 margin-auto"
       onclick={() => (open = !open)}
     >
       ☰
     </button>
 
     <!-- Nav -->
-    <nav class="mt-4 space-y-2">
+    <nav class="mt-4 space-y-2 flex flex-col" class:items-start={open} class:items-center={!open}>
       <a href="/" class="nav-item truncate flex items-center gap-3 px-4 py-2 text-sm opacity-80 hover:opacity-100
            hover:bg-stone-800 rounded">
         <Search size={20} />
@@ -68,4 +68,9 @@
            text-sm opacity-80 hover:opacity-100
            hover:bg-slate-800 rounded;
   } */
+    .slider{
+        border-radius: 20px 0 0 20px;
+        border-left: 1px solid var(--border-color);
+        box-shadow: -2px 0 8px rgba(0, 0, 0, 0.2);
+    }
 </style>
