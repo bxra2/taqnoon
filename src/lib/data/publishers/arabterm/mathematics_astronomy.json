@@ -28629,7 +28629,7 @@
             "english": "stationary tangent",
             "arabic": "مماس توقف",
             "french": "tangente fixe",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133434",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133434",
             "description": ""
         },
         {
@@ -28637,7 +28637,7 @@
             "english": "stationary values",
             "arabic": "قيم توقف",
             "french": "valeurs stationnaires",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133435",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133435",
             "description": ""
         },
         {
@@ -28645,7 +28645,7 @@
             "english": "statistical analysis",
             "arabic": "تحليل احصائي",
             "french": "analyse statistique",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133436",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133436",
             "description": ""
         },
         {
@@ -28653,7 +28653,7 @@
             "english": "statistical data",
             "arabic": "بيانات احصائية",
             "french": "données statistiques",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133437",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133437",
             "description": ""
         },
         {
@@ -28661,7 +28661,7 @@
             "english": "statistical inference",
             "arabic": "استدلال احصائي",
             "french": "inférence statistique",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133438",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133438",
             "description": ""
         },
         {
@@ -28669,7 +28669,7 @@
             "english": "statistical parallax",
             "arabic": "اختلاف المنظر الاحصائي",
             "french": "parallaxe statistique",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134435",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134435",
             "description": ""
         },
         {
@@ -28677,7 +28677,7 @@
             "english": "statistical variable",
             "arabic": "متغير احصائي",
             "french": "variable statistique",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133439",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133439",
             "description": ""
         },
         {
@@ -28685,7 +28685,7 @@
             "english": "statistics",
             "arabic": "احصاء (ال...)",
             "french": "la statistique",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133440",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133440",
             "description": ""
         },
         {
@@ -28693,7 +28693,7 @@
             "english": "step function",
             "arabic": "دالة درجية",
             "french": "fonction graduelle",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133441",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133441",
             "description": ""
         },
         {
@@ -28701,7 +28701,7 @@
             "english": "stereographic projection",
             "arabic": "اسقاط مجاسدي",
             "french": "projection stéréographique",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133442",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133442",
             "description": ""
         },
         {
@@ -28709,7 +28709,7 @@
             "english": "straight",
             "arabic": "مستقيم",
             "french": "droite",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133444",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133444",
             "description": ""
         },
         {
@@ -28717,7 +28717,7 @@
             "english": "straight angle",
             "arabic": "زاوية مستقيمة",
             "french": "angle plat",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133445",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133445",
             "description": ""
         },
         {
@@ -28725,7 +28725,7 @@
             "english": "straight line",
             "arabic": "خط مستقيم",
             "french": "ligne droite",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133446",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133446",
             "description": ""
         },
         {
@@ -28733,7 +28733,7 @@
             "english": "straight motion",
             "arabic": "حركة مستقيمة",
             "french": "mouvement rectiligne",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133447",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133447",
             "description": ""
         },
         {
@@ -28741,7 +28741,7 @@
             "english": "strata",
             "arabic": "طبقات",
             "french": "strates",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133448",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133448",
             "description": "في الإحصاء"
         },
         {
@@ -28749,7 +28749,7 @@
             "english": "stratified sample",
             "arabic": "عينة طبقية",
             "french": "échantillon stratifié",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133449",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133449",
             "description": ""
         },
         {
@@ -28757,7 +28757,7 @@
             "english": "stratosphere",
             "arabic": "ستراتوسفير",
             "french": "stratosphère",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134436",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134436",
             "description": ""
         },
         {
@@ -28765,7 +28765,7 @@
             "english": "stress",
             "arabic": "اجهاد",
             "french": "tension",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133450",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133450",
             "description": ""
         },
         {
@@ -28773,7 +28773,7 @@
             "english": "strictly",
             "arabic": "بالضبط",
             "french": "strictement",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133451",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133451",
             "description": ""
         },
         {
@@ -28781,7 +28781,7 @@
             "english": "strictly decreasing",
             "arabic": "متناقص بالضبط",
             "french": "strictement décroissant",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133452",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133452",
             "description": ""
         },
         {
@@ -28789,7 +28789,7 @@
             "english": "strictly increasing",
             "arabic": "متزايد بالضبط",
             "french": "strictement croissant",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133453",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133453",
             "description": ""
         },
         {
@@ -28797,7 +28797,7 @@
             "english": "strictly monotonic",
             "arabic": "رتيب بالضبط",
             "french": "strictement monotone",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133454",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133454",
             "description": ""
         },
         {
@@ -28805,7 +28805,7 @@
             "english": "strophoid",
             "arabic": "ستروفوئيد",
             "french": "strophoïde",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133455",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133455",
             "description": "منحن من الدرجة الثالثة"
         },
         {
@@ -28813,7 +28813,7 @@
             "english": "structure",
             "arabic": "بينة",
             "french": "structure",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133456",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133456",
             "description": ""
         },
         {
@@ -28821,7 +28821,7 @@
             "english": "structure",
             "arabic": "بنية",
             "french": "structure",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134437",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134437",
             "description": ""
         },
         {
@@ -28829,7 +28829,7 @@
             "english": "style of a dial",
             "arabic": "عقرب مزولة",
             "french": "style d'un cadran",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134438",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134438",
             "description": ""
         },
         {
@@ -28837,7 +28837,7 @@
             "english": "sub-ring",
             "arabic": "حلقة جزئية",
             "french": "sous-anneau",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133461",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133461",
             "description": ""
         },
         {
@@ -28845,7 +28845,7 @@
             "english": "sub-vectorial space",
             "arabic": "فضاء متجهي جزئي",
             "french": "sous-espace vectoriel",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133473",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133473",
             "description": ""
         },
         {
@@ -28853,7 +28853,7 @@
             "english": "subdwarf",
             "arabic": "تحت القزم",
             "french": "sous-naine",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134439",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134439",
             "description": ""
         },
         {
@@ -28861,7 +28861,7 @@
             "english": "subfield",
             "arabic": "حقل جزئي",
             "french": "sous corps",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133457",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133457",
             "description": ""
         },
         {
@@ -28869,7 +28869,7 @@
             "english": "subgiant",
             "arabic": "تحت العملاق",
             "french": "sous-géante",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134440",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134440",
             "description": ""
         },
         {
@@ -28877,7 +28877,7 @@
             "english": "subgroup",
             "arabic": "زمرة جزئية",
             "french": "sous-groupe",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133458",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133458",
             "description": ""
         },
         {
@@ -28885,7 +28885,7 @@
             "english": "submultiple of a number",
             "arabic": "قاسم عدد",
             "french": "sous-multiple d'un nombre",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133459",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133459",
             "description": ""
         },
         {
@@ -28893,7 +28893,7 @@
             "english": "subnormal",
             "arabic": "تحت العمود",
             "french": "sous-normale",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133460",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133460",
             "description": ""
         },
         {
@@ -28901,7 +28901,7 @@
             "english": "subscript",
             "arabic": "دليل سفلي",
             "french": "indice inférieur",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133462",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133462",
             "description": ""
         },
         {
@@ -28909,7 +28909,7 @@
             "english": "subset",
             "arabic": "مجموعة جزئية",
             "french": "sous-ensemble",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133463",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133463",
             "description": ""
         },
         {
@@ -28917,7 +28917,7 @@
             "english": "subspace",
             "arabic": "فراغ جزئي",
             "french": "sous-espace",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133464",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133464",
             "description": ""
         },
         {
@@ -28925,7 +28925,7 @@
             "english": "substitution",
             "arabic": "تعويض",
             "french": "substitution",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133465",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133465",
             "description": ""
         },
         {
@@ -28933,7 +28933,7 @@
             "english": "subtangent",
             "arabic": "تحت المماس",
             "french": "sous-tangente",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133466",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133466",
             "description": ""
         },
         {
@@ -28941,7 +28941,7 @@
             "english": "subtend (to-)",
             "arabic": "قابَلَ",
             "french": "sous-tendre",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133467",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133467",
             "description": ""
         },
         {
@@ -28949,7 +28949,7 @@
             "english": "subtend arc",
             "arabic": "قوس مقابلة",
             "french": "arc capable",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133468",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133468",
             "description": ""
         },
         {
@@ -28957,7 +28957,7 @@
             "english": "subtended angle",
             "arabic": "زاوية مقابلة",
             "french": "angle sous-tendu",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133469",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133469",
             "description": ""
         },
         {
@@ -28965,7 +28965,7 @@
             "english": "subtract (to-)",
             "arabic": "طَرَحَ",
             "french": "soustraire",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133470",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133470",
             "description": ""
         },
         {
@@ -28973,7 +28973,7 @@
             "english": "subtraction",
             "arabic": "طرح",
             "french": "soustraction",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133471",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133471",
             "description": ""
         },
         {
@@ -28981,7 +28981,7 @@
             "english": "subtraction remainde",
             "arabic": "باقي الطرح",
             "french": "reste d'une soustraction; résidu d'une soustraction",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133472",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133472",
             "description": ""
         },
         {
@@ -28989,7 +28989,7 @@
             "english": "succession",
             "arabic": "تَوَالٍ",
             "french": "succession",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133474",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133474",
             "description": ""
         },
         {
@@ -28997,7 +28997,7 @@
             "english": "successive addition",
             "arabic": "جمع متوالٍ",
             "french": "addition successive",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133475",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133475",
             "description": ""
         },
         {
@@ -29005,7 +29005,7 @@
             "english": "successive subtraction",
             "arabic": "طرح متوالٍ",
             "french": "soustraction successive",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133476",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133476",
             "description": ""
         },
         {
@@ -29013,7 +29013,7 @@
             "english": "successive trials",
             "arabic": "محاولات متوالية",
             "french": "épreuves successives",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133477",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133477",
             "description": ""
         },
         {
@@ -29021,7 +29021,7 @@
             "english": "successor of a whole number",
             "arabic": "تالي عدد طبيعي",
             "french": "successeur d'un entier",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133478",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133478",
             "description": ""
         },
         {
@@ -29029,7 +29029,7 @@
             "english": "sum",
             "arabic": "مبلغ",
             "french": "somme",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133479",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133479",
             "description": ""
         },
         {
@@ -29037,7 +29037,7 @@
             "english": "sum of cubes of natural numbers",
             "arabic": "مجموع مكعبات الأعداد الطبيعية",
             "french": "somme des cubes des nombres naturels",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133480",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133480",
             "description": ""
         },
         {
@@ -29045,7 +29045,7 @@
             "english": "sum of natural numbers",
             "arabic": "مجموع الأعداد الطبيعية",
             "french": "somme des nombres naturels",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133481",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133481",
             "description": ""
         },
         {
@@ -29053,7 +29053,7 @@
             "english": "sum of squares of natural numbers",
             "arabic": "مجموع مربعات الأعداد الطبيعية",
             "french": "somme des carrés des nombres naturels",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133482",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133482",
             "description": ""
         },
         {
@@ -29061,7 +29061,7 @@
             "english": "sum of vectors",
             "arabic": "مجموع متجهات",
             "french": "somme de vecteurs",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133483",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133483",
             "description": ""
         },
         {
@@ -29069,7 +29069,7 @@
             "english": "summable",
             "arabic": "قابل للجمع",
             "french": "sommable",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133484",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133484",
             "description": ""
         },
         {
@@ -29077,7 +29077,7 @@
             "english": "summarize (to)",
             "arabic": "لخّص",
             "french": "résumer",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133485",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133485",
             "description": ""
         },
         {
@@ -29085,7 +29085,7 @@
             "english": "summation",
             "arabic": "جمع",
             "french": "sommation",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133486",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133486",
             "description": ""
         },
         {
@@ -29093,7 +29093,7 @@
             "english": "summation sign",
             "arabic": "علامة التجميع",
             "french": "signe de sommation",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133487",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133487",
             "description": ""
         },
         {
@@ -29101,7 +29101,7 @@
             "english": "summer solstice",
             "arabic": "منقلب (ال...) الصيفي",
             "french": "solstice d'été",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134441",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134441",
             "description": ""
         },
         {
@@ -29109,7 +29109,7 @@
             "english": "summit",
             "arabic": "قمة",
             "french": "sommet",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133488",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133488",
             "description": ""
         },
         {
@@ -29117,7 +29117,7 @@
             "english": "sun",
             "arabic": "شمس (ال...)",
             "french": "soleil",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134442",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134442",
             "description": ""
         },
         {
@@ -29125,7 +29125,7 @@
             "english": "sundial",
             "arabic": "مزولة",
             "french": "cadran solaire",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134443",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134443",
             "description": ""
         },
         {
@@ -29133,7 +29133,7 @@
             "english": "sunspots",
             "arabic": "كلف شمسية",
             "french": "tâches solaires",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134444",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134444",
             "description": ""
         },
         {
@@ -29141,7 +29141,7 @@
             "english": "sunspots cycle",
             "arabic": "دورة الكلف الشمسية",
             "french": "cycle des tâches solaires",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134445",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134445",
             "description": ""
         },
         {
@@ -29149,7 +29149,7 @@
             "english": "superficial",
             "arabic": "سطحي",
             "french": "superficiel",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133489",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133489",
             "description": ""
         },
         {
@@ -29157,7 +29157,7 @@
             "english": "supergiant star",
             "arabic": "نجم فوق العملاق",
             "french": "étoile supergéante",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134446",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134446",
             "description": ""
         },
         {
@@ -29165,7 +29165,7 @@
             "english": "superior",
             "arabic": "أعلى",
             "french": "supérieur",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133490",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133490",
             "description": ""
         },
         {
@@ -29173,7 +29173,7 @@
             "english": "superior conjunction",
             "arabic": "اقتران علوي",
             "french": "conjonction supérieure",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134447",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134447",
             "description": ""
         },
         {
@@ -29181,7 +29181,7 @@
             "english": "superior planet",
             "arabic": "كوكب علوي",
             "french": "planète supérieure",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134448",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134448",
             "description": ""
         },
         {
@@ -29189,7 +29189,7 @@
             "english": "supernova",
             "arabic": "نجم فوق الجديد",
             "french": "supernova",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134449",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134449",
             "description": ""
         },
         {
@@ -29197,7 +29197,7 @@
             "english": "superposable",
             "arabic": "قابل للتراكب",
             "french": "superposable",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133491",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133491",
             "description": ""
         },
         {
@@ -29205,7 +29205,7 @@
             "english": "superposition",
             "arabic": "تراكب",
             "french": "superposition",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133492",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133492",
             "description": ""
         },
         {
@@ -29213,7 +29213,7 @@
             "english": "superscript",
             "arabic": "دليل علوي",
             "french": "indice supérieur",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133493",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133493",
             "description": ""
         },
         {
@@ -29221,7 +29221,7 @@
             "english": "supplementary angles",
             "arabic": "زاويتان متكاملتان",
             "french": "angles supplémentaires",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133494",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133494",
             "description": ""
         },
         {
@@ -29229,7 +29229,7 @@
             "english": "support",
             "arabic": "حامل",
             "french": "support",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133495",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133495",
             "description": ""
         },
         {
@@ -29237,7 +29237,7 @@
             "english": "support of a segment",
             "arabic": "حامل قطعة",
             "french": "support d'un segment",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133496",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133496",
             "description": ""
         },
         {
@@ -29245,7 +29245,7 @@
             "english": "supremum",
             "arabic": "أصغر حدّ أعلى",
             "french": "supremum",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133497",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133497",
             "description": ""
         },
         {
@@ -29253,7 +29253,7 @@
             "english": "surd",
             "arabic": "جذر أصمّ",
             "french": "racine irrationnelle",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133498",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133498",
             "description": ""
         },
         {
@@ -29261,7 +29261,7 @@
             "english": "surd index",
             "arabic": "دليل الجذر الأصمّ",
             "french": "indice de la racine irrationnelle",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133499",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133499",
             "description": ""
         },
         {
@@ -29269,7 +29269,7 @@
             "english": "surface",
             "arabic": "سطح",
             "french": "surface",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133500",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133500",
             "description": ""
         },
         {
@@ -29277,7 +29277,7 @@
             "english": "surface density",
             "arabic": "كثافة سطحية",
             "french": "densité superficielle",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133501",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133501",
             "description": ""
         },
         {
@@ -29285,7 +29285,7 @@
             "english": "surface generated by",
             "arabic": "سطح مولّد ب",
             "french": "surface engendrée par",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133502",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133502",
             "description": ""
         },
         {
@@ -29293,7 +29293,7 @@
             "english": "surface of revolution",
             "arabic": "سطح دوراني",
             "french": "surface de révolution",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133503",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133503",
             "description": ""
         },
         {
@@ -29301,7 +29301,7 @@
             "english": "surjective application",
             "arabic": "تطبيق شامل",
             "french": "application surjective",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133504",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133504",
             "description": ""
         },
         {
@@ -29309,7 +29309,7 @@
             "english": "survey",
             "arabic": "مسح",
             "french": "levé (de plan)",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133505",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133505",
             "description": ""
         },
         {
@@ -29317,7 +29317,7 @@
             "english": "symbol",
             "arabic": "رمز",
             "french": "symbole",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133506",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133506",
             "description": ""
         },
         {
@@ -29325,7 +29325,7 @@
             "english": "symbolic expression",
             "arabic": "عبارة رمزية",
             "french": "expression symbolique",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133507",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133507",
             "description": ""
         },
         {
@@ -29333,7 +29333,7 @@
             "english": "symbolic system",
             "arabic": "نظام رمزي",
             "french": "système symbolique",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133508",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133508",
             "description": ""
         },
         {
@@ -29341,7 +29341,7 @@
             "english": "symbolical algebra",
             "arabic": "جبر (ال...) الرمزي",
             "french": "algèbre symbolique",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133509",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133509",
             "description": ""
         },
         {
@@ -29349,7 +29349,7 @@
             "english": "symmetric (al)",
             "arabic": "تناظري",
             "french": "symétrique",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133510",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133510",
             "description": ""
         },
         {
@@ -29357,7 +29357,7 @@
             "english": "symmetric difference of two sets",
             "arabic": "فرق تناظري لمجموعتين",
             "french": "différence symétrique de deux ensembles",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133511",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133511",
             "description": ""
         },
         {
@@ -29365,7 +29365,7 @@
             "english": "symmetric elements",
             "arabic": "عناصر متناظرة",
             "french": "éléments symétriques",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133512",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133512",
             "description": ""
         },
         {
@@ -29373,7 +29373,7 @@
             "english": "symmetric expression",
             "arabic": "عبارة متناظرة",
             "french": "expression symétrique",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133513",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133513",
             "description": ""
         },
         {
@@ -29381,7 +29381,7 @@
             "english": "symmetric function",
             "arabic": "دالة متناظرة",
             "french": "fonction symétrique",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133514",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133514",
             "description": ""
         },
         {
@@ -29389,7 +29389,7 @@
             "english": "symmetric functions of roots",
             "arabic": "دوال متناظرة الجذور",
             "french": "fonctions à racines symétriques",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133515",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133515",
             "description": ""
         },
         {
@@ -29397,7 +29397,7 @@
             "english": "symmetric pair of equations",
             "arabic": "زوج معادلات متناظر",
             "french": "paire symétrique d'équations",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133516",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133516",
             "description": ""
         },
         {
@@ -29405,7 +29405,7 @@
             "english": "symmetric polynomial",
             "arabic": "حدودية متناظرة",
             "french": "polynôme symétrique",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133517",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133517",
             "description": ""
         },
         {
@@ -29413,7 +29413,7 @@
             "english": "symmetric relation",
             "arabic": "علاقة تناظرية",
             "french": "relation symétrique",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133518",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133518",
             "description": ""
         },
         {
@@ -29421,7 +29421,7 @@
             "english": "symmetrical group",
             "arabic": "زمرة تناظرية",
             "french": "groupe symétrique",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133520",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133520",
             "description": ""
         },
         {
@@ -29429,7 +29429,7 @@
             "english": "symmetrical mapping",
             "arabic": "تطبيق تناظري",
             "french": "application symétrique",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133521",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133521",
             "description": ""
         },
         {
@@ -29437,7 +29437,7 @@
             "english": "symmetrical matrix",
             "arabic": "مصفوفة تناظرية",
             "french": "matrice symétrique",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133519",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133519",
             "description": ""
         },
         {
@@ -29445,7 +29445,7 @@
             "english": "symmetrical numbers",
             "arabic": "أعداد متناظرة",
             "french": "nombres symétriques",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133522",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133522",
             "description": ""
         },
         {
@@ -29453,7 +29453,7 @@
             "english": "symmetry",
             "arabic": "تناظر",
             "french": "symétrie",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133523",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133523",
             "description": ""
         },
         {
@@ -29461,7 +29461,7 @@
             "english": "synchronous orbit",
             "arabic": "مدار متزامن",
             "french": "orbite synchronique",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134450",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134450",
             "description": ""
         },
         {
@@ -29469,7 +29469,7 @@
             "english": "synthesis",
             "arabic": "تركيب",
             "french": "synthèse",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133524",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133524",
             "description": ""
         },
         {
@@ -29477,7 +29477,7 @@
             "english": "synthetic method",
             "arabic": "طريقة تركيبية",
             "french": "méthode synthétique",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133525",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133525",
             "description": ""
         },
         {
@@ -29485,7 +29485,7 @@
             "english": "system",
             "arabic": "نظام",
             "french": "système",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133526",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133526",
             "description": ""
         },
         {
@@ -29493,7 +29493,7 @@
             "english": "system",
             "arabic": "نظام، مجموعة",
             "french": "système",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134451",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134451",
             "description": ""
         },
         {
@@ -29501,7 +29501,7 @@
             "english": "system of axes",
             "arabic": "نظام محاور",
             "french": "système d'axes",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134452",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134452",
             "description": ""
         },
         {
@@ -29509,7 +29509,7 @@
             "english": "system of co-ordinates",
             "arabic": "نظام احداثيات",
             "french": "système de coordonnées",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133527",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133527",
             "description": ""
         },
         {
@@ -29517,7 +29517,7 @@
             "english": "system of notation",
             "arabic": "نظام ترميز",
             "french": "système de notation",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133528",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133528",
             "description": ""
         },
         {
@@ -29525,7 +29525,7 @@
             "english": "systematic error",
             "arabic": "خطأ نظامي",
             "french": "erreur systématique",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133529",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133529",
             "description": ""
         },
         {
@@ -29533,7 +29533,7 @@
             "english": "table",
             "arabic": "جدول",
             "french": "table",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133531",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133531",
             "description": ""
         },
         {
@@ -29541,7 +29541,7 @@
             "english": "table",
             "arabic": "جدول",
             "french": "table",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134453",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134453",
             "description": ""
         },
         {
@@ -29549,7 +29549,7 @@
             "english": "table of correlation",
             "arabic": "جدول الترابط",
             "french": "table de corrélation",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133532",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133532",
             "description": ""
         },
         {
@@ -29557,7 +29557,7 @@
             "english": "table of variations",
             "arabic": "جدول تغيرات",
             "french": "tableau de variations",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133533",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133533",
             "description": ""
         },
         {
@@ -29565,7 +29565,7 @@
             "english": "tan",
             "arabic": "ظا",
             "french": "tg",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133534",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133534",
             "description": ""
         },
         {
@@ -29573,7 +29573,7 @@
             "english": "tangency",
             "arabic": "تماس",
             "french": "tangence",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133535",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133535",
             "description": ""
         },
         {
@@ -29581,7 +29581,7 @@
             "english": "tangent",
             "arabic": "مماسّ",
             "french": "tangente",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133536",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133536",
             "description": ""
         },
         {
@@ -29589,7 +29589,7 @@
             "english": "tangent curves",
             "arabic": "منحنيات مماسّة",
             "french": "courbes tangentes",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133537",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133537",
             "description": ""
         },
         {
@@ -29597,7 +29597,7 @@
             "english": "tangent function",
             "arabic": "دالة المماسّ",
             "french": "fonction tangente",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133538",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133538",
             "description": ""
         },
         {
@@ -29605,7 +29605,7 @@
             "english": "tangent graph",
             "arabic": "بيان مماسّي",
             "french": "graphique tangent",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133539",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133539",
             "description": ""
         },
         {
@@ -29613,7 +29613,7 @@
             "english": "tangent law",
             "arabic": "قانون الظل",
             "french": "loi de tangente",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133540",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133540",
             "description": ""
         },
         {
@@ -29621,7 +29621,7 @@
             "english": "tangent line",
             "arabic": "خط مماسّ",
             "french": "droite tangente",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133541",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133541",
             "description": ""
         },
         {
@@ -29629,7 +29629,7 @@
             "english": "tangent of a curve",
             "arabic": "مماسّ منحن",
             "french": "tangente à une courbe",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133542",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133542",
             "description": ""
         },
         {
@@ -29637,7 +29637,7 @@
             "english": "tangent of angle",
             "arabic": "ظل الزاوية",
             "french": "tangente d'un angle",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133543",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133543",
             "description": ""
         },
         {
@@ -29645,7 +29645,7 @@
             "english": "tangent plane",
             "arabic": "مستو مماسّ",
             "french": "plan tangent",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133544",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133544",
             "description": ""
         },
         {
@@ -29653,7 +29653,7 @@
             "english": "tangent ration (tan)",
             "arabic": "نسبة الظل",
             "french": "tg.",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133545",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133545",
             "description": ""
         },
         {
@@ -29661,7 +29661,7 @@
             "english": "tangent to two circles",
             "arabic": "مماس مشتركة لدائرتين",
             "french": "tangente à deux cercles",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133546",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133546",
             "description": ""
         },
         {
@@ -29669,7 +29669,7 @@
             "english": "tangential",
             "arabic": "مماسّي",
             "french": "tangentiel",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133547",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133547",
             "description": ""
         },
         {
@@ -29677,7 +29677,7 @@
             "english": "tangential",
             "arabic": "مماسي",
             "french": "tangentiel",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134454",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134454",
             "description": ""
         },
         {
@@ -29685,7 +29685,7 @@
             "english": "tangential acceleration",
             "arabic": "تسارع مماسّي",
             "french": "accélération tangentielle",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133548",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133548",
             "description": ""
         },
         {
@@ -29693,7 +29693,7 @@
             "english": "tangential acceleration",
             "arabic": "تسارع مماسي",
             "french": "accélération tangentielle",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134455",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134455",
             "description": ""
         },
         {
@@ -29701,7 +29701,7 @@
             "english": "tangential direction",
             "arabic": "اتجاه مماسّي",
             "french": "direction tangentielle",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133549",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133549",
             "description": ""
         },
         {
@@ -29709,7 +29709,7 @@
             "english": "tangential polar equation",
             "arabic": "معادلة (ال...) القطبية للمماس",
             "french": "équation polaire de la tangente",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133550",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133550",
             "description": ""
         },
         {
@@ -29717,7 +29717,7 @@
             "english": "tanh",
             "arabic": "ظاز",
             "french": "th",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133551",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133551",
             "description": "ظل زاوية زائدي"
         },
         {
@@ -29725,7 +29725,7 @@
             "english": "target",
             "arabic": "هدف",
             "french": "cible; but; objectif",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133552",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133552",
             "description": ""
         },
         {
@@ -29733,7 +29733,7 @@
             "english": "taurus (the)",
             "arabic": "ثور (ال...)",
             "french": "le taureau",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134456",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134456",
             "description": ""
         },
         {
@@ -29741,7 +29741,7 @@
             "english": "tautology",
             "arabic": "تحصيل حاصل",
             "french": "tautologie",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133553",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133553",
             "description": ""
         },
         {
@@ -29749,7 +29749,7 @@
             "english": "technical",
             "arabic": "تقني",
             "french": "technique",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133556",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133556",
             "description": ""
         },
         {
@@ -29757,7 +29757,7 @@
             "english": "telescope",
             "arabic": "مرقب",
             "french": "télescope",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134457",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134457",
             "description": ""
         },
         {
@@ -29765,7 +29765,7 @@
             "english": "telescopium",
             "arabic": "كوكبة المنظار، كوكبة المرقب",
             "french": "le télescope",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134458",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134458",
             "description": ""
         },
         {
@@ -29773,7 +29773,7 @@
             "english": "temporal equation",
             "arabic": "معادلة زمنية",
             "french": "équation horaire",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133557",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133557",
             "description": ""
         },
         {
@@ -29781,7 +29781,7 @@
             "english": "temporary",
             "arabic": "مؤقت",
             "french": "temporaire",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133558",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133558",
             "description": ""
         },
         {
@@ -29789,7 +29789,7 @@
             "english": "tend (to)",
             "arabic": "آل",
             "french": "tendre à ((v. intr.))",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133559",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133559",
             "description": "يؤول"
         },
         {
@@ -29797,7 +29797,7 @@
             "english": "tension",
             "arabic": "توتر",
             "french": "tension",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133560",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133560",
             "description": ""
         },
         {
@@ -29805,7 +29805,7 @@
             "english": "term",
             "arabic": "حدّ",
             "french": "terme",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133561",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133561",
             "description": ""
         },
         {
@@ -29813,7 +29813,7 @@
             "english": "term of a fraction",
             "arabic": "حدّ كسر",
             "french": "terme d'une fraction",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133562",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133562",
             "description": ""
         },
         {
@@ -29821,7 +29821,7 @@
             "english": "term of a sequence",
             "arabic": "حدّ متتالية",
             "french": "terme d'une suite",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133563",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133563",
             "description": ""
         },
         {
@@ -29829,7 +29829,7 @@
             "english": "term of a series",
             "arabic": "حدّ متسلسلة",
             "french": "terme d'une série",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133564",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133564",
             "description": ""
         },
         {
@@ -29837,7 +29837,7 @@
             "english": "term of an expression",
             "arabic": "حدّ عبارة",
             "french": "terme d'une expression",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133565",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133565",
             "description": ""
         },
         {
@@ -29845,7 +29845,7 @@
             "english": "term of proposition",
             "arabic": "حدّ تناسب",
             "french": "terme d'une proportion",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133566",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133566",
             "description": ""
         },
         {
@@ -29853,7 +29853,7 @@
             "english": "terminal velocity",
             "arabic": "سرعة نهائية",
             "french": "vitesse finale",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133567",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133567",
             "description": ""
         },
         {
@@ -29861,7 +29861,7 @@
             "english": "terminary number system",
             "arabic": "نظام الأعداد الثلاثي",
             "french": "système numérique ternaire",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133568",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133568",
             "description": ""
         },
         {
@@ -29869,7 +29869,7 @@
             "english": "terminating continued fraction",
             "arabic": "كسر متواصل منتهٍ",
             "french": "fraction continue terminée",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133569",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133569",
             "description": ""
         },
         {
@@ -29877,7 +29877,7 @@
             "english": "terminating decimals; finite decimals",
             "arabic": "كسور عشرية منتهية",
             "french": "décimales finies",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133570",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133570",
             "description": ""
         },
         {
@@ -29885,7 +29885,7 @@
             "english": "terms of a ratio",
             "arabic": "حدّا نسبة",
             "french": "termes d'un rapport",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133571",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133571",
             "description": ""
         },
         {
@@ -29893,7 +29893,7 @@
             "english": "terms of polynomial",
             "arabic": "حدود حدودية",
             "french": "termes d'un polynôme",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133572",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133572",
             "description": ""
         },
         {
@@ -29901,7 +29901,7 @@
             "english": "ternary",
             "arabic": "ثلاثي",
             "french": "ternaire",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133573",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133573",
             "description": ""
         },
         {
@@ -29909,7 +29909,7 @@
             "english": "ternary",
             "arabic": "ثلاثي",
             "french": "ternaire",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134459",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134459",
             "description": ""
         },
         {
@@ -29917,7 +29917,7 @@
             "english": "ternary operation",
             "arabic": "عملية ثلاثية",
             "french": "opération ternaire",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133574",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133574",
             "description": ""
         },
         {
@@ -29925,7 +29925,7 @@
             "english": "terrestrial curvature",
             "arabic": "انحناء الأرض",
             "french": "courbure terrestre",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133575",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133575",
             "description": ""
         },
         {
@@ -29933,7 +29933,7 @@
             "english": "tessellation",
             "arabic": "تزويق",
             "french": "mosaïque",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133576",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133576",
             "description": ""
         },
         {
@@ -29941,7 +29941,7 @@
             "english": "test",
             "arabic": "اختبار",
             "french": "test",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133577",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133577",
             "description": ""
         },
         {
@@ -29949,7 +29949,7 @@
             "english": "test of hypothesis",
             "arabic": "اختبار الفرض",
             "french": "test d'hypothèse",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133578",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133578",
             "description": ""
         },
         {
@@ -29957,7 +29957,7 @@
             "english": "tetragonal; tetragon",
             "arabic": "رباعي الأضلاع، رباعي الزوايا",
             "french": "tétragone; quadrilatère",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133579",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133579",
             "description": ""
         },
         {
@@ -29965,7 +29965,7 @@
             "english": "tetrahedron",
             "arabic": "رباعي الوجوه",
             "french": "tétraèdre",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133580",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133580",
             "description": ""
         },
         {
@@ -29973,7 +29973,7 @@
             "english": "theodolite",
             "arabic": "مزواة",
             "french": "théodolite",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133581",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133581",
             "description": ""
         },
         {
@@ -29981,7 +29981,7 @@
             "english": "theodolite",
             "arabic": "ثيودوليت",
             "french": "théodolite",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134460",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134460",
             "description": ""
         },
         {
@@ -29989,7 +29989,7 @@
             "english": "theorem",
             "arabic": "مبرهنة",
             "french": "théorème",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133582",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133582",
             "description": ""
         },
         {
@@ -29997,7 +29997,7 @@
             "english": "theoretical",
             "arabic": "نظري",
             "french": "théorique",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133583",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133583",
             "description": ""
         },
         {
@@ -30005,7 +30005,7 @@
             "english": "theory",
             "arabic": "نظرية",
             "french": "théorie",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133584",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133584",
             "description": ""
         },
         {
@@ -30013,7 +30013,7 @@
             "english": "theory of equations",
             "arabic": "نظرية المعادلات",
             "french": "théorie des équations",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133585",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133585",
             "description": ""
         },
         {
@@ -30021,7 +30021,7 @@
             "english": "theory of groups",
             "arabic": "نظرية الزّمر",
             "french": "théorie des groupes",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133586",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133586",
             "description": ""
         },
         {
@@ -30029,7 +30029,7 @@
             "english": "theory of indices",
             "arabic": "نظرية الأدّلة",
             "french": "théorie des indices",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133587",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133587",
             "description": ""
         },
         {
@@ -30037,7 +30037,7 @@
             "english": "theory of least squares",
             "arabic": "نظرية المربعات الصغرى",
             "french": "théorie des moindres carrés",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133588",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133588",
             "description": ""
         },
         {
@@ -30045,7 +30045,7 @@
             "english": "theory of logarithm",
             "arabic": "نظرية اللوغاريتمات",
             "french": "théorie des logarithmes",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133589",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133589",
             "description": ""
         },
         {
@@ -30053,7 +30053,7 @@
             "english": "theory of numbers",
             "arabic": "نظرية الأعداد",
             "french": "théorie des nombres",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133590",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133590",
             "description": ""
         },
         {
@@ -30061,7 +30061,7 @@
             "english": "theory of partition",
             "arabic": "نظرية التجزئة",
             "french": "théorie de partition",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133591",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133591",
             "description": ""
         },
         {
@@ -30069,7 +30069,7 @@
             "english": "theory of sets",
             "arabic": "نظرية المجموعات",
             "french": "théorie des ensembles",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133592",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133592",
             "description": ""
         },
         {
@@ -30077,7 +30077,7 @@
             "english": "there exists",
             "arabic": "يوجَد",
             "french": "il existe",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133593",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133593",
             "description": ""
         },
         {
@@ -30085,7 +30085,7 @@
             "english": "third",
             "arabic": "ثُلْثٌ",
             "french": "tiers",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133594",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133594",
             "description": ""
         },
         {
@@ -30093,7 +30093,7 @@
             "english": "third proportional",
             "arabic": "ثالث متناسب",
             "french": "troisième proportionnelle",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133595",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133595",
             "description": ""
         },
         {
@@ -30101,7 +30101,7 @@
             "english": "three dimensional space",
             "arabic": "فضاء الأبعاد الثلاثية",
             "french": "espace à trois dimensions",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133596",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133596",
             "description": ""
         },
         {
@@ -30109,7 +30109,7 @@
             "english": "three-dimensional geometry",
             "arabic": "هندسة ثلاثية الأبعاد",
             "french": "géométrie à trois dimensions",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133597",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133597",
             "description": ""
         },
         {
@@ -30117,7 +30117,7 @@
             "english": "tide",
             "arabic": "مد وجزر",
             "french": "marée",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134461",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134461",
             "description": ""
         },
         {
@@ -30125,7 +30125,7 @@
             "english": "time",
             "arabic": "زمن",
             "french": "temps",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133598",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133598",
             "description": ""
         },
         {
@@ -30133,7 +30133,7 @@
             "english": "time",
             "arabic": "زمن",
             "french": "temps",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134462",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134462",
             "description": ""
         },
         {
@@ -30141,7 +30141,7 @@
             "english": "time equation",
             "arabic": "معادلة زمنية",
             "french": "équation horaire",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134463",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134463",
             "description": ""
         },
         {
@@ -30149,7 +30149,7 @@
             "english": "time zone",
             "arabic": "منطقة زمنية",
             "french": "fuseau horaire",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134464",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134464",
             "description": ""
         },
         {
@@ -30157,7 +30157,7 @@
             "english": "ton",
             "arabic": "طن",
             "french": "tonne",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133599",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133599",
             "description": ""
         },
         {
@@ -30165,7 +30165,7 @@
             "english": "tonne",
             "arabic": "طن متري",
             "french": "tonne métrique",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133600",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133600",
             "description": ""
         },
         {
@@ -30173,7 +30173,7 @@
             "english": "topologically equivalent",
             "arabic": "متكافىء طبولوجيا",
             "french": "équivalent topologiquement",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133601",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133601",
             "description": ""
         },
         {
@@ -30181,7 +30181,7 @@
             "english": "topologically transformation",
             "arabic": "تحويل طبولوجي",
             "french": "transformation topologique",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133602",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133602",
             "description": ""
         },
         {
@@ -30189,7 +30189,7 @@
             "english": "topology",
             "arabic": "طبولوجيا (ال)",
             "french": "topologie",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133603",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133603",
             "description": ""
         },
         {
@@ -30197,7 +30197,7 @@
             "english": "torque",
             "arabic": "عزم اللّيّ",
             "french": "moment de torsion",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133604",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133604",
             "description": ""
         },
         {
@@ -30205,7 +30205,7 @@
             "english": "torus",
             "arabic": "طارة",
             "french": "tore",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133606",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133606",
             "description": ""
         },
         {
@@ -30213,7 +30213,7 @@
             "english": "total",
             "arabic": "مجموع، كلّي",
             "french": "total",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133607",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133607",
             "description": ""
         },
         {
@@ -30221,7 +30221,7 @@
             "english": "total area",
             "arabic": "مساحة كلية",
             "french": "aire totale",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133608",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133608",
             "description": ""
         },
         {
@@ -30229,7 +30229,7 @@
             "english": "total curvature",
             "arabic": "تقوس كلي",
             "french": "courbure totale",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133609",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133609",
             "description": ""
         },
         {
@@ -30237,7 +30237,7 @@
             "english": "total derivative",
             "arabic": "مشتقة كلّية",
             "french": "dérivée totale",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133610",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133610",
             "description": ""
         },
         {
@@ -30245,7 +30245,7 @@
             "english": "total eclipse",
             "arabic": "خسوف أو كسوف كلّي",
             "french": "éclipse totale",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134465",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134465",
             "description": ""
         },
         {
@@ -30253,7 +30253,7 @@
             "english": "total order relation",
             "arabic": "علاقة ترتيب كلي",
             "french": "relation d'ordre total",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133611",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133611",
             "description": ""
         },
         {
@@ -30261,7 +30261,7 @@
             "english": "total volume",
             "arabic": "حجم كلي",
             "french": "volume total",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133612",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133612",
             "description": ""
         },
         {
@@ -30269,7 +30269,7 @@
             "english": "totally ordered",
             "arabic": "مرتبة كلّيا",
             "french": "totalement ordonné",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133613",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133613",
             "description": ""
         },
         {
@@ -30277,7 +30277,7 @@
             "english": "trace of a line",
             "arabic": "أثر خط",
             "french": "trace d'une droite",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133614",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133614",
             "description": ""
         },
         {
@@ -30285,7 +30285,7 @@
             "english": "trace of a matrix",
             "arabic": "أثر مصفوفة",
             "french": "trace d'une matrice",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133615",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133615",
             "description": ""
         },
         {
@@ -30293,7 +30293,7 @@
             "english": "trace of a surface",
             "arabic": "أثر سطح",
             "french": "trace d'une surface",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133616",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133616",
             "description": ""
         },
         {
@@ -30301,7 +30301,7 @@
             "english": "tracing",
             "arabic": "ترسّم",
             "french": "tracé",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133617",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133617",
             "description": ""
         },
         {
@@ -30309,7 +30309,7 @@
             "english": "trajectory",
             "arabic": "مسار",
             "french": "trajectoire",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133618",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133618",
             "description": ""
         },
         {
@@ -30317,7 +30317,7 @@
             "english": "trajectory",
             "arabic": "مسار",
             "french": "trajectoire",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134466",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134466",
             "description": ""
         },
         {
@@ -30325,7 +30325,7 @@
             "english": "transcendental",
             "arabic": "متسامٍ",
             "french": "transcendant",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133619",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133619",
             "description": ""
         },
         {
@@ -30333,7 +30333,7 @@
             "english": "transcendental function",
             "arabic": "دالة متسامية",
             "french": "fonction transcendante",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133620",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133620",
             "description": ""
         },
         {
@@ -30341,7 +30341,7 @@
             "english": "transcendental numbers",
             "arabic": "أعداد متسامية",
             "french": "nombres transcendants",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133621",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133621",
             "description": ""
         },
         {
@@ -30349,7 +30349,7 @@
             "english": "transcendental operations",
             "arabic": "عمليات متسامية",
             "french": "opérations transcendantes",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133622",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133622",
             "description": ""
         },
         {
@@ -30357,7 +30357,7 @@
             "english": "transference",
             "arabic": "نقل",
             "french": "transfert",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133623",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133623",
             "description": ""
         },
         {
@@ -30365,7 +30365,7 @@
             "english": "transfinite numbers",
             "arabic": "أعداد موغلة",
             "french": "nombres transfinis",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133624",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133624",
             "description": ""
         },
         {
@@ -30373,7 +30373,7 @@
             "english": "transformation",
             "arabic": "تحويل",
             "french": "transformation",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133625",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133625",
             "description": ""
         },
         {
@@ -30381,7 +30381,7 @@
             "english": "transformation algebraic equation",
             "arabic": "تحويل معادلة جبرية",
             "french": "transformation d'une équation algébrique",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133626",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133626",
             "description": ""
         },
         {
@@ -30389,7 +30389,7 @@
             "english": "transformation geometry",
             "arabic": "هندسة التحويلات",
             "french": "géométrie des transformations",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133628",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133628",
             "description": ""
         },
         {
@@ -30397,7 +30397,7 @@
             "english": "transformation in geometry",
             "arabic": "تحويل في الهندسة",
             "french": "transformation en géométrie",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133629",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133629",
             "description": ""
         },
         {
@@ -30405,7 +30405,7 @@
             "english": "transformation in topology",
             "arabic": "تحويل في الطبولوجيا",
             "french": "transformation en topologie",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133630",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133630",
             "description": ""
         },
         {
@@ -30413,7 +30413,7 @@
             "english": "transformation of axes",
             "arabic": "تحويل المحاور",
             "french": "transformation des axes",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133631",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133631",
             "description": ""
         },
         {
@@ -30421,7 +30421,7 @@
             "english": "transformation of co-ordinates",
             "arabic": "تحويل الاحداثيات",
             "french": "transformation des coordonnées",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133627",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133627",
             "description": ""
         },
         {
@@ -30429,7 +30429,7 @@
             "english": "transit",
             "arabic": "عبور",
             "french": "passage; transit",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134467",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134467",
             "description": ""
         },
         {
@@ -30437,7 +30437,7 @@
             "english": "transitive relation",
             "arabic": "علاقة متعدية",
             "french": "relation transitive",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133632",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133632",
             "description": ""
         },
         {
@@ -30445,7 +30445,7 @@
             "english": "transitivity",
             "arabic": "تعدّ، تعدية",
             "french": "transitivité",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133633",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133633",
             "description": ""
         },
         {
@@ -30453,7 +30453,7 @@
             "english": "translation",
             "arabic": "انسحاب",
             "french": "translation",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133634",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133634",
             "description": ""
         },
         {
@@ -30461,7 +30461,7 @@
             "english": "translation of axes",
             "arabic": "انسحاب المحاور",
             "french": "translation des axes",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133635",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133635",
             "description": ""
         },
         {
@@ -30469,7 +30469,7 @@
             "english": "translation vector",
             "arabic": "متجه الانسحاب",
             "french": "vecteur de translation",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133636",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133636",
             "description": ""
         },
         {
@@ -30477,7 +30477,7 @@
             "english": "transmissibility",
             "arabic": "منقولية",
             "french": "transmissibilité",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133637",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133637",
             "description": "قابلية النقل"
         },
         {
@@ -30485,7 +30485,7 @@
             "english": "transpose",
             "arabic": "منقولة",
             "french": "transposée",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133638",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133638",
             "description": ""
         },
         {
@@ -30493,7 +30493,7 @@
             "english": "transpose of a matrix",
             "arabic": "منقولة مصفوفةٍ",
             "french": "transposition d'une matrice",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133639",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133639",
             "description": ""
         },
         {
@@ -30501,7 +30501,7 @@
             "english": "transpose of a term",
             "arabic": "نقلُ حدٍّ",
             "french": "transpose d'un terme",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133640",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133640",
             "description": ""
         },
         {
@@ -30509,7 +30509,7 @@
             "english": "transposed matrix",
             "arabic": "مصفوفة منقولة",
             "french": "matrice transposée",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133641",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133641",
             "description": ""
         },
         {
@@ -30517,7 +30517,7 @@
             "english": "transposition",
             "arabic": "نقل",
             "french": "transposition",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133642",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133642",
             "description": ""
         },
         {
@@ -30525,7 +30525,7 @@
             "english": "transversal",
             "arabic": "قاطع مستعرض",
             "french": "transversal",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133643",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133643",
             "description": ""
         },
         {
@@ -30533,7 +30533,7 @@
             "english": "transversal acceleration",
             "arabic": "تسارع مستعرض",
             "french": "accélération transversale",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133644",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133644",
             "description": ""
         },
         {
@@ -30541,7 +30541,7 @@
             "english": "transverse axis of a hyperbola",
             "arabic": "محور مستعرض لقطع زائد",
             "french": "axe transversal d'une hyperbole",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133645",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133645",
             "description": ""
         },
         {
@@ -30549,7 +30549,7 @@
             "english": "transverse axis of a hyperboloid",
             "arabic": "محور مستعرض لمجسم قطع زائد",
             "french": "axe transversal d'une hyperbole",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133646",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133646",
             "description": ""
         },
         {
@@ -30557,7 +30557,7 @@
             "english": "transverse common tangents",
             "arabic": "مماسّات مشتركة مستعرضة",
             "french": "tangentes communes intérieures",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133647",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133647",
             "description": ""
         },
         {
@@ -30565,7 +30565,7 @@
             "english": "transverse velocity",
             "arabic": "سرعة مستعرضة",
             "french": "vitesse transversale",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134468",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134468",
             "description": ""
         },
         {
@@ -30573,7 +30573,7 @@
             "english": "trapezoid; trapezium",
             "arabic": "شبه منحرف",
             "french": "trapézoïde",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133648",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133648",
             "description": ""
         },
         {
@@ -30581,7 +30581,7 @@
             "english": "trapezoidal rule",
             "arabic": "قاعدة شبه المنحرف",
             "french": "règle du trapèze",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133649",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133649",
             "description": ""
         },
         {
@@ -30589,7 +30589,7 @@
             "english": "trefoil",
             "arabic": "ذو الثلاث طيات",
             "french": "trèfle",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133650",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133650",
             "description": ""
         },
         {
@@ -30597,7 +30597,7 @@
             "english": "trend line",
             "arabic": "خط النزعة",
             "french": "ligne du trend",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133651",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133651",
             "description": ""
         },
         {
@@ -30605,7 +30605,7 @@
             "english": "trial",
             "arabic": "محاولة",
             "french": "épreuve",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133652",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133652",
             "description": ""
         },
         {
@@ -30613,7 +30613,7 @@
             "english": "triangle",
             "arabic": "مثلث",
             "french": "triangle",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133653",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133653",
             "description": ""
         },
         {
@@ -30621,7 +30621,7 @@
             "english": "triangle equilateral",
             "arabic": "مثلث متساوي الأضلاع",
             "french": "triangle équilatéral",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133654",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133654",
             "description": ""
         },
         {
@@ -30629,7 +30629,7 @@
             "english": "triangle isosceles",
             "arabic": "مثلث متساوي الساقين",
             "french": "triangle isocèle",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133655",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133655",
             "description": ""
         },
         {
@@ -30637,7 +30637,7 @@
             "english": "triangle of forces",
             "arabic": "مثلث القوى",
             "french": "triangle des forces",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133656",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133656",
             "description": ""
         },
         {
@@ -30645,7 +30645,7 @@
             "english": "triangle of vectors",
             "arabic": "مثلث المتجهات",
             "french": "triangle des vecteurs",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133657",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133657",
             "description": ""
         },
         {
@@ -30653,7 +30653,7 @@
             "english": "triangle of velocities",
             "arabic": "مثلث السرعات",
             "french": "triangle des vitesses",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133658",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133658",
             "description": ""
         },
         {
@@ -30661,7 +30661,7 @@
             "english": "triangular inequality",
             "arabic": "متباينة مثلثية",
             "french": "inégalité triangulaire",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133659",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133659",
             "description": ""
         },
         {
@@ -30669,7 +30669,7 @@
             "english": "triangular matrix",
             "arabic": "مصفوفة مثلثية",
             "french": "matrice triangulaire",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133660",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133660",
             "description": ""
         },
         {
@@ -30677,7 +30677,7 @@
             "english": "triangular numbers",
             "arabic": "أعداد مثلثية",
             "french": "nombres triangulaires",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133661",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133661",
             "description": ""
         },
         {
@@ -30685,7 +30685,7 @@
             "english": "triangulation",
             "arabic": "تقسيم الى مثلثات",
             "french": "triangulation",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133662",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133662",
             "description": ""
         },
         {
@@ -30693,7 +30693,7 @@
             "english": "triangulum",
             "arabic": "كوكبة المثلث",
             "french": "le triangle",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134469",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134469",
             "description": ""
         },
         {
@@ -30701,7 +30701,7 @@
             "english": "triangulum australis",
             "arabic": "كوكبة المثلث الجنوبي",
             "french": "le triangle austral",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134470",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134470",
             "description": ""
         },
         {
@@ -30709,7 +30709,7 @@
             "english": "trichotomy",
             "arabic": "انقسام الى ثلاثة",
             "french": "tricholome",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133663",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133663",
             "description": ""
         },
         {
@@ -30717,7 +30717,7 @@
             "english": "trigonometric",
             "arabic": "مثلثي",
             "french": "trigonométrique",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133664",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133664",
             "description": ""
         },
         {
@@ -30725,7 +30725,7 @@
             "english": "trigonometric curve",
             "arabic": "منحن مثلّثيّ",
             "french": "courbe trigonométrique",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133665",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133665",
             "description": ""
         },
         {
@@ -30733,7 +30733,7 @@
             "english": "trigonometric expression",
             "arabic": "عبارة مثلثية",
             "french": "expression trigonométrique",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133666",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133666",
             "description": ""
         },
         {
@@ -30741,7 +30741,7 @@
             "english": "trigonometric form",
             "arabic": "صيغة مثلثية",
             "french": "forme trigonométrique",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133667",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133667",
             "description": ""
         },
         {
@@ -30749,7 +30749,7 @@
             "english": "trigonometric form of a complex number",
             "arabic": "صيغة مثلثية لعدد مركب",
             "french": "forme trigonométrique d'un nombre complexe",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133668",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133668",
             "description": ""
         },
         {
@@ -30757,7 +30757,7 @@
             "english": "trigonometric function",
             "arabic": "دالّة مثلّثية",
             "french": "fonction trigonométrique",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133669",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133669",
             "description": ""
         },
         {
@@ -30765,7 +30765,7 @@
             "english": "trigonometric identities",
             "arabic": "متطابقات مثلثية",
             "french": "identités trigonométriques",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133670",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133670",
             "description": ""
         },
         {
@@ -30773,7 +30773,7 @@
             "english": "trigonometric polynomial",
             "arabic": "حدودية مثلثية",
             "french": "polynôme trigonométrique",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133671",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133671",
             "description": ""
         },
         {
@@ -30781,7 +30781,7 @@
             "english": "trigonometric ratios",
             "arabic": "نسب مثلثية",
             "french": "rapports trigonométriques",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133672",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133672",
             "description": ""
         },
         {
@@ -30789,7 +30789,7 @@
             "english": "trigonometric series",
             "arabic": "متسلسلات مثلثية",
             "french": "séries trigonométriques",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133673",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133673",
             "description": ""
         },
         {
@@ -30797,7 +30797,7 @@
             "english": "trigonometric substitutions",
             "arabic": "تعويضات مثلثية",
             "french": "substitutions trigonométriques",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133674",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133674",
             "description": ""
         },
         {
@@ -30805,7 +30805,7 @@
             "english": "trigonometric survey",
             "arabic": "مسح مثلثي",
             "french": "levé trigonométrique",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133675",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133675",
             "description": ""
         },
         {
@@ -30813,7 +30813,7 @@
             "english": "trigonometrical equation",
             "arabic": "معادلة مثلثية",
             "french": "équation trigonométrique",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133676",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133676",
             "description": ""
         },
         {
@@ -30821,7 +30821,7 @@
             "english": "trigonometry",
             "arabic": "حساب المثلثات",
             "french": "trigonométrie",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133677",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133677",
             "description": ""
         },
         {
@@ -30829,7 +30829,7 @@
             "english": "trihedral",
             "arabic": "ثلاثي السطوح",
             "french": "trièdre",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133678",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133678",
             "description": ""
         },
         {
@@ -30837,7 +30837,7 @@
             "english": "trihedral angle",
             "arabic": "زاوية مجسمة ثلاثية",
             "french": "angle trièdre",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133679",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133679",
             "description": ""
         },
         {
@@ -30845,7 +30845,7 @@
             "english": "trihedral angle",
             "arabic": "ثلاثي الزوايا",
             "french": "trièdre",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134471",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134471",
             "description": ""
         },
         {
@@ -30853,7 +30853,7 @@
             "english": "trilinear co-ordinates",
             "arabic": "احداثيات ثلاثية",
             "french": "coordonnées trilinéaires",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133680",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133680",
             "description": ""
         },
         {
@@ -30861,7 +30861,7 @@
             "english": "trilinear mapping",
             "arabic": "تطبيق ثلاثي الخطية",
             "french": "application trilinéaire",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133681",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133681",
             "description": ""
         },
         {
@@ -30869,7 +30869,7 @@
             "english": "trillion",
             "arabic": "ترليون",
             "french": "trillion",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133682",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133682",
             "description": ""
         },
         {
@@ -30877,7 +30877,7 @@
             "english": "trinomial expression",
             "arabic": "عبارة حدودية",
             "french": "expression trinomiale",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133683",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133683",
             "description": ""
         },
         {
@@ -30885,7 +30885,7 @@
             "english": "triple",
             "arabic": "ثلاثي",
             "french": "triple",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133684",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133684",
             "description": ""
         },
         {
@@ -30893,7 +30893,7 @@
             "english": "triple integral",
             "arabic": "تكامل ثلاثي",
             "french": "intégrale triple",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133685",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133685",
             "description": ""
         },
         {
@@ -30901,7 +30901,7 @@
             "english": "triple point",
             "arabic": "نقطة ثلاثية",
             "french": "point triple",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133686",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133686",
             "description": ""
         },
         {
@@ -30909,7 +30909,7 @@
             "english": "triple root",
             "arabic": "جذر ثلاثي",
             "french": "racine triple",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133687",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133687",
             "description": ""
         },
         {
@@ -30917,7 +30917,7 @@
             "english": "triple rule",
             "arabic": "قاعدة ثلاثية",
             "french": "règle de trois",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133688",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133688",
             "description": ""
         },
         {
@@ -30925,7 +30925,7 @@
             "english": "triplicate",
             "arabic": "ثلاثية",
             "french": "triplet",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133689",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133689",
             "description": ""
         },
         {
@@ -30933,7 +30933,7 @@
             "english": "trirectangular spherical triangle",
             "arabic": "مثلث كروي قائم الزوايا",
             "french": "triangle sphérique trirectangulaire",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133690",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133690",
             "description": ""
         },
         {
@@ -30941,7 +30941,7 @@
             "english": "trisection",
             "arabic": "تثليث",
             "french": "trisection",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133691",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133691",
             "description": "تقسيم ثلاثي"
         },
         {
@@ -30949,7 +30949,7 @@
             "english": "trisection of an angle",
             "arabic": "تثليث زاوية",
             "french": "trisection d'un angle",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133692",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133692",
             "description": ""
         },
         {
@@ -30957,7 +30957,7 @@
             "english": "trisectrix of Maclaurin",
             "arabic": "مثلث ماكلورين",
             "french": "trisectrice de Maclaurin",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133693",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133693",
             "description": ""
         },
         {
@@ -30965,7 +30965,7 @@
             "english": "tropic of cancer",
             "arabic": "مدار السرطان",
             "french": "tropique du cancer",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134473",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134473",
             "description": ""
         },
         {
@@ -30973,7 +30973,7 @@
             "english": "tropic of capricorn",
             "arabic": "مدار الجدي",
             "french": "tropique du capricorne",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134474",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134474",
             "description": ""
         },
         {
@@ -30981,7 +30981,7 @@
             "english": "tropical year",
             "arabic": "سنة مدارية",
             "french": "année tropicale",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134472",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134472",
             "description": ""
         },
         {
@@ -30989,7 +30989,7 @@
             "english": "troposphere",
             "arabic": "تربوسفير",
             "french": "troposphère",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134475",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134475",
             "description": ""
         },
         {
@@ -30997,7 +30997,7 @@
             "english": "true anomaly",
             "arabic": "حصة حقيقية",
             "french": "anomalie réelle",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134476",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134476",
             "description": ""
         },
         {
@@ -31005,7 +31005,7 @@
             "english": "true equator",
             "arabic": "خط الاستواء الحقيقي",
             "french": "équateur réel",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134477",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134477",
             "description": ""
         },
         {
@@ -31013,7 +31013,7 @@
             "english": "true statement",
             "arabic": "عبارة صادقة",
             "french": "expression vraie",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133694",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133694",
             "description": ""
         },
         {
@@ -31021,7 +31021,7 @@
             "english": "truncated cone",
             "arabic": "مخروط ناقص",
             "french": "tronc de cône",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133695",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133695",
             "description": ""
         },
         {
@@ -31029,7 +31029,7 @@
             "english": "truncated pyramid",
             "arabic": "هرم ناقص",
             "french": "tronc de pyramide",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133696",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133696",
             "description": ""
         },
         {
@@ -31037,7 +31037,7 @@
             "english": "truth",
             "arabic": "صواب",
             "french": "vérité",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133697",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133697",
             "description": ""
         },
         {
@@ -31045,7 +31045,7 @@
             "english": "truth table",
             "arabic": "جدول الصواب",
             "french": "table vraie",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133698",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133698",
             "description": ""
         },
         {
@@ -31053,7 +31053,7 @@
             "english": "truth value",
             "arabic": "قيمة الصواب",
             "french": "valeur vraie",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133699",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133699",
             "description": ""
         },
         {
@@ -31061,7 +31061,7 @@
             "english": "tucana",
             "arabic": "طوقان (ال...)",
             "french": "le toucan",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134478",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134478",
             "description": ""
         },
         {
@@ -31069,7 +31069,7 @@
             "english": "turning",
             "arabic": "انعطاف",
             "french": "retournement",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133700",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133700",
             "description": ""
         },
         {
@@ -31077,7 +31077,7 @@
             "english": "turning points",
             "arabic": "نقط انقلاب",
             "french": "point critiques",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133701",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133701",
             "description": ""
         },
         {
@@ -31085,7 +31085,7 @@
             "english": "twilight",
             "arabic": "شفق، غسق",
             "french": "crépuscule",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134479",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134479",
             "description": ""
         },
         {
@@ -31093,7 +31093,7 @@
             "english": "twin node",
             "arabic": "قرنة مزدوجة",
             "french": "nœud jumeau",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133702",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133702",
             "description": ""
         },
         {
@@ -31101,7 +31101,7 @@
             "english": "twisted curve",
             "arabic": "منحنٍ ملتوٍ",
             "french": "courbe gauche",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133703",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133703",
             "description": ""
         },
         {
@@ -31109,7 +31109,7 @@
             "english": "two dimensional geometry",
             "arabic": "هندسة بعدانية",
             "french": "géométrie à deux dimensions",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133704",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133704",
             "description": ""
         },
         {
@@ -31117,7 +31117,7 @@
             "english": "two dimensional space",
             "arabic": "فضاء ذو بعدين",
             "french": "espace à deux dimensions",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133705",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133705",
             "description": ""
         },
         {
@@ -31125,7 +31125,7 @@
             "english": "two operations system",
             "arabic": "نظام ذو عمليتين",
             "french": "système à deux opérations",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133706",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133706",
             "description": ""
         },
         {
@@ -31133,7 +31133,7 @@
             "english": "two symmetric points",
             "arabic": "نقطتان متناظرتان",
             "french": "deux points symétriques",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133707",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133707",
             "description": ""
         },
         {
@@ -31141,7 +31141,7 @@
             "english": "type",
             "arabic": "نمط",
             "french": "type",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133708",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133708",
             "description": ""
         },
         {
@@ -31149,7 +31149,7 @@
             "english": "typical example",
             "arabic": "مثال نمطي",
             "french": "exemple typique",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133709",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133709",
             "description": ""
         },
         {
@@ -31157,7 +31157,7 @@
             "english": "umbra",
             "arabic": "ظل",
             "french": "ombre",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134480",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134480",
             "description": ""
         },
         {
@@ -31165,7 +31165,7 @@
             "english": "unbounded",
             "arabic": "غير محدود",
             "french": "illimité",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133710",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133710",
             "description": ""
         },
         {
@@ -31173,7 +31173,7 @@
             "english": "unconditional inequality",
             "arabic": "متباينة غير مشروطة",
             "french": "inégalité inconditionnelle",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133711",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133711",
             "description": ""
         },
         {
@@ -31181,7 +31181,7 @@
             "english": "undefined",
             "arabic": "غير معرّف",
             "french": "indéfini",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133712",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133712",
             "description": ""
         },
         {
@@ -31189,7 +31189,7 @@
             "english": "undefined term",
             "arabic": "حدّ غير معرّف",
             "french": "terme indéfini",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133713",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133713",
             "description": ""
         },
         {
@@ -31197,7 +31197,7 @@
             "english": "undeterminate system",
             "arabic": "منظومة غير معينة",
             "french": "système indéterminé",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133714",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133714",
             "description": ""
         },
         {
@@ -31205,7 +31205,7 @@
             "english": "undetermined coefficient",
             "arabic": "معامل غير معيّن",
             "french": "coefficient indéterminé",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133715",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133715",
             "description": ""
         },
         {
@@ -31213,7 +31213,7 @@
             "english": "undulation",
             "arabic": "تموّج",
             "french": "ondulation",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133716",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133716",
             "description": ""
         },
         {
@@ -31221,7 +31221,7 @@
             "english": "uniaxial",
             "arabic": "أحادي المحور",
             "french": "monoaxial",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133717",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133717",
             "description": ""
         },
         {
@@ -31229,7 +31229,7 @@
             "english": "uniform",
             "arabic": "منتظم",
             "french": "uniforme",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133718",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133718",
             "description": ""
         },
         {
@@ -31237,7 +31237,7 @@
             "english": "uniform acceleration",
             "arabic": "تسارع منتظم",
             "french": "accélération uniforme",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133719",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133719",
             "description": ""
         },
         {
@@ -31245,7 +31245,7 @@
             "english": "uniform approximations",
             "arabic": "تقريب منتظم",
             "french": "approchement uniforme",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133720",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133720",
             "description": ""
         },
         {
@@ -31253,7 +31253,7 @@
             "english": "uniform circular movement",
             "arabic": "حركة دائرية منتظمة",
             "french": "mouvement circulaire uniforme",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133721",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133721",
             "description": ""
         },
         {
@@ -31261,7 +31261,7 @@
             "english": "uniform continuity",
             "arabic": "اتصال منتظم",
             "french": "continuité uniforme",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133722",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133722",
             "description": ""
         },
         {
@@ -31269,7 +31269,7 @@
             "english": "uniform convergence",
             "arabic": "تقارب منتظم",
             "french": "convergence uniforme",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133723",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133723",
             "description": ""
         },
         {
@@ -31277,7 +31277,7 @@
             "english": "uniform function",
             "arabic": "دالة منتظمة",
             "french": "fonction uniforme",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133724",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133724",
             "description": ""
         },
         {
@@ -31285,7 +31285,7 @@
             "english": "uniform gravitational field",
             "arabic": "حقل جذبي منتظم",
             "french": "champ de gravitation uniforme",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133725",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133725",
             "description": ""
         },
         {
@@ -31293,7 +31293,7 @@
             "english": "uniform limit",
             "arabic": "نهاية منتظمة",
             "french": "limite uniforme",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133726",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133726",
             "description": ""
         },
         {
@@ -31301,7 +31301,7 @@
             "english": "uniform motion",
             "arabic": "حركة منتظمة",
             "french": "mouvement uniforme",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133727",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133727",
             "description": ""
         },
         {
@@ -31309,7 +31309,7 @@
             "english": "uniform probability function",
             "arabic": "دالة احتماليةٍ منتظمة",
             "french": "fonction de probabilité uniforme",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133728",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133728",
             "description": ""
         },
         {
@@ -31317,7 +31317,7 @@
             "english": "uniform scale",
             "arabic": "تدريج منتظم",
             "french": "échelle uniforme",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133729",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133729",
             "description": ""
         },
         {
@@ -31325,7 +31325,7 @@
             "english": "uniform speed",
             "arabic": "سرعة عددية منتظمة",
             "french": "vitesse uniforme",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133730",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133730",
             "description": ""
         },
         {
@@ -31333,7 +31333,7 @@
             "english": "uniform surface",
             "arabic": "سطح منتظم",
             "french": "surface uniforme",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133731",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133731",
             "description": ""
         },
         {
@@ -31341,7 +31341,7 @@
             "english": "uniform velocity",
             "arabic": "سرعة منتظمة",
             "french": "vitesse uniforme",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133732",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133732",
             "description": ""
         },
         {
@@ -31349,7 +31349,7 @@
             "english": "uniformly varied motion",
             "arabic": "حركة منتظمة التغير",
             "french": "mouvement uniformément varié",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133733",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133733",
             "description": ""
         },
         {
@@ -31357,7 +31357,7 @@
             "english": "unimodular matrix",
             "arabic": "مصفوفة وحيدة المعيار",
             "french": "matrice unimodulaire",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133734",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133734",
             "description": ""
         },
         {
@@ -31365,7 +31365,7 @@
             "english": "union",
             "arabic": "اتحاد",
             "french": "union",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133735",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133735",
             "description": ""
         },
         {
@@ -31373,7 +31373,7 @@
             "english": "union of two sets",
             "arabic": "اتحاد محموعتين",
             "french": "union de deux ensembles",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133736",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133736",
             "description": ""
         },
         {
@@ -31381,7 +31381,7 @@
             "english": "unipolar",
             "arabic": "أحادي القطب",
             "french": "unipolaire",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133737",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133737",
             "description": ""
         },
         {
@@ -31389,7 +31389,7 @@
             "english": "unique",
             "arabic": "وحيد",
             "french": "unique",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133738",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133738",
             "description": ""
         },
         {
@@ -31397,7 +31397,7 @@
             "english": "uniqueness",
             "arabic": "وحدانية",
             "french": "unicité",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133739",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133739",
             "description": ""
         },
         {
@@ -31405,7 +31405,7 @@
             "english": "uniqueness of the limit",
             "arabic": "وحدانية النهاية",
             "french": "unicité de la limite",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133740",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133740",
             "description": ""
         },
         {
@@ -31413,7 +31413,7 @@
             "english": "unit circle",
             "arabic": "دائرة الوحدة",
             "french": "cercle d'unité",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133742",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133742",
             "description": ""
         },
         {
@@ -31421,7 +31421,7 @@
             "english": "unit cube",
             "arabic": "مكعب الوحدة",
             "french": "cube unité",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133743",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133743",
             "description": ""
         },
         {
@@ -31429,7 +31429,7 @@
             "english": "unit fraction",
             "arabic": "كسر الوحدة",
             "french": "fraction unité",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133744",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133744",
             "description": ""
         },
         {
@@ -31437,7 +31437,7 @@
             "english": "unit matrix",
             "arabic": "مصفوفة الوحدة",
             "french": "matrice unité",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133745",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133745",
             "description": ""
         },
         {
@@ -31445,7 +31445,7 @@
             "english": "unit of area",
             "arabic": "وحدة سطوح",
             "french": "unité de surface",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133746",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133746",
             "description": ""
         },
         {
@@ -31453,7 +31453,7 @@
             "english": "unit of length",
             "arabic": "وحدة طول",
             "french": "unité de longueur",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133747",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133747",
             "description": ""
         },
         {
@@ -31461,7 +31461,7 @@
             "english": "unit of measure",
             "arabic": "وحدة قياس",
             "french": "unité de mesure",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133748",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133748",
             "description": ""
         },
         {
@@ -31469,7 +31469,7 @@
             "english": "unit of time",
             "arabic": "وحدة الزمن",
             "french": "unité de temps",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133749",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133749",
             "description": ""
         },
         {
@@ -31477,7 +31477,7 @@
             "english": "unit sphere",
             "arabic": "كرة الوحدة",
             "french": "sphère unité",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133750",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133750",
             "description": ""
         },
         {
@@ -31485,7 +31485,7 @@
             "english": "unit vector",
             "arabic": "متجه واحدي",
             "french": "vecteur unité",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133751",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133751",
             "description": ""
         },
         {
@@ -31493,7 +31493,7 @@
             "english": "unit; unity",
             "arabic": "وحدة",
             "french": "unité",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133741",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133741",
             "description": ""
         },
         {
@@ -31501,7 +31501,7 @@
             "english": "unitary",
             "arabic": "واحدي",
             "french": "unitaire",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133752",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133752",
             "description": ""
         },
         {
@@ -31509,7 +31509,7 @@
             "english": "unitary matrix",
             "arabic": "مصفوفة واحدية",
             "french": "matrice unité",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133753",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133753",
             "description": ""
         },
         {
@@ -31517,7 +31517,7 @@
             "english": "unitary method",
             "arabic": "طريقة واحدية",
             "french": "méthode unitaire",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133754",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133754",
             "description": ""
         },
         {
@@ -31525,7 +31525,7 @@
             "english": "unitary operation",
             "arabic": "عملية واحدية",
             "french": "opération unitaire",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133755",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133755",
             "description": ""
         },
         {
@@ -31533,7 +31533,7 @@
             "english": "unitary ring",
             "arabic": "حلقة واحدية",
             "french": "anneau unitaire",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133756",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133756",
             "description": ""
         },
         {
@@ -31541,7 +31541,7 @@
             "english": "unitary vector",
             "arabic": "متّجه واحدي",
             "french": "vecteur unitaire",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133757",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133757",
             "description": ""
         },
         {
@@ -31549,7 +31549,7 @@
             "english": "units place",
             "arabic": "مرتبة الآحاد",
             "french": "place des unités",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133758",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133758",
             "description": ""
         },
         {
@@ -31557,7 +31557,7 @@
             "english": "univariant system",
             "arabic": "نظام أحادي التغيير",
             "french": "système univariant",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133759",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133759",
             "description": ""
         },
         {
@@ -31565,7 +31565,7 @@
             "english": "universal gravitation (the)",
             "arabic": "جاذبية (ال...) العامة",
             "french": "la gravitation universelle",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134481",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134481",
             "description": ""
         },
         {
@@ -31573,7 +31573,7 @@
             "english": "universal quantifier",
             "arabic": "مكمّم كلّي",
             "french": "quantificateur universel",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133760",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133760",
             "description": ""
         },
         {
@@ -31581,7 +31581,7 @@
             "english": "universal set",
             "arabic": "مجموعة شاملة",
             "french": "ensemble universel",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133761",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133761",
             "description": ""
         },
         {
@@ -31589,7 +31589,7 @@
             "english": "universal time",
             "arabic": "توقيت (ال...) العالمي",
             "french": "le temps universel",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134482",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134482",
             "description": ""
         },
         {
@@ -31597,7 +31597,7 @@
             "english": "universe",
             "arabic": "كون (ال...)",
             "french": "l'univers",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134483",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134483",
             "description": ""
         },
         {
@@ -31605,7 +31605,7 @@
             "english": "unknown",
             "arabic": "مجهول",
             "french": "inconnue",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133762",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133762",
             "description": ""
         },
         {
@@ -31613,7 +31613,7 @@
             "english": "unknown term",
             "arabic": "حدّ مجهول",
             "french": "terme inconnu",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133763",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133763",
             "description": ""
         },
         {
@@ -31621,7 +31621,7 @@
             "english": "unlike terms",
             "arabic": "حدود مختلفة",
             "french": "termes différents",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133764",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133764",
             "description": ""
         },
         {
@@ -31629,7 +31629,7 @@
             "english": "unsolved problems",
             "arabic": "مسائل غير محلولة",
             "french": "problèmes non résolus",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133765",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133765",
             "description": ""
         },
         {
@@ -31637,7 +31637,7 @@
             "english": "unstable",
             "arabic": "غير مستقر",
             "french": "instable",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133766",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133766",
             "description": ""
         },
         {
@@ -31645,7 +31645,7 @@
             "english": "unstable equilibrium",
             "arabic": "اتزان غير مستقر",
             "french": "équilibre instable",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133767",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133767",
             "description": ""
         },
         {
@@ -31653,7 +31653,7 @@
             "english": "upper base",
             "arabic": "قاعدة عليا",
             "french": "base supérieure",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133768",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133768",
             "description": ""
         },
         {
@@ -31661,7 +31661,7 @@
             "english": "upper bound",
             "arabic": "قيد أعلى",
             "french": "borne supérieure",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133769",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133769",
             "description": ""
         },
         {
@@ -31669,7 +31669,7 @@
             "english": "upper limit",
             "arabic": "نهاية عليا",
             "french": "limite supérieure",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133770",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133770",
             "description": ""
         },
         {
@@ -31677,7 +31677,7 @@
             "english": "upper sums",
             "arabic": "مجاميع عليا",
             "french": "sommes supérieures",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133771",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133771",
             "description": ""
         },
         {
@@ -31685,7 +31685,7 @@
             "english": "upright ascension",
             "arabic": "مطلع مستقيم",
             "french": "ascension droite",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134484",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134484",
             "description": ""
         },
         {
@@ -31693,7 +31693,7 @@
             "english": "uranus",
             "arabic": "أورانوس",
             "french": "uranus",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134485",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134485",
             "description": ""
         },
         {
@@ -31701,7 +31701,7 @@
             "english": "ursa major",
             "arabic": "دب (ال...) الأكبر",
             "french": "la grande ourse",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134486",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134486",
             "description": ""
         },
         {
@@ -31709,7 +31709,7 @@
             "english": "ursa minor",
             "arabic": "دب (ال...) الأصغر",
             "french": "la petite ourse",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134487",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134487",
             "description": ""
         },
         {
@@ -31717,7 +31717,7 @@
             "english": "validity",
             "arabic": "صلاحية",
             "french": "validité",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133772",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133772",
             "description": ""
         },
         {
@@ -31725,7 +31725,7 @@
             "english": "valuation",
             "arabic": "تقييم",
             "french": "évaluation",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133773",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133773",
             "description": ""
         },
         {
@@ -31733,7 +31733,7 @@
             "english": "value",
             "arabic": "قيمة",
             "french": "valeur",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133774",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133774",
             "description": ""
         },
         {
@@ -31741,7 +31741,7 @@
             "english": "value of a function",
             "arabic": "قيمة دالّة",
             "french": "valeur d'une fonction",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133775",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133775",
             "description": ""
         },
         {
@@ -31749,7 +31749,7 @@
             "english": "value of an expression",
             "arabic": "قيمة عبارة",
             "french": "valeur d'une expression",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133776",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133776",
             "description": ""
         },
         {
@@ -31757,7 +31757,7 @@
             "english": "vanishing points",
             "arabic": "نقاط متلاشية",
             "french": "points nuls",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133777",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133777",
             "description": ""
         },
         {
@@ -31765,7 +31765,7 @@
             "english": "variable",
             "arabic": "متغير",
             "french": "variable",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133778",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133778",
             "description": ""
         },
         {
@@ -31773,7 +31773,7 @@
             "english": "variable star",
             "arabic": "نجم متغيّر",
             "french": "étoile variable",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134489",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134489",
             "description": ""
         },
         {
@@ -31781,7 +31781,7 @@
             "english": "variance",
             "arabic": "اختلاف",
             "french": "variance",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133779",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133779",
             "description": ""
         },
         {
@@ -31789,7 +31789,7 @@
             "english": "variation",
             "arabic": "تباين",
             "french": "variation",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133780",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133780",
             "description": ""
         },
         {
@@ -31797,7 +31797,7 @@
             "english": "variation of the constant",
             "arabic": "تغير الثابت",
             "french": "variation de la constante",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133781",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133781",
             "description": ""
         },
         {
@@ -31805,7 +31805,7 @@
             "english": "vector",
             "arabic": "متّجه",
             "french": "vecteur",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133782",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133782",
             "description": ""
         },
         {
@@ -31813,7 +31813,7 @@
             "english": "vector analysis",
             "arabic": "تحليل متجهات",
             "french": "analyse vectorielle",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133783",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133783",
             "description": ""
         },
         {
@@ -31821,7 +31821,7 @@
             "english": "vector difference",
             "arabic": "فرق متّجهي",
             "french": "différence vectorielle",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133784",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133784",
             "description": ""
         },
         {
@@ -31829,7 +31829,7 @@
             "english": "vector equation",
             "arabic": "معادلة متجهية",
             "french": "équation vectorielle",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133785",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133785",
             "description": ""
         },
         {
@@ -31837,7 +31837,7 @@
             "english": "vector function",
             "arabic": "دالة متجهية",
             "french": "fonction vectorielle",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133786",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133786",
             "description": ""
         },
         {
@@ -31845,7 +31845,7 @@
             "english": "vector geometry",
             "arabic": "هندسة المتجهات",
             "french": "géométrie vectorielle",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133787",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133787",
             "description": ""
         },
         {
@@ -31853,7 +31853,7 @@
             "english": "vector product",
             "arabic": "جداء متجهي",
             "french": "produit vectoriel",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133788",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133788",
             "description": ""
         },
         {
@@ -31861,7 +31861,7 @@
             "english": "vector quantity",
             "arabic": "كمية متجهة",
             "french": "quantité vectorielle",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133789",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133789",
             "description": ""
         },
         {
@@ -31869,7 +31869,7 @@
             "english": "vector space",
             "arabic": "فضاء متجهات",
             "french": "espace vectoriel",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133790",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133790",
             "description": ""
         },
         {
@@ -31877,7 +31877,7 @@
             "english": "vector sum",
             "arabic": "جمع متّجهي",
             "french": "somme vectorielle",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133791",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133791",
             "description": ""
         },
         {
@@ -31885,7 +31885,7 @@
             "english": "vector velocity",
             "arabic": "سرعة متجهة",
             "french": "vitesse vectorielle",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133792",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133792",
             "description": ""
         },
         {
@@ -31893,7 +31893,7 @@
             "english": "vectorial",
             "arabic": "متّجهي",
             "french": "vectoriel",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133793",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133793",
             "description": ""
         },
         {
@@ -31901,7 +31901,7 @@
             "english": "vectorial angle",
             "arabic": "زاوية متّجهية",
             "french": "angle vectoriel",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133794",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133794",
             "description": ""
         },
         {
@@ -31909,7 +31909,7 @@
             "english": "vectorial component",
             "arabic": "مركّبة متّجهية",
             "french": "composante vectorielle",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133795",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133795",
             "description": ""
         },
         {
@@ -31917,7 +31917,7 @@
             "english": "vectorial equation",
             "arabic": "معادلات متّجهات",
             "french": "équation vectorielle",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133796",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133796",
             "description": ""
         },
         {
@@ -31925,7 +31925,7 @@
             "english": "vectorial projection",
             "arabic": "متجه الاسقاط",
             "french": "projection vectorielle",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133797",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133797",
             "description": ""
         },
         {
@@ -31933,7 +31933,7 @@
             "english": "vectorial rotation",
             "arabic": "دوران متجهي",
             "french": "rotation vectorielle",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133798",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133798",
             "description": ""
         },
         {
@@ -31941,7 +31941,7 @@
             "english": "vectorial space",
             "arabic": "فضاء متجهي",
             "french": "espace vectoriel",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133799",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133799",
             "description": ""
         },
         {
@@ -31949,7 +31949,7 @@
             "english": "vega",
             "arabic": "نسر (ال...) الواقع",
             "french": "véga",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134490",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134490",
             "description": ""
         },
         {
@@ -31957,7 +31957,7 @@
             "english": "vela",
             "arabic": "أشرعة (ال...)",
             "french": "les voiles",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134491",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134491",
             "description": ""
         },
         {
@@ -31965,7 +31965,7 @@
             "english": "velocity",
             "arabic": "سرعة",
             "french": "vitesse",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133800",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133800",
             "description": ""
         },
         {
@@ -31973,7 +31973,7 @@
             "english": "velocity",
             "arabic": "سرعة",
             "french": "vitesse",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134492",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134492",
             "description": ""
         },
         {
@@ -31981,7 +31981,7 @@
             "english": "velocity - vector",
             "arabic": "متجه السرعة",
             "french": "vecteur - vitesse",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133802",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133802",
             "description": ""
         },
         {
@@ -31989,7 +31989,7 @@
             "english": "velocity of light",
             "arabic": "سرعة الضوء",
             "french": "vitesse de la lumière",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133801",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133801",
             "description": ""
         },
         {
@@ -31997,7 +31997,7 @@
             "english": "verification",
             "arabic": "تحقيق",
             "french": "vérification",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133804",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133804",
             "description": ""
         },
         {
@@ -32005,7 +32005,7 @@
             "english": "verify (to)",
             "arabic": "حقّق",
             "french": "vérifier",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133805",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133805",
             "description": ""
         },
         {
@@ -32013,7 +32013,7 @@
             "english": "verna equinox; spring",
             "arabic": "اعتدال (ال...) الربيعي",
             "french": "équinoxe vernal; équinoxe de printemps",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134494",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134494",
             "description": ""
         },
         {
@@ -32021,7 +32021,7 @@
             "english": "vertex",
             "arabic": "رأس",
             "french": "sommet",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133806",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133806",
             "description": ""
         },
         {
@@ -32029,7 +32029,7 @@
             "english": "vertex of pyramid",
             "arabic": "رأس هرم",
             "french": "sommet d'une pyramide",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133807",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133807",
             "description": ""
         },
         {
@@ -32037,7 +32037,7 @@
             "english": "vertical (the)",
             "arabic": "خط (ال...) الرأسي",
             "french": "la verticale",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134495",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134495",
             "description": ""
         },
         {
@@ -32045,7 +32045,7 @@
             "english": "vertical angles",
             "arabic": "زوايا رأسية",
             "french": "angles verticaux",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133808",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133808",
             "description": ""
         },
         {
@@ -32053,7 +32053,7 @@
             "english": "vertical interval",
             "arabic": "مجال رأسي",
             "french": "intervalle vertical",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133809",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133809",
             "description": ""
         },
         {
@@ -32061,7 +32061,7 @@
             "english": "vertical line",
             "arabic": "خط رأسي",
             "french": "ligne verticale",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133810",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133810",
             "description": ""
         },
         {
@@ -32069,7 +32069,7 @@
             "english": "vertical plane",
             "arabic": "مستو رأسي",
             "french": "plan vertical",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133811",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133811",
             "description": ""
         },
         {
@@ -32077,7 +32077,7 @@
             "english": "vertical plane",
             "arabic": "مستوٍ رأسي",
             "french": "plan vertical",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134496",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134496",
             "description": ""
         },
         {
@@ -32085,7 +32085,7 @@
             "english": "vertically opposite angles",
             "arabic": "زاويتان متقابلتان يالرأس",
             "french": "angles opposés par le sommet",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133812",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133812",
             "description": ""
         },
         {
@@ -32093,7 +32093,7 @@
             "english": "vibration",
             "arabic": "اهتزاز",
             "french": "vibration",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133813",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133813",
             "description": ""
         },
         {
@@ -32101,7 +32101,7 @@
             "english": "vibratory motion",
             "arabic": "حركة اهتزازية",
             "french": "mouvement vibratoire",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133814",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133814",
             "description": ""
         },
         {
@@ -32109,7 +32109,7 @@
             "english": "virgo",
             "arabic": "برج العذراء",
             "french": "la vierge",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134497",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134497",
             "description": ""
         },
         {
@@ -32117,7 +32117,7 @@
             "english": "viscosity",
             "arabic": "لزوجة",
             "french": "viscosité",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133815",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133815",
             "description": ""
         },
         {
@@ -32125,7 +32125,7 @@
             "english": "visual binary",
             "arabic": "مزدوج بصري",
             "french": "binaire visuelle",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134498",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134498",
             "description": ""
         },
         {
@@ -32133,7 +32133,7 @@
             "english": "visual magnitude",
             "arabic": "قدر بصري",
             "french": "magnitude visuelle",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134499",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134499",
             "description": ""
         },
         {
@@ -32141,7 +32141,7 @@
             "english": "vital statistics",
             "arabic": "احصاء حيوي",
             "french": "statistique démographique",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133816",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133816",
             "description": ""
         },
         {
@@ -32149,7 +32149,7 @@
             "english": "void set",
             "arabic": "مجموعة خيالية",
             "french": "ensemble vide",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133817",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133817",
             "description": ""
         },
         {
@@ -32157,7 +32157,7 @@
             "english": "volans",
             "arabic": "سمكة (ال...) الطيارة",
             "french": "le poisson volant",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134500",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134500",
             "description": ""
         },
         {
@@ -32165,7 +32165,7 @@
             "english": "volume",
             "arabic": "حجم",
             "french": "volume",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133818",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133818",
             "description": ""
         },
         {
@@ -32173,7 +32173,7 @@
             "english": "volumetric",
             "arabic": "حجمي",
             "french": "volumétrique",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133819",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133819",
             "description": ""
         },
         {
@@ -32181,7 +32181,7 @@
             "english": "vulgar fraction",
             "arabic": "كسر عادي",
             "french": "fraction ordinaire",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133820",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133820",
             "description": ""
         },
         {
@@ -32189,7 +32189,7 @@
             "english": "vulpecula",
             "arabic": "ثعلب (ال...)",
             "french": "le petit renard",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134501",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134501",
             "description": ""
         },
         {
@@ -32197,7 +32197,7 @@
             "english": "wage",
             "arabic": "أجر",
             "french": "salaire",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133821",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133821",
             "description": ""
         },
         {
@@ -32205,7 +32205,7 @@
             "english": "wave",
             "arabic": "موجة",
             "french": "onde",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133823",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133823",
             "description": ""
         },
         {
@@ -32213,7 +32213,7 @@
             "english": "wave length",
             "arabic": "طول الموجة",
             "french": "longueur d'onde",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133824",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133824",
             "description": ""
         },
         {
@@ -32221,7 +32221,7 @@
             "english": "wave motion",
             "arabic": "حركة موجية",
             "french": "mouvement ondulatoire",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133825",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133825",
             "description": ""
         },
         {
@@ -32229,7 +32229,7 @@
             "english": "wave velocity",
             "arabic": "سرعة موجّية",
             "french": "vitesse d'onde",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133826",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133826",
             "description": ""
         },
         {
@@ -32237,7 +32237,7 @@
             "english": "wedge",
             "arabic": "اسفين",
             "french": "coin",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133827",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133827",
             "description": ""
         },
         {
@@ -32245,7 +32245,7 @@
             "english": "week",
             "arabic": "أسبوع",
             "french": "semaine",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134502",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134502",
             "description": ""
         },
         {
@@ -32253,7 +32253,7 @@
             "english": "weight",
             "arabic": "وزن",
             "french": "poids",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133828",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133828",
             "description": ""
         },
         {
@@ -32261,7 +32261,7 @@
             "english": "weight",
             "arabic": "ثقل",
             "french": "poids",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134503",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134503",
             "description": ""
         },
         {
@@ -32269,7 +32269,7 @@
             "english": "weighted arithmetic average",
             "arabic": "وسط حسابي مرجح",
             "french": "moyenne arithmétique pondérée",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133829",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133829",
             "description": ""
         },
         {
@@ -32277,7 +32277,7 @@
             "english": "weighted mean",
             "arabic": "وسط مرجح",
             "french": "moyenne pondérée",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133830",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133830",
             "description": "مثقل"
         },
         {
@@ -32285,7 +32285,7 @@
             "english": "weighting",
             "arabic": "ترجيح",
             "french": "alourdissement",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133831",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133831",
             "description": ""
         },
         {
@@ -32293,7 +32293,7 @@
             "english": "wheel and axis",
             "arabic": "ملفاف",
             "french": "treuil",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133832",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133832",
             "description": ""
         },
         {
@@ -32301,7 +32301,7 @@
             "english": "white dwarf",
             "arabic": "قزم أبيض",
             "french": "naine blanche",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134504",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134504",
             "description": ""
         },
         {
@@ -32309,7 +32309,7 @@
             "english": "white night",
             "arabic": "ليل أبيض",
             "french": "nuit blanche",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134505",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134505",
             "description": ""
         },
         {
@@ -32317,7 +32317,7 @@
             "english": "whole algebraic number",
             "arabic": "عدد صحيح جبري",
             "french": "nombre entier algébrique",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133833",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133833",
             "description": ""
         },
         {
@@ -32325,7 +32325,7 @@
             "english": "whole expression",
             "arabic": "عبارة كاملة",
             "french": "expression entière",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133834",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133834",
             "description": ""
         },
         {
@@ -32333,7 +32333,7 @@
             "english": "whole numbers",
             "arabic": "أعداد صحيحة",
             "french": "nombres entiers",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133835",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133835",
             "description": ""
         },
         {
@@ -32341,7 +32341,7 @@
             "english": "wholesale price",
             "arabic": "سعر الجملة",
             "french": "prix de gros",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133836",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133836",
             "description": ""
         },
         {
@@ -32349,7 +32349,7 @@
             "english": "width",
             "arabic": "عرض",
             "french": "largeur",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133837",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133837",
             "description": ""
         },
         {
@@ -32357,7 +32357,7 @@
             "english": "winter solstice",
             "arabic": "منقلب (ال...) الشتوي",
             "french": "solstice d'hiver",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134506",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134506",
             "description": ""
         },
         {
@@ -32365,7 +32365,7 @@
             "english": "witch of Agensi",
             "arabic": "ساحرة آجنسي",
             "french": "witch d'Agenci",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133839",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133839",
             "description": ""
         },
         {
@@ -32373,7 +32373,7 @@
             "english": "work",
             "arabic": "شغل",
             "french": "travail",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133840",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133840",
             "description": ""
         },
         {
@@ -32381,7 +32381,7 @@
             "english": "world calendar",
             "arabic": "تقويم عالمي",
             "french": "calendrier mondial",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134507",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134507",
             "description": ""
         },
         {
@@ -32389,7 +32389,7 @@
             "english": "yard",
             "arabic": "ياردة",
             "french": "yard",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133850",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133850",
             "description": ""
         },
         {
@@ -32397,7 +32397,7 @@
             "english": "year",
             "arabic": "سنة",
             "french": "année",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133851",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133851",
             "description": ""
         },
         {
@@ -32405,7 +32405,7 @@
             "english": "year",
             "arabic": "سنة، عام",
             "french": "an; année",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134508",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134508",
             "description": ""
         },
         {
@@ -32413,7 +32413,7 @@
             "english": "yearly",
             "arabic": "سنويا",
             "french": "annuellement",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133852",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133852",
             "description": ""
         },
         {
@@ -32421,7 +32421,7 @@
             "english": "yearly income",
             "arabic": "دخل سنوي",
             "french": "revenu annuel",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133853",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133853",
             "description": ""
         },
         {
@@ -32429,7 +32429,7 @@
             "english": "zenith",
             "arabic": "سمت",
             "french": "zénith",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133859",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133859",
             "description": ""
         },
         {
@@ -32437,7 +32437,7 @@
             "english": "zenith (the)",
             "arabic": "سمت (ال...)، سمت الرأس",
             "french": "zénith",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134509",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134509",
             "description": ""
         },
         {
@@ -32445,7 +32445,7 @@
             "english": "zenith distance",
             "arabic": "مسافة سمتية",
             "french": "distance zénithale",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134510",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134510",
             "description": ""
         },
         {
@@ -32453,7 +32453,7 @@
             "english": "zenithal projection",
             "arabic": "اسقاط سمتي",
             "french": "projection zénithale",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133860",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133860",
             "description": ""
         },
         {
@@ -32461,7 +32461,7 @@
             "english": "zenthal point",
             "arabic": "نقطة السمت",
             "french": "point zénithal",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133861",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133861",
             "description": ""
         },
         {
@@ -32469,7 +32469,7 @@
             "english": "zero",
             "arabic": "صفر",
             "french": "zéro",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133862",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133862",
             "description": ""
         },
         {
@@ -32477,7 +32477,7 @@
             "english": "zero angle",
             "arabic": "زاوية صفرية",
             "french": "angle nul",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133863",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133863",
             "description": ""
         },
         {
@@ -32485,7 +32485,7 @@
             "english": "zero element",
             "arabic": "عنصر الصفر",
             "french": "élément zéro",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133864",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133864",
             "description": ""
         },
         {
@@ -32493,7 +32493,7 @@
             "english": "zero matrix",
             "arabic": "مصفوفة صفرية",
             "french": "matrice zéro; matrice nulle",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133865",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133865",
             "description": ""
         },
         {
@@ -32501,7 +32501,7 @@
             "english": "zero polynomial",
             "arabic": "حدودية صفرية",
             "french": "polynôme nul",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133866",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133866",
             "description": ""
         },
         {
@@ -32509,7 +32509,7 @@
             "english": "zero vector",
             "arabic": "متجه صفري",
             "french": "vecteur nul",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133867",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133867",
             "description": ""
         },
         {
@@ -32517,7 +32517,7 @@
             "english": "zeros of a polynomial",
             "arabic": "أصفار حدودية",
             "french": "zéros de polynôme",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133868",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133868",
             "description": "كثيرة الحدود"
         },
         {
@@ -32525,7 +32525,7 @@
             "english": "zigzag",
             "arabic": "متعرج",
             "french": "zigzag",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133869",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=133869",
             "description": ""
         },
         {
@@ -32533,7 +32533,7 @@
             "english": "zodiac",
             "arabic": "منطقة البروج",
             "french": "zodiaque",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134511",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134511",
             "description": ""
         },
         {
@@ -32541,7 +32541,7 @@
             "english": "zodiacal light",
             "arabic": "ضوء (ال...) البرجي",
             "french": "lumière zodiacale",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134512",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134512",
             "description": ""
         },
         {
@@ -32549,7 +32549,7 @@
             "english": "zone time",
             "arabic": "توقيت المنطقة",
             "french": "horaire du fuseau",
-            "uri": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134513",
+            "termURL": "http://www.arabterm.org/index.php?id=40&L=1&tx_3m5techdict_pi1[id]=134513",
             "description": ""
         }
     ]
