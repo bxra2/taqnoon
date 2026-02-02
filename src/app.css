@@ -2,6 +2,7 @@
     --background-color: #f9f7f1;
     --color: #2f2f2f;
 }
+
 @import 'tailwindcss';
 /* #9d9487
 #473625 */
@@ -10,30 +11,37 @@
     font-family: 'AmiriTypewriter';
     src: url('/fonts/AmiriTypewriter.ttf');
 }
+
 @font-face {
     font-family: 'Hacen';
     src: url('/fonts/Hacen_Newspaper.ttf');
 }
+
 @font-face {
     font-family: 'amiri';
     src: url('/fonts/amiri.ttf');
 }
+
 @font-face {
     font-family: 'rubik';
     src: url('/fonts/rubik.ttf');
 }
+
 @font-face {
     font-family: 'almahdi';
     src: url('/fonts/almahdi.otf');
 }
+
 @font-face {
     font-family: 'arabic-ui';
     src: url('/fonts/arabic-ui-display.ttf');
 }
+
 @font-face {
     font-family: 'IBMPlexSansArabic';
     src: url('/fonts/IBMPlexSansArabic.ttf');
 }
+
 :root {
     --bg-color: #f0efea;
     --text-color: #141413;
@@ -42,7 +50,8 @@
     --border-focus: #837b73;
     --muted: #6b5b4b;
 }
-.almahdi{
+
+.almahdi {
     font-family: 'IBMPlexSansArabic' !important;
 }
 
@@ -57,9 +66,11 @@
     --primary-color: #64b5f6;
     --shadow: rgba(0, 0, 0, 0.3);
 }
+
 * {
     font-family: 'Playfair Display', 'IBMPlexSansArabic' !important;
 }
+
 body {
     background-color: var(--bg-color);
     color: var(--text-color);
@@ -78,11 +89,13 @@ body {
     filter: #24201a;
     z-index: 3;
 }
+
 .home-logo {
     fill: #24201a;
     filter: #24201a;
     width: 500px;
 }
+
 input {
     font-family: inherit;
     background-color: transparent;
@@ -111,6 +124,12 @@ h3 {
     font-weight: 600;
 }
 
+p,
+span {
+    color: var(--text-color);
+
+}
+
 a {
     color: var(--text-color);
     text-decoration: none;
@@ -128,19 +147,37 @@ a:hover {
     transition: border-color 0.5s;
     border: 1px var(--border-color) solid;
 }
+
 .search-button:hover {
     cursor: pointer;
     opacity: 0.8;
     transition: opacity 0.2s ease;
 }
-.accent{
+
+.accent {
     background-color: var(--accent);
 }
+
+.hover-accent {
+    transition: filter 0.4s ease;
+}
+
+.hover-accent:hover {
+    filter: brightness(0.9);
+    background-color: var(--accent);
+
+}
+
+.muted {
+    background-color: var(--muted);
+}
+
 .search-button:disabled {
     cursor: default;
     opacity: 0.8;
     transition: opacity 0.2s ease;
 }
+
 .term-card {
     background-color: var(--bg-color);
     border: 1px solid var(--border-color);
@@ -184,11 +221,13 @@ header {
     direction: rtl;
     word-spacing: 0.2em;
 }
-.desc a{
+
+.desc a {
     opacity: 0.5;
     font-weight: 600;
     /* text-decoration: underline; */
 }
+
 footer {
     border-top: 1px dotted var(--border-color);
     margin-top: 0.8rem;
@@ -200,22 +239,27 @@ footer {
     align-items: center;
     justify-content: space-between;
 }
+
 .arb {
     word-spacing: 0.2em;
 }
-.search-bar{
-    border-color: var(--border-color);
+
+.border {
+    border-color: var(--border-color) !important;
 }
+
 input[type="checkbox"] {
     width: 1rem;
     height: 1rem;
     accent-color: var(--accent);
     /* outline: 1px solid var(--border-color); */
 }
+
 .dropdown-icon {
     width: 30px;
     height: 30px;
-    background-color: var(--border-color); /* the color you want */
+    background-color: var(--border-color);
+    /* the color you want */
     mask: url('/icons/menu.svg') no-repeat center;
     filter: contrast(0.02);
     mask-size: contain;
