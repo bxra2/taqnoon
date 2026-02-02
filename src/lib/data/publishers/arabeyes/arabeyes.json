@@ -11,7 +11,8 @@
         {
             "english": "Abort",
             "arabic": "إجهاض",
-            "termURL": "https://www.arabeyes.org/techdict:Abort"
+            "termURL": "https://www.arabeyes.org/techdict:Abort",
+            "description": "إنهاء برنامج أو عملية بشكل غير طبيعي وعادة فجأة."
         },
         {
             "english": "Abortive release",
@@ -21,12 +22,14 @@
         {
             "english": "Abscissa",
             "arabic": "فاصلة",
-            "termURL": "https://www.arabeyes.org/techdict:Abscissa"
+            "termURL": "https://www.arabeyes.org/techdict:Abscissa",
+            "description": "إذاكان المستوي منسوب إلى معلم الإحداثية الأولى لكل نقطة من المستوي تسمى فاصلة."
         },
         {
             "english": "Absolute",
             "arabic": "مطلق(ة) (قيمة)",
-            "termURL": "https://www.arabeyes.org/techdict:Absolute"
+            "termURL": "https://www.arabeyes.org/techdict:Absolute",
+            "description": "القيمة المطلقة لعدد حقيقي x هو العدد الحقيقي الموجب الذي نرمز له بالرمزاxا والذي يساوي x إذا كان x موجبا و x- إذا كان x سالبا."
         },
         {
             "english": "Absolute address",
@@ -331,7 +334,8 @@
         {
             "english": "Affix",
             "arabic": "زائدة",
-            "termURL": "https://www.arabeyes.org/techdict:Affix"
+            "termURL": "https://www.arabeyes.org/techdict:Affix",
+            "description": "عنصر لغوي يغير معنى أو وظيفة كلمة حين اتصاله بها. والزوائد إن اتصلت بأول الكلمة تسمىسوابقا، وبأواسط الكلمة تسمىدواخلا، وبأواخرهالواحقا."
         },
         {
             "english": "Agenda",
@@ -361,7 +365,8 @@
         {
             "english": "Aggregator",
             "arabic": "مُجمِّع",
-            "termURL": "https://www.arabeyes.org/techdict:Aggregator"
+            "termURL": "https://www.arabeyes.org/techdict:Aggregator",
+            "description": "برنامج لمراقبة/قراءة المحتوى الجديد في تلقيمات أخبار يحددها المستخدم."
         },
         {
             "english": "Aging",
@@ -756,7 +761,8 @@
         {
             "english": "Argument",
             "arabic": "مُعطى",
-            "termURL": "https://www.arabeyes.org/techdict:Argument"
+            "termURL": "https://www.arabeyes.org/techdict:Argument",
+            "description": "قيمة أو مرجع يُمرره المُستدعي إلى دالّة، أو أمر، أو برنامج."
         },
         {
             "english": "Arity",
@@ -841,7 +847,8 @@
         {
             "english": "Aspect ratio",
             "arabic": "نسبة باعيّة",
-            "termURL": "https://www.arabeyes.org/techdict:Aspect_ratio"
+            "termURL": "https://www.arabeyes.org/techdict:Aspect_ratio",
+            "description": "النسبة الباعيّة لصورة ما هي نسبة عرض الصورة إلى ارتفاعها."
         },
         {
             "english": "Assembler",
@@ -971,7 +978,8 @@
         {
             "english": "Authentication",
             "arabic": "استيثاق",
-            "termURL": "https://www.arabeyes.org/techdict:Authentication"
+            "termURL": "https://www.arabeyes.org/techdict:Authentication",
+            "description": "الاستيثاق هو التحقق من هوية شخص أو عمليّة. في أنظمة الاتصالات، يتحقق الاستيثاق من أن الرسائل قادمة من حيث تزعم، مثله مثل التوقيع على الخطابات الورقية. أكثر طرق الاستيثاق شيوعا كتابة اسم المستخدم وكلمة سرّه."
         },
         {
             "english": "Authentication ticket",
@@ -1111,7 +1119,8 @@
         {
             "english": "Axiom",
             "arabic": "بديهية",
-            "termURL": "https://www.arabeyes.org/techdict:Axiom"
+            "termURL": "https://www.arabeyes.org/techdict:Axiom",
+            "description": "هي كل قضية رياضية محققة بالبداهة أو مسلّم بصحتها."
         },
         {
             "english": "Axiomatic semantics",
@@ -1396,7 +1405,8 @@
         {
             "english": "Beta",
             "arabic": "بيتا",
-            "termURL": "https://www.arabeyes.org/techdict:Beta"
+            "termURL": "https://www.arabeyes.org/techdict:Beta",
+            "description": "مرحلة من مراحل تطوير برمجية أو توزيعة . و هو الحرف الثاني في الأبجدية الإغريقية, يأخذ الحرف شكلين الكبير (Β) والصغير (β)"
         },
         {
             "english": "Beta abstraction",
@@ -1431,7 +1441,8 @@
         {
             "english": "Bidi",
             "arabic": "ثنائية الاتجاه",
-            "termURL": "https://www.arabeyes.org/techdict:Bidi"
+            "termURL": "https://www.arabeyes.org/techdict:Bidi",
+            "description": "ثنائية الاتجاه هي المزج بين النصوص التي تكتب من اليمين لليسار (كالعربية) مع النصوص التي تكتب من اليسار لليمين (كاللغات الأوربية) في نفس الفقرة من النص."
         },
         {
             "english": "Bidirectional printing",
@@ -1511,7 +1522,8 @@
         {
             "english": "Bit",
             "arabic": "بِتة :: ثنائية :: ذرة",
-            "termURL": "https://www.arabeyes.org/techdict:Bit"
+            "termURL": "https://www.arabeyes.org/techdict:Bit",
+            "description": "الذرة هي أصغر وحدة لقياس ذاكرة الحاسوب وهي تحتمل قيمتين لا ثالث لهما وهما الواحد أو الصفر"
         },
         {
             "english": "Bit block transfer",
@@ -1682,7 +1694,8 @@
         {
             "english": "Boolean",
             "arabic": "منطقي",
-            "termURL": "https://www.arabeyes.org/techdict:Boolean"
+            "termURL": "https://www.arabeyes.org/techdict:Boolean",
+            "description": "في البرمجة، نوع من التعبيرات له قيمتين محتملتين، \"صح\" و\"خطأ\". أيضا، متغير منطقي النوع، أو دالة ذات معاملات أو نتائج منطقيّة. أكثر الدوال المنطقية شيوعا، \"و\" و\"أو\" و\"ليس\"."
         },
         {
             "english": "Boot",
@@ -1747,7 +1760,8 @@
         {
             "english": "Bot",
             "arabic": "آلي",
-            "termURL": "https://www.arabeyes.org/techdict:Bot"
+            "termURL": "https://www.arabeyes.org/techdict:Bot",
+            "description": "لاعب ذكاء صناعي"
         },
         {
             "english": "Bottom",
@@ -1967,7 +1981,8 @@
         {
             "english": "Bug",
             "arabic": "علَّة",
-            "termURL": "https://www.arabeyes.org/techdict:Bug"
+            "termURL": "https://www.arabeyes.org/techdict:Bug",
+            "description": "خاصية غير مطلوبة أو غير مقصودة في برنامج أو قطعة عتاد، خاصة إذا أدت إلى عيب في وظيفته."
         },
         {
             "english": "Bug fix",
@@ -2102,7 +2117,8 @@
         {
             "english": "Byte",
             "arabic": "بايت :: جزئ",
-            "termURL": "https://www.arabeyes.org/techdict:Byte"
+            "termURL": "https://www.arabeyes.org/techdict:Byte",
+            "description": "الجزئ هو وحدة لقياس ذاكرة الحاسوب ويتكون من ثمان ذرات , ويحتمل 256 قيمة مختلفة"
         },
         {
             "english": "Byte addressing",
@@ -2487,7 +2503,8 @@
         {
             "english": "CC",
             "arabic": "(١) نسخة كربونية؛ (٢) مناسخة؛ (٣) يناسخ",
-            "termURL": "https://www.arabeyes.org/techdict:CC"
+            "termURL": "https://www.arabeyes.org/techdict:CC",
+            "description": "(١) نسخة كربونية carbon copy، طبق الأصل من رسالة بريد إلكتروني إلى مرسل إليه فرعي أو أكثر؛ (٢) عملية إرسال هذه النسخة CCing, carpon-copying؛ (٣) فعل - يقوم بإرسال هذه النسخة."
         },
         {
             "english": "CDE panel",
@@ -2762,7 +2779,8 @@
         {
             "english": "Checkout",
             "arabic": "سحب",
-            "termURL": "https://www.arabeyes.org/techdict:Checkout"
+            "termURL": "https://www.arabeyes.org/techdict:Checkout",
+            "description": "سحب ملفات من مستودع إلى شجرة الملفات الحالية."
         },
         {
             "english": "Checkpoint",
@@ -2967,7 +2985,8 @@
         {
             "english": "Client-server",
             "arabic": "عميل وخادوم",
-            "termURL": "https://www.arabeyes.org/techdict:Client-server"
+            "termURL": "https://www.arabeyes.org/techdict:Client-server",
+            "description": "أحد الصور الشائعة للأنظمة الموزعة تقسم فيه البرمجيات بين مهام العميل ومهام الخادوم. يرسل العميل طلبات إلى الخادوم -طبقا لبروتوكول ما- يسأل عن معلومات أو إجراء، والخادوم يستجيب."
         },
         {
             "english": "Client-server model",
@@ -3353,7 +3372,8 @@
         {
             "english": "Command line",
             "arabic": "سطر الأوامر",
-            "termURL": "https://www.arabeyes.org/techdict:Command_line"
+            "termURL": "https://www.arabeyes.org/techdict:Command_line",
+            "description": "وسيلة للتواصل بين البرنامج والمستخدم تعتمد حصرا على دخْل وخرْج نصي. تُدخل الأوامر كتابة باستخدام لوحة المفاتيح حيث يفسرها وينفذها البرنامج، ثم تُخرج النتائج نصا أو صورة إلى طرفية."
         },
         {
             "english": "Command line interface",
@@ -3403,7 +3423,8 @@
         {
             "english": "Commit",
             "arabic": "إيداع",
-            "termURL": "https://www.arabeyes.org/techdict:Commit"
+            "termURL": "https://www.arabeyes.org/techdict:Commit",
+            "description": "إيداع ملفات من شجرة الملفات الحالية إلى مستودع."
         },
         {
             "english": "Common",
@@ -3818,7 +3839,8 @@
         {
             "english": "Configuration",
             "arabic": "تضبيط",
-            "termURL": "https://www.arabeyes.org/techdict:Configuration"
+            "termURL": "https://www.arabeyes.org/techdict:Configuration",
+            "description": "أيضا يكتب مختصر \"config\""
         },
         {
             "english": "Configuration item",
@@ -4223,7 +4245,8 @@
         {
             "english": "Cookie",
             "arabic": "كعكة",
-            "termURL": "https://www.arabeyes.org/techdict:Cookie"
+            "termURL": "https://www.arabeyes.org/techdict:Cookie",
+            "description": "في وِب:  كتلةٌ من المعطيات التي يخزِّنها خادوم وِب على نظام الزبون (ملفُّ الكعكة). عندما يَعود المستخدِمُ إلى ذات الموقع، يُعيدُ المتصفِّحُ إرسالَ نسخةٍ من الكتلة إلى الخادوم. تُستخدَمُ الكعكاتُ لتعيين هوية المستخدمين، وللإيعاز إلى الخادوم بأن يرسِلَ إصداراً مخصّصاً من صفحة وِب المطلوبة، ولتقديم معلومات عن حساب المستخدِم، ولغايات أخرى تتعلق بقوامة النظام."
         },
         {
             "english": "Cooperative",
@@ -4328,7 +4351,8 @@
         {
             "english": "Corpus",
             "arabic": "مكنز",
-            "termURL": "https://www.arabeyes.org/techdict:Corpus"
+            "termURL": "https://www.arabeyes.org/techdict:Corpus",
+            "description": "المكانز أو مكانز الكلمات مصطلح يستخدم للدلالة على ملف يحتوي على كمية كبيرة من الكلمات وعادة يستخدمها العاملون في مجال معالجة اللغات الطبيعية"
         },
         {
             "english": "Correct",
@@ -4473,7 +4497,8 @@
         {
             "english": "Cron",
             "arabic": "الدورية",
-            "termURL": "https://www.arabeyes.org/techdict:Cron"
+            "termURL": "https://www.arabeyes.org/techdict:Cron",
+            "description": "أمر من أوامر اللينوكس، يسمح لك بتشغيل مهمة معينة بتاريخ معين."
         },
         {
             "english": "Crop",
@@ -4638,7 +4663,8 @@
         {
             "english": "Daisy chain",
             "arabic": "سلسلة تعاقبيّة",
-            "termURL": "https://www.arabeyes.org/techdict:Daisy_chain"
+            "termURL": "https://www.arabeyes.org/techdict:Daisy_chain",
+            "description": "مجموعةٌ من التجهيزات المربوطة تسلسلياً. للتخلص من الطلبات المتضاربة لاستخدام قناة (مسرى) وُصِلتْ بها كلُّ التجهيزات، يُعطَى لكلٍّ منها درجةُ أولوية."
         },
         {
             "english": "Damage",
@@ -4668,7 +4694,8 @@
         {
             "english": "Data acquisition",
             "arabic": "تحصيل (استحصال) معطيات",
-            "termURL": "https://www.arabeyes.org/techdict:Data_acquisition"
+            "termURL": "https://www.arabeyes.org/techdict:Data_acquisition",
+            "description": "إجرائيةُ الحصول على المعطيات من مصدرٍ آخر يكون عادةً خارجَ نظامٍ محدَّد."
         },
         {
             "english": "Database",
@@ -4988,7 +5015,8 @@
         {
             "english": "Debug",
             "arabic": "تنقيح",
-            "termURL": "https://www.arabeyes.org/techdict:Debug"
+            "termURL": "https://www.arabeyes.org/techdict:Debug",
+            "description": "التنقيح هو طريقة منهجية للعثور علىالعللوتقليل عددها في البرمجيات أو العتاد بحيث تؤدي وظيفته على الوجه المراد."
         },
         {
             "english": "Debugger",
@@ -5103,7 +5131,8 @@
         {
             "english": "Default",
             "arabic": "مبدئي",
-            "termURL": "https://www.arabeyes.org/techdict:Default"
+            "termURL": "https://www.arabeyes.org/techdict:Default",
+            "description": "قيمة تستخدم في حال لم يحدد المستخدم قيمة أخرى."
         },
         {
             "english": "Defect",
@@ -5208,7 +5237,8 @@
         {
             "english": "Deliverable",
             "arabic": "مُسْتَلَم",
-            "termURL": "https://www.arabeyes.org/techdict:Deliverable"
+            "termURL": "https://www.arabeyes.org/techdict:Deliverable",
+            "description": "المنتج النهائي الواجب أو الممكن تسليمه للمستخدم النهائي وتستخدم دائما بصيغة الجمع. والمستلمات في تقانة المعلومات والاتصالات وغيرها، وفي إدارة المشاريع عموما، هي مكونات مادية أو غير مادية ضمن مشروع أو منتج آو صفقة، مثل نسيقات برمجية أو خدمة ما بعد البيع أو توثيق لما تم عمله أو تشغيل موقع وتصحيح أخطاء التشغيل، إلخ."
         },
         {
             "english": "Delivery",
@@ -6293,7 +6323,8 @@
         {
             "english": "Driver",
             "arabic": "تعريف",
-            "termURL": "https://www.arabeyes.org/techdict:Driver"
+            "termURL": "https://www.arabeyes.org/techdict:Driver",
+            "description": "برمجية للتحكم في قطعة عتاد متصلة بالحاسوب، مثل القرص الصلب أو الطابعة."
         },
         {
             "english": "Drop-down arrow",
@@ -6368,7 +6399,8 @@
         {
             "english": "Dump",
             "arabic": "طرْح",
-            "termURL": "https://www.arabeyes.org/techdict:Dump"
+            "termURL": "https://www.arabeyes.org/techdict:Dump",
+            "description": "طرْح قدتعني:كتلة ضخمة من البيانات الغفل عن مشكلة أو حالة نظام ما. في أيام الحاسوب الأولى، كان التنقيح وتتبع الأخطاء عبر فحص هذه البيانات، لكنه غير شائع الآن مع استخدام لغات المستوى العالي والمنقحات التفاعلية.نسخة احتياطية."
         },
         {
             "english": "Duplex",
@@ -6613,7 +6645,8 @@
         {
             "english": "E-Mail",
             "arabic": "بريد (إلكتروني)",
-            "termURL": "https://www.arabeyes.org/techdict:E-Mail"
+            "termURL": "https://www.arabeyes.org/techdict:E-Mail",
+            "description": "نظام لنقل الرسائل بين الحواسيب، عبر شبكة غالبا، أو الرسائل نفسها."
         },
         {
             "english": "E-mail",
@@ -6723,12 +6756,14 @@
         {
             "english": "Encoding",
             "arabic": "ترميز",
-            "termURL": "https://www.arabeyes.org/techdict:Encoding"
+            "termURL": "https://www.arabeyes.org/techdict:Encoding",
+            "description": "الطريقة التي تسند بها الرموز إلى البايتات، مثلا عند تصيير الخطوط أو إسناد أزرار لوحة المفاتيح للنص المرئي."
         },
         {
             "english": "Encrypt",
             "arabic": "تعمية",
-            "termURL": "https://www.arabeyes.org/techdict:Encrypt"
+            "termURL": "https://www.arabeyes.org/techdict:Encrypt",
+            "description": "فيعلم التعمية: هي عملية تحويل النص الصِرف إلى نص معمّى، لمنع أي شخص ما عدا المستلم المقصود من الاطلاع على البيانات."
         },
         {
             "english": "Encrypted",
@@ -7058,12 +7093,14 @@
         {
             "english": "Executable",
             "arabic": "تنفيذي",
-            "termURL": "https://www.arabeyes.org/techdict:Executable"
+            "termURL": "https://www.arabeyes.org/techdict:Executable",
+            "description": "ملف ثنائي يحتوي على برنامج بلغة الآلة جاهز للتنفيذ (التشغيل). تُميز التنفيذيات في يونِكس بإعطائها بتات صلاحية التنفيذ، أو على الأقل للمالك، بينما يستخدم مايكروسُفت دُس امتداد اسم الملف \".exe\"."
         },
         {
             "english": "Executable content",
             "arabic": "محتوى تنفيذي",
-            "termURL": "https://www.arabeyes.org/techdict:Executable_content"
+            "termURL": "https://www.arabeyes.org/techdict:Executable_content",
+            "description": "برامج تنفيذية يرسلها نظام تشغيل إلى آخر عبر شبكة. مثلا، بريمج جافا يعد محتوى تنفيذيا."
         },
         {
             "english": "Executable file",
@@ -7228,7 +7265,8 @@
         {
             "english": "Extension",
             "arabic": "امتداد",
-            "termURL": "https://www.arabeyes.org/techdict:Extension"
+            "termURL": "https://www.arabeyes.org/techdict:Extension",
+            "description": "امتداد اسم الملف، أوفي البرمجة: خاصية أو شفرة برمجية توسّع (تمدِّد) وظيفة برنامج ما."
         },
         {
             "english": "External",
@@ -7788,7 +7826,8 @@
         {
             "english": "Floss",
             "arabic": "البرمجيات الحرّة مفتوحة المصدر - اختصار لاسم: Free Libre Open Source Software",
-            "termURL": "https://www.arabeyes.org/techdict:Floss"
+            "termURL": "https://www.arabeyes.org/techdict:Floss",
+            "description": "البرمجيات- الخاضعة لرخصة تتيح استعمالها وتوزيعها والتعديل في أكوادها -تسمى المصدر Source- والتي  لابد أن تكون متاحة -مفتوحةOpen- وفي حرية كاملة -Free- دون أية قيود، مع شرط نسبة الكود المصدر لمؤلفه."
         },
         {
             "english": "Flow",
@@ -7963,7 +8002,8 @@
         {
             "english": "Frag",
             "arabic": "قتلة",
-            "termURL": "https://www.arabeyes.org/techdict:Frag"
+            "termURL": "https://www.arabeyes.org/techdict:Frag",
+            "description": "(تستخدم في الألعاب القتالية)"
         },
         {
             "english": "Fragile",
@@ -8028,7 +8068,8 @@
         {
             "english": "Free software",
             "arabic": "برمجيات حرة",
-            "termURL": "https://www.arabeyes.org/techdict:Free_software"
+            "termURL": "https://www.arabeyes.org/techdict:Free_software",
+            "description": "هي تلك البرمجيات التي يتاح للجميع حرية نسخها وتوزيعها وتعديلها."
         },
         {
             "english": "Free space",
@@ -8043,7 +8084,8 @@
         {
             "english": "Freeware",
             "arabic": "برمجيات مجانية",
-            "termURL": "https://www.arabeyes.org/techdict:Freeware"
+            "termURL": "https://www.arabeyes.org/techdict:Freeware",
+            "description": "هي البرمجيات التي توزع مجانا دون مقابل. يجب عدم الخلط بين البرمجيات المجانية والبرمجيات الحرة."
         },
         {
             "english": "Freeze",
@@ -8588,7 +8630,8 @@
         {
             "english": "Hacker",
             "arabic": "هاكر",
-            "termURL": "https://www.arabeyes.org/techdict:Hacker"
+            "termURL": "https://www.arabeyes.org/techdict:Hacker",
+            "description": "هو الشخص الذي يهتم بشكل كبير بتعلم وتعديل الجوانب التقنية لنظام ما - وبخاصة الحاسوب وبرمجياته - وكيفية توسيع إمكانياته، أو هو الشخص الذي يستمتع بمارسة البرمجة وبحماس. على عكس الخطأ الشائع، الهاكر ليس قرصان الحاسوب."
         },
         {
             "english": "Hack value",
@@ -8738,7 +8781,8 @@
         {
             "english": "Hash",
             "arabic": "تلبيد",
-            "termURL": "https://www.arabeyes.org/techdict:Hash"
+            "termURL": "https://www.arabeyes.org/techdict:Hash",
+            "description": "يُقابِلُ مع قيمة عددية عن طريق تحويلٍ يُعرَفُ بتابع التلبيد. يُستعمَلُ التلبيدُ لتحويلِ معيِّنِ الهوية (أو مفتاحٍ ذي معنى للمستخدم) إلى قيمةٍ تدلّ على موضعِ المعطيات الموافقة ضمن بنية (جدول مثلاً)."
         },
         {
             "english": "Hash function",
@@ -8753,12 +8797,14 @@
         {
             "english": "Hatching",
             "arabic": "ترقين",
-            "termURL": "https://www.arabeyes.org/techdict:Hatching"
+            "termURL": "https://www.arabeyes.org/techdict:Hatching",
+            "description": "خطوط أو سطور ضيقة توضع في الرسم لإظهار صبغ أو ظل بلون أو وسيط ما"
         },
         {
             "english": "Header",
             "arabic": "ترويسة",
-            "termURL": "https://www.arabeyes.org/techdict:Header"
+            "termURL": "https://www.arabeyes.org/techdict:Header",
+            "description": "بنيةُ المعلومات التي تَسبقُ هوية المعلومات اللاحقة وتُعيِّنُها، مثل كتلة من البايتات في الاتصالات، أو ملف على قرص، أو مجموعة من التسجيلات في قاعدة بيانات أو ملف تنفيذي."
         },
         {
             "english": "Header file",
@@ -9144,7 +9190,8 @@
         {
             "english": "HTML",
             "arabic": "HTML",
-            "termURL": "https://www.arabeyes.org/techdict:HTML"
+            "termURL": "https://www.arabeyes.org/techdict:HTML",
+            "description": "لغة رقم النص الفائق."
         },
         {
             "english": "HTTP",
@@ -9409,7 +9456,8 @@
         {
             "english": "Indentation",
             "arabic": "إزاحة",
-            "termURL": "https://www.arabeyes.org/techdict:Indentation"
+            "termURL": "https://www.arabeyes.org/techdict:Indentation",
+            "description": "الإزاحة هي إضافة مسافة أو علامة تبويب أو أكثر إلى بداية واحد أو كثر من السطور المتتابعة لتوضيح تركيب جزء من النص. مثلا إزاحة فقرة لإبرازها. الإزاحة مهمة لزيادة مقروئية الكود المصدري."
         },
         {
             "english": "Indent style",
@@ -9994,7 +10042,8 @@
         {
             "english": "Kerning",
             "arabic": "تأليف (الأحرف)",
-            "termURL": "https://www.arabeyes.org/techdict:Kerning"
+            "termURL": "https://www.arabeyes.org/techdict:Kerning",
+            "description": "هو عملية تقليص المسافة بين زوج معين من الحروف لتحسين مظهرها."
         },
         {
             "english": "Keybind",
@@ -10179,7 +10228,8 @@
         {
             "english": "Label",
             "arabic": "لصيقة",
-            "termURL": "https://www.arabeyes.org/techdict:Label"
+            "termURL": "https://www.arabeyes.org/techdict:Label",
+            "description": "معيِّنٌ قد يَكون مادياً كبطاقةٍ لاصقة تُثبَّت على الأقراص ومعدّات الحاسوب الأخرى لتمييزها، وقد تكون اللصيقةُ كلمةً أو رمزاً أو مجموعةً من المحارف تُستخدَمُ لتمييز ملفٍّ أو وسيطةِ تخزين أو مكوِّن معرَّف في برنامج حاسوبي"
         },
         {
             "english": "Label switching",
@@ -10199,7 +10249,8 @@
         {
             "english": "Landscape",
             "arabic": "عرضي",
-            "termURL": "https://www.arabeyes.org/techdict:Landscape"
+            "termURL": "https://www.arabeyes.org/techdict:Landscape",
+            "description": "في الطباعة، يقصد به طبع المستند مستطيلا عرضه أكثر من طوله."
         },
         {
             "english": "Language",
@@ -10259,7 +10310,8 @@
         {
             "english": "Launcher",
             "arabic": "مُطْلِق",
-            "termURL": "https://www.arabeyes.org/techdict:Launcher"
+            "termURL": "https://www.arabeyes.org/techdict:Launcher",
+            "description": "يبدأ المُطْلِق تطبيقا معينا، أو ينفِّذ أمرا، أو يفتح ملفاً. قد يقع المُطْلِق في شريط أو قائمة."
         },
         {
             "english": "Lavender",
@@ -10759,7 +10811,8 @@
         {
             "english": "Localization",
             "arabic": "توطين",
-            "termURL": "https://www.arabeyes.org/techdict:Localization"
+            "termURL": "https://www.arabeyes.org/techdict:Localization",
+            "description": "التوطين هو تكييف منتج ليوفي بالاحتياجات اللغوية والثقافية وغيرها لسوق معين. يشمل التوطين ترجمة واجهة البرمجيات والوثائق، والتأكد من أن الصور والمفاهيم الأخرى مقبولة ثقافيا، فمثلا بعض الأيقونات قد تحمل دلالات معينة في منطقة من العالم دون الأخرى."
         },
         {
             "english": "Local loop",
@@ -10889,7 +10942,8 @@
         {
             "english": "Login",
             "arabic": "ولوج",
-            "termURL": "https://www.arabeyes.org/techdict:Login"
+            "termURL": "https://www.arabeyes.org/techdict:Login",
+            "description": "الولوجهو أن تبدأ جلسة على حاسوب مستخدما اسم مستخدم وكلمة سر كوسيلة للتوثّق."
         },
         {
             "english": "Login directory",
@@ -10974,7 +11028,8 @@
         {
             "english": "Lossy",
             "arabic": "فقود",
-            "termURL": "https://www.arabeyes.org/techdict:Lossy"
+            "termURL": "https://www.arabeyes.org/techdict:Lossy",
+            "description": "مصطلح يصف خوازمية لضغط البيانات تتسبب في فقد جزء من البيانات، بدلا من مجرد عدد البايتات التي تصف البيانات. تزال عادة البيانات المفقودة لأنها أقل أهمية بالنسبة لجودة البيانات (عادة صورة أو صوت) أو لأنه يمكن استرجاعها يشكل معقول عبر تحليل البيانات الباقية."
         },
         {
             "english": "Lossy compression",
@@ -11119,7 +11174,8 @@
         {
             "english": "Magic number",
             "arabic": "الرقم السحري",
-            "termURL": "https://www.arabeyes.org/techdict:Magic_number"
+            "termURL": "https://www.arabeyes.org/techdict:Magic_number",
+            "description": "boot record signature = magic numberفي إشارة إلى 2 بايت التي في الجزء الأخير من القطاع في MBR و التي تحتوي على الكلمة 0xAA55 معروفة أيضا باسم boot signature . لكن أيضا ، له أستخدامات أخرى مثل webmail servers و source code, و حتى رياضة baseball ."
         },
         {
             "english": "Magnetic disk",
@@ -11299,7 +11355,8 @@
         {
             "english": "Malware",
             "arabic": "برمجية خبيثة",
-            "termURL": "https://www.arabeyes.org/techdict:Malware"
+            "termURL": "https://www.arabeyes.org/techdict:Malware",
+            "description": "تشمل الفيروسات و الديدان و أحصنة طروادة و برمجيات التجسس و غيرها"
         },
         {
             "english": "Manage",
@@ -11419,7 +11476,8 @@
         {
             "english": "Markup",
             "arabic": "رقْم",
-            "termURL": "https://www.arabeyes.org/techdict:Markup"
+            "termURL": "https://www.arabeyes.org/techdict:Markup",
+            "description": "في إعدات المستندات المحوسب: طريقة لإضافة معلومات إلى النص توضح الجزء المنطقي منه، أو تعليمات لتنسيق النص في الصفحة أو بعض المعلومات الأخرى التي يفسرها نظام آلي ما. من الأمثلة على هذا لغة رقم النص الفائق (HTML) ونظم تنسيق المستندات تخ/لاتك."
         },
         {
             "english": "Mask",
@@ -11449,7 +11507,8 @@
         {
             "english": "Master-slave",
             "arabic": "تابع ومتبوع",
-            "termURL": "https://www.arabeyes.org/techdict:Master-slave"
+            "termURL": "https://www.arabeyes.org/techdict:Master-slave",
+            "description": "صورة من صور بروتوكولات التواصل يكون فيه لأحد الأجهزة أو العمليات تحكم أحادي الاتجاه على جهاز واحد أو أكثر. بمجرد قيام الاتصال بين التابع والمتبوع، يكون اتجاه التحكم دائما من المتبوع إلى التابع."
         },
         {
             "english": "Match",
@@ -11759,7 +11818,8 @@
         {
             "english": "Metalanguage",
             "arabic": "لغة مترفعة",
-            "termURL": "https://www.arabeyes.org/techdict:Metalanguage"
+            "termURL": "https://www.arabeyes.org/techdict:Metalanguage",
+            "description": "لغةٌ تُستعمَلُ لوصفِ لغاتٍ أخرى"
         },
         {
             "english": "Metaphone",
@@ -12089,7 +12149,8 @@
         {
             "english": "Modular",
             "arabic": "تركيبي",
-            "termURL": "https://www.arabeyes.org/techdict:Modular"
+            "termURL": "https://www.arabeyes.org/techdict:Modular",
+            "description": "البرمجة التركيبية عبارة عن أسلوب لتصميم البرامج يقوم بزيادة نطاق تكوين البرامج من مكونات منفصلة قابلة للتبادل تُسمى الوحدات، وذلك من خلال تحليل وظائف البرنامج إلى وحدات Modules ، بحيث تؤدي كلٌ منها وظيفة واحدة وتحتوي على كل ما هو ضروري للقيام بهذه الوظيفة. وتعبّر واجهة الوحدة عن العناصر التي تقدمها وتتطلبها الوحدات. ويمكن للوحدات الأخرى الكشف عن العناصر المحددة في الواجهة؛ كما يحتوي التطبيق على كود التشغيل الذي يتوافق مع العناصر المعروضة في الواجهة -- اقتباس من الموسوعة"
         },
         {
             "english": "Modulate",
@@ -12159,7 +12220,8 @@
         {
             "english": "Morphing",
             "arabic": "تحول",
-            "termURL": "https://www.arabeyes.org/techdict:Morphing"
+            "termURL": "https://www.arabeyes.org/techdict:Morphing",
+            "description": "إجرائيةٌ تَتحوَّل بواسطتها صورةٌ تدريجياً إلى صورةٍ أخرى، مُحْدثةً الانطباعَ بأن تحوّلاً يَحصُل في مدةٍ قصيرة"
         },
         {
             "english": "Mosaic",
@@ -12184,12 +12246,14 @@
         {
             "english": "Mount",
             "arabic": "وصْل",
-            "termURL": "https://www.arabeyes.org/techdict:Mount"
+            "termURL": "https://www.arabeyes.org/techdict:Mount",
+            "description": "وصْل نظام ملفات: أي جعله متاحا، يقوم يونكس بذلك عبر ربط نظام الملفات مع دليل (نقطة الوصْل) موجود على نظام ملفات موصول مسبقا. يعود الاسم إلى بدايات الحاسوب، حيث يجب أن توصّل (تركب) وسيط التخزين على الحاسوب لتتمكن من الوصول إليه."
         },
         {
             "english": "Mounting",
             "arabic": "تركيب",
-            "termURL": "https://www.arabeyes.org/techdict:Mounting"
+            "termURL": "https://www.arabeyes.org/techdict:Mounting",
+            "description": "وصْل نظام ملفات: أي جعله متاحا، يقوم يونكس بذلك عبر ربط نظام الملفات مع دليل (نقطة الوصْل) موجود على نظام ملفات موصول مسبقا. يعود الاسم إلى بدايات الحاسوب، حيث يجب أن توصّل (تركب) وسيط التخزين على الحاسوب لتتمكن من الوصول إليه."
         },
         {
             "english": "Mount point",
@@ -12474,7 +12538,8 @@
         {
             "english": "Narrowband",
             "arabic": "حزمة ضيقة",
-            "termURL": "https://www.arabeyes.org/techdict:Narrowband"
+            "termURL": "https://www.arabeyes.org/techdict:Narrowband",
+            "description": "عرضُ حزمةٍ خصّصته لجنةُ الاتصالات الاتحادية FCC للخدمات اللاسلكية  النقّالة والمحمولة"
         },
         {
             "english": "Narrowing",
@@ -12489,7 +12554,8 @@
         {
             "english": "Native code",
             "arabic": "رماز أصيل",
-            "termURL": "https://www.arabeyes.org/techdict:Native_code"
+            "termURL": "https://www.arabeyes.org/techdict:Native_code",
+            "description": "رِمَازٌ خاصٌّ بآلةٍ معيّنة أو معالجٍ محدَّد"
         },
         {
             "english": "Native compiler",
@@ -12579,7 +12645,8 @@
         {
             "english": "Network",
             "arabic": "شبكة",
-            "termURL": "https://www.arabeyes.org/techdict:Network"
+            "termURL": "https://www.arabeyes.org/techdict:Network",
+            "description": "نظام عتادي أو برمجي لتواصل البيانات."
         },
         {
             "english": "Network-address",
@@ -13159,7 +13226,8 @@
         {
             "english": "Offset",
             "arabic": "زَيَحان",
-            "termURL": "https://www.arabeyes.org/techdict:Offset"
+            "termURL": "https://www.arabeyes.org/techdict:Offset",
+            "description": "في طرائق العنونة النسبية: عددٌ يدلّ على مقدار ابتعاد عنصر معيّن عن نقطة انطلاق"
         },
         {
             "english": "Off-topic",
@@ -13324,7 +13392,8 @@
         {
             "english": "Optimization",
             "arabic": "أمثلة",
-            "termURL": "https://www.arabeyes.org/techdict:Optimization"
+            "termURL": "https://www.arabeyes.org/techdict:Optimization",
+            "description": "في البرمجة: إجرائيةُ إنتاجِ برامج أكثر فاعليّة (أصغر و/أو أسرع) وذلك عبر انتقاء وتصميم بنى معطيات وخوارزميّات ومتتاليات تعليمات"
         },
         {
             "english": "Optimize",
@@ -13494,7 +13563,8 @@
         {
             "english": "Package",
             "arabic": "حزمة",
-            "termURL": "https://www.arabeyes.org/techdict:Package"
+            "termURL": "https://www.arabeyes.org/techdict:Package",
+            "description": "برمجيات حاسوبية مؤرشفة معا تثبّت باستخدام أنظمة إدارة الحزم."
         },
         {
             "english": "Packet",
@@ -13699,7 +13769,8 @@
         {
             "english": "Parameter",
             "arabic": "مُعامِل",
-            "termURL": "https://www.arabeyes.org/techdict:Parameter"
+            "termURL": "https://www.arabeyes.org/techdict:Parameter",
+            "description": "في البرمجة، المُعامل هو اسم فيدالةأوإجراءيُستبدلبمُعطىحقيقي عند استدعاء الدالة أو الإجراء."
         },
         {
             "english": "Parametric",
@@ -13759,7 +13830,8 @@
         {
             "english": "Parse",
             "arabic": "تحليل",
-            "termURL": "https://www.arabeyes.org/techdict:Parse"
+            "termURL": "https://www.arabeyes.org/techdict:Parse",
+            "description": "عملية تحليل البنية النحوية (الصياغية) لجملة أو سلسة من الرموز في لغة (برمجة) ما."
         },
         {
             "english": "Parser",
@@ -14409,7 +14481,8 @@
         {
             "english": "Portrait",
             "arabic": "طولي",
-            "termURL": "https://www.arabeyes.org/techdict:Portrait"
+            "termURL": "https://www.arabeyes.org/techdict:Portrait",
+            "description": "في الطباعة، يقصد به طبع المستند مستطيلا طوله أكثر من عرضه."
         },
         {
             "english": "Portugal",
@@ -14429,7 +14502,8 @@
         {
             "english": "Position",
             "arabic": "موضع",
-            "termURL": "https://www.arabeyes.org/techdict:Position"
+            "termURL": "https://www.arabeyes.org/techdict:Position",
+            "description": "الموضع هو مكان الشيء، وتستخدم عادة للإشارة إلى مكان الشيء على الشاشة."
         },
         {
             "english": "Positional",
@@ -14719,7 +14793,8 @@
         {
             "english": "Private key",
             "arabic": "مفتاح سري",
-            "termURL": "https://www.arabeyes.org/techdict:Private_key"
+            "termURL": "https://www.arabeyes.org/techdict:Private_key",
+            "description": "المفتاح غير المنشور في نظم التعمية التي تستخدم مفتاحين (التعمية غير المتماثلة)."
         },
         {
             "english": "Private Messages",
@@ -14874,7 +14949,8 @@
         {
             "english": "Programming language",
             "arabic": "لغة برمجة",
-            "termURL": "https://www.arabeyes.org/techdict:Programming_language"
+            "termURL": "https://www.arabeyes.org/techdict:Programming_language",
+            "description": "لغة البرمجة هي لغة مصطنعة مصممة للتعبير عن الحسابات المختلفة التي يمكن أن تؤديها آلة ما، خاصة الحاسوب. ينقسم تعريف لغة ما إلى تراكيب (كيف يمكن أن تتشكل رموز اللغة المختلفة مع بعضها) و معان (معنى جُمل اللغة)."
         },
         {
             "english": "Programs",
@@ -14899,7 +14975,8 @@
         {
             "english": "Prohibit",
             "arabic": "حظر",
-            "termURL": "https://www.arabeyes.org/techdict:Prohibit"
+            "termURL": "https://www.arabeyes.org/techdict:Prohibit",
+            "description": "prohibiition"
         },
         {
             "english": "Project",
@@ -15039,7 +15116,8 @@
         {
             "english": "Proxy",
             "arabic": "وسيط",
-            "termURL": "https://www.arabeyes.org/techdict:Proxy"
+            "termURL": "https://www.arabeyes.org/techdict:Proxy",
+            "description": "في الشبكات؛ عملية تستقبل الرسائل من بعض الخدمات وتمررهاللخادمالحقيقي. قد يعمل الوسيط على عتاد مخصص له أو مجرد برمجية."
         },
         {
             "english": "Proxy gateway",
@@ -15089,7 +15167,8 @@
         {
             "english": "Public key",
             "arabic": "مفتاح علني",
-            "termURL": "https://www.arabeyes.org/techdict:Public_key"
+            "termURL": "https://www.arabeyes.org/techdict:Public_key",
+            "description": "المفتاح المنشور في نظم التعمية التي تستخدم مفتاحين (التعمية غير المتماثلة)."
         },
         {
             "english": "Public-key encryption",
@@ -15239,7 +15318,8 @@
         {
             "english": "Quorum",
             "arabic": "سهم /ج أسهم",
-            "termURL": "https://www.arabeyes.org/techdict:Quorum"
+            "termURL": "https://www.arabeyes.org/techdict:Quorum",
+            "description": "نِصاب قانوني"
         },
         {
             "english": "Quota",
@@ -15269,7 +15349,8 @@
         {
             "english": "Qword",
             "arabic": "مركب من أربعة عناصر :: مركب رباعي :: رباعي",
-            "termURL": "https://www.arabeyes.org/techdict:Qword"
+            "termURL": "https://www.arabeyes.org/techdict:Qword",
+            "description": "الثنائي هو وحدة لقياس ذاكرة الحاسوب ويتكون من أربعة عناصر أو ثمان جزيئات أو 64 ذرة , ويحتمل 18,446,744,073,709,551,616 (ثمانية عشر مليار مليار) قيمة مختلفة"
         },
         {
             "english": "Race condition",
@@ -15929,7 +16010,8 @@
         {
             "english": "Reset",
             "arabic": "تصفير",
-            "termURL": "https://www.arabeyes.org/techdict:Reset"
+            "termURL": "https://www.arabeyes.org/techdict:Reset",
+            "description": "التصفير في الحوسبة أو نظم نقل البيانات، هو مسح أي أخطاء أو أحداث معلقة وإعادة النظام إلى حالته النمطية أو المبدئية بطريقة محكومة."
         },
         {
             "english": "Reset button",
@@ -15964,7 +16046,8 @@
         {
             "english": "Resolution",
             "arabic": "ميز",
-            "termURL": "https://www.arabeyes.org/techdict:Resolution"
+            "termURL": "https://www.arabeyes.org/techdict:Resolution",
+            "description": "عدد العناصر الأولية المكونة للصورة في وحدة الطول في كل بعد من أبعاد الوسيط؛ مثلا 1024×768 عنصورة في البوصة للشاشات، أو 300 نقطة في البوصة للطابعات."
         },
         {
             "english": "Resolutions",
@@ -16289,7 +16372,8 @@
         {
             "english": "Rough translation",
             "arabic": "ترجمة تقريبية",
-            "termURL": "https://www.arabeyes.org/techdict:Rough_translation"
+            "termURL": "https://www.arabeyes.org/techdict:Rough_translation",
+            "description": "هي ترجمة آلية يقوم بها برنامج حاسوبي معتمدا على ذاكرة من الترجمات السابقة"
         },
         {
             "english": "Round",
@@ -16474,7 +16558,8 @@
         {
             "english": "Sans serif",
             "arabic": "غير مُذيّل",
-            "termURL": "https://www.arabeyes.org/techdict:Sans_serif"
+            "termURL": "https://www.arabeyes.org/techdict:Sans_serif",
+            "description": "خط طباعي حروفه مستقيمة الحواف، ولا تحتوي علىserifs."
         },
         {
             "english": "Saturation",
@@ -16534,7 +16619,8 @@
         {
             "english": "Scanner",
             "arabic": "ماسحة",
-            "termURL": "https://www.arabeyes.org/techdict:Scanner"
+            "termURL": "https://www.arabeyes.org/techdict:Scanner",
+            "description": "جهاز إدخال يحول الصور الضوئية إلى صور رقمية."
         },
         {
             "english": "Scan path",
@@ -16939,7 +17025,8 @@
         {
             "english": "Serif",
             "arabic": "(خط) مُذيّل",
-            "termURL": "https://www.arabeyes.org/techdict:Serif"
+            "termURL": "https://www.arabeyes.org/techdict:Serif",
+            "description": "شرطة عرضية قصيرة يضاف لأطراف الحروف الطباعية الرومانية التقليدية. ويوصف به الخط المحتوي عليه."
         },
         {
             "english": "Serve",
@@ -16949,7 +17036,8 @@
         {
             "english": "Server",
             "arabic": "خادوم",
-            "termURL": "https://www.arabeyes.org/techdict:Server"
+            "termURL": "https://www.arabeyes.org/techdict:Server",
+            "description": "برمجية توفر خدمات لبرمجيات أخرى (عملاء) يتم الاتصال بينهما عادة عبر تمرير الرسائل. أوحاسوبيوفر خدمات لحواسيب أخرى متصلة به عبر شبكة."
         },
         {
             "english": "Server room",
@@ -17004,7 +17092,8 @@
         {
             "english": "Settlement",
             "arabic": "تسوية",
-            "termURL": "https://www.arabeyes.org/techdict:Settlement"
+            "termURL": "https://www.arabeyes.org/techdict:Settlement",
+            "description": "التسوية"
         },
         {
             "english": "Settling time",
@@ -17814,7 +17903,8 @@
         {
             "english": "Stress",
             "arabic": "ضغط ميكانيكي",
-            "termURL": "https://www.arabeyes.org/techdict:Stress"
+            "termURL": "https://www.arabeyes.org/techdict:Stress",
+            "description": "محصول القوة على المساحة"
         },
         {
             "english": "Stretched",
@@ -17969,7 +18059,8 @@
         {
             "english": "Superuser",
             "arabic": "مستخدم جذر",
-            "termURL": "https://www.arabeyes.org/techdict:Superuser"
+            "termURL": "https://www.arabeyes.org/techdict:Superuser",
+            "description": "اسم أخر للمستخدم الجذر ، مستخدم للكمبيوتر يملك كامل الصلاحيات."
         },
         {
             "english": "Supervisor mode",
@@ -18329,12 +18420,14 @@
         {
             "english": "Thesaurus",
             "arabic": "مكنز",
-            "termURL": "https://www.arabeyes.org/techdict:Thesaurus"
+            "termURL": "https://www.arabeyes.org/techdict:Thesaurus",
+            "description": "مطبوعة -عادة كتاب- تجمع مترادفات (وأحيانا متضادات) الكلمات في لغة ما."
         },
         {
             "english": "Third party",
             "arabic": "طرف ثالث",
-            "termURL": "https://www.arabeyes.org/techdict:Third_party"
+            "termURL": "https://www.arabeyes.org/techdict:Third_party",
+            "description": "مُطوِّر أو مكوّن برمجي غير مرتبط مباشرة بالمنتج البرمجي الأساسي."
         },
         {
             "english": "Thread",
@@ -18389,7 +18482,8 @@
         {
             "english": "Timestamp",
             "arabic": "ختم زمني",
-            "termURL": "https://www.arabeyes.org/techdict:Timestamp"
+            "termURL": "https://www.arabeyes.org/techdict:Timestamp",
+            "description": "وقت وتاريخ حدوث حدث ما، ممثلا عادة بصورة مقروءة للبشر، خاصة في السجل لتتبع الأحداث."
         },
         {
             "english": "Time Zone",
@@ -18419,7 +18513,8 @@
         {
             "english": "Toggle",
             "arabic": "تبديل",
-            "termURL": "https://www.arabeyes.org/techdict:Toggle"
+            "termURL": "https://www.arabeyes.org/techdict:Toggle",
+            "description": "يُناوِبُ بين وضعيتَيْن. فمثلاً، مفتاحُ Num Lock في لوحة المفاتيح  يبدل حالة مفاتيح الأرقام keypad بين وظيفة الأرقام وحركة المنْزلِق"
         },
         {
             "english": "Tolerance",
@@ -18494,7 +18589,8 @@
         {
             "english": "Tweak",
             "arabic": "تطويع",
-            "termURL": "https://www.arabeyes.org/techdict:Tweak"
+            "termURL": "https://www.arabeyes.org/techdict:Tweak",
+            "description": "التطويع هو ضبْط الشيء بدقة ليغدو أكثر فاعليَّةً وتكيُّفاً مع مُستخدمه؛ سواءً كان برنامجاً أو عتاداً."
         },
         {
             "english": "Type",
@@ -18514,7 +18610,8 @@
         {
             "english": "Umount",
             "arabic": "فصْل",
-            "termURL": "https://www.arabeyes.org/techdict:Umount"
+            "termURL": "https://www.arabeyes.org/techdict:Umount",
+            "description": "فصل نظام ملفات موصول، عن نظام الملفات الجذر."
         },
         {
             "english": "Unable",
@@ -18639,7 +18736,8 @@
         {
             "english": "Upgrade",
             "arabic": "ترقية",
-            "termURL": "https://www.arabeyes.org/techdict:Upgrade"
+            "termURL": "https://www.arabeyes.org/techdict:Upgrade",
+            "description": ":إصدارة أحدث من عتاد أو برمجيات.عملية تطوير أو تثبيت إصدارة جديدة."
         },
         {
             "english": "Upload",
@@ -18724,7 +18822,8 @@
         {
             "english": "Vacuum tube",
             "arabic": "صمام مفرغ",
-            "termURL": "https://www.arabeyes.org/techdict:Vacuum_tube"
+            "termURL": "https://www.arabeyes.org/techdict:Vacuum_tube",
+            "description": "هو مكون إلكتروني يتركب من فراغ خالِ من الغازات (ليسمح بحركة الإلكترونات بحرية) و إلكترودين أو أكثر."
         },
         {
             "english": "Valid",
@@ -18800,7 +18899,8 @@
         {
             "english": "Vector graphics",
             "arabic": "رسوميات متجهية",
-            "termURL": "https://www.arabeyes.org/techdict:Vector_graphics"
+            "termURL": "https://www.arabeyes.org/techdict:Vector_graphics",
+            "description": "استخدام البدائيات الجيومترية، مثل النقاط، والخطوط، والمنحنيات، والمضلعات -مبنية كلها على المعادلات الرياضية- لتمثيل الصور في رسوميات الحاسوب."
         },
         {
             "english": "Vendor",
@@ -18835,7 +18935,8 @@
         {
             "english": "Versioning",
             "arabic": "أصدرة",
-            "termURL": "https://www.arabeyes.org/techdict:Versioning"
+            "termURL": "https://www.arabeyes.org/techdict:Versioning",
+            "description": "عملية تخصيص آسماء آو أرقام مميزة لحالات مميزة من برمجيات الحاسوب. التصريف: أصدر يؤصدر أصدرة."
         },
         {
             "english": "Versions",
@@ -19020,7 +19121,8 @@
         {
             "english": "V-Sync",
             "arabic": "مزامنة رأسية",
-            "termURL": "https://www.arabeyes.org/techdict:V-Sync"
+            "termURL": "https://www.arabeyes.org/techdict:V-Sync",
+            "description": "خاصية تمنع وجود أخطاء في الرسم مقابل إضعاف الأداء"
         },
         {
             "english": "Waiting",
@@ -19045,7 +19147,8 @@
         {
             "english": "Wap",
             "arabic": "واب",
-            "termURL": "https://www.arabeyes.org/techdict:Wap"
+            "termURL": "https://www.arabeyes.org/techdict:Wap",
+            "description": "Wireless Application Protocol"
         },
         {
             "english": "Warning",
@@ -19201,7 +19304,8 @@
         {
             "english": "Wiki",
             "arabic": "ويكي",
-            "termURL": "https://www.arabeyes.org/techdict:Wiki"
+            "termURL": "https://www.arabeyes.org/techdict:Wiki",
+            "description": "هو برنامج وب يسمح لجميع المستخدمين بتحرير محتوياته."
         },
         {
             "english": "Wild card",
@@ -19286,7 +19390,8 @@
         {
             "english": "Word",
             "arabic": "كلمة : عنصر",
-            "termURL": "https://www.arabeyes.org/techdict:Word"
+            "termURL": "https://www.arabeyes.org/techdict:Word",
+            "description": "العنصر هو وحدة لقياس ذاكرة الحاسوب , ويتكون من جزيئان أو 16 ذرة , ويحتمل 65536 قيمة مختلفة"
         },
         {
             "english": "Word processing",
