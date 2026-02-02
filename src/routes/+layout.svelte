@@ -1,8 +1,14 @@
 <script lang="ts">
-  import { browser } from '$app/environment';
-  import { initializeWorker } from '$lib/stores/localizationWorker';
-  import { Search, LayoutDashboard, GitCompare, BookCopy } from 'lucide-svelte';
-  import '$src/app.css';
+  import { browser } from "$app/environment";
+  import { initializeWorker } from "$lib/stores/localizationWorker";
+  import {
+    Search,
+    LayoutDashboard,
+    GitCompare,
+    BookCopy,
+    ChartBar,
+  } from "lucide-svelte";
+  import "$src/app.css";
 
   let { children } = $props();
   let open = $state(true);
@@ -29,29 +35,47 @@
     </button>
 
     <!-- Nav -->
-    <nav class="mt-4 space-y-2 flex flex-col" class:items-start={open} class:items-center={!open}>
-      <a href="/" class="nav-item truncate flex items-center gap-3 px-4 py-2 text-sm opacity-80 hover:opacity-100
-           hover:bg-stone-800 rounded">
-        <Search size={20} />
-        {#if open}<span>بحث</span>{/if}
-      </a>
-
-      <a href="/dashboard" class="nav-item truncate flex items-center gap-3 px-4 py-2 text-sm opacity-80 hover:opacity-100
-           hover:bg-stone-800 rounded">
+    <nav
+      class="mt-4 space-y-2 flex flex-col"
+      class:items-start={open}
+      class:items-center={!open}
+    >
+      <a
+        href="/dashboard"
+        class="nav-item truncate flex items-center gap-3 px-4 py-2 text-sm hover-accent rounded"
+      >
         <LayoutDashboard size={20} />
         {#if open}<span>لوحة معلومات</span>{/if}
       </a>
+      <a
+        href="/"
+        class="nav-item truncate flex items-center gap-3 px-4 py-2 text-sm hover-accent rounded"
+      >
+        <Search size={20} />
+        {#if open}<span>بحث</span>{/if}
+      </a>
+      <a
+        href="/glossaries"
+        class="nav-item truncate flex items-center gap-3 px-4 py-2 text-sm hover-accent rounded"
+      >
+        <BookCopy size={20} />
+        {#if open}<span>المعاجم</span>{/if}
+      </a>
 
-      <a href="/compare" class="nav-item truncate flex items-center gap-3 px-4 py-2 text-sm opacity-80 hover:opacity-100
-           hover:bg-stone-800 rounded">
+      <a
+        href="/compare"
+        class="nav-item truncate flex items-center gap-3 px-4 py-2 text-sm hover-accent rounded"
+      >
         <GitCompare size={20} />
         {#if open}<span>مقارنة كلمات</span>{/if}
       </a>
 
-       <a href="/glossaries" class="nav-item truncate flex items-center gap-3 px-4 py-2 text-sm opacity-80 hover:opacity-100
-           hover:bg-stone-800 rounded">
-        <BookCopy size={20} />
-        {#if open}<span>المعاجم</span>{/if}
+      <a
+        href="/research"
+        class="nav-item truncate flex items-center gap-3 px-4 py-2 text-sm hover-accent rounded"
+      >
+        <ChartBar size={20} />
+        {#if open}<span>بحث متقدم</span>{/if}
       </a>
     </nav>
   </aside>
@@ -68,9 +92,9 @@
            text-sm opacity-80 hover:opacity-100
            hover:bg-slate-800 rounded;
   } */
-    .slider{
-        border-radius: 20px 0 0 20px;
-        border-left: 1px solid var(--border-color);
-        box-shadow: -2px 0 8px rgba(0, 0, 0, 0.2);
-    }
+  .slider {
+    border-radius: 20px 0 0 20px;
+    border-left: 1px solid var(--border-color);
+    box-shadow: -2px 0 8px rgba(0, 0, 0, 0.2);
+  }
 </style>

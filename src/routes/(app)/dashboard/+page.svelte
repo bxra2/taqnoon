@@ -87,7 +87,7 @@
     <!-- Stats Grid -->
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
         {#each stats as stat}
-            <div class="p-6 rounded-2xl border border-gray-100 dark:border-stone-800 accent shadow-sm hover:shadow-md transition-all duration-300">
+            <div class="p-6 rounded-2xl border accent shadow-sm hover:shadow-md">
                 <div class="flex items-start justify-between">
                     <div class="flex flex-col gap-3">
                         <span class="text-gray-500 dark:text-gray-400 text-sm font-medium">{stat.label}</span>
