@@ -1,3 +1,6 @@
+export const prerender = true;
+export const trailingSlash = 'always';
+
 export async function load() {
     try {
         const modules = import.meta.glob('/src/lib/data/**/*.json', { eager: true });
@@ -45,7 +48,7 @@ export async function load() {
 
                 const publisher = publisherMap.get(pubKey);
                 const glossaryKey = glossaryEn || glossaryAr;
-                
+
                 if (glossaryKey && !publisher.glossaries.has(glossaryKey)) {
                     publisher.glossaries.set(glossaryKey, {
                         glossaryEn,
