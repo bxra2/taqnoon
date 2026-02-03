@@ -1,5 +1,5 @@
 <script lang="ts">
-  import { onMount, tick } from "svelte"
+  import { onMount, untrack } from "svelte"
   import {
     getLocalizationWorker,
     workerReady,
@@ -7,18 +7,24 @@
   import Loading from "$lib/components/Loading.svelte"
   import { removeDiacritics } from "$src/lib/utils/removeDiacritics.js"
   import { isRTL } from "$src/lib/utils/changeDirection.js"
+  import { goto } from "$app/navigation"
+  import { page } from "$app/state"
 
   let { data } = $props()
 
   // Worker State
   let localizationWorker: Worker | null = null
   let messageHandler: ((e: MessageEvent) => void) | undefined
+  let workerInterval: any = null
 
   // UI State
-  let query = $state("")
+  // Initialize query from URL if present
+  let query = $state(page.url.searchParams.get("q") || "")
+
   let isLoadingStats = $state(false)
   let isWorkerSearching = $state(false)
   let error = $state("")
+  let lastSearchedTerm = $state("")
 
   // Data State
   let finalStats = $state<any>(null)
@@ -33,6 +39,28 @@
   let currentPage = $state(1)
   let limit = $state(10)
   let searchAlign = $derived(query ? isRTL(query) : true)
+
+  // React to URL changes
+  $effect(() => {
+    const term = page.url.searchParams.get("q") || ""
+
+    untrack(() => {
+      if (term !== lastSearchedTerm) {
+        lastSearchedTerm = term
+        query = term
+
+        if (term) {
+          performSearch(term)
+        } else {
+          // Reset if no term
+          finalStats = null
+          mergedResults = []
+          isLoadingStats = false
+          isWorkerSearching = false
+        }
+      }
+    })
+  })
 
   // --- Utils ---
   function normalize(str: string) {
@@ -166,11 +194,27 @@
 
   // --- Search Actions ---
   function handleKeydown(event: KeyboardEvent) {
-    if (event.key === "Enter") search()
+    if (event.key === "Enter") handleSearchNavigation()
   }
 
-  async function search() {
+  async function handleSearchNavigation() {
     if (!query.trim()) return
+    const currentParam = page.url.searchParams.get("q")
+    // If already on this search, just return (or force refresh if needed, but usually not)
+    if (currentParam === query.trim()) return
+
+    goto(`/research?q=${encodeURIComponent(query.trim())}`)
+  }
+
+  async function performSearch(term?: string) {
+    const q = term || query
+    if (!q.trim()) return
+
+    // Clear any pending worker wait
+    if (workerInterval) {
+      clearInterval(workerInterval)
+      workerInterval = null
+    }
 
     isLoadingStats = true
     isWorkerSearching = true
@@ -183,16 +227,16 @@
 
     // 1. Local Search & Stats
     const allTerms = data?.termData || []
-    const localStats = calculateStats(query, allTerms)
+    const localStats = calculateStats(q, allTerms)
 
     // Simple fuzzy search for local results list
-    const lower = query.toLowerCase()
+    const lower = q.toLowerCase()
     localResults = allTerms
       .filter(
         (t) =>
           t.english?.toLowerCase().includes(lower) ||
           (t.arabic &&
-            removeDiacritics(t.arabic).includes(removeDiacritics(query))),
+            removeDiacritics(t.arabic).includes(removeDiacritics(q))),
       )
       .map((item, idx) => ({ ...item, id: item.id || `local-${idx}` }))
 
@@ -205,21 +249,24 @@
       // NOTE: We only need search results now, we calculate stats on client
       localizationWorker.postMessage({
         type: "search",
-        query: query,
+        query: q,
         exact: false, // We fetch broad results to calculate stats from EXACT matches in client
       })
     } else {
-      waitForWorker()
+      waitForWorker(q)
     }
   }
 
-  function waitForWorker() {
-    const interval = setInterval(() => {
+  function waitForWorker(term: string) {
+    if (workerInterval) clearInterval(workerInterval)
+
+    workerInterval = setInterval(() => {
       if (localizationWorker && $workerReady) {
-        clearInterval(interval)
+        clearInterval(workerInterval)
+        workerInterval = null
         localizationWorker.postMessage({
           type: "search",
-          query: query,
+          query: term,
           exact: false,
         })
       }
@@ -305,12 +352,12 @@
       type="text"
       bind:value={query}
       onkeydown={handleKeydown}
-      placeholder="ابحث..."
+      placeholder="قارن ترجمات مصطلح واحد..."
       class="flex-1 p-3 border rounded"
       dir={searchAlign ? "rtl" : "ltr"}
     />
     <button
-      onclick={search}
+      onclick={handleSearchNavigation}
       class="search-button px-8 py-3.5 mb-[1px] bg-primary text-white rounded-xl hover:bg-primary/90 transition-colors flex items-center gap-2 font-bold shadow-lg shadow-primary/20"
       disabled={!query}
     >
@@ -319,7 +366,7 @@
   </div>
 
   <!-- Stats -->
-  {#if finalStats}
+  {#if finalStats && finalStats.translations.length > 0}
     <div class="space-y-6 animate-in fade-in slide-in-from-bottom-2">
       <h2 class="text-2xl font-bold">الاحصائيات المجمعة</h2>
       <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -402,7 +449,7 @@
     </div>
   {:else if isLoadingStats}
     <Loading message="جاري تحليل البيانات..." />
-  {:else if query}
+  {:else if query && finalStats.translations.length === 0}
     <p class="text-center text-gray-500 py-12">لا توجد بيانات لهذا المصطلح.</p>
   {/if}
 </div>
