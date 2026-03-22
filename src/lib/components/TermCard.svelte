@@ -7,7 +7,7 @@
         french: string
         german: string
         description: string
-        termURL: string
+        tURL: string
         publisherAr: string
         publisherEn: string
         publisherUrl: string
@@ -21,15 +21,15 @@
 <article class="term-card">
     <header>
         <h2 class="en">
-            {#if term.termURL}
-                <a target="_blank" href={term.termURL}>{term.english}</a>
+            {#if term.tURL}
+                <a target="_blank" href={term.tURL}>{term.english}</a>
             {:else}
                 {term.english}
             {/if}
         </h2>
         <h3 class="ar">
-            {#if term.termURL}
-                <a target="_blank" href={term.termURL}>{term.arabic}</a>
+            {#if term.tURL}
+                <a target="_blank" href={term.tURL}>{term.arabic}</a>
             {:else}
                 {term.arabic}
             {/if}

@@ -55,7 +55,7 @@ export async function fetchAndParseAllPoFiles({ concurrency = 4 } = {}) {
             glossaryUrl: src.url,
             publisherAr: src.publisherAr,
             publisherEn: src.publisherEn,
-            termURL: src.url
+            tURL: src.url
           });
         }
       } catch (err) {
