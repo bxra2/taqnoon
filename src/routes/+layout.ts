@@ -1,26 +1,24 @@
+// src/routes/(app)/loadData.js
 export const prerender = false;
 export const trailingSlash = 'always';
 
 export async function load() {
     try {
-        const modules = import.meta.glob('/src/lib/data/**/*.json', { eager: true });
+        // 1️⃣ Fetch the index file listing all publisher JSON files
+        const indexRes = await fetch('/data/publishers/index.json');
+        const files = await indexRes.json(); // ["scs/scs-1.json", "scs/scs-2.json", ...]
+
         const allData = [];
         const publisherMap = new Map();
 
-        for (const path in modules) {
-            const json = modules[path].default;
+        // 2️⃣ Fetch each JSON file dynamically
+        for (const file of files) {
+            const res = await fetch(`/data/publishers/${file}`);
+            const json = await res.json();
 
             if (!json.fileData || !Array.isArray(json.entries)) continue;
 
-            const fileMeta = json.fileData;
-            const {
-                glossaryEn,
-                glossaryAr,
-                glossaryUrl,
-                publisherEn,
-                publisherAr,
-                publisherUrl,
-            } = fileMeta;
+            const { glossaryEn, glossaryAr, glossaryUrl, publisherEn, publisherAr, publisherUrl } = json.fileData;
 
             for (const entry of json.entries) {
                 const fullEntry = {
@@ -50,15 +48,12 @@ export async function load() {
                 const glossaryKey = glossaryEn || glossaryAr;
 
                 if (glossaryKey && !publisher.glossaries.has(glossaryKey)) {
-                    publisher.glossaries.set(glossaryKey, {
-                        glossaryEn,
-                        glossaryAr,
-                        glossaryUrl,
-                    });
+                    publisher.glossaries.set(glossaryKey, { glossaryEn, glossaryAr, glossaryUrl });
                 }
             }
         }
 
+        // 3️⃣ Convert maps to arrays for easier usage in Svelte components
         const termData = allData;
         const publishersData = Array.from(publisherMap.values()).map((pub) => ({
             ...pub,
@@ -68,10 +63,6 @@ export async function load() {
         return { termData, publishersData };
     } catch (error) {
         console.error('Error loading data:', error);
-        // Return empty data instead of undefined to prevent errors in components
-        return {
-            termData: [],
-            publishersData: []
-        };
+        return { termData: [], publishersData: [] };
     }
 }
