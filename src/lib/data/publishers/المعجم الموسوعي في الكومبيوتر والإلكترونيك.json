@@ -1,0 +1,5565 @@
+{
+    "fileData": {
+        "glossaryEn": "Informatics Dictionary",
+        "glossaryAr": "المعجم الموسوعي في الكومبيوتر والإلكترونيك",
+        "glossaryUrl": "https://archive.org/details/LUG1988FRENAR",
+        "publisherAr": "-",
+        "publisherEn": "-",
+        "publisherUrl": "-"
+    },
+    "entries": [
+        { "english": "Abacus", "french": "Abaque", "arabic": "معداد" },
+        {
+            "english": "Abacus",
+            "french": "Boulier",
+            "arabic": "معداد - كرويات"
+        },
+        {
+            "english": "Absolute address",
+            "french": "Adresse absolue",
+            "arabic": "عنوان مطلق"
+        },
+        {
+            "english": "Absolute program",
+            "french": "Programme absolu",
+            "arabic": "برنامج مطلق"
+        },
+        {
+            "english": "Abstract symbol",
+            "french": "Symbole abstrait",
+            "arabic": "رمز تجريدي"
+        },
+        { "english": "Access", "french": "Accès", "arabic": "بلوغ - نيل" },
+        {
+            "english": "Access method",
+            "french": "Méthode d'accès",
+            "arabic": "طريقة بلوغ"
+        },
+        {
+            "english": "Access mode",
+            "french": "Mode d'accès",
+            "arabic": "طريقة بلوغ"
+        },
+        {
+            "english": "Access time",
+            "french": "Temps d'accès",
+            "arabic": "مدة البلوغ"
+        },
+        {
+            "english": "Account card",
+            "french": "Carte-compte",
+            "arabic": "بطاقة حساب"
+        },
+        {
+            "english": "Accounting machine",
+            "french": "Machine comptable",
+            "arabic": "آلة محاسبة"
+        },
+        {
+            "english": "Accumulator",
+            "french": "Accumulateur",
+            "arabic": "مركم أو مرصف لجميع وشحن معلومات"
+        },
+        {
+            "english": "Acknowledge",
+            "french": "Accusé de réception",
+            "arabic": "إشارة تعريف واستقبال"
+        },
+        {
+            "english": "Acoustic delay line",
+            "french": "Ligne à retard acoustique",
+            "arabic": "خط تأخير صوتي"
+        },
+        {
+            "english": "Activity",
+            "french": "Unité de traitement",
+            "arabic": "وحدة المعالجة"
+        },
+        {
+            "english": "Actual address",
+            "french": "Adresse réelle",
+            "arabic": "عنوان حقيقي"
+        },
+        {
+            "english": "Actual instruction",
+            "french": "Instruction effective",
+            "arabic": "تعليمة حقيقية"
+        },
+        { "english": "Acyclic", "french": "Acyclique", "arabic": "لا دوري" },
+        {
+            "english": "Adapter",
+            "french": "Adaptateur",
+            "arabic": "مهايئ، مكيف"
+        },
+        { "english": "Addend", "french": "Cumulateur", "arabic": "مضاف - حد" },
+        {
+            "english": "Adder",
+            "french": "Additionneur",
+            "arabic": "جامع للأعداد ، جمعة للأعداد"
+        },
+        {
+            "english": "Adder subtracter",
+            "french": "Additionneur-soustracteur",
+            "arabic": "جامع - طارح ، جمعة - طارحة ."
+        },
+        {
+            "english": "Adding machine",
+            "french": "Machine à additionner",
+            "arabic": "آلة للجمع"
+        },
+        { "english": "Address", "french": "Adresse", "arabic": "عنوان" },
+        { "english": "Address (to)", "french": "Adresser", "arabic": "عنونة" },
+        {
+            "english": "Address computation",
+            "french": "Calcul d'adresse",
+            "arabic": "حسبان العنوان"
+        },
+        {
+            "english": "Address counter",
+            "french": "Compteur d'adresses",
+            "arabic": "عداد العناوين"
+        },
+        {
+            "english": "Addressed memory",
+            "french": "Mémoire adressable",
+            "arabic": "ذاكرة معنونة"
+        },
+        { "english": "Addressing", "french": "Adressage", "arabic": "عنونة" },
+        {
+            "english": "Address part",
+            "french": "Partie adresse",
+            "arabic": "القسم عنوان"
+        },
+        {
+            "english": "Address register",
+            "french": "Registre d'adresse",
+            "arabic": "مرصف العنوان"
+        },
+        { "english": "Alarm", "french": "Alarme", "arabic": "إنذار" },
+        { "english": "Algorithm", "french": "Algorithme", "arabic": "خوارزم" },
+        {
+            "english": "Algorithmic",
+            "french": "Algorithmique",
+            "arabic": "خوارزمية"
+        },
+        {
+            "english": "Algorithmic language",
+            "french": "Langage algorithmique",
+            "arabic": "لغة خوارزمية"
+        },
+        {
+            "english": "Alignment",
+            "french": "Alignement",
+            "arabic": "تراصف - محاذاة"
+        },
+        {
+            "english": "Allocation",
+            "french": "Allocation",
+            "arabic": "تخصيص ، تخصص"
+        },
+        {
+            "english": "Alphabet",
+            "french": "Alphabet",
+            "arabic": "أبجدية ، الفباء"
+        },
+        {
+            "english": "Alphabetic",
+            "french": "Alphabétique",
+            "arabic": "أبجدي"
+        },
+        {
+            "english": "Alphabetical sorting",
+            "french": "Classement alphabétique",
+            "arabic": "ترتيب حسب الأبجدي"
+        },
+        {
+            "english": "Alphabetic code",
+            "french": "Code alphabétique",
+            "arabic": "كود أبجدي"
+        },
+        {
+            "english": "Alphanumeric",
+            "french": "Alphanumérique",
+            "arabic": "أبجعددي"
+        },
+        {
+            "english": "Alphanumerical data",
+            "french": "Donnée alphanumérique",
+            "arabic": "معطيات أبجعددي"
+        },
+        {
+            "english": "Alphanumeric sort",
+            "french": "Tri alphanumérique",
+            "arabic": "فرز أبجعددي"
+        },
+        {
+            "english": "Amplifier",
+            "french": "Amplificateur",
+            "arabic": "مضخم - مكبر"
+        },
+        {
+            "english": "Amplitude modulation",
+            "french": "Modulation d'amplitude",
+            "arabic": "(AM) تضمين سعوي"
+        },
+        {
+            "english": "Analog",
+            "french": "Analogique",
+            "arabic": "نظيري ، متواصل"
+        },
+        {
+            "english": "Analog computer",
+            "french": "Calculateur analogique",
+            "arabic": "حاسب نظيري"
+        },
+        {
+            "english": "Analog data",
+            "french": "Donnée analogique",
+            "arabic": "معطيات نظيرية"
+        },
+        {
+            "english": "Analog digital converter",
+            "french": "Convertisseur analogique numérique",
+            "arabic": "مغبر نظيري الى رقمي"
+        },
+        {
+            "english": "Analog input",
+            "french": "Entrée analogique",
+            "arabic": "مدخل نظيري"
+        },
+        {
+            "english": "Analog loop",
+            "french": "Boucle analogique",
+            "arabic": "حلقة نظيرية"
+        },
+        {
+            "english": "Analog network",
+            "french": "Réseau analogique",
+            "arabic": "شبكة نظيرية"
+        },
+        { "english": "Analyser", "french": "Analyseur", "arabic": "محلّل" },
+        { "english": "Analysis", "french": "Analyse", "arabic": "تحليل" },
+        { "english": "Analyst", "french": "Analyste", "arabic": "محلّل" },
+        {
+            "english": "Ancillary unit",
+            "french": "Unité périphérique",
+            "arabic": "وحدة محيطية"
+        },
+        {
+            "english": "And element",
+            "french": "Circuit ET",
+            "arabic": "دارة <و<"
+        },
+        {
+            "english": "And gate",
+            "french": "Conditionneur",
+            "arabic": "أداة شرط"
+        },
+        {
+            "english": "And-gate",
+            "french": "Intersecteur",
+            "arabic": "AND دارة"
+        },
+        { "english": "Anomaly", "french": "Anomalie", "arabic": "شذوذ" },
+        { "english": "An 7 code", "french": "Code An 7", "arabic": "كود 7 An" },
+        {
+            "english": "Antiblocking",
+            "french": "Antibourrage",
+            "arabic": "مفاد للتوقف"
+        },
+        {
+            "english": "Antisymmetric graph",
+            "french": "Graphe antisymétrique",
+            "arabic": "رسم بياني غير متوازن"
+        },
+        {
+            "english": "Application program",
+            "french": "Programme d'application",
+            "arabic": "برنامج تطبيقي"
+        },
+        { "english": "Arc", "french": "Arc", "arabic": "قوس" },
+        { "english": "Area", "french": "Zone", "arabic": "حيز ، مساحة، مكان" },
+        {
+            "english": "Argument",
+            "french": "Argument",
+            "arabic": "متغير مستقل"
+        },
+        {
+            "english": "Arithmetical circuit",
+            "french": "Circuit arithmétique",
+            "arabic": "دارة جبرية"
+        },
+        {
+            "english": "Arithmetic check",
+            "french": "Contrôle arithmétique",
+            "arabic": "تدقيق حسابي"
+        },
+        {
+            "english": "Arithmetic operation",
+            "french": "Opération arithmétique",
+            "arabic": "عملية جبرية"
+        },
+        {
+            "english": "Arithmetic register",
+            "french": "Registre arithmétique",
+            "arabic": "مرصف جبري"
+        },
+        {
+            "english": "Arithmetic register",
+            "french": "Registre opérateur",
+            "arabic": "مرصف مؤثر"
+        },
+        {
+            "english": "Arithmetic shift",
+            "french": "Décalage arithmétique",
+            "arabic": "إزاحة حسابية"
+        },
+        {
+            "english": "Arithmetic unit",
+            "french": "Bloc de calcul",
+            "arabic": "فدرة الحساب - بلوك الحساب"
+        },
+        {
+            "english": "Arithmetic unit",
+            "french": "Unité arithmétique",
+            "arabic": "وحدة جبرية"
+        },
+        { "english": "Array", "french": "Tableau", "arabic": "جدول" },
+        {
+            "english": "Artificial language",
+            "french": "Langage artificiel",
+            "arabic": "لغة اصطناعية"
+        },
+        { "english": "Assemble (to)", "french": "Assembler", "arabic": "جمع" },
+        { "english": "Assembler", "french": "Assembleur", "arabic": "مؤول" },
+        {
+            "english": "Assembly",
+            "french": "Assemblage",
+            "arabic": "جميع ، تأويل"
+        },
+        {
+            "english": "Assembly language",
+            "french": "Langage d'assemblage",
+            "arabic": "لغة التأويل"
+        },
+        {
+            "english": "Assignement statement",
+            "french": "Instruction d'affectation",
+            "arabic": "تعليمات التخصيص"
+        },
+        {
+            "english": "Associative storage",
+            "french": "Mémoire associative",
+            "arabic": "ذاكرة ترابطية"
+        },
+        {
+            "english": "Asynchronous",
+            "french": "Asynchrone",
+            "arabic": "لا متزامن"
+        },
+        {
+            "english": "Asynchronous computer",
+            "french": "Calculateur asynchrone",
+            "arabic": "حاسب لا تزامني"
+        },
+        {
+            "english": "Asynchronous transmission",
+            "french": "Transmission Asynchrone",
+            "arabic": "إرسال غير متزامن"
+        },
+        {
+            "english": "Asynchronous working",
+            "french": "Fonctionnement asynchrone",
+            "arabic": "اشتغال لا تزامني"
+        },
+        { "english": "Augend", "french": "Cumulande", "arabic": "مضاف إليه" },
+        { "english": "Autocode", "french": "Autocode", "arabic": "كود تلقائي" },
+        { "english": "Automaton", "french": "Automate", "arabic": "أوتوماتون" },
+        {
+            "english": "Autoswitch",
+            "french": "Autocommutateur",
+            "arabic": "متمم أوتوماتيكي"
+        },
+        {
+            "english": "Auxiliary storage",
+            "french": "Mémoire auxiliaire",
+            "arabic": "الذاكرة الثانوية"
+        },
+        {
+            "english": "Backspace",
+            "french": "Retour arrière",
+            "arabic": "عودة الى الوراء"
+        },
+        {
+            "english": "Backward channel",
+            "french": "Voie de retour",
+            "arabic": "مسلك العودة"
+        },
+        {
+            "english": "Backward sort",
+            "french": "Tri descendant",
+            "arabic": "فرز تناقصي"
+        },
+        {
+            "english": "Balance counter",
+            "french": "Totalisateur-soustracteur",
+            "arabic": "جمع - مصرح"
+        },
+        {
+            "english": "Band width",
+            "french": "Largeur de bande",
+            "arabic": "عرض الشريط"
+        },
+        {
+            "english": "Base address",
+            "french": "Adresse de base",
+            "arabic": "عنوان ثابت"
+        },
+        {
+            "english": "Base band transmission",
+            "french": "Transmission en bande de base",
+            "arabic": "ارسال في الشريط الأساسي"
+        },
+        {
+            "english": "Base register",
+            "french": "Registre de base",
+            "arabic": "مرصف قاعدي ، مرصف أساسي"
+        },
+        {
+            "english": "Basic signal",
+            "french": "Sematème",
+            "arabic": "إشارة أساسية"
+        },
+        {
+            "english": "Basic signal",
+            "french": "Signal de base",
+            "arabic": "إشارة أساسية"
+        },
+        {
+            "english": "Basis cycle",
+            "french": "Cycle de base",
+            "arabic": "دورة القاعدة، دورة الميقت"
+        },
+        {
+            "english": "Basis frequency",
+            "french": "Fréquence de base",
+            "arabic": "تردد أساسي"
+        },
+        {
+            "english": "Batch processing",
+            "french": "Traitement par lots",
+            "arabic": "معالجة بالحصص"
+        },
+        { "english": "Baud", "french": "Baud", "arabic": "بود" },
+        { "english": "Bell", "french": "Sonnerie", "arabic": "ناقوش ، جرس" },
+        { "english": "Binary", "french": "Binaire", "arabic": "ثنائي" },
+        {
+            "english": "Binary cell",
+            "french": "Cellule binaire",
+            "arabic": "خلية ثنائية"
+        },
+        {
+            "english": "Binary circuit",
+            "french": "Circuit binaire",
+            "arabic": "دارة ثنائية"
+        },
+        {
+            "english": "Binary code",
+            "french": "Code binaire",
+            "arabic": "كود الثنائي"
+        },
+        {
+            "english": "Binary coded decimal",
+            "french": "Décimal code binaire",
+            "arabic": "(DCB) عشري مكود ثنائي"
+        },
+        {
+            "english": "Binary counter",
+            "french": "Compteur binaire",
+            "arabic": "عداد ثنائي"
+        },
+        {
+            "english": "Binary digit",
+            "french": "Chiffre binaire",
+            "arabic": "رقم ثنائي"
+        },
+        {
+            "english": "Binary notation",
+            "french": "Numération binaire",
+            "arabic": "تعداد ثنائي"
+        },
+        {
+            "english": "Binary position",
+            "french": "Position binaire",
+            "arabic": "موقع ثنائي"
+        },
+        {
+            "english": "Binary shift",
+            "french": "Décalage binaire",
+            "arabic": "إزاحة ثنائية"
+        },
+        {
+            "english": "Binary system",
+            "french": "Systeme binaire",
+            "arabic": "نظام ثنائي"
+        },
+        {
+            "english": "Binary to decimal conversion",
+            "french": "Conversion binaire décimale",
+            "arabic": "تحويل ثنائي الى عشري"
+        },
+        {
+            "english": "Binary tree",
+            "french": "Arbre binaire",
+            "arabic": "شجرة ثنائية"
+        },
+        {
+            "english": "Binary variable",
+            "french": "Bariable binaire",
+            "arabic": "متحولة ثنائية"
+        },
+        {
+            "english": "Bionics",
+            "french": "Bionique",
+            "arabic": "الكترونيات حيوية"
+        },
+        {
+            "english": "Biquinary",
+            "french": "Biquinaire",
+            "arabic": "ثنائي - خماسي"
+        },
+        {
+            "english": "Biquinary code",
+            "french": "Code biqnuinaire",
+            "arabic": "كود ثنائي خماسي"
+        },
+        {
+            "english": "Bistable",
+            "french": "Bistable",
+            "arabic": "ثنائي الاستقرار"
+        },
+        {
+            "english": "Bistable circuit",
+            "french": "Circuit bistable",
+            "arabic": "دارة ثنائية الاستقرار"
+        },
+        { "english": "Bit", "french": "Bit", "arabic": "بتة" },
+        {
+            "english": "Bit error rate",
+            "french": "Taux d'erreurs sur les bits",
+            "arabic": "معدل الخطأ على البنات"
+        },
+        {
+            "english": "Bit per second",
+            "french": "Bit par seconde",
+            "arabic": "بتة بالثانية"
+        },
+        {
+            "english": "Bit rate",
+            "french": "Débit binaire",
+            "arabic": "مقدار ثنائي - سعة ثنائية"
+        },
+        { "english": "Blank", "french": "Blanc", "arabic": "تبيض - فراغ" },
+        {
+            "english": "Block",
+            "french": "Bloc",
+            "arabic": "فدرة - كتلة - بلوك"
+        },
+        {
+            "english": "Block check",
+            "french": "Controle par bloc",
+            "arabic": "تدقيق بالفدرة"
+        },
+        {
+            "english": "Block diagram",
+            "french": "Bloc diagramme",
+            "arabic": "خطط فدري - بلوك تخطيطي"
+        },
+        {
+            "english": "Block error rate",
+            "french": "Taux d'erreurs sur les blocs",
+            "arabic": "نسبة الأخطاء على الفدرات"
+        },
+        {
+            "english": "Block in error",
+            "french": "Bloc erroné",
+            "arabic": "فدرة مغلوطة - بلوك مغلوط"
+        },
+        {
+            "english": "Block length",
+            "french": "Longueur de bloc",
+            "arabic": "طول الفدرة ( بلوك )"
+        },
+        {
+            "english": "Bookkeeping operation",
+            "french": "Opération de service",
+            "arabic": "عملية خدمة"
+        },
+        { "english": "Boolean", "french": "Booléen", "arabic": "بولي (بول)" },
+        {
+            "english": "Boolean algebra",
+            "french": "Algèbre de Boole",
+            "arabic": "جبر بول"
+        },
+        {
+            "english": "Boolean operation",
+            "french": "Opération booléenne",
+            "arabic": "عملية بولية"
+        },
+        {
+            "english": "Bootstrap",
+            "french": "Procédure de chargement initial",
+            "arabic": "برنامج إيساق، نهوض"
+        },
+        {
+            "english": "Bootstrap program",
+            "french": "Programme amorce",
+            "arabic": "برنامج إيساق"
+        },
+        {
+            "english": "Borrow",
+            "french": "Retenue",
+            "arabic": "فائض مرحل ، فائض محسوم"
+        },
+        {
+            "english": "Branch",
+            "french": "Aiguillage",
+            "arabic": "شُعبة ، أو مفتاح"
+        },
+        {
+            "english": "Branch instruction",
+            "french": "Instruction de branchement",
+            "arabic": "تعايمة تفريغ"
+        },
+        {
+            "english": "Branch point",
+            "french": "Bifurcation",
+            "arabic": "نقطة تشعب"
+        },
+        {
+            "english": "Breakpoint",
+            "french": "Point d'arrêt",
+            "arabic": "نقطة التوقف"
+        },
+        {
+            "english": "Broad band channel",
+            "french": "Canal à large bande",
+            "arabic": "قناة عريضة النطاق"
+        },
+        { "english": "Brush", "french": "Balai de lecture", "arabic": "مسفرة" },
+        {
+            "english": "Brush",
+            "french": "Brosse de lecture",
+            "arabic": "مسفرة - فرشاة للقراءة"
+        },
+        {
+            "english": "Buffer",
+            "french": "Mémoire intermédiate",
+            "arabic": "ذاكرة وسيطة"
+        },
+        { "english": "Buffer", "french": "Tampon", "arabic": "دارئ" },
+        {
+            "english": "Buffer area",
+            "french": "Zone Tampon",
+            "arabic": "حيز الدارئ"
+        },
+        {
+            "english": "Buffer store",
+            "french": "Mémoire Tampon",
+            "arabic": "ذاكرة معد"
+        },
+        { "english": "Byte", "french": "Byte", "arabic": "بايتة" },
+        {
+            "english": "Byte",
+            "french": "Multipet",
+            "arabic": "بايتة ، متعددة بتات"
+        },
+        {
+            "english": "Calculating punch",
+            "french": "Calculatrice perforatrice",
+            "arabic": "محساب - مثقاب "
+        },
+        {
+            "english": "Calculator",
+            "french": "Calculatrice",
+            "arabic": "محساب"
+        },
+        { "english": "Call", "french": "Appel", "arabic": "نداه" },
+        {
+            "english": "Calling sequence",
+            "french": "Séquence d'appel",
+            "arabic": "مسلسل المُاداة"
+        },
+        {
+            "english": "Call instruction",
+            "french": "Instruction d'appel",
+            "arabic": "تعليمة طلب أو مناداة"
+        },
+        {
+            "english": "Call number",
+            "french": "Numéro d'appel",
+            "arabic": "رقم الطلب"
+        },
+        {
+            "english": "Cancel",
+            "french": "Annulation",
+            "arabic": "تصفير - إلغاء"
+        },
+        { "english": "Capstan", "french": "Cabestan", "arabic": "رحوية" },
+        { "english": "Card", "french": "Carte", "arabic": "بطاقة - كرت" },
+        {
+            "english": "Card code",
+            "french": "Code carte",
+            "arabic": "كود البطاقة"
+        },
+        {
+            "english": "Card deck",
+            "french": "Jeu de cartes",
+            "arabic": "مجموعة البطاقات"
+        },
+        {
+            "english": "Card deck",
+            "french": "Paquet de cartes",
+            "arabic": "باقة من البطاقات"
+        },
+        {
+            "english": "Card feed",
+            "french": "Alimentation en cartes perforées",
+            "arabic": "ملقم البطاقات المثقوبة"
+        },
+        {
+            "english": "Cardfield",
+            "french": "Zone de perforation",
+            "arabic": "حيز الثثقيب"
+        },
+        {
+            "english": "Card interpreter",
+            "french": "Traductrice",
+            "arabic": "مترمجة"
+        },
+        {
+            "english": "Card program",
+            "french": "Programme par cartes",
+            "arabic": "برنامج بالبطاقات"
+        },
+        {
+            "english": "Card punch",
+            "french": "Perforateur de cartes",
+            "arabic": "تثقيب البطاقات ،مُثُقُب البطاقات"
+        },
+        {
+            "english": "Card reader",
+            "french": "Lecteur de cartes",
+            "arabic": "قارىء البطاقات"
+        },
+        {
+            "english": "Card row",
+            "french": "Ligne d'une carte",
+            "arabic": "سطر من البطاقة"
+        },
+        {
+            "english": "Card stacker",
+            "french": "Case de fusion",
+            "arabic": "قادوس فرز البطاقات"
+        },
+        {
+            "english": "Card stacker",
+            "french": "Case de Réception",
+            "arabic": "قادوس الاستلام"
+        },
+        {
+            "english": "Card-to-tape",
+            "french": "Carte à bande",
+            "arabic": "من بطاقة الى شريط ممغنط"
+        },
+        {
+            "english": "Carriage return",
+            "french": "Retour de chariot",
+            "arabic": "عودة المجر"
+        },
+        { "english": "Carry", "french": "Report", "arabic": "مُرحّل" },
+        {
+            "english": "Cascaded carry",
+            "french": "Report en cascade",
+            "arabic": "ترحيل متوالي ، مرحل تسلسلي"
+        },
+        { "english": "Central", "french": "Central", "arabic": "مركزي" },
+        { "english": "Chad", "french": "Confetti", "arabic": "نتافة" },
+        {
+            "english": "Chadless tape",
+            "french": "Bande perforée",
+            "arabic": "شريط مثقوب"
+        },
+        { "english": "Chain", "french": "Chaîne", "arabic": "سلسال" },
+        { "english": "Chaining", "french": "Chainage", "arabic": "سلسلة" },
+        {
+            "english": "Chain printer",
+            "french": "Imprimante à chaîne",
+            "arabic": "طابعة بسلسلة"
+        },
+        { "english": "Channel", "french": "Canal", "arabic": "قناة" },
+        {
+            "english": "Channel capacity",
+            "french": "Capacité de canal",
+            "arabic": "سعة القناة"
+        },
+        {
+            "english": "Channel capacity",
+            "french": "Débit de canal",
+            "arabic": "سعة القناة"
+        },
+        {
+            "english": "Character",
+            "french": "Caractère",
+            "arabic": "رمز - سمة"
+        },
+        {
+            "english": "Character-at-atime printer",
+            "french": "Imprimante caractère par caractère",
+            "arabic": "طابعة سمة بعد سمة"
+        },
+        {
+            "english": "Character check",
+            "french": "Contrôle par caractère",
+            "arabic": "تدقيق بالسمات"
+        },
+        {
+            "english": "Character code",
+            "french": "Code de caractères",
+            "arabic": "كود السمات"
+        },
+        {
+            "english": "Character density",
+            "french": "Densité de caractères",
+            "arabic": "كثافة التسجيلات"
+        },
+        {
+            "english": "Character error rate",
+            "french": "Taux d'erreurs sur les caractères",
+            "arabic": "معدل الأخطاء على السمات"
+        },
+        {
+            "english": "Characteristic exponent",
+            "french": "Caractéristique",
+            "arabic": "قوة"
+        },
+        {
+            "english": "Character set",
+            "french": "Jeu de caractères",
+            "arabic": "مجموعة السمات"
+        },
+        {
+            "english": "Character string",
+            "french": "Chaîne de caractères",
+            "arabic": "سلسلة من السمات أو الرموز"
+        },
+        {
+            "english": "Check",
+            "french": "Contrôle",
+            "arabic": "فحص ، إختبار ، ضبط"
+        },
+        {
+            "english": "Check bit",
+            "french": "Bit de contrôle",
+            "arabic": "بتة تدقيق ومراقبة"
+        },
+        {
+            "english": "Check digit",
+            "french": "Chiffre de contrôle",
+            "arabic": "رقم تدقيق"
+        },
+        {
+            "english": "Check Key",
+            "french": "Clé de contrôle",
+            "arabic": "مفتاح تدقيق"
+        },
+        {
+            "english": "Check program",
+            "french": "Programme de Contrôle",
+            "arabic": "برنامج تدقيق"
+        },
+        {
+            "english": "Check sum",
+            "french": "Total de contrôle",
+            "arabic": "جموع تدقيق"
+        },
+        {
+            "english": "Chinese binary code",
+            "french": "Code binaire chinois",
+            "arabic": "الكود الثنائي الصيني"
+        },
+        {
+            "english": "Circuit of communication",
+            "french": "Voie de communication",
+            "arabic": "خط الإتصال"
+        },
+        {
+            "english": "Circuit switching",
+            "french": "commutation de circuit",
+            "arabic": "تبديل الدارات"
+        },
+        {
+            "english": "Circular shift",
+            "french": "Décalage circulaire",
+            "arabic": "إزاحة دائرية"
+        },
+        {
+            "english": "Circulating memory",
+            "french": "Mémoire à circulation",
+            "arabic": "ذاكرة بدوران الإشارة"
+        },
+        {
+            "english": "Circulating memory",
+            "french": "Mémoire circulante",
+            "arabic": "ذاكرة دورية"
+        },
+        { "english": "Classify (to)", "french": "Classer", "arabic": "ترتيب" },
+        {
+            "english": "Clock",
+            "french": "Horloge",
+            "arabic": "ساعة توليد نبضات الميقت"
+        },
+        {
+            "english": "Clock frequency",
+            "french": "Fréquence d'horloge",
+            "arabic": "تردد الميقت"
+        },
+        {
+            "english": "Clock generator",
+            "french": "Générateur de rythme",
+            "arabic": "مولد النبضات"
+        },
+        {
+            "english": "Clock pulse",
+            "french": "Rythme",
+            "arabic": "توازن - إيقاع"
+        },
+        {
+            "english": "Clock signal",
+            "french": "Signal d'horloge",
+            "arabic": "إشارة الساعة ، نبضات الميقت"
+        },
+        {
+            "english": "Clock track",
+            "french": "Piste de rythme",
+            "arabic": "مسار الايقاع"
+        },
+        {
+            "english": "Closed loop",
+            "french": "Boucle fermée",
+            "arabic": "حلقة مغلقة"
+        },
+        {
+            "english": "Closed path",
+            "french": "Circuit",
+            "arabic": "دارة، مسار مغلق"
+        },
+        {
+            "english": "Closed shop",
+            "french": "Porte fermée",
+            "arabic": "باب مغلق"
+        },
+        {
+            "english": "Closed subroutine",
+            "french": "Sous-programme fermé",
+            "arabic": "برنامج ثانوي مغلق"
+        },
+        { "english": "Coaxial", "french": "Coaxial", "arabic": "متمحور" },
+        { "english": "Code", "french": "Code", "arabic": "تكويد" },
+        { "english": "Code (to)", "french": "Coder", "arabic": "كود" },
+        { "english": "Code (to)", "french": "Codifier", "arabic": "كود" },
+        {
+            "english": "Coded character",
+            "french": "Caractère code",
+            "arabic": "كود السمة، كود الرمز"
+        },
+        { "english": "Coder", "french": "Codeur", "arabic": "مكودة ، مكود" },
+        { "english": "Coding", "french": "Codage", "arabic": "تكويد" },
+        { "english": "Coding", "french": "Codification", "arabic": "تكويد" },
+        {
+            "english": "Coincidence circuit",
+            "french": "Circuit à coïncidence",
+            "arabic": "دارة تصادفية"
+        },
+        {
+            "english": "Collating sequence",
+            "french": "Ordre de classement",
+            "arabic": "نظام الترتيب"
+        },
+        {
+            "english": "Collator",
+            "french": "Interclasseuse",
+            "arabic": "آلة إعادة ترتيب"
+        },
+        {
+            "english": "Collector",
+            "french": "Collecteur",
+            "arabic": "مجمع ، مسري"
+        },
+        { "english": "Column", "french": "Colonne", "arabic": "عامود" },
+        { "english": "Comment", "french": "Commentaire", "arabic": "ملاحظية" },
+        {
+            "english": "Communication controller",
+            "french": "Contrôleur de communication",
+            "arabic": "ضابط ومنظم الإتصالات"
+        },
+        { "english": "Comparator", "french": "Comparateur", "arabic": "مقارن" },
+        { "english": "Compare (to)", "french": "Comparer", "arabic": "قارن" },
+        {
+            "english": "Comparison",
+            "french": "Comparaison",
+            "arabic": "مقارنة"
+        },
+        {
+            "english": "Compiled program",
+            "french": "Programme compilé",
+            "arabic": "برنامج مُصرَّف"
+        },
+        { "english": "Compiler", "french": "Campilateur", "arabic": "مُصرَّف" },
+        { "english": "Compiling", "french": "Compilation", "arabic": "تصريف" },
+        {
+            "english": "Compiling computer",
+            "french": "Calculateur de compilation",
+            "arabic": "حاسب تصريف وترجمة"
+        },
+        { "english": "Complement", "french": "Complément", "arabic": "مُتمم" },
+        {
+            "english": "Complementarity",
+            "french": "Complémentarité",
+            "arabic": "تتام"
+        },
+        {
+            "english": "Complete graph",
+            "french": "Graphe complet",
+            "arabic": "رسم بياني كامل"
+        },
+        {
+            "english": "Computer",
+            "french": "Ordinateur",
+            "arabic": "حاسب ، مُنْطُم"
+        },
+        { "english": "Computer", "french": "Calculateur", "arabic": "حاسب" },
+        {
+            "english": "Computer code",
+            "french": "Code machine",
+            "arabic": "كود الالة، كود الحاسب"
+        },
+        {
+            "english": "Computer generation",
+            "french": "Génération d'ordinateurs",
+            "arabic": "جيل الحاسبات"
+        },
+        {
+            "english": "Computer network",
+            "french": "Réseau d'ordinateurs",
+            "arabic": "شبكة حاسبات"
+        },
+        {
+            "english": "Computing unit",
+            "french": "Organe de calcul",
+            "arabic": "عضو الحساب ، وحدة الحساب"
+        },
+        {
+            "english": "Concatenation",
+            "french": "Concaténation",
+            "arabic": "ردف"
+        },
+        {
+            "english": "Concentrator",
+            "french": "Concentrateur",
+            "arabic": "مُركز"
+        },
+        {
+            "english": "Conditional jump",
+            "french": "Branchement conditionnel",
+            "arabic": "طفر مشروط"
+        },
+        {
+            "english": "Configuration",
+            "french": "Configuration",
+            "arabic": "تشكل ، تشكيلة"
+        },
+        {
+            "english": "Conjunction",
+            "french": "Conjonction",
+            "arabic": "عطف ، ربط"
+        },
+        {
+            "english": "Connected graph",
+            "french": "Graphe connexe",
+            "arabic": "رسم بياني - مرتبط"
+        },
+        {
+            "english": "Connection",
+            "french": "Liaison",
+            "arabic": "وصيلة ، توصيلة"
+        },
+        {
+            "english": "Console",
+            "french": "Pupitre",
+            "arabic": "قنصلة، ملامس المراقبة، منضد"
+        },
+        { "english": "Contact", "french": "Contact", "arabic": "تلامس" },
+        {
+            "english": "Contents directory",
+            "french": "Répertoire des programmes",
+            "arabic": "اقمامة المناهج، فهرس المناهج"
+        },
+        {
+            "english": "Continuous form",
+            "french": "Imprimé en continu",
+            "arabic": "طباعة متواصلة"
+        },
+        { "english": "Control", "french": "Commande", "arabic": "تحكم" },
+        {
+            "english": "Control card",
+            "french": "Carte de contrôle",
+            "arabic": "بطاقة تحكم"
+        },
+        {
+            "english": "Control character",
+            "french": "Caractère de commande",
+            "arabic": "سمة التحكم"
+        },
+        {
+            "english": "Control circuit",
+            "french": "Circuit de commande",
+            "arabic": "دارة التحكيم"
+        },
+        {
+            "english": "Control loop",
+            "french": "Boucle d'asservissement",
+            "arabic": "حلقة ضبط"
+        },
+        {
+            "english": "Control loop",
+            "french": "Boucle de commande",
+            "arabic": "حلقة ضبط"
+        },
+        {
+            "english": "Control panel",
+            "french": "Tableau de commande",
+            "arabic": "جدول التحكم"
+        },
+        {
+            "english": "Control signal",
+            "french": "Signal de commande",
+            "arabic": "إشارة تحكم"
+        },
+        {
+            "english": "Control unit",
+            "french": "Organe de commande",
+            "arabic": "عضو التحكم"
+        },
+        {
+            "english": "Control unit",
+            "french": "Unité de commande",
+            "arabic": "وحدة تحكم"
+        },
+        {
+            "english": "Control word",
+            "french": "Mot de contrôle",
+            "arabic": "كلمة تحكم، كلمة تدقيق"
+        },
+        {
+            "english": "Conversational language",
+            "french": "Langage",
+            "arabic": "لغة حوارية"
+        },
+        { "english": "Conversion", "french": "Conversion", "arabic": "تغيير" },
+        {
+            "english": "Conversion speed",
+            "french": "Vitesse de conversion",
+            "arabic": "سرعة التحويل"
+        },
+        {
+            "english": "Convert (to)",
+            "french": "Convertir",
+            "arabic": "بَدّل - غيّر"
+        },
+        {
+            "english": "Converter",
+            "french": "Convertisseur",
+            "arabic": "مُغيّر ، مُحوّل"
+        },
+        {
+            "english": "Copy check",
+            "french": "Contrôle par duplication",
+            "arabic": "تدقيق مزدوج بالتطابق"
+        },
+        {
+            "english": "Cordless plug",
+            "french": "Cavalier",
+            "arabic": "لوحة معدنية ، حاجز"
+        },
+        {
+            "english": "Core memory",
+            "french": "Mémoire à tores",
+            "arabic": "ذاكرة بقوالب طوقية"
+        },
+        {
+            "english": "Correcting signal",
+            "french": "Signal de correction",
+            "arabic": "إشارة تصحيح"
+        },
+        { "english": "Count (to)", "french": "Compter", "arabic": "أحسب" },
+        {
+            "english": "Count (to)",
+            "french": "Décompter",
+            "arabic": "استنزال - حذف"
+        },
+        { "english": "Counter", "french": "Compteur", "arabic": "عداد" },
+        { "english": "Counting", "french": "Comptage", "arabic": "حساب" },
+        {
+            "english": "Critical path",
+            "french": "Chemin critique",
+            "arabic": "مسار خطر - مسار حرج"
+        },
+        {
+            "english": "Crossed references",
+            "french": "Références croisées",
+            "arabic": "إسناد متقاطع"
+        },
+        { "english": "Cross feed", "french": "Diaphonie", "arabic": "لغط" },
+        { "english": "Cryogenics", "french": "Cryogénie", "arabic": "قريات" },
+        {
+            "english": "Cryogenic storage",
+            "french": "Mémoire cryogénique",
+            "arabic": "ذاكرة بالكريوترون"
+        },
+        { "english": "Cryotron", "french": "Cryotron", "arabic": "صمام قري" },
+        {
+            "english": "Cybernetics",
+            "french": "Cybernétique",
+            "arabic": "سيبرنيات"
+        },
+        { "english": "Cycle", "french": "Cycle", "arabic": "دورة" },
+        {
+            "english": "Cycle delay",
+            "french": "Décalage de cycle",
+            "arabic": "إزاحة دورية"
+        },
+        { "english": "Cyclic", "french": "Cyclique", "arabic": "دوري" },
+        {
+            "english": "Cyclic code",
+            "french": "Code cyclique",
+            "arabic": "كود دوري"
+        },
+        {
+            "english": "Cyclic shift",
+            "french": "Décalage cyclique",
+            "arabic": "إزاحة دورية"
+        },
+        { "english": "D-Action", "french": "Action D", "arabic": "D فعل" },
+        {
+            "english": "Data",
+            "french": "Donnée (s)",
+            "arabic": "معطى ، معطيات"
+        },
+        {
+            "english": "Data acquisition",
+            "french": "Acquisition de données",
+            "arabic": "حيازة المعطيات"
+        },
+        {
+            "english": "Data acquisition",
+            "french": "Saisie des données",
+            "arabic": "حجز ، معلومات ، حيازة معلومات"
+        },
+        {
+            "english": "Data bank",
+            "french": "Banque de données",
+            "arabic": "بنك أو مجمع معطيات"
+        },
+        {
+            "english": "Data base",
+            "french": "Base de données",
+            "arabic": "مجمع المعطيات"
+        },
+        {
+            "english": "Data link escape",
+            "french": "Echappement transmission DLE",
+            "arabic": "تملص ، وصيلة معطيات"
+        },
+        {
+            "english": "Data link escape",
+            "french": "Sortie de code pour une commande DLE",
+            "arabic": "وصيلة معطيات للتحكم  وخروج كود للتحكم"
+        },
+        {
+            "english": "Data logger",
+            "french": "Collecteur de données",
+            "arabic": "تجميع المعطيات"
+        },
+        { "english": "Data logger", "french": "Enregisteur", "arabic": "مسجل" },
+        {
+            "english": "Data logging",
+            "french": "Collecte des données",
+            "arabic": "تدوين المعطيات - تجميع المعطيات"
+        },
+        {
+            "english": "Data medium",
+            "french": "Support d'information",
+            "arabic": "ناقل للمعلومات"
+        },
+        {
+            "english": "Data processing",
+            "french": "Traitement de données",
+            "arabic": "معالجة المعطيات"
+        },
+        {
+            "english": "Data processing machine",
+            "french": "Machine de traitement de l'information",
+            "arabic": "آلة معالجة المعلومات"
+        },
+        {
+            "english": "Data Preossing system",
+            "french": "Ensemble de trai.tement de l'information",
+            "arabic": "معالجة المعلومات"
+        },
+        {
+            "english": "Data reduction",
+            "french": "Reduction des données",
+            "arabic": "تقليل أو تخفيض المعطيات"
+        },
+        {
+            "english": "Data representation",
+            "french": "Représentation des données",
+            "arabic": "تمثيل المعطيات"
+        },
+        {
+            "english": "Data set",
+            "french": "Ensemble de données",
+            "arabic": "مجموعة معطيات"
+        },
+        {
+            "english": "Data signal",
+            "french": "Signal de données",
+            "arabic": "إشارة المعطيات"
+        },
+        {
+            "english": "Data source",
+            "french": "Source de données",
+            "arabic": "مركز معطيات، منبع معطيات"
+        },
+        {
+            "english": "Data structure",
+            "french": "Structure (s) de données",
+            "arabic": "تركيب المعطيات، مجمع المعطيات"
+        },
+        {
+            "english": "Data transmission",
+            "french": "Transmission de données",
+            "arabic": "إرسال المعطيات"
+        },
+        { "english": "Dead zone", "french": "Zone morte", "arabic": "حيز ميت" },
+        {
+            "english": "Debug (to)",
+            "french": "Mettre au point",
+            "arabic": "يُقوم - يثبط"
+        },
+        {
+            "english": "Debugging",
+            "french": "Mise au point",
+            "arabic": "تقويم"
+        },
+        { "english": "Decimal", "french": "Décimal", "arabic": "عشري" },
+        {
+            "english": "Decimal-binary code",
+            "french": "Code décimal binaire",
+            "arabic": "كود عشري - ثنائي"
+        },
+        { "english": "Decimal point", "french": "Virgule", "arabic": "فاصلة" },
+        {
+            "english": "Decimal system",
+            "french": "Système décimal",
+            "arabic": "نظام عشري"
+        },
+        {
+            "english": "Decimal to binary conversion",
+            "french": "Conversion décimale-binaire",
+            "arabic": "تغيير عشري - ثنائي"
+        },
+        {
+            "english": "Decode (to)",
+            "french": "Décoder",
+            "arabic": "نزع الكود، فك شيفرة، يُحلود"
+        },
+        {
+            "english": "Decoder",
+            "french": "Décodeur",
+            "arabic": "جهاز فك الشيفرة ، محلود"
+        },
+        {
+            "english": "Decoding",
+            "french": "Décodage",
+            "arabic": "نزع الكود - فك الشيفرة ، حلوده"
+        },
+        {
+            "english": "Deconcatenation",
+            "french": "Déconcaténation",
+            "arabic": "تقطيع، فك الردف"
+        },
+        { "english": "Decrement", "french": "Décrément", "arabic": "تناقص" },
+        {
+            "english": "Decrement (to)",
+            "french": "Décrémenter",
+            "arabic": "نقص"
+        },
+        {
+            "english": "Delay line",
+            "french": "Ligne - retard",
+            "arabic": "خط تأخير"
+        },
+        {
+            "english": "Delay line register",
+            "french": "Registre à circulation",
+            "arabic": "مرصف دوراني"
+        },
+        {
+            "english": "Deletion",
+            "french": "Oblitération",
+            "arabic": "طمس ، إلغاء"
+        },
+        {
+            "english": "Demodulator",
+            "french": "Démodulateur",
+            "arabic": "كاشف"
+        },
+        {
+            "english": "Derivative action",
+            "french": "Action dérivée",
+            "arabic": "فعل مشتق"
+        },
+        {
+            "english": "Derivative regulation",
+            "french": "Régulation par dérivation",
+            "arabic": "تنظيم بالاشتقاق"
+        },
+        {
+            "english": "Desk calculator",
+            "french": "Machine à calculer",
+            "arabic": "آلة للحساب"
+        },
+        {
+            "english": "Destructive readout",
+            "french": "Lecture destructive",
+            "arabic": "قراءة تالفة، قراءة تدميرية"
+        },
+        {
+            "english": "Detail card",
+            "french": "Carte détail",
+            "arabic": "بطاقة تفصيل"
+        },
+        {
+            "english": "Detail file",
+            "french": "Fichier détail",
+            "arabic": "سجل تفصيلي"
+        },
+        {
+            "english": "Determinist",
+            "french": "Déterministe",
+            "arabic": "حتمي"
+        },
+        { "english": "Device", "french": "Organe", "arabic": "عضو" },
+        {
+            "english": "Device control",
+            "french": "Commande d'appareil auxiliaire",
+            "arabic": "تحكم بجهاز ثانوي"
+        },
+        { "english": "Diagnosis", "french": "Diagnosfic", "arabic": "تشخيص" },
+        {
+            "english": "Diagnostic program",
+            "french": "Programme de diagnostic",
+            "arabic": "برنامج تشخيص"
+        },
+        { "english": "Diagram", "french": "Diagramme", "arabic": "خط" },
+        {
+            "english": "Dichotomising search",
+            "french": "Recherche par dichotomie",
+            "arabic": "بحث ثنائي، تنقيب فرقاني"
+        },
+        {
+            "english": "Differential analyser",
+            "french": "Analyseur différentiel",
+            "arabic": "تحليل تفاصيل"
+        },
+        { "english": "Digit", "french": "Chiffre", "arabic": "رقم" },
+        {
+            "english": "Digital-analog converter",
+            "french": "Convertisseur numérique analogique",
+            "arabic": "مغير رقمي - نظيري"
+        },
+        {
+            "english": "Digital computer",
+            "french": "Calculateur numérique",
+            "arabic": "حاسب رقمي"
+        },
+        {
+            "english": "Digital control",
+            "french": "Régulation numérique",
+            "arabic": "تنظيم رقمي"
+        },
+        {
+            "english": "Digital differential analyser",
+            "french": "Analyseur différentiel numérique",
+            "arabic": "محلل تفاضلي رقمي"
+        },
+        {
+            "english": "Digital input",
+            "french": "Entrée digitale",
+            "arabic": "مدخل رقمي"
+        },
+        {
+            "english": "Digital loop",
+            "french": "Boucle numérique",
+            "arabic": "حلقة رقمية"
+        },
+        {
+            "english": "Digital setting",
+            "french": "Affichage numérique",
+            "arabic": "عرض رقمي"
+        },
+        {
+            "english": "Digitize (to)",
+            "french": "Convertir en numérique",
+            "arabic": "تغيير الى رقمي"
+        },
+        {
+            "english": "Digitizer",
+            "french": "Codeur numérique",
+            "arabic": "مكود رقمي"
+        },
+        {
+            "english": "Diminished radix complement",
+            "french": "Complement restreint",
+            "arabic": "المتمم المفيد"
+        },
+        { "english": "Diode", "french": "Diode", "arabic": "ثنائي" },
+        {
+            "english": "Direct access",
+            "french": "Accès direct",
+            "arabic": "بلوغ أو نيل مباشر"
+        },
+        {
+            "english": "Direct address",
+            "french": "Adresse directe",
+            "arabic": "عنوان مباشر"
+        },
+        {
+            "english": "Direct addressing",
+            "french": "Adressage direct",
+            "arabic": "عنونة مباشرة"
+        },
+        {
+            "english": "Direct digital control",
+            "french": "Régulation numérique directe",
+            "arabic": "تنظيم رقمي مباشر"
+        },
+        {
+            "english": "Directed graph",
+            "french": "Graphe orienté",
+            "arabic": "رسم بياني موجه"
+        },
+        {
+            "english": "Directed tree",
+            "french": "Arborescence",
+            "arabic": "شجرة موجهة أو مباشرة"
+        },
+        {
+            "english": "Direct file",
+            "french": "Fichier direct",
+            "arabic": "سجل مباشر"
+        },
+        {
+            "english": "Directory",
+            "french": "Répertoire",
+            "arabic": "اضمامة، فهرس، قائمة، جدول"
+        },
+        { "english": "Discrete", "french": "Discret", "arabic": "منفرد" },
+        {
+            "english": "Dispatcher",
+            "french": "Distributeur",
+            "arabic": "أداة إرحال"
+        },
+        { "english": "Display (to)", "french": "Visualiser", "arabic": "عرض" },
+        {
+            "english": "Display unit",
+            "french": "Visuel",
+            "arabic": "وحدة عرض، قنصلة عرض"
+        },
+        {
+            "english": "Distortion",
+            "french": "Distorsion",
+            "arabic": "تشويه ، تشويه"
+        },
+        {
+            "english": "Distributor",
+            "french": "Distributeur",
+            "arabic": "مُوزُع"
+        },
+        {
+            "english": "Double précision",
+            "french": "Double précision",
+            "arabic": "دقة مضاعفة"
+        },
+        {
+            "english": "Drum printer",
+            "french": "Imprimante à tambour",
+            "arabic": "طابعة بطبل"
+        },
+        { "english": "Dummy", "french": "Factice", "arabic": "زائف" },
+        {
+            "english": "Dummy instruction",
+            "french": "Instruction fictive",
+            "arabic": "تعليمة وهمية"
+        },
+        { "english": "Dump (to)", "french": "Vider", "arabic": "فرغ" },
+        {
+            "english": "Duodecimal",
+            "french": "Duodécimal",
+            "arabic": "اثنا عشري"
+        },
+        {
+            "english": "Duplicating punch",
+            "french": "Perforatrice-reproductrive",
+            "arabic": "مُثقب - منتج"
+        },
+        {
+            "english": "Dynamic allocation",
+            "french": "Allocation dynamique",
+            "arabic": "تخصيص ديناميكي"
+        },
+        {
+            "english": "Dynamicizer",
+            "french": "Convertisseur paralèle série",
+            "arabic": "دوالة، مغير متوازي - متتالي"
+        },
+        {
+            "english": "Dynamic relocation",
+            "french": "Translation dynamique",
+            "arabic": "ترجمة ديناميكية ، زحول ديناميكي"
+        },
+        {
+            "english": "Dynamic storage",
+            "french": "Mémoire dynamique",
+            "arabic": "ذاكرة ديناميكية"
+        },
+        {
+            "english": "EAM department",
+            "french": "Atelier mécanographique",
+            "arabic": "قسم الآلات الكهرميكانيكية  المستعملة في المحاسبة"
+        },
+        {
+            "english": "Echo check",
+            "french": "Contrôle par écho",
+            "arabic": "تدقيق ردي"
+        },
+        {
+            "english": "Edit (to)",
+            "french": "Mettre en forme",
+            "arabic": "نقح ، تنقح"
+        },
+        {
+            "english": "Edit (to)",
+            "french": "Editer",
+            "arabic": "نشر، طبع ، كتب بشكل معقول نقْح"
+        },
+        {
+            "english": "Editing",
+            "french": "Edition",
+            "arabic": "طبع، نشر - تصحيح ، تنقح"
+        },
+        { "english": "Editing", "french": "Mise en forme", "arabic": "تنقيح" },
+        {
+            "english": "Editor",
+            "french": "Editeur",
+            "arabic": "ناشر، طابع مصحح لغوي ، مُنْ"
+        },
+        {
+            "english": "Effective address",
+            "french": "Adresse effective",
+            "arabic": "عنوان فعلي"
+        },
+        { "english": "Eight bit byte", "french": "Octet", "arabic": "بايتة" },
+        {
+            "english": "Electric delay line",
+            "french": "Ligne à retar électrique",
+            "arabic": "خط تأخير كهربائي"
+        },
+        {
+            "english": "Electromechanical relay",
+            "french": "Relais électromécanique",
+            "arabic": "صمام الكتروميكانيكي"
+        },
+        {
+            "english": "Electro-pneumatic converter",
+            "french": "Convertisseur électropneumatique",
+            "arabic": "مغير كهربائي - ضغط"
+        },
+        {
+            "english": "Electrostatic printer",
+            "french": "Imprimante électrostatique",
+            "arabic": "طابعة الكتروسناتية"
+        },
+        {
+            "english": "Electrostatic storage",
+            "french": "Mémoire électrostatique",
+            "arabic": "ذاكرة الكتروستاتيكية"
+        },
+        {
+            "english": "Emitter",
+            "french": "Emetteur",
+            "arabic": "مُبث - مُرسل"
+        },
+        {
+            "english": "Empty word",
+            "french": "Mot vide",
+            "arabic": "كلمة فارغة"
+        },
+        { "english": "Emulator", "french": "Emulateur", "arabic": "مُضاه" },
+        {
+            "english": "Encode (to)",
+            "french": "Chiffrer",
+            "arabic": "ترقيم ، تكويد"
+        },
+        {
+            "english": "End around carry",
+            "french": "Report circulaire",
+            "arabic": "مرحل دائري"
+        },
+        {
+            "english": "End of block signal",
+            "french": "Signal de fin de bloc EOB",
+            "arabic": "إشارة نهاية القدرة"
+        },
+        {
+            "english": "End of file",
+            "french": "Fin de fichier",
+            "arabic": "نهاية السجل - نهاية المصنف"
+        },
+        {
+            "english": "End of medium",
+            "french": "Fin de support",
+            "arabic": "نهاية الناقل"
+        },
+        {
+            "english": "End of text",
+            "french": "Fin de texte",
+            "arabic": "نهاية النص"
+        },
+        {
+            "english": "End of transmission",
+            "french": "Fin de transmission",
+            "arabic": "نهاية الإِرسال"
+        },
+        {
+            "english": "End of transmission block",
+            "french": "Fin de bloc de transmission",
+            "arabic": "نهاية فدرة الإِرسال"
+        },
+        {
+            "english": "Erasable storage",
+            "french": "Mémoire effaçable",
+            "arabic": "ذاكرة ممحية"
+        },
+        { "english": "Erase (to)", "french": "Effacer", "arabic": "محي" },
+        { "english": "Erasure", "french": "Effacement", "arabic": "محو" },
+        {
+            "english": "Error burst",
+            "french": "Paquet d'erreurs",
+            "arabic": "باقة من الأخطاء"
+        },
+        {
+            "english": "Error correcting code",
+            "french": "Code correcteur d'erreurs",
+            "arabic": "كود مصحح للغلط"
+        },
+        {
+            "english": "Error correcting system",
+            "french": "Systeme correcteur d'erreurs",
+            "arabic": "نظام تصحيح للأخطاء"
+        },
+        {
+            "english": "Error detecting code",
+            "french": "Code détecteur d'erreurs",
+            "arabic": "كود كاشف للأغلاط"
+        },
+        {
+            "english": "Error detecting system",
+            "french": "Systeme détecteur d'erreurs",
+            "arabic": "نظام كاشف للأخطاء"
+        },
+        {
+            "english": "Error rate",
+            "french": "Taux d'erreurs",
+            "arabic": "معدل الخطا"
+        },
+        {
+            "english": "Escape",
+            "french": "Echappement",
+            "arabic": "هرب ، تملص"
+        },
+        {
+            "english": "Espace character",
+            "french": "Caractère de changement de code",
+            "arabic": "سمة التحويل"
+        },
+        {
+            "english": "Excess three code",
+            "french": "Code majoré de trois",
+            "arabic": "كود زيادة ثلاثة"
+        },
+        {
+            "english": "Execute (to)",
+            "french": "Exécuter",
+            "arabic": "نفذ - عالج"
+        },
+        { "english": "Exponent", "french": "Exposant", "arabic": "اس، قوة" },
+        {
+            "english": "External language",
+            "french": "Langage extérieur",
+            "arabic": "لغة خارجية"
+        },
+        {
+            "english": "External storage",
+            "french": "Mémoire externe",
+            "arabic": "ذاكرة خارجية"
+        },
+        {
+            "english": "Extract (to)",
+            "french": "Extraire",
+            "arabic": "استخراج ، استخلاص"
+        },
+        {
+            "english": "Fast core format",
+            "french": "Forme interne",
+            "arabic": "شُكل داخلي"
+        },
+        {
+            "english": "Feed",
+            "french": "Alimentation",
+            "arabic": "تلقيم - تغذية"
+        },
+        {
+            "english": "Feed back",
+            "french": "Rétroaction",
+            "arabic": "مفعول رجعي ، تغذية مرتدة"
+        },
+        {
+            "english": "Feed back loop",
+            "french": "Boucle de reaction",
+            "arabic": "حلقة أو طوق التغذية المرتدة"
+        },
+        {
+            "english": "Feedback loop",
+            "french": "Boucle de régulation",
+            "arabic": "حلقة ضبط"
+        },
+        {
+            "english": "Fence",
+            "french": "Borne",
+            "arabic": "سياج - حدود - دليل"
+        },
+        {
+            "english": "Ferrite",
+            "french": "Ferrite",
+            "arabic": "حديديت - فريت"
+        },
+        { "english": "File", "french": "Fichier", "arabic": "سجل" },
+        {
+            "english": "File activity ratio",
+            "french": "Taux de mouvement d'un fichier",
+            "arabic": "معدل حركة السجل"
+        },
+        {
+            "english": "File management",
+            "french": "Gestion de fichier",
+            "arabic": "إدارة السجلات"
+        },
+        {
+            "english": "File manager",
+            "french": "Programme de gestion  de fichiers",
+            "arabic": "برنامج تنظيم السجلات"
+        },
+        {
+            "english": "Fixed length",
+            "french": "Longueur fixe",
+            "arabic": "طول ثابت"
+        },
+        {
+            "english": "Fixed length record",
+            "french": "Enregistrement en longueur fixe",
+            "arabic": "تسجيل ثابت الطول"
+        },
+        {
+            "english": "Fixed point",
+            "french": "Virgule fixe",
+            "arabic": "فاصلة ثابتة"
+        },
+        {
+            "english": "Fixed radix notation",
+            "french": "Numération à base fixe",
+            "arabic": "تعداد بقاعدة ثابتة"
+        },
+        {
+            "english": "Flag",
+            "french": "Drapeau",
+            "arabic": "شيه - مؤشر - قبيضة"
+        },
+        {
+            "english": "Flig card",
+            "french": "Carte filigrance",
+            "arabic": "بطاقة دائرة - بطاقة منقلبة"
+        },
+        {
+            "english": "Flip-flop circuit",
+            "french": "Bascule",
+            "arabic": "رجراج ثنائي الاستقرار"
+        },
+        {
+            "english": "Floating address",
+            "french": "Adresse flottante",
+            "arabic": "عنوان طليق"
+        },
+        {
+            "english": "Floating point",
+            "french": "Virgule flottante",
+            "arabic": "فاصلة متحركة ( عائمة )"
+        },
+        {
+            "english": "Flow chart block",
+            "french": "Bloc d'organigramme",
+            "arabic": "فورة الخوارزم - بلوك الخوارزم بياني السياق"
+        },
+        {
+            "english": "Fluid logic",
+            "french": "Fluidique",
+            "arabic": "مائعيات - علم الموائع"
+        },
+        {
+            "english": "Foreward sort",
+            "french": "Tri ascendant",
+            "arabic": "فارزة تصاعدية"
+        },
+        { "english": "Form", "french": "Imprimé", "arabic": "مطبوع" },
+        {
+            "english": "Formal grammar",
+            "french": "Grammaire formelle",
+            "arabic": "قواعد محدّدة ، قواعد الزامية"
+        },
+        {
+            "english": "Formal theories of programming languages",
+            "french": "Théorie formelle des langages de programme",
+            "arabic": "العلم الألزامي ، العلم المحددّ للغات البرمجة"
+        },
+        { "english": "Format", "french": "Format", "arabic": "شكل, نسق" },
+        {
+            "english": "Format effector",
+            "french": "Commande de mise en page",
+            "arabic": "تحكم بوضع الصفحة - سمة ترتيب"
+        },
+        {
+            "english": "Format tape",
+            "french": "Bande pilote",
+            "arabic": "شريط تحكم"
+        },
+        {
+            "english": "Form feed",
+            "french": "Alimentation en imprimés",
+            "arabic": "تلقيم بالمطبوعات"
+        },
+        {
+            "english": "Form feed",
+            "french": "Présentation d e formule",
+            "arabic": "تحضير الصيغة"
+        },
+        {
+            "english": "Forward channel",
+            "french": "Voie d'aller",
+            "arabic": "مسلك الذهاب"
+        },
+        {
+            "english": "Free monoid",
+            "french": "Monóide libre",
+            "arabic": "أحادية حرّة"
+        },
+        { "english": "Frequency", "french": "Fréquence", "arabic": "تردد" },
+        {
+            "english": "Frequency band",
+            "french": "Bande de fréquence",
+            "arabic": "نطاق الترددات"
+        },
+        {
+            "english": "Frequency channel",
+            "french": "Canal de fréquences",
+            "arabic": "قناة الترددات"
+        },
+        {
+            "english": "Frequency division multiplex FDM",
+            "french": "Multiplexage de frequence",
+            "arabic": "FDM معبر الترددات"
+        },
+        {
+            "english": "Frequency excursion",
+            "french": "Balayage de fréquence",
+            "arabic": "مسح أو كسح الذبذبات"
+        },
+        {
+            "english": "Frequency modulation",
+            "french": "Modulation de fréquence FM",
+            "arabic": "تضمين ترددي"
+        },
+        {
+            "english": "Frequency shift",
+            "french": "Modulation par déplac. de fréq. FSK",
+            "arabic": "تضمين بإزاحة التردد"
+        },
+        {
+            "english": "Full adder",
+            "french": "Additionneur complet",
+            "arabic": "مجمْعة تامة"
+        },
+        {
+            "english": "Full duplex",
+            "french": "Bidirectionnel simultané",
+            "arabic": "إزدواجية كاملة"
+        },
+        {
+            "english": "Full duplex",
+            "french": "Duplex",
+            "arabic": "مزدوج - إرسال مزدوج"
+        },
+        {
+            "english": "Gap digits",
+            "french": "Caractère de remplissage",
+            "arabic": "رقم فجوي"
+        },
+        { "english": "Gate", "french": "Porte", "arabic": "باب" },
+        {
+            "english": "General purpose computer",
+            "french": "Calculateur universel",
+            "arabic": "حاسب عميم الغرض"
+        },
+        {
+            "english": "Generate (to)",
+            "french": "Engendrer",
+            "arabic": "أحدث - أوجد ، ولد"
+        },
+        { "english": "Generate (to)", "french": "Générer", "arabic": "ولد" },
+        {
+            "english": "Generated address",
+            "french": "Adresse calculée",
+            "arabic": "عنوان مُكوِّن"
+        },
+        {
+            "english": "Generating program",
+            "french": "Générateur",
+            "arabic": "مولِّد"
+        },
+        {
+            "english": "Generation",
+            "french": "Génération",
+            "arabic": "توليد ، جيل"
+        },
+        { "english": "Germanium", "french": "Germanium", "arabic": "جرمانيوم" },
+        {
+            "english": "Get (to)",
+            "french": "Acquérir",
+            "arabic": "إقتنى - حصل على"
+        },
+        { "english": "Grammar", "french": "Grammaire", "arabic": "قواعد" },
+        {
+            "english": "Graph",
+            "french": "Graphe",
+            "arabic": "بيان، بياني، رسم بياني"
+        },
+        { "english": "Grate", "french": "Grille", "arabic": "مصبغة، شبكة" },
+        { "english": "Gray code", "french": "Code gray", "arabic": "كودغراي" },
+        {
+            "english": "Grosch's law",
+            "french": "Grosch (loi de)",
+            "arabic": "غروش ( قانون غروش )"
+        },
+        {
+            "english": "Group",
+            "french": "Groupe primaire",
+            "arabic": "مجموعة أولية"
+        },
+        {
+            "english": "Half adder",
+            "french": "Demi-additionneur",
+            "arabic": "نصف بيمعة"
+        },
+        {
+            "english": "Half duplex",
+            "french": "Bidirectionnel à l'alternat",
+            "arabic": "ازدواجية بإلحاهين"
+        },
+        {
+            "english": "Half duplex",
+            "french": "Semi-duplex",
+            "arabic": "نصف إزدواجي"
+        },
+        {
+            "english": "Hamiltonian path",
+            "french": "Chemin hamiltonien",
+            "arabic": "مسار هاميلتون"
+        },
+        {
+            "english": "Hardware",
+            "french": "Matériel",
+            "arabic": "عتاد ، أدوات"
+        },
+        {
+            "english": "Hardware check",
+            "french": "Contrôle câble",
+            "arabic": "تدقيق بالماكينة ، ماكينة تدقيق"
+        },
+        {
+            "english": "Hash code",
+            "french": "Code haché",
+            "arabic": "كود هدفي - كود مهشم ، فقغقة"
+        },
+        {
+            "english": "Hash total",
+            "french": "Pseudo total",
+            "arabic": "شبه كامل"
+        },
+        { "english": "Heading", "french": "En-tête", "arabic": "في الرأس" },
+        {
+            "english": "Heading card",
+            "french": "Carte en-tête",
+            "arabic": "بطاقة هامة في الرأس"
+        },
+        { "english": "Hertz", "french": "Hertz", "arabic": "هرتز" },
+        {
+            "english": "Heuristic",
+            "french": "Heuristique",
+            "arabic": "علم الاستنباط"
+        },
+        {
+            "english": "Hexadecimal",
+            "french": "Hexadécimal",
+            "arabic": "سادس عشري"
+        },
+        {
+            "english": "Hexadecimal code",
+            "french": "Code hexadécimal",
+            "arabic": "كود سنة عشري"
+        },
+        {
+            "english": "Hexadecimal notation",
+            "french": "Numération hexadécimale",
+            "arabic": "تعداد سادس عشري"
+        },
+        {
+            "english": "Hierarchisation",
+            "french": "Hiérarchisation",
+            "arabic": "عشيرية"
+        },
+        { "english": "Hierarchy", "french": "Hiérarchie", "arabic": "عشيري" },
+        {
+            "english": "High-level language",
+            "french": "Langage évolué",
+            "arabic": "لغة متطورة"
+        },
+        {
+            "english": "High order bit",
+            "french": "Bit de gauche",
+            "arabic": "بتة عالية الدلالة"
+        },
+        {
+            "english": "High speed memory",
+            "french": "Mémoire rapide",
+            "arabic": "ذاكرة سريعة"
+        },
+        {
+            "english": "High-speed printer",
+            "french": "Imprimante rapide",
+            "arabic": "طابعة سريعة"
+        },
+        {
+            "english": "Holding circuit",
+            "french": "Bloqueur",
+            "arabic": "دارة حجز أو حصار"
+        },
+        {
+            "english": "Holding circuit",
+            "french": "Circuit à mainstien",
+            "arabic": "دارة صيانة"
+        },
+        {
+            "english": "Hollerith code",
+            "french": "Code hollerith",
+            "arabic": "كود هولورايت"
+        },
+        {
+            "english": "Home address",
+            "french": "Addresse de rangement",
+            "arabic": "عنوان معرف"
+        },
+        {
+            "english": "Hopper",
+            "french": "Magasin de cartes",
+            "arabic": "مخزن البطاقات"
+        },
+        {
+            "english": "Horizontal tabulation",
+            "french": "Tabulation horizontale",
+            "arabic": "جدولة أفقية"
+        },
+        {
+            "english": "Human engineering",
+            "french": "Ergonomie",
+            "arabic": "جهد - دراسة طاقة العمل"
+        },
+        { "english": "Hybrid", "french": "Hybride", "arabic": "مختلط ، هجين" },
+        {
+            "english": "Hybrid circuit",
+            "french": "Circuit hybride",
+            "arabic": "دارة مختلطة"
+        },
+        {
+            "english": "Hybrid computer",
+            "french": "Calculateur hybride",
+            "arabic": "حاسب مختلط"
+        },
+        {
+            "english": "Hysteresis",
+            "french": "Hystérésis",
+            "arabic": "البطاء أو حلقة البطاء"
+        },
+        {
+            "english": "Hysteresis cycle",
+            "french": "Cycle d'hystérésis",
+            "arabic": "دورة بطاء"
+        },
+        {
+            "english": "I- Action",
+            "french": "Action I",
+            "arabic": "فعل تكاملي"
+        },
+        {
+            "english": "Identifier",
+            "french": "Identificateur",
+            "arabic": "معرف"
+        },
+        { "english": "Idle", "french": "Inactif", "arabic": "غير فعّال" },
+        {
+            "english": "Idle loop",
+            "french": "Boucle inactive",
+            "arabic": "حلقة غير عاملة"
+        },
+        {
+            "english": "Ignore character",
+            "french": "Caractère d'effacement",
+            "arabic": "سمة التجاهل"
+        },
+        {
+            "english": "Illegal character",
+            "french": "Caractère erroné",
+            "arabic": "سمة محظورة"
+        },
+        {
+            "english": "Immediate access",
+            "french": "Accès Immédiat",
+            "arabic": "بلوغ أو نيل عاجل، منال مباشر"
+        },
+        {
+            "english": "Immediate address",
+            "french": "Adresse immédiate",
+            "arabic": "عنوان فوري"
+        },
+        {
+            "english": "Increment",
+            "french": "Increment",
+            "arabic": "زاد، زيادة ، زودة"
+        },
+        {
+            "english": "Increment (to)",
+            "french": "Incrementer",
+            "arabic": "زاد"
+        },
+        {
+            "english": "Incremental",
+            "french": "Incrementiel",
+            "arabic": "بزيادة"
+        },
+        {
+            "english": "Incremental computer",
+            "french": "Calculateur incrémentiel",
+            "arabic": "حاسب تزايدي"
+        },
+        {
+            "english": "Incremental regulation",
+            "french": "Régulation incrementielle",
+            "arabic": "تنظيم تزايدي"
+        },
+        {
+            "english": "Incrementation",
+            "french": "Incrémentation",
+            "arabic": "زيادة"
+        },
+        { "english": "Index", "french": "Index", "arabic": "دليل" },
+        { "english": "Index (to)", "french": "Indexer", "arabic": "دل" },
+        {
+            "english": "Index area",
+            "french": "Zone d'indicatif",
+            "arabic": "حيز الدليل"
+        },
+        {
+            "english": "Indexed address",
+            "french": "Adresse indexée",
+            "arabic": "عنوان دليلي"
+        },
+        {
+            "english": "Index register",
+            "french": "Registre d'index",
+            "arabic": "مرصف دليلي"
+        },
+        { "english": "Indicator", "french": "Indicateur", "arabic": "مُيِّين" },
+        {
+            "english": "Indirect address",
+            "french": "Adresse indirecte",
+            "arabic": "عنوان غير مباشر"
+        },
+        {
+            "english": "Indirect addressing",
+            "french": "Addressage indirect",
+            "arabic": "عنونة غير مباشرة"
+        },
+        {
+            "english": "Industrial input",
+            "french": "Entrée industrielle",
+            "arabic": "مدخل صناعي"
+        },
+        {
+            "english": "Infinite memory",
+            "french": "Mémoire infinie",
+            "arabic": "ذاكرة غير متناهية"
+        },
+        {
+            "english": "Informatics",
+            "french": "Informatique",
+            "arabic": "معلوماتية"
+        },
+        {
+            "english": "Information",
+            "french": "Information",
+            "arabic": "معلومات"
+        },
+        {
+            "english": "Information bit",
+            "french": "Bit d'information",
+            "arabic": "بتة المعلومات"
+        },
+        {
+            "english": "Information channel",
+            "french": "Canal d'informations",
+            "arabic": "قناة معلومات"
+        },
+        {
+            "english": "Information flow",
+            "french": "Débit d'information",
+            "arabic": "سياق المعلومات ، مقدار المعلومات المرسلة"
+        },
+        {
+            "english": "Information processing",
+            "french": "Traitement de l'information",
+            "arabic": "معالجة المعلومات"
+        },
+        {
+            "english": "Information separator",
+            "french": "Séparateur d'information",
+            "arabic": "فاصل المعلومات"
+        },
+        {
+            "english": "Information system",
+            "french": "Systeme d'information",
+            "arabic": "نظام معلومات"
+        },
+        {
+            "english": "Inhibit gate",
+            "french": "Inhibiteur",
+            "arabic": "بداية تثبيط"
+        },
+        {
+            "english": "Inhibiting signal",
+            "french": "Signal d'interdiction",
+            "arabic": "إشارة مثبطة"
+        },
+        {
+            "english": "Initialize (to)",
+            "french": "Intialiser",
+            "arabic": "يُدمِّث"
+        },
+        { "english": "Initiator", "french": "Préparateur", "arabic": "محضر" },
+        {
+            "english": "Inner loop",
+            "french": "Boucle auxiliaire",
+            "arabic": "حلقة ثانوية"
+        },
+        { "english": "Input", "french": "Entrée", "arabic": "دخل ، مدخل" },
+        { "english": "Input", "french": "Introduction", "arabic": "مدخل" },
+        {
+            "english": "Input block",
+            "french": "Bloc d'entrée",
+            "arabic": "فدرة الإدخال ـ بلوك الإدخال"
+        },
+        {
+            "english": "Imput-output",
+            "french": "Entrée-sortie",
+            "arabic": "مدخل - مخرج، إدخال - إخراج"
+        },
+        {
+            "english": "Input-output area",
+            "french": "Zone d'entrée-sortie",
+            "arabic": "حيز الادخال - الإخراج"
+        },
+        {
+            "english": "Input-output instruction",
+            "french": "Instruction d'entrée-sortie",
+            "arabic": "تعليمه إدخال - إحراج"
+        },
+        {
+            "english": "Input-output  typewriter",
+            "french": "Machine à écrire trice-réceptrice",
+            "arabic": "آلة كتابة مرسلة - مستقبلة"
+        },
+        {
+            "english": "Input-output unit",
+            "french": "Organe d'entrée-sortie",
+            "arabic": "عضو الإِدخال والإِخراج"
+        },
+        {
+            "english": "Input program",
+            "french": "Programme d'introduction",
+            "arabic": "برنامج إدخال"
+        },
+        {
+            "english": "Inquiry",
+            "french": "Demande enq.",
+            "arabic": "طلب - إستعلام"
+        },
+        {
+            "english": "Instruction",
+            "french": "Instruction",
+            "arabic": "تعليمة"
+        },
+        {
+            "english": "Instruction code",
+            "french": "Code d'instructions",
+            "arabic": "كود التعليمات"
+        },
+        {
+            "english": "Instruction counter",
+            "french": "Compteur d'instructions",
+            "arabic": "عداد التعليمات"
+        },
+        {
+            "english": "Instruction register",
+            "french": "Registre d'instruction",
+            "arabic": "مرصف التعليمات"
+        },
+        {
+            "english": "Instruction set",
+            "french": "Jeu d'instructions",
+            "arabic": "مجموعة التعليمات"
+        },
+        {
+            "english": "Instruction word",
+            "french": "Mot instruction",
+            "arabic": "كلمة تعليمة"
+        },
+        {
+            "english": "Integral action",
+            "french": "Action intégrale",
+            "arabic": "فعل التكامل"
+        },
+        {
+            "english": "Integral regulation",
+            "french": "Régulation par intégration",
+            "arabic": "ضبط بالتكامل"
+        },
+        {
+            "english": "Integrated circuit",
+            "french": "Circuit intégré",
+            "arabic": "دارة متكاملة"
+        },
+        {
+            "english": "Integrated data processing IDP",
+            "french": "Traitement intégré de l'information",
+            "arabic": "معالجة مكاملة للمعلومات"
+        },
+        {
+            "english": "Inter-block gap",
+            "french": "Espace inter-bloc",
+            "arabic": "فجوة الفدرة"
+        },
+        {
+            "english": "Interface",
+            "french": "Interface",
+            "arabic": "ملقى، سطح بيني"
+        },
+        {
+            "english": "Interlock (to)",
+            "french": "Verrouiller",
+            "arabic": "رتج، تواشج"
+        },
+        {
+            "english": "Interlocking",
+            "french": "Verrouillage",
+            "arabic": "رتج، إغلاق، تواشج"
+        },
+        { "english": "Interlude", "french": "Interlude", "arabic": "تمهيد" },
+        {
+            "english": "Internal storage",
+            "french": "Mémoire interne",
+            "arabic": "ذاكرة داخلية"
+        },
+        {
+            "english": "International alphabet",
+            "french": "Alphabet international n^o 2",
+            "arabic": "ألفباء عالية"
+        },
+        {
+            "english": "International telegraph code",
+            "french": "Code télégraphique international",
+            "arabic": "كود التلغراف الدولي"
+        },
+        {
+            "english": "Interpret (to)",
+            "french": "Interpréter",
+            "arabic": "فسر"
+        },
+        {
+            "english": "Interpreter",
+            "french": "Interpréteur",
+            "arabic": "مفسر، مفسرة"
+        },
+        {
+            "english": "Interpreter",
+            "french": "Interpréteuse",
+            "arabic": "مُفسّر"
+        },
+        {
+            "english": "Interpreter",
+            "french": "Interpréteuse",
+            "arabic": "مفسر"
+        },
+        {
+            "english": "Interpreting",
+            "french": "Interprétation",
+            "arabic": "تفسير"
+        },
+        {
+            "english": "Interrupt",
+            "french": "Interruption",
+            "arabic": "يقطع، إنقطاع"
+        },
+        {
+            "english": "Interruptable state",
+            "french": "Etat interruptible",
+            "arabic": "حالة مقطوعة"
+        },
+        {
+            "english": "Interrupt level",
+            "french": "Niveau d'interruptions",
+            "arabic": "مستوى حدود الانقطاع"
+        },
+        {
+            "english": "Interrupt mask",
+            "french": "Masque d'interruptions",
+            "arabic": "قناع إنقطاع"
+        },
+        {
+            "english": "Intersection",
+            "french": "Intersection",
+            "arabic": "التقاطع"
+        },
+        {
+            "english": "Invariant program",
+            "french": "Programme invariant",
+            "arabic": "برنامج ثابت"
+        },
+        { "english": "Inversion", "french": "Inversion", "arabic": "إعكاس" },
+        {
+            "english": "Inverted file",
+            "french": "Fichier inverse",
+            "arabic": "سجلات أو مصنفات معكوسة"
+        },
+        {
+            "english": "Inverted file",
+            "french": "Inverseur",
+            "arabic": "معكاس، عاكس"
+        },
+        { "english": "Item", "french": "Article", "arabic": "فقرة" },
+        { "english": "Item", "french": "Item", "arabic": "فقرة" },
+        { "english": "Iterate (to)", "french": "Itérer", "arabic": "كرّر" },
+        { "english": "Iteration", "french": "Itération", "arabic": "تكرارية" },
+        {
+            "english": "Iteration loop",
+            "french": "Boucle d'itération",
+            "arabic": "حلقة تكرار"
+        },
+        {
+            "english": "Iterative",
+            "french": "Itératif",
+            "arabic": "تكرار، طريقة تكرارية"
+        },
+        {
+            "english": "Iterative process",
+            "french": "Processus itératif",
+            "arabic": "عملية تكرارية"
+        },
+        { "english": "Jam", "french": "Bourrage", "arabic": "لهب" },
+        { "english": "Job", "french": "Travail", "arabic": "عمل" },
+        {
+            "english": "Job card",
+            "french": "Carte paramètre",
+            "arabic": "بطاقة عمل، بطاقة تحكم"
+        },
+        {
+            "english": "Job scheduler",
+            "french": "Programmateur de travaux",
+            "arabic": "مبرمج الأعمال"
+        },
+        {
+            "english": "Job step",
+            "french": "Etape de travail",
+            "arabic": "مرحلة العمل"
+        },
+        {
+            "english": "Job string",
+            "french": "Chaîne de traitement",
+            "arabic": "سلسلة المعالجة"
+        },
+        {
+            "english": "Jogger",
+            "french": "Batteur de cartes",
+            "arabic": "درّاس ، ضراب البطاقات"
+        },
+        {
+            "english": "Joggle (to)",
+            "french": "Battre des cartes",
+            "arabic": "ضرب البطاقات"
+        },
+        {
+            "english": "Jump",
+            "french": "Branchement",
+            "arabic": "طفور - تفريع"
+        },
+        { "english": "Jump", "french": "Saut", "arabic": "قفز ، تفريع" },
+        { "english": "Junction", "french": "Jonction", "arabic": "وصلة" },
+        {
+            "english": "Junction P-N",
+            "french": "Jonction P-N",
+            "arabic": "وصلة P-N"
+        },
+        {
+            "english": "Justification",
+            "french": "Justification",
+            "arabic": "سطر ، تعديل سطر"
+        },
+        { "english": "Justify (to)", "french": "Justifier", "arabic": "عدّل" },
+        {
+            "english": "Juxtaposition",
+            "french": "Juxtaposition",
+            "arabic": "تقريب ، تجاوز"
+        },
+        { "english": "Key", "french": "Clé", "arabic": "مفتاح - بينة" },
+        {
+            "english": "Key",
+            "french": "Indicatif",
+            "arabic": "معطيات بيانية معرَّفة"
+        },
+        {
+            "english": "Key letter",
+            "french": "Lettre clé",
+            "arabic": "حرف مفتاح"
+        },
+        { "english": "Keyword", "french": "Mot clé", "arabic": "كلمة مفتاح" },
+        { "english": "Label", "french": "Etiquette", "arabic": "وسم" },
+        { "english": "Label", "french": "Label", "arabic": "وسم" },
+        { "english": "Language", "french": "Langage", "arabic": "لغة" },
+        {
+            "english": "Latency",
+            "french": "Temps d'attente",
+            "arabic": "مدة الانتظار"
+        },
+        {
+            "english": "Layout",
+            "french": "Bordereau",
+            "arabic": "رسم تخطيطي - تصميم"
+        },
+        {
+            "english": "Leased line",
+            "french": "Ligne louée",
+            "arabic": "خط مستأجر"
+        },
+        { "english": "Length", "french": "Longueur", "arabic": "طول" },
+        {
+            "english": "Level number",
+            "french": "Numéro de niveau",
+            "arabic": "رقم المستوى"
+        },
+        {
+            "english": "Lexicographical order",
+            "french": "Ordre lexicographique",
+            "arabic": "معجمي"
+        },
+        {
+            "english": "Lexicographical power",
+            "french": "Puissance lexicographique",
+            "arabic": "قوة معجمية"
+        },
+        {
+            "english": "Librarian",
+            "french": "Bibliothèque",
+            "arabic": "المربد - المكتبي"
+        },
+        {
+            "english": "Library",
+            "french": "Bibliothèque",
+            "arabic": "ربيدة - مكتبة برامج"
+        },
+        {
+            "english": "Library routine",
+            "french": "Programme de bibliothèque",
+            "arabic": "نهح الربيدة"
+        },
+        {
+            "english": "Light pen",
+            "french": "Photostyle",
+            "arabic": "قلم ضوئي"
+        },
+        {
+            "english": "Line adapter",
+            "french": "Adaptateur de ligne",
+            "arabic": "مهيئ الخط"
+        },
+        {
+            "english": "Line printer",
+            "french": "Imprimante ligne par ligne",
+            "arabic": "طابعة سطر بعد سطر"
+        },
+        { "english": "Link", "french": "Arête", "arabic": "وصيلة" },
+        { "english": "Link", "french": "Lien", "arabic": "ارتباط ، وصيلة" },
+        { "english": "Link (to)", "french": "Relier", "arabic": "وصل" },
+        {
+            "english": "Linkage editor",
+            "french": "Editeur de liens",
+            "arabic": "رابط تنفيذي"
+        },
+        { "english": "List (to)", "french": "Lister", "arabic": "أرقام لائحة" },
+        { "english": "Load (to)", "french": "Charger", "arabic": "حمل ، شحن" },
+        {
+            "english": "Load and go",
+            "french": "Charger et lancer",
+            "arabic": "تحميل وانطلاق، إيساق فانطلاق"
+        },
+        {
+            "english": "Loader",
+            "french": "Chargeur",
+            "arabic": "موسن، محمل، شاحن"
+        },
+        { "english": "Loading", "french": "Chargement", "arabic": "تحميل" },
+        {
+            "english": "Location counter",
+            "french": "Compteur ordinal",
+            "arabic": "عداد أماكن التعليمات"
+        },
+        {
+            "english": "Log",
+            "french": "Journal",
+            "arabic": "سجل، جريدة، يوميات سجل"
+        },
+        {
+            "english": "Logical Circuit",
+            "french": "Circuit logique",
+            "arabic": "دارة منطقية"
+        },
+        {
+            "english": "Logical input",
+            "french": "Entrée logique",
+            "arabic": "مدخل منطقي"
+        },
+        {
+            "english": "Logical instruction",
+            "french": "Instruction logique",
+            "arabic": "تعليمة منطقية"
+        },
+        {
+            "english": "Logical shift",
+            "french": "Décalage logique",
+            "arabic": "إنزياح منطقي"
+        },
+        {
+            "english": "Logical unit",
+            "french": "Unité logique",
+            "arabic": "وحدة منطقية"
+        },
+        {
+            "english": "Logic operation",
+            "french": "Opération logique",
+            "arabic": "عملية منطقية"
+        },
+        { "english": "Loop", "french": "Boucle", "arabic": "حلقة" },
+        {
+            "english": "Loop checking",
+            "french": "Contrôle par retour de l'information",
+            "arabic": "تدقيق حلقي بإعادة المعلومات"
+        },
+        {
+            "english": "Loss",
+            "french": "Affaiblissement",
+            "arabic": "ضياع - فقدان - تبديد"
+        },
+        { "english": "Lot", "french": "Lot", "arabic": "حصة ، سهم" },
+        {
+            "english": "Lower bit",
+            "french": "Fit de rang inférieur",
+            "arabic": "بتة منخفض الدلالة"
+        },
+        {
+            "english": "Low order bit",
+            "french": "Bit de droite",
+            "arabic": "بتة منخفض الدلالة"
+        },
+        {
+            "english": "Machine address",
+            "french": "Adresse machine",
+            "arabic": "عنوان آلي"
+        },
+        {
+            "english": "Machine cycle",
+            "french": "Cycle de machine",
+            "arabic": "دورة الماكينة"
+        },
+        {
+            "english": "Machine instruction",
+            "french": "Instruction machine",
+            "arabic": "تعليمة آلة"
+        },
+        {
+            "english": "Machine language",
+            "french": "Langage machine",
+            "arabic": "لغة الآلة"
+        },
+        {
+            "english": "Machine routine",
+            "french": "Programme machine",
+            "arabic": "برنامج بلغة الآلة"
+        },
+        {
+            "english": "Machine subscriber",
+            "french": "Abonné automatique",
+            "arabic": "آلة اشتراك أوتوماتيكية"
+        },
+        {
+            "english": "Machine word",
+            "french": "Mot machine",
+            "arabic": "كلمة الآلة"
+        },
+        {
+            "english": "Macro instruction",
+            "french": "Macro-instruction",
+            "arabic": "ماكرو تعليمة"
+        },
+        { "english": "Magazine", "french": "Case", "arabic": "قادوس البطاقات" },
+        {
+            "english": "Magnetic card",
+            "french": "Carte magnétique",
+            "arabic": "بطاقة ممغنطة"
+        },
+        {
+            "english": "Magnetic character",
+            "french": "Caractère magnétique",
+            "arabic": "سمات أو رموز ممغنطة"
+        },
+        {
+            "english": "Magnetic core",
+            "french": "Tore magnétique",
+            "arabic": "حلقة مغناطيسية"
+        },
+        {
+            "english": "Magnetic delay line",
+            "french": "Ligne à retard magnétique",
+            "arabic": "خط تأخير مغناطيسي"
+        },
+        {
+            "english": "Magnetic disk",
+            "french": "Disque magnétique",
+            "arabic": "أسطوانة ممغنطة"
+        },
+        {
+            "english": "Magnetic drum",
+            "french": "Tambour magnétique",
+            "arabic": "طبل مغناطيسي"
+        },
+        {
+            "english": "Magnetic head",
+            "french": "Tête magnétique",
+            "arabic": "رأس للقراءة"
+        },
+        {
+            "english": "Magnetic reading",
+            "french": "Magneto-lecture",
+            "arabic": "قراءة ممغنطة"
+        },
+        {
+            "english": "Magnetic recording",
+            "french": "Enregistrement magnétique",
+            "arabic": "تسجيل مغناطيسي"
+        },
+        {
+            "english": "Magnetic storage",
+            "french": "Mémoire magnétique",
+            "arabic": "ذاكرة مغناطيسي"
+        },
+        {
+            "english": "Magnetic tape",
+            "french": "Bande Magnétique",
+            "arabic": "شريط مغناطيسي"
+        },
+        {
+            "english": "Magnetic tape",
+            "french": "Ruban magnétique",
+            "arabic": "شريط مغناطيسي"
+        },
+        {
+            "english": "Magnetic tape unit",
+            "french": "Dérouleur de bande magnétique",
+            "arabic": "جهاز أو بساطة الشريط الممغنط"
+        },
+        {
+            "english": "Magnetic wire store",
+            "french": "Mémoire à fil magnétique",
+            "arabic": "ذاكرة بشريط ممغنط"
+        },
+        {
+            "english": "Magnetoresistance",
+            "french": "Magnétro-résistance",
+            "arabic": "مقاومة مغناطيسي"
+        },
+        {
+            "english": "Magnetostriction",
+            "french": "Magnétostriction",
+            "arabic": "تضييق مغناطيسي"
+        },
+        {
+            "english": "Magnetostrictive delay line",
+            "french": "Ligne à retard magnétostriction",
+            "arabic": "خط تأخير مغناطيسي"
+        },
+        {
+            "english": "Main frame",
+            "french": "Unité centrale",
+            "arabic": "وحدة مركزية"
+        },
+        {
+            "english": "Main memory",
+            "french": "Mémoire centrale",
+            "arabic": "ذاكرة مركزية"
+        },
+        {
+            "english": "Maintenance file",
+            "french": "Fichier mouvement",
+            "arabic": "سجل الحركات، سجل الصيانة"
+        },
+        { "english": "Major control", "french": "Majeur", "arabic": "حد أكبر" },
+        {
+            "english": "Major cycle",
+            "french": "Cycle majeur",
+            "arabic": "دورة كبرى"
+        },
+        {
+            "english": "Major loop",
+            "french": "Boucle principale",
+            "arabic": "حلقة رئيسية"
+        },
+        { "english": "Mantissa", "french": "Mantisse", "arabic": "جزء عشري" },
+        {
+            "english": "Manual control",
+            "french": "Commande manuelle",
+            "arabic": "تحكم يدوي"
+        },
+        {
+            "english": "Marginal check",
+            "french": "Contrôle des marges",
+            "arabic": "تدقيق بالحواش، تدقيق بالحدود"
+        },
+        { "english": "Mark", "french": "Marque", "arabic": "علامة" },
+        { "english": "Mask", "french": "Masque", "arabic": "قناع" },
+        { "english": "Masking", "french": "Masquage", "arabic": "تقنيع" },
+        {
+            "english": "Masqued state",
+            "french": "Etat masqué",
+            "arabic": "حالة مقنعة"
+        },
+        {
+            "english": "Mass data",
+            "french": "Information massive",
+            "arabic": "كمية معلومات كبيرة"
+        },
+        {
+            "english": "Mass storage",
+            "french": "Mémoire de masse",
+            "arabic": "ذاكرة مكثفة"
+        },
+        {
+            "english": "Master card",
+            "french": "Carte maîtresse",
+            "arabic": "بطاقة رئيسية"
+        },
+        {
+            "english": "Master clock",
+            "french": "Horloge pilote",
+            "arabic": "ساعة قيادة، ساعة ضبط"
+        },
+        {
+            "english": "Master clock",
+            "french": "Rythmeur",
+            "arabic": "جهاز إيقاع"
+        },
+        {
+            "english": "Master file",
+            "french": "Fichier principal",
+            "arabic": "سجل رئيسي"
+        },
+        {
+            "english": "Master mode",
+            "french": "Mode maître",
+            "arabic": "صبغة رئيسة"
+        },
+        {
+            "english": "Master mode operation",
+            "french": "Instruction privilégiée",
+            "arabic": "عمليات أساسية"
+        },
+        {
+            "english": "Master routine",
+            "french": "Programme principal",
+            "arabic": "برنامج أساسي"
+        },
+        {
+            "english": "Matching equipment",
+            "french": "Joncteur",
+            "arabic": "أداة وصل"
+        },
+        { "english": "Maximal", "french": "Maximal", "arabic": "كبرى" },
+        {
+            "english": "Maximization",
+            "french": "Maximisation",
+            "arabic": "تكبير"
+        },
+        { "english": "Maximize (to)", "french": "Maximiser", "arabic": "كبر" },
+        { "english": "Maximum", "french": "Maximum", "arabic": "حد أقصى" },
+        {
+            "english": "measuring unit",
+            "french": "Capteur de mesure",
+            "arabic": "مكشاف للقياس"
+        },
+        {
+            "english": "Mechanical differential analyser",
+            "french": "Analyseur différentiel mécanique",
+            "arabic": "محلل تفاضلي ميكانيكي"
+        },
+        {
+            "english": "Media conversion",
+            "french": "Conversion de support",
+            "arabic": "تبديل الناقل"
+        },
+        { "english": "Memory", "french": "Mémoire", "arabic": "ذاكرة" },
+        {
+            "english": "Memory analysis",
+            "french": "Analyse de mémoire",
+            "arabic": "تحليل الذاكرة"
+        },
+        {
+            "english": "Memory bank",
+            "french": "Banc de mémoire",
+            "arabic": "بنك الذاكرة"
+        },
+        {
+            "english": "Memory block",
+            "french": "Bloc de mémoire",
+            "arabic": "فدرة الذاكرة، بلوك من الذاكرة"
+        },
+        {
+            "english": "Memory capacity",
+            "french": "Capacité de mémoire",
+            "arabic": "سعة الذاكرة"
+        },
+        {
+            "english": "Memory dump",
+            "french": "Vidage de mémoire",
+            "arabic": "تفريغ الذاكرة"
+        },
+        {
+            "english": "Memory location",
+            "french": "Position de mémoire",
+            "arabic": "موقع من الذاكرة"
+        },
+        {
+            "english": "Mercury delay line",
+            "french": "Ligne à retar à mercure",
+            "arabic": "خط تأخير بالزئبق"
+        },
+        {
+            "english": "Merge (to)",
+            "french": "Interclasser",
+            "arabic": "رتب من جديد"
+        },
+        {
+            "english": "Merge (to)",
+            "french": "Fusionner",
+            "arabic": "صهر، وحدة، ضم"
+        },
+        {
+            "english": "Merging",
+            "french": "Fusion",
+            "arabic": "صهر، التحام، ضم"
+        },
+        {
+            "english": "Merging",
+            "french": "Interclassement",
+            "arabic": "ترتيب داخلي"
+        },
+        { "english": "Message", "french": "Message", "arabic": "رسالة" },
+        {
+            "english": "Message switching",
+            "french": "Commutation de messages",
+            "arabic": "تبديل الرسالة"
+        },
+        {
+            "english": "Metacompiler",
+            "french": "Métacompilateur",
+            "arabic": "مصرف مُغير"
+        },
+        {
+            "english": "Metalanguage",
+            "french": "Mtalangage",
+            "arabic": "لغة تغيير ( لغة للتعبير عن لغة اخرى )"
+        },
+        {
+            "english": "Metasymbol",
+            "french": "Métasymbole",
+            "arabic": "رمز مُغَيِّر"
+        },
+        {
+            "english": "Metavariable",
+            "french": "Métavariable",
+            "arabic": "متحولة مغيّرة"
+        },
+        {
+            "english": "Microelectronics",
+            "french": "Microélectronique",
+            "arabic": "ميكرو الكترونيك"
+        },
+        {
+            "english": "Microfilm printer",
+            "french": "Imprimante à microfilm",
+            "arabic": "طابعة ميكرو فيلم"
+        },
+        {
+            "english": "Microinstruction",
+            "french": "Micro-instruction",
+            "arabic": "ميكرو تعليمة"
+        },
+        {
+            "english": "Micromodule",
+            "french": "Circuit monolithique",
+            "arabic": "دارة متجانسة"
+        },
+        {
+            "english": "Microprogram",
+            "french": "Microprogramme",
+            "arabic": "ميكرو برنامج"
+        },
+        {
+            "english": "Microprogramming",
+            "french": "Microprogrammation",
+            "arabic": "ميكرو بريجة"
+        },
+        { "english": "Minimal", "french": "Minimal", "arabic": "حد أدنى" },
+        {
+            "english": "Minimization",
+            "french": "Minimisation",
+            "arabic": "تقليل ، تدنية"
+        },
+        {
+            "english": "Minimize (to)",
+            "french": "Minimiser",
+            "arabic": "قلل ، دنى"
+        },
+        { "english": "Minimum", "french": "Minimum", "arabic": "حد أدنى" },
+        {
+            "english": "Minor control",
+            "french": "Mineur",
+            "arabic": "أقل دنوي"
+        },
+        {
+            "english": "Minor cycle",
+            "french": "Cycle mineur",
+            "arabic": "دورة صغرى"
+        },
+        {
+            "english": "Minor loop",
+            "french": "Boucle secondaire",
+            "arabic": "حلقة ثانوية"
+        },
+        {
+            "english": "Mixed radix notation",
+            "french": "Numération à bases multiples",
+            "arabic": "تعداد بقاعدة مضاعفة"
+        },
+        { "english": "Mixer", "french": "Mélangeur", "arabic": "آلة خلط" },
+        { "english": "Mode", "french": "Mode", "arabic": "صيغة ، طريقة" },
+        { "english": "Modem", "french": "Modem", "arabic": "مضشف ، موديم" },
+        { "english": "Modular", "french": "Modulaire", "arabic": "معدل" },
+        {
+            "english": "Modul",
+            "french": "Module",
+            "arabic": "زجلة ، قطعة من برنامج"
+        },
+        {
+            "english": "Modulation rate",
+            "french": "Rapidité de modulation",
+            "arabic": "سرعة التضمين"
+        },
+        {
+            "english": "Modulation rate",
+            "french": "Vitesse de modulation",
+            "arabic": "سرعة التضمين"
+        },
+        { "english": "Modulator", "french": "Modulateur", "arabic": "مضمن" },
+        { "english": "Monitor", "french": "Moniteur", "arabic": "مرقاب" },
+        {
+            "english": "Modulo N check",
+            "french": "Contrôle Modulo N",
+            "arabic": "تدقيق بالقسمة على N"
+        },
+        {
+            "english": "Monitoring",
+            "french": "Observation",
+            "arabic": "وجد، مراقبة، ملاحظة"
+        },
+        {
+            "english": "Monitor mode",
+            "french": "Mode moniteur",
+            "arabic": "صيغة مرقاب، صيغة المنية"
+        },
+        {
+            "english": "Monitor state",
+            "french": "Etat moniteur",
+            "arabic": "حالة الاشراف، حالة المرقاب"
+        },
+        {
+            "english": "Monoprogramming",
+            "french": "Monoprogrammation",
+            "arabic": "البرمجة الموحدة"
+        },
+        { "english": "Monotony", "french": "Monotonie", "arabic": "رتابة" },
+        { "english": "Morpheme", "french": "Morphème", "arabic": "بادئة" },
+        {
+            "english": "Morphology",
+            "french": "Morphologie",
+            "arabic": "علم التشكل"
+        },
+        {
+            "english": "Multiaccess",
+            "french": "Multiaccès",
+            "arabic": "بلوغ متعدد"
+        },
+        {
+            "english": "Multiconversion",
+            "french": "Multiconversion",
+            "arabic": "تحويل متعدد، خلفية"
+        },
+        {
+            "english": "Multigraph",
+            "french": "Multigraphe",
+            "arabic": "رسم بياني متعدد"
+        },
+        {
+            "english": "Multiplex",
+            "french": "Multiplex",
+            "arabic": "مضاعف الإرسال"
+        },
+        {
+            "english": "Multiplex",
+            "french": "Multiplexage",
+            "arabic": "مضاعف الإرسال، متعدّد الارسال"
+        },
+        {
+            "english": "Multiplex(to)",
+            "french": "Multiplexer",
+            "arabic": "يضاعف"
+        },
+        {
+            "english": "Multiplexor",
+            "french": "Multiplexeur",
+            "arabic": "مُضاعِفُ إرسال ، مِعبر"
+        },
+        {
+            "english": "Multiplex system",
+            "french": "Système multiplex",
+            "arabic": "نظام مضاعف"
+        },
+        {
+            "english": "Multiplicand",
+            "french": "Multiplicande",
+            "arabic": "عدد مضروب"
+        },
+        {
+            "english": "Multiplier factor",
+            "french": "Multiplicateur",
+            "arabic": "ضارب ، أداة ضرب"
+        },
+        {
+            "english": "Multiprecessing",
+            "french": "Multitraitement",
+            "arabic": "معالِجة متعددة"
+        },
+        {
+            "english": "Multiprogramming",
+            "french": "Multiprogramation",
+            "arabic": "البرمجة الضاعفة"
+        },
+        {
+            "english": "Multitasking",
+            "french": "Multitâche",
+            "arabic": "متعدّد أو مضاعف الأشغال"
+        },
+        {
+            "english": "N address instruction",
+            "french": "Instruction N adresses",
+            "arabic": "تعليمة بعدد N من العناوين"
+        },
+        {
+            "english": "Nand gate (nor and gate)",
+            "french": "Circuit nand",
+            "arabic": "دارة NAND"
+        },
+        {
+            "english": "N-ary symbol",
+            "french": "Symbole N-aire",
+            "arabic": "N رمز من"
+        },
+        {
+            "english": "Negative acknowledge",
+            "french": "Accusé de réception négatif NAK",
+            "arabic": "إشارة تعريف واستقبال سلبية"
+        },
+        { "english": "Negator", "french": "Négateur", "arabic": "عاكس" },
+        {
+            "english": "Nesting",
+            "french": "Emboitement",
+            "arabic": "حلقة مدموجة"
+        },
+        {
+            "english": "Nesting loop",
+            "french": "Boucle imbriquée",
+            "arabic": "حلقة متداخلة"
+        },
+        {
+            "english": "Network analog Computer",
+            "french": "Calculateur à réseau analogique",
+            "arabic": "حاسب بشبكة نظيرية"
+        },
+        {
+            "english": "Network analyser",
+            "french": "Analyseur de réseaux",
+            "arabic": "محلّل للشبكات"
+        },
+        {
+            "english": "Neutral zone",
+            "french": "Zone neutre",
+            "arabic": "حيز محايد"
+        },
+        {
+            "english": "New ligne",
+            "french": "Retour à la ligne",
+            "arabic": "عودة الى السطر"
+        },
+        { "english": "Noise", "french": "Bruit", "arabic": "ضجيج" },
+        {
+            "english": "Noise level",
+            "french": "Niveau de bruit",
+            "arabic": "مستوى الضجيج"
+        },
+        {
+            "english": "Non destructive readout",
+            "french": "Lecture non destructive",
+            "arabic": "قراءة غير تدميرية"
+        },
+        {
+            "english": "Non-erasable storage",
+            "french": "Mémoire inaltérable",
+            "arabic": "ذاكرة غير متغيرة"
+        },
+        {
+            "english": "Non return to zero recording",
+            "french": "Enregistrement NRZ",
+            "arabic": "تسجيل ولا <عودة الى الصفر<"
+        },
+        {
+            "english": "Non-volatile storage",
+            "french": "Mémoire rémanente",
+            "arabic": "ذاكرة بمضمون باقٍ"
+        },
+        {
+            "english": "Not element",
+            "french": "Circuit non",
+            "arabic": "دارة <لا<"
+        },
+        {
+            "english": "N out of K code",
+            "french": "Code N dont K",
+            "arabic": "كود N خارج K"
+        },
+        {
+            "english": "Novenary",
+            "french": "Novenaire",
+            "arabic": "النظام التسعوي"
+        },
+        { "english": "null", "french": "Nul", "arabic": "صفر، لا أحد، فراغ" },
+        {
+            "english": "Null character",
+            "french": "Caractère nul",
+            "arabic": "سمة تصغير، أو سمة لا شيء"
+        },
+        {
+            "english": "Number notation",
+            "french": "Numération",
+            "arabic": "تعداد"
+        },
+        {
+            "english": "Numerical",
+            "french": "Numérique",
+            "arabic": "عندي ، رقمي"
+        },
+        {
+            "english": "Numerical data",
+            "french": "Donnée numérique",
+            "arabic": "معطيات رقمية"
+        },
+        {
+            "english": "Numerical input",
+            "french": "Entrée numérique",
+            "arabic": "مدخل عندي"
+        },
+        {
+            "english": "Numerical punching",
+            "french": "Perforation numérique",
+            "arabic": "تثقيب رقمي"
+        },
+        {
+            "english": "Object language",
+            "french": "Language objet",
+            "arabic": "لغة محسوس"
+        },
+        {
+            "english": "Object program",
+            "french": "Programme objet",
+            "arabic": "برنامج عادي"
+        },
+        {
+            "english": "Occurrence",
+            "french": "Occurrence",
+            "arabic": "حادثة مصادفة"
+        },
+        { "english": "Octal", "french": "Octal", "arabic": "ثُماني" },
+        {
+            "english": "Octal code",
+            "french": "Code octal",
+            "arabic": "كود ثماني"
+        },
+        {
+            "english": "Octal notation",
+            "french": "Numération octale",
+            "arabic": "تعداد ثماني"
+        },
+        {
+            "english": "Off-line",
+            "french": "Hors-ligne",
+            "arabic": "خارج الخط"
+        },
+        {
+            "english": "Off-line",
+            "french": "Off-line",
+            "arabic": "خط منقطع، مستقل"
+        },
+        { "english": "Off line", "french": "Autonome", "arabic": "خط مقطوع" },
+        { "english": "One state", "french": "Etat un", "arabic": "حالة 1" },
+        { "english": "On line", "french": "Connecté", "arabic": "ربط ، موصول" },
+        { "english": "On line", "french": "En-ligne", "arabic": "على الخط" },
+        {
+            "english": "On line interaction",
+            "french": "Interaction en ligne",
+            "arabic": "تفاعل على الخط"
+        },
+        {
+            "english": "On-off action",
+            "french": "Action tout ou rien",
+            "arabic": "فعل كل أو لا شيء"
+        },
+        {
+            "english": "On-off input",
+            "french": "Entrée tout ou rien",
+            "arabic": "مدخل كل أو لا شيء"
+        },
+        {
+            "english": "On-off regulation",
+            "french": "Régulation par tout ou rien",
+            "arabic": "تنظيم بالكل أو لا شيء"
+        },
+        {
+            "english": "On-the-fly printer",
+            "french": "Imprimante à la volée",
+            "arabic": "الطابعة بالرشق (بالطيران)"
+        },
+        {
+            "english": "Open address",
+            "french": "Adresse ouverte",
+            "arabic": "عنوان منفتح"
+        },
+        {
+            "english": "Open loop",
+            "french": "Boucle ouverte",
+            "arabic": "حلقة مفتوحة"
+        },
+        {
+            "english": "Open shop",
+            "french": "Porte ouverte",
+            "arabic": "باب مفتوح"
+        },
+        {
+            "english": "Open subroutine",
+            "french": "Sous-programme ouvert",
+            "arabic": "برنامج ثانوي"
+        },
+        { "english": "Operand", "french": "Opérande", "arabic": "متأثر" },
+        {
+            "english": "Operating state",
+            "french": "Etat d'exécution",
+            "arabic": "حالة التنفيذ"
+        },
+        {
+            "english": "Operating system",
+            "french": "Système d'exploitation",
+            "arabic": "نظام التشغيل"
+        },
+        {
+            "english": "Operation",
+            "french": "Opération",
+            "arabic": "عملية حسابية"
+        },
+        {
+            "english": "Operational research",
+            "french": "Recherche opérationnelle",
+            "arabic": "بحث أو تحليل عملياتي"
+        },
+        {
+            "english": "Operation cycle",
+            "french": "Cycle opératoire",
+            "arabic": "دورة عملية"
+        },
+        {
+            "english": "Operation code",
+            "french": "Type d'opération",
+            "arabic": "نوع العملية"
+        },
+        {
+            "english": "Operator",
+            "french": "Opérateur",
+            "arabic": "مؤثر، مدبر آلة، رمز حسابي"
+        },
+        {
+            "english": "Optical character",
+            "french": "Caractère optique",
+            "arabic": "سمات ضوئية"
+        },
+        {
+            "english": "Optical scanner",
+            "french": "Lecteur optique",
+            "arabic": "قراءة ضوئية"
+        },
+        {
+            "english": "Optical scanning",
+            "french": "Lecture optique",
+            "arabic": "قراءة ضوئية"
+        },
+        {
+            "english": "Optima addressing",
+            "french": "Adressage optimal",
+            "arabic": "العنونة المستحسنة"
+        },
+        { "english": "Optimal", "french": "Optimal", "arabic": "أفضل ، أمثل" },
+        {
+            "english": "Optimal control",
+            "french": "Commande optimale",
+            "arabic": "التحكّم الأفضل"
+        },
+        {
+            "english": "Optimization",
+            "french": "Optimisation",
+            "arabic": "فضلى ، مثل"
+        },
+        {
+            "english": "Optimize (to)",
+            "french": "Optimiser",
+            "arabic": "عودة الى الأفضل"
+        },
+        {
+            "english": "Optimum",
+            "french": "Optimum",
+            "arabic": "الافضل ، الامثل"
+        },
+        {
+            "english": "Ordered tree",
+            "french": "Arbre ordonné",
+            "arabic": "شجرة مرتبة"
+        },
+        { "english": "Ordering", "french": "Classement", "arabic": "ترتيب" },
+        {
+            "english": "Or element",
+            "french": "Circuit OU",
+            "arabic": "دارة <او<"
+        },
+        { "english": "Output", "french": "Sortie", "arabic": "خرج" },
+        {
+            "english": "Output block",
+            "french": "Bloc de sortie",
+            "arabic": "فدرة الإخراج - بلوك الاخراج"
+        },
+        {
+            "english": "Output program",
+            "french": "Programme d'édition",
+            "arabic": "برنامج تنقيح"
+        },
+        {
+            "english": "Output writer",
+            "french": "Editeur de sorties",
+            "arabic": "ناشر أو طابع الاخراج ، منقح الاخراج"
+        },
+        {
+            "english": "Overflow",
+            "french": "Dépassement de capacité",
+            "arabic": "فيض السعة، تجاوز السعة"
+        },
+        {
+            "english": "Overflow",
+            "french": "Débordement",
+            "arabic": "فيض، تجاوز"
+        },
+        {
+            "english": "Overhead",
+            "french": "Déperdition",
+            "arabic": "ضياع ، خسارة"
+        },
+        {
+            "english": "Overlapping",
+            "french": "Recouvrement",
+            "arabic": "تشابك ، تداخل"
+        },
+        { "english": "Overlay", "french": "Segment", "arabic": "قطعة" },
+        {
+            "english": "Overlay",
+            "french": "Segmentation",
+            "arabic": "تقطيع، تجزئة، تشديف"
+        },
+        {
+            "english": "Overload",
+            "french": "Surcharge",
+            "arabic": "أمجاض ، زيادة في الحمل"
+        },
+        {
+            "english": "Over punching",
+            "french": "Perforation hors texte",
+            "arabic": "ثقوب خارج النص"
+        },
+        { "english": "Pack (to)", "french": "Condenser", "arabic": "كثُف" },
+        {
+            "english": "Packing density",
+            "french": "Densité d'enregistrement",
+            "arabic": "كثافة التسجيلات"
+        },
+        {
+            "english": "P-action",
+            "french": "Action $P$",
+            "arabic": "عمل تناسبي"
+        },
+        { "english": "Padding", "french": "Remplissage", "arabic": "معبئة" },
+        { "english": "Page", "french": "Page", "arabic": "صفحة" },
+        {
+            "english": "Page-at-a-time printer",
+            "french": "Imprimante page par page",
+            "arabic": "طابعة صفحة بعد صفحة"
+        },
+        { "english": "Paging", "french": "Pagination", "arabic": "التصفيح" },
+        {
+            "english": "Paper tape reader",
+            "french": "Lecteur de bande perforée",
+            "arabic": "قارىء الأشرطة المثقبة"
+        },
+        {
+            "english": "Parallel computer",
+            "french": "Calculateur parallèle",
+            "arabic": "حاسب بالتوازي"
+        },
+        {
+            "english": "Parallel ful adder",
+            "french": "Additionneur parallèle",
+            "arabic": "جامع بالتوازي ، بومعة بالتوازي"
+        },
+        {
+            "english": "Parallel full subtracter",
+            "french": "Soustracteur parallèle",
+            "arabic": "طارح، أداة طرح"
+        },
+        {
+            "english": "Parallel operation",
+            "french": "Opération en parallèle",
+            "arabic": "عملية (عمليات) بالتوازي"
+        },
+        {
+            "english": "Parallel transmission",
+            "french": "Transmission parallèle",
+            "arabic": "إرسال بالتوازي"
+        },
+        {
+            "english": "Parity",
+            "french": "Parité",
+            "arabic": "سفعية، عدد، تكافىء"
+        },
+        {
+            "english": "Parity bit",
+            "french": "Bit de parité",
+            "arabic": "بتة التحكم والضبط، بتة الازدواجية"
+        },
+        {
+            "english": "Parity check",
+            "french": "Contrôle de parité",
+            "arabic": "تدقيق بإزدواجية، إفرادية البتة"
+        },
+        {
+            "english": "Parity track",
+            "french": "Piste de parité",
+            "arabic": "مسار الازدواجية، مسار التساو"
+        },
+        {
+            "english": "Partial carry",
+            "french": "Report partiel",
+            "arabic": "مرحل جزئي"
+        },
+        {
+            "english": "Partial graph",
+            "french": "Graphe partiel",
+            "arabic": "الرسم البياني الجزئي"
+        },
+        { "english": "Partition", "french": "Partition", "arabic": "تجزئة" },
+        { "english": "Path", "french": "Chemin", "arabic": "مسار، طريق" },
+        {
+            "english": "Path length",
+            "french": "Longueur d'un chemin",
+            "arabic": "طول الطريق"
+        },
+        { "english": "Pattern", "french": "Forme", "arabic": "شكل" },
+        {
+            "english": "Peg",
+            "french": "Fiche",
+            "arabic": "بطاقة، جذاذة، نشيبة الميكروفون"
+        },
+        {
+            "english": "Perforator",
+            "french": "Poinçonneuse",
+            "arabic": "أداة تثقيب"
+        },
+        {
+            "english": "Peripheral equipment",
+            "french": "Périphérique",
+            "arabic": "جهاز ضوئي"
+        },
+        {
+            "english": "Permanent file",
+            "french": "Fichier permanent",
+            "arabic": "سجل دائم"
+        },
+        {
+            "english": "Phase modulation",
+            "french": "Modulation de phase PM",
+            "arabic": "تضمين الوجهة"
+        },
+        {
+            "english": "Phase modulation recording",
+            "french": "Enregistrement en modulation de phase",
+            "arabic": "تسجيل بتضمين الجهة"
+        },
+        {
+            "english": "Phase shift",
+            "french": "Décalage de phase",
+            "arabic": "إزاحة الطور أو الوجه"
+        },
+        {
+            "english": "PID regulation",
+            "french": "Régulation proportionnelle (PID)",
+            "arabic": "تنظيم نسبي"
+        },
+        {
+            "english": "Pilot card",
+            "french": "Carte pilote",
+            "arabic": "بطاقة دليل"
+        },
+        {
+            "english": "Planar graph",
+            "french": "Graphe planaire",
+            "arabic": "الرسم البياني المسطح"
+        },
+        {
+            "english": "Plotter",
+            "french": "Traceur de courbes",
+            "arabic": "مخطط المنحرفات"
+        },
+        {
+            "english": "Plug",
+            "french": "Fiche de connexion",
+            "arabic": "بطاقة، فيشة توصيلة"
+        },
+        {
+            "english": "Plugboard",
+            "french": "Tableau de connexion",
+            "arabic": "جدول التوصيلات"
+        },
+        { "english": "Pocket", "french": "Clapet", "arabic": "بوابة ، دارة" },
+        { "english": "Point", "french": "Sommet", "arabic": "قمة" },
+        { "english": "Pointer", "french": "Pointeur", "arabic": "دليل" },
+        {
+            "english": "Point to point",
+            "french": "Point à point circuit",
+            "arabic": "دارة من نقطة الى نقطة"
+        },
+        {
+            "english": "Polish notation",
+            "french": "Notation polonaise",
+            "arabic": "الترقيم البولندي"
+        },
+        {
+            "english": "Positional notation",
+            "french": "Numération de position",
+            "arabic": "تعداد المواقع"
+        },
+        {
+            "english": "Post mortem dump",
+            "french": "Vidage après incident",
+            "arabic": "تفريغ بعد حادثة"
+        },
+        {
+            "english": "Post mortem program",
+            "french": "Programme d'autopsie",
+            "arabic": "برنامج تمحيص وتدقيق"
+        },
+        {
+            "english": "Post mortem routine",
+            "french": "Programme post mortem",
+            "arabic": "'Post mortem' برنامج"
+        },
+        {
+            "english": "Post slew",
+            "french": "Saut après impression",
+            "arabic": "قفز بعد الطباعة"
+        },
+        {
+            "english": "Power level",
+            "french": "Niveau de puissance",
+            "arabic": "مستوى الفدرة"
+        },
+        {
+            "english": "Power supply",
+            "french": "Alimentation électrique",
+            "arabic": "تغذية بالكهرباء"
+        },
+        {
+            "english": "Pre slew",
+            "french": "Saut avant impression",
+            "arabic": "تخطي أو قفز قبل الطباعة"
+        },
+        { "english": "Print (to)", "french": "Imprimer", "arabic": "طبع" },
+        {
+            "english": "Print drum",
+            "french": "Tambour d'impression",
+            "arabic": "طبل - طباعة"
+        },
+        {
+            "english": "Printed circuit",
+            "french": "Circuit imprimé",
+            "arabic": "دارة مطبوعة"
+        },
+        { "english": "Printer", "french": "Imprimante", "arabic": "طابعة" },
+        {
+            "english": "Printing block",
+            "french": "Bloc d'impression",
+            "arabic": "فدرة أو بلوك الطباعة"
+        },
+        {
+            "english": "Print roll",
+            "french": "Cylindre d'impression",
+            "arabic": "أسطوانة الطابعة"
+        },
+        {
+            "english": "Print wheel",
+            "french": "Roue à caractères",
+            "arabic": "دولاب بالسمات"
+        },
+        {
+            "english": "Private line",
+            "french": "Ligne privée",
+            "arabic": "خط خاص"
+        },
+        {
+            "english": "Problem oriented language",
+            "french": "Langage orienté problème",
+            "arabic": "لغة موجهة - مسالة"
+        },
+        {
+            "english": "Procedure",
+            "french": "Procédure",
+            "arabic": "إجر اء، عملية ، معالجة"
+        },
+        {
+            "english": "Procedure oriented language",
+            "french": "Langage orienté- procédure",
+            "arabic": "لغة موجهة - معالجة"
+        },
+        {
+            "english": "Process",
+            "french": "Processus",
+            "arabic": "عملية معالجة"
+        },
+        {
+            "english": "Process control",
+            "french": "Contrôle de processus",
+            "arabic": "ضبط أو تحكم في العملية"
+        },
+        {
+            "english": "Process control computer",
+            "french": "Calculateur industriel",
+            "arabic": "حاسب صناعي"
+        },
+        {
+            "english": "Processing program",
+            "french": "Programme de traitement",
+            "arabic": "برنامج معالجة"
+        },
+        {
+            "english": "Processing time",
+            "french": "Temps de traitement",
+            "arabic": "مدة المعالجة"
+        },
+        { "english": "Processor", "french": "Processeur", "arabic": "معالج" },
+        { "english": "Program", "french": "Programme", "arabic": "برنامج" },
+        {
+            "english": "Program (to)",
+            "french": "Programmer",
+            "arabic": "مبرمج"
+        },
+        { "english": "Programmer", "french": "Programmeur", "arabic": "مبرمج" },
+        {
+            "english": "Programming",
+            "french": "Programmation",
+            "arabic": "برمجة"
+        },
+        {
+            "english": "Programming language",
+            "french": "Langage de programmation",
+            "arabic": "لغة برمجة"
+        },
+        {
+            "english": "Program card",
+            "french": "Carte programme",
+            "arabic": "بطاقة برنامج"
+        },
+        {
+            "english": "Program library",
+            "french": "Programmathèque",
+            "arabic": "ربيدة البرامج، مكتبة البرامج"
+        },
+        {
+            "english": "Program loop",
+            "french": "Boucle de programme",
+            "arabic": "حلقة من البرنامج"
+        },
+        {
+            "english": "Program mode",
+            "french": "Mode programme",
+            "arabic": "صبغة البرنامج"
+        },
+        {
+            "english": "Proportional action",
+            "french": "Action proportionnelle",
+            "arabic": "عمل تناسبي"
+        },
+        {
+            "english": "Proportional band",
+            "french": "Bande proportionnelle",
+            "arabic": "شريط نسبي"
+        },
+        {
+            "english": "Proportional regulation",
+            "french": "Régulation proportionnelle",
+            "arabic": "تنظيم نسبي"
+        },
+        {
+            "english": "Proportional sensitivity",
+            "french": "Sensibilité proportionnelle",
+            "arabic": "حساسية نسبية"
+        },
+        {
+            "english": "Pseudo adresse",
+            "french": "Pseudo-Adresse",
+            "arabic": "شبه عنوان"
+        },
+        {
+            "english": "Pseudo code",
+            "french": "Pseudo code",
+            "arabic": "شبه كود"
+        },
+        {
+            "english": "Pseudo instruction",
+            "french": "Pseudo instruction",
+            "arabic": "شبه تعليمة"
+        },
+        {
+            "english": "Publication language",
+            "french": "Langage de publication",
+            "arabic": "لغة نشر"
+        },
+        { "english": "Pulse", "french": "Impulsion", "arabic": "نبضة" },
+        {
+            "english": "Pulse amplifier",
+            "french": "Amplificateur d'impulsions",
+            "arabic": "مضخم الذبذبات"
+        },
+        {
+            "english": "Pulse code modulation (PCM)",
+            "french": "Modulation par impulsions codées MIC",
+            "arabic": "تضمين بالنضات المكودة"
+        },
+        {
+            "english": "Pulse counter",
+            "french": "Compteur d'impulsion",
+            "arabic": "عداد النبضات"
+        },
+        {
+            "english": "Pulse generator",
+            "french": "Générateur d'impulsions",
+            "arabic": "مولد النبضات"
+        },
+        {
+            "english": "Pulse modulation",
+            "french": "Modulation d'impulsion",
+            "arabic": "تضمين نبضوي"
+        },
+        {
+            "english": "Pulse regenerating circuit",
+            "french": "Régénérateur d'impulsions",
+            "arabic": "مجداد للنبضات"
+        },
+        { "english": "Punch", "french": "Perforation", "arabic": "تثقيب" },
+        { "english": "Punch", "french": "Perforateur", "arabic": "مثقب" },
+        { "english": "Punch", "french": "Perforatrice", "arabic": "مثقب" },
+        { "english": "Punch (to)", "french": "Perforer", "arabic": "ثقب" },
+        {
+            "english": "Punch column",
+            "french": "Colonne de perforation",
+            "arabic": "عامود للتثقيب"
+        },
+        {
+            "english": "Punched card",
+            "french": "Carte perforée",
+            "arabic": "بطاقة مثقوبة"
+        },
+        {
+            "english": "Punched card mechanization",
+            "french": "Mécanographie",
+            "arabic": "آلة ميكانوغرافية"
+        },
+        {
+            "english": "Punched tape",
+            "french": "Bande perforée",
+            "arabic": "شريط مثقوب"
+        },
+        {
+            "english": "Punched tape",
+            "french": "Ruban perforé",
+            "arabic": "شريط مثقب"
+        },
+        {
+            "english": "Punching pin",
+            "french": "Poinçon",
+            "arabic": "إبرة التثقيب"
+        },
+        {
+            "english": "Punching position",
+            "french": "Position de perforation",
+            "arabic": "موقع تثقيب"
+        },
+        {
+            "english": "Punching track",
+            "french": "Piste de perforation",
+            "arabic": "مسار التثقيب"
+        },
+        {
+            "english": "Pure binary code",
+            "french": "Code binaire pur",
+            "arabic": "كود ثنائي صافي"
+        },
+        {
+            "english": "Push down list",
+            "french": "Liste refoulée",
+            "arabic": "لائحة مكبوتة"
+        },
+        {
+            "english": "Push up list",
+            "french": "Liste directe",
+            "arabic": "لائحة مباشرة"
+        },
+        {
+            "english": "Quantization",
+            "french": "Quantification",
+            "arabic": "تجديد الكمية - تكميم"
+        },
+        {
+            "english": "Quantize (to)",
+            "french": "Quantifier",
+            "arabic": "كمم ، حدد كمية كذا"
+        },
+        {   "english": "Quaternary", 
+            "french": "Quaternaire",    
+            "arabic": "رباعي" 
+        },
+        {
+            "english": "Quibinary code",
+            "french": "Code quibinaire",
+            "arabic": "كود خماسي - ثنائي"
+        },
+        {   "english": "Quinary", 
+            "french": "Quinaire",  
+            "arabic": "خماسي" 
+        },
+        {
+            "english": "Radix",
+            "french": "Base de numération",
+            "arabic": "قاعدة نظام عددي"
+        },
+        {
+            "english": "Radix complement",
+            "french": "Complément à la base",
+            "arabic": "متمم الى القاعدة"
+        },
+        {   "english": "Random", 
+            "french": "Aléatoire",  
+            "arabic": "صدفي" 
+        },
+        {
+            "english": "Random access",
+            "french": "Accès aléatoire",
+            "arabic": "بلوغ صدفي - بلوغ محتمل"
+        },
+        {
+            "english": "Random access memory",
+            "french": "Mémoire à accès direct",
+            "arabic": "ذاكرة ببلوغ مباشر"
+        },
+        {
+            "english": "Randomization",
+            "french": "Transformation aléatoire",
+            "arabic": "تحويل عشوائي"
+        },
+        {
+            "english": "Random number",
+            "french": "Nombres (s) aléatoire(s)",
+            "arabic": "الأعداد الصرفة"
+        },
+        {
+            "english": "Random number generator",
+            "french": "Générateur de nombres aléatoires",
+            "arabic": "مولد أعداد عشوائية"
+        },
+        { "english": "Rate", "french": "Débit", "arabic": "مقدار - سعة" },
+        {
+            "english": "Raw data",
+            "french": "Donnée brute",
+            "arabic": "معطيات فضة غير منظمة"
+        },
+        { "english": "Read (to)", "french": "Lire", "arabic": "إقرأ" },
+        { "english": "Reader", "french": "Lecteur", "arabic": "قارئ" },
+        { "english": "Reading", "french": "Lecture", "arabic": "قراءة" },
+        {
+            "english": "Read-only storage",
+            "french": "Mémoire morte",
+            "arabic": "ذاكرة ميتة، ذاكرة ثابتة"
+        },
+        {
+            "english": "Read-write head",
+            "french": "Tête de lecture écriture",
+            "arabic": "رأس القراءة - الكتابة"
+        },
+        {
+            "english": "Real time",
+            "french": "Temps réel",
+            "arabic": "وقت فعلي، وقت حقيقي"
+        },
+        {
+            "english": "Real time clock",
+            "french": "Horloge temps réel",
+            "arabic": "ساعة وقت حقيقي"
+        },
+        {
+            "english": "Real time computer",
+            "french": "Calculateur en temps réel",
+            "arabic": "حاسب يعمل في الوقت الحقيقي"
+        },
+        {
+            "english": "Real time control",
+            "french": "Commande en temps réel",
+            "arabic": "تحكم في الوقت الحالي"
+        },
+        {
+            "english": "Real time operation",
+            "french": "Opération en temps réel",
+            "arabic": "عملية في الوقت الحقيقي"
+        },
+        { "english": "Receiver", "french": "Récepteur", "arabic": "مُستقْبِل" },
+        { "english": "Record", "french": "Enregistrement", "arabic": "تسجيل" },
+        {
+            "english": "Record (to)",
+            "french": "Enregistrer",
+            "arabic": "سجَّل"
+        },
+        {
+            "english": "Record length",
+            "french": "Longueur d'enregistrement",
+            "arabic": "طول التسجيل"
+        },
+        {
+            "english": "Recurrent",
+            "french": "Récurrent",
+            "arabic": "مكرر، مثنى الى الوراء"
+        },
+        {
+            "english": "Recursion",
+            "french": "Récursivité",
+            "arabic": "تكرارية"
+        },
+        {
+            "english": "Redundancy",
+            "french": "Redondance",
+            "arabic": "إطناب، إسهاب، فائض"
+        },
+        {
+            "english": "Redundancy check",
+            "french": "Contrôle par redondance",
+            "arabic": "تدقيق بالفائض، تدقيق مزدوج"
+        },
+        {
+            "english": "Redundant code",
+            "french": "Code redondant",
+            "arabic": "كود مطول بفائض"
+        },
+        { "english": "Reel", "french": "Bobine", "arabic": "بكرة - حلف" },
+        {
+            "english": "Reentrant program",
+            "french": "Programme réentrant",
+            "arabic": "برنامج ثابت، برنامج إعادة دخل"
+        },
+        {
+            "english": "Re-entry point",
+            "french": "Point de retour",
+            "arabic": "نقطة العودة"
+        },
+        {
+            "english": "Reference",
+            "french": "Référence",
+            "arabic": "إحالة - إسناد"
+        },
+        {
+            "english": "Reference supply",
+            "french": "Alimentation de référence",
+            "arabic": "تغذية"
+        },
+        {
+            "english": "Reflected binary code",
+            "french": "Code binaire réfléchi",
+            "arabic": "كود ثنائي منعكس"
+        },
+        {
+            "english": "Regenerate (to)",
+            "french": "Régénérer",
+            "arabic": "يُولّد ، يحدد"
+        },
+        {
+            "english": "Regeneration",
+            "french": "Régénération",
+            "arabic": "تجديد، إعادة توليد"
+        },
+        { "english": "Register", "french": "Registre", "arabic": "مرصف" },
+        {
+            "english": "Register lenght",
+            "french": "Longueur de registre",
+            "arabic": "طول المرصف"
+        },
+        {
+            "english": "Regulated power supply",
+            "french": "Alimentation stabilisée",
+            "arabic": "تغذية ثابتة"
+        },
+        {
+            "english": "Regulation",
+            "french": "Régulation",
+            "arabic": "تنظيم، ظبط"
+        },
+        {
+            "english": "Regulation algorithm",
+            "french": "Algorithme de régulation",
+            "arabic": "خوارزم الضبط"
+        },
+        {
+            "english": "Reject pocket",
+            "french": "Case rebut",
+            "arabic": "قادوس أو صندوق النقابة"
+        },
+        {
+            "english": "Relative address",
+            "french": "Adresse relative",
+            "arabic": "عنوان نسبي"
+        },
+        {
+            "english": "Relocatable",
+            "french": "Translatable",
+            "arabic": "زحول، ترجمة"
+        },
+        {
+            "english": "Relocatable address",
+            "french": "Adresse translatable",
+            "arabic": "عنوان مترجم"
+        },
+        {
+            "english": "Relocatable program",
+            "french": "Programme binaire translatable",
+            "arabic": "برنامج ثنائي ممول"
+        },
+        {
+            "english": "Relocate (to)",
+            "french": "Translater",
+            "arabic": "زحل، ترجم"
+        },
+        {
+            "english": "Relocation base",
+            "french": "Base de translation",
+            "arabic": "قاعدة الترجمة"
+        },
+        {
+            "english": "Remote batch processing",
+            "french": "Télétraitement par lots",
+            "arabic": "معالجة بعيدة بالقسمة"
+        },
+        {
+            "english": "Report program generator",
+            "french": "Générateur de programme d'édition",
+            "arabic": "مولد لبرامج النشر والتنقيح"
+        },
+        {
+            "english": "Reproduce (to)",
+            "french": "Reproduire",
+            "arabic": "نسخ"
+        },
+        {
+            "english": "Reproducer",
+            "french": "Reproductrice",
+            "arabic": "آلة نسخ أو تكرير للبطاقات"
+        },
+        { "english": "Request", "french": "Requête", "arabic": "طلب ، التماس" },
+        {
+            "english": "Request stack",
+            "french": "Pile de requêtes",
+            "arabic": "مكدس الطلبات"
+        },
+        {
+            "english": "Rerun routine",
+            "french": "Programme de reprise",
+            "arabic": "برنامج إستئناف العمل"
+        },
+        {
+            "english": "Reserved word",
+            "french": "Mot réservé",
+            "arabic": "كلمة محفوظة"
+        },
+        { "english": "Reset", "french": "Remise à zéro", "arabic": "تصغير" },
+        {
+            "english": "Reset (to)",
+            "french": "Remettre à zéro",
+            "arabic": "صفر"
+        },
+        { "english": "Resident", "french": "Résidant", "arabic": "قار" },
+        {
+            "english": "Residual error rate",
+            "french": "Taux d'erreurs résiduelles",
+            "arabic": "معدل خطا متبق"
+        },
+        {
+            "english": "Response time",
+            "french": "Temps de réponse",
+            "arabic": "مدة الجواب"
+        },
+        { "english": "Restart", "french": "Reprise", "arabic": "متابعة العمل" },
+        {
+            "english": "Restart point",
+            "french": "Point de reprise",
+            "arabic": "نقطة معاودة البدء والعمل"
+        },
+        {
+            "english": "Restore (to)",
+            "french": "Restaurer",
+            "arabic": "رمم، جدد"
+        },
+        {
+            "english": "Retention cycle",
+            "french": "Cycle de rétention",
+            "arabic": "مدة الحفظ"
+        },
+        { "english": "Return", "french": "Retour", "arabic": "عودة، رجوع" },
+        {
+            "english": "Return address",
+            "french": "Adresse de retour",
+            "arabic": "عنوان العودة"
+        },
+        {
+            "english": "Return instruction",
+            "french": "Instruction de retour",
+            "arabic": "تعليمة عودة"
+        },
+        {
+            "english": "Reversible",
+            "french": "Compteur décompteur",
+            "arabic": "عداد معكوس"
+        },
+        {
+            "english": "Ring counter",
+            "french": "Compteur circulaire",
+            "arabic": "عداد دوري"
+        },
+        {
+            "english": "Round (to)",
+            "french": "Arrondir",
+            "arabic": "دورُ ، كبير كبير"
+        },
+        { "english": "Routine", "french": "Routine", "arabic": "نهج" },
+        { "english": "Row", "french": "Ligne", "arabic": "خط" },
+        {
+            "english": "Sampling rate",
+            "french": "Cadence d'échantillonnage",
+            "arabic": "وقع الذبذبة"
+        },
+        {
+            "english": "Saturated core",
+            "french": "Noyau saturé",
+            "arabic": "خلية مشبعة"
+        },
+        {
+            "english": "Scale (to)",
+            "french": "Cadrer",
+            "arabic": "ضبط، طابق، ركّز"
+        },
+        { "english": "Scaling", "french": "Cadrage", "arabic": "تركيز ، ضبط" },
+        { "english": "Scanning", "french": "Balayage", "arabic": "كنس" },
+        {
+            "english": "Scheduler",
+            "french": "Planifieur",
+            "arabic": "مبرمج الأعمال"
+        },
+        {
+            "english": "Scheduling",
+            "french": "Planification",
+            "arabic": "برمجة الأعمال"
+        },
+        {
+            "english": "Scratch pad momory",
+            "french": "Mémoire bloc-notes",
+            "arabic": "ذاكرة اللاحظات"
+        },
+        {
+            "english": "Scratch tape",
+            "french": "Bande de manœuvre",
+            "arabic": "نطاق للمناداة، شريط للمناورة"
+        },
+        {
+            "english": "Selector",
+            "french": "Sélecteur",
+            "arabic": "منقاة ، منتخب"
+        },
+        {
+            "english": "Self-checking code",
+            "french": "Code autocontrôlé",
+            "arabic": "كود التحكم الأوتوماتيكي"
+        },
+        {
+            "english": "Self-complementing",
+            "french": "Autocomplémenteur",
+            "arabic": "متمم أوتوماتيكي"
+        },
+        {
+            "english": "Self resetting loop",
+            "french": "Boucle auto restaurée",
+            "arabic": "حلقة اصلاح أوتوماتيكية"
+        },
+        {
+            "english": "Semanteme",
+            "french": "Sémantème",
+            "arabic": "إشارة أساسية"
+        },
+        {
+            "english": "Semantics",
+            "french": "Sémantique",
+            "arabic": "علم الدلالة"
+        },
+        {
+            "english": "Semiconductor",
+            "french": "Semiconducteur",
+            "arabic": "شبه ناقل"
+        },
+        { "english": "Senary", "french": "Senaire", "arabic": "تعداد سداسي" },
+        { "english": "Sensor", "french": "Capteur", "arabic": "مكشاف ، لاقط" },
+        { "english": "Sentinel", "french": "Sentinelle", "arabic": "شبه، علم" },
+        {
+            "english": "Separating character",
+            "french": "Caractère de séparation",
+            "arabic": "سمات تجزئة"
+        },
+        { "english": "Separator", "french": "Séparateur", "arabic": "فاصل" },
+        { "english": "Septenary", "french": "Septenaire", "arabic": "سباعي" },
+        { "english": "Sequence", "french": "Séquence", "arabic": "متتالية" },
+        {
+            "english": "Sequence number",
+            "french": "Numéro d'ordre",
+            "arabic": "رقم الرتبة"
+        },
+        {
+            "english": "Sequence of instructions",
+            "french": "Séquence d'instructions",
+            "arabic": "مسلسل تعليمات"
+        },
+        {
+            "english": "Sequential access",
+            "french": "Séquentiel",
+            "arabic": "تسلسلي"
+        },
+        {
+            "english": "Sequential",
+            "french": "Séquentiel",
+            "arabic": "بلوغ تسلسلي"
+        },
+        { "english": "Seriol", "french": "Série", "arabic": "متوال" },
+        {
+            "english": "Serial computer",
+            "french": "Calculateur série",
+            "arabic": "حاسب بالتوالي ، بجمعة بالتوالي"
+        },
+        {
+            "english": "Serial full adder",
+            "french": "Additionneur série",
+            "arabic": "جامع بالتوالي"
+        },
+        {
+            "english": "Serial full subtracter",
+            "french": "Soustracteur série",
+            "arabic": "أداة طرح بالتسلسل"
+        },
+        {
+            "english": "Serial operation",
+            "french": "Opération en série",
+            "arabic": "عملية بالتوالي"
+        },
+        {
+            "english": "Serial transmission",
+            "french": "Transmission série",
+            "arabic": "إرسال بالتوالي"
+        },
+        {
+            "english": "Service bit",
+            "french": "Bit de service",
+            "arabic": "بتة الخدمة"
+        },
+        {
+            "english": "Service time",
+            "french": "Durée de service",
+            "arabic": "مدة الخدمة"
+        },
+        {
+            "english": "Servo-controlled system",
+            "french": "Système asservi",
+            "arabic": "جهاز مؤازر"
+        },
+        {
+            "english": "Servomechanism",
+            "french": "Asservissement",
+            "arabic": "مككام، ضبط تحكم"
+        },
+        { "english": "Set (to)", "french": "Afficher", "arabic": "عرض" },
+        {
+            "english": "Set point",
+            "french": "Point de consigne",
+            "arabic": "نقطة مفروضة، قيمة فرائضية"
+        },
+        { "english": "Setting", "french": "Affichage", "arabic": "عرض ، عارض" },
+        {
+            "english": "Setting time",
+            "french": "Temps de basculement",
+            "arabic": "مدة الرجرجة"
+        },
+        {
+            "english": "Set value adjuster",
+            "french": "Afficheur de consigne",
+            "arabic": "عرض معدل، عرض للضب"
+        },
+        {
+            "english": "Sexagesimal",
+            "french": "Sexagésimal",
+            "arabic": "ترقيم بقاعدة 60"
+        },
+        { "english": "Shield", "french": "Blindage", "arabic": "تصفيح" },
+        { "english": "Shift", "french": "Décalage", "arabic": "إزاحة ، زحف" },
+        { "english": "Shift (to)", "french": "Décaler", "arabic": "أزاح" },
+        {
+            "english": "Shift accumulator",
+            "french": "Accumulateur à décalage",
+            "arabic": "مركز إزاحي"
+        },
+        { "english": "Shift-in", "french": "En-code", "arabic": "في الكود" },
+        {
+            "english": "Shift-out",
+            "french": "Hors-code",
+            "arabic": "خارج الكود"
+        },
+        {
+            "english": "Shift register",
+            "french": "Registre à décalage",
+            "arabic": "مرصف إزاحي"
+        },
+        { "english": "Sign", "french": "Signe", "arabic": "إشارة ، علامة" },
+        { "english": "Signal", "french": "Signal", "arabic": "إشارة" },
+        {
+            "english": "Signal to noise ratio",
+            "french": "Rapport signal bruit",
+            "arabic": "النسبة إشارة - ضجيج"
+        },
+        {
+            "english": "Sign bit",
+            "french": "Bit de signe",
+            "arabic": "بتة الإشارة"
+        },
+        {
+            "english": "Significant digit",
+            "french": "Chiffre significatif",
+            "arabic": "رقم ذو دلالة"
+        },
+        { "english": "Silicon", "french": "Silicum", "arabic": "سيلسيوم" },
+        {
+            "english": "Simple precision",
+            "french": "Simple précision",
+            "arabic": "دقة بسيطة"
+        },
+        { "english": "Simplex", "french": "Simplex", "arabic": "مفرد" },
+        {
+            "english": "Simulating program",
+            "french": "Programme de simulation",
+            "arabic": "برنامج التقليد والمحاكاة"
+        },
+        {
+            "english": "Simultaneity",
+            "french": "Simultanéité",
+            "arabic": "آني"
+        },
+        {
+            "english": "Simultaneous carry",
+            "french": "Report(s) simultané (s)",
+            "arabic": "مُرحّل ، ترحيل آني"
+        },
+        {
+            "english": "Skip",
+            "french": "Saut de papier",
+            "arabic": "تخظي الورق"
+        },
+        {
+            "english": "Slave mode",
+            "french": "Mode asservi",
+            "arabic": "صيغة الإنقياد"
+        },
+        {
+            "english": "Snapshot",
+            "french": "Instantané",
+            "arabic": "لحظي ، صورة نطفية"
+        },
+        {
+            "english": "Snapshot dump",
+            "french": "Vidage par instant",
+            "arabic": "تفريغ باللحظة"
+        },
+        {
+            "english": "Software",
+            "french": "Logiciel",
+            "arabic": "مناهج ، برامج"
+        },
+        { "english": "Sort", "french": "Tri", "arabic": "فرز" },
+        { "english": "Sort (to)", "french": "Trier", "arabic": "فرز" },
+        { "english": "Sorter", "french": "Trieuse", "arabic": "فارزة" },
+        {
+            "english": "Sorter pocket",
+            "french": "Case de sélection",
+            "arabic": "قادوس أو صندوق الأختيار"
+        },
+        {
+            "english": "Sorter-reader",
+            "french": "Trieuse-liseuse",
+            "arabic": "فارزة مقرأة"
+        },
+        {
+            "english": "Sortgenerator",
+            "french": "Générateur de tri",
+            "arabic": "مولد الفرز"
+        },
+        {
+            "english": "Sort Key",
+            "french": "Indicatif de tri",
+            "arabic": "مبين للفرز"
+        },
+        {
+            "english": "Source language",
+            "french": "Langage d'origine",
+            "arabic": "لغة المصدر"
+        },
+        {
+            "english": "Source language",
+            "french": "Langage source",
+            "arabic": "لغة المنبع ، لغة المصدر"
+        },
+        {
+            "english": "Sourre program",
+            "french": "Programme source",
+            "arabic": "برنامج مصدري"
+        },
+        { "english": "Space", "french": "Espace", "arabic": "تيبض ، فراغ" },
+        {
+            "english": "Spacing",
+            "french": "Interligne",
+            "arabic": "بين الأسطر"
+        },
+        {
+            "english": "Special character",
+            "french": "Caractère spécial",
+            "arabic": "السهات الحاصة"
+        },
+        {
+            "english": "Special communication",
+            "french": "Liaison spécialisée",
+            "arabic": "وصيلة خاصة"
+        },
+        {
+            "english": "Specific address",
+            "french": "Adresse spécifique",
+            "arabic": "عنوان محدد أو نوعي"
+        },
+        { "english": "Stack", "french": "Pile", "arabic": "مكدس" },
+        {
+            "english": "Standby",
+            "french": "En-attente",
+            "arabic": "في الانتظار"
+        },
+        {
+            "english": "Start-of-block Signal",
+            "french": "Signal de début de bloc SOB",
+            "arabic": "إشارة بداية الفرزة"
+        },
+        {
+            "english": "Start of heading",
+            "french": "Début d'en-tête SOH",
+            "arabic": "البداية من الرأس"
+        },
+        {
+            "english": "Start of text",
+            "french": "Début de texte STX",
+            "arabic": "بداية النص"
+        },
+        {
+            "english": "Start-stop system",
+            "french": "Système arythmique",
+            "arabic": "نظام لا إتساقي، نظام بدء ، وقف"
+        },
+        {
+            "english": "Start stop transmission",
+            "french": "Transmission arythmique",
+            "arabic": "إرسال لا إتساقي"
+        },
+        { "english": "State", "french": "Etat", "arabic": "حالة" },
+        {
+            "english": "Staticizer",
+            "french": "Convertisseur série parallèle",
+            "arabic": "متغير متوالي - متوازي"
+        },
+        {
+            "english": "Static storage",
+            "french": "Mémoire statique",
+            "arabic": "ذاكرة ساكنة"
+        },
+        {
+            "english": "Status word",
+            "french": "Mot d'état",
+            "arabic": "كلمة الحالة، كلمة الثيات"
+        },
+        {
+            "english": "Step by step program",
+            "french": "Programme de pas à pas",
+            "arabic": "برنامج خطوة بعد خطوة"
+        },
+        {
+            "english": "Stochastic",
+            "french": "Stochastique",
+            "arabic": "عشوائي"
+        },
+        {
+            "english": "Stoped state",
+            "french": "Etat d'arrêt",
+            "arabic": "حالة التوقف"
+        },
+        { "english": "Storage", "french": "Mémorisation", "arabic": "خزن" },
+        { "english": "Storage", "french": "Stockage", "arabic": "تخزين" },
+        {
+            "english": "Storage block",
+            "french": "Zone de mémoire",
+            "arabic": "حيز الذاكرة"
+        },
+        {
+            "english": "Storage cell",
+            "french": "Cellule de mémoire",
+            "arabic": "خلية من الذاكرة"
+        },
+        {
+            "english": "Storage cycle",
+            "french": "Cycle de mémoire",
+            "arabic": "دورة الذاكرة"
+        },
+        {
+            "english": "Storage protection",
+            "french": "Protection mémoire",
+            "arabic": "حماية الذاكرة"
+        },
+        { "english": "Store (to)", "french": "Mémoriser", "arabic": "خزن" },
+        { "english": "Store (to)", "french": "Stocker", "arabic": "خزن ، حفظ" },
+        {
+            "english": "Stored program Strap",
+            "french": "Programme enregistré Strap",
+            "arabic": "برنامج مسجل"
+        },
+        {
+            "english": "Strobe pulse",
+            "french": "Impulsion de rythme",
+            "arabic": "نبضات منظمة أو موزونة"
+        },
+        {
+            "english": "Strongly connected graph",
+            "french": "Graphe fortement connexe",
+            "arabic": "رسم بياني متصل بقوة"
+        },
+        {
+            "english": "Stubcard",
+            "french": "carte à volet",
+            "arabic": "بطاقة مع درف بطاقة تغليف"
+        },
+        {
+            "english": "Stylus",
+            "french": "Imprimante par points",
+            "arabic": "طابعة بالنقاط"
+        },
+        {
+            "english": "Sub-graph",
+            "french": "Sous-graphe",
+            "arabic": "رسم بياني ثانوي"
+        },
+        {
+            "english": "Subroutine",
+            "french": "Sous-programme",
+            "arabic": "برنامج ثانوي"
+        },
+        {
+            "english": "Substatus",
+            "french": "Etat secondaire",
+            "arabic": "حالة ثانوية"
+        },
+        {
+            "english": "Substitution",
+            "french": "Substitution",
+            "arabic": "تبديل"
+        },
+        {
+            "english": "Subsystem",
+            "french": "Sous-système",
+            "arabic": "نظام ثانوي"
+        },
+        {
+            "english": "Subtracter",
+            "french": "Soustracteur",
+            "arabic": "طارح، أداة طرح"
+        },
+        {
+            "english": "Summary card",
+            "french": "Carte récapitulative",
+            "arabic": "بطاقة تلخيص - إجمالي"
+        },
+        {
+            "english": "Super group",
+            "french": "Groupe secondaire",
+            "arabic": "مجموعة ثانوية"
+        },
+        {
+            "english": "Super group",
+            "french": "Groupe tertiaire",
+            "arabic": "مجموعة ثلاثية"
+        },
+        {
+            "english": "Supervisor",
+            "french": "Superviseur",
+            "arabic": "مشرف، منفذ"
+        },
+        {
+            "english": "Supervisor mode",
+            "french": "Mode superviseur",
+            "arabic": "صبغة الاشراف"
+        },
+        { "english": "Swap", "french": "Echange", "arabic": "تبادل" },
+        {
+            "english": "Switch",
+            "french": "Commutateur",
+            "arabic": "مفتاح ، مبدل"
+        },
+        {
+            "english": "Switch (to)",
+            "french": "Basculer",
+            "arabic": "رجراج ثنائي الاستقرار"
+        },
+        { "english": "Switch (to)", "french": "Commuter", "arabic": "بذّل" },
+        {
+            "english": "Switched line",
+            "french": "Ligne commutée",
+            "arabic": "خط متبدل"
+        },
+        { "english": "Switching", "french": "Commutation", "arabic": "تبديل" },
+        {
+            "english": "Switching algebra",
+            "french": "Algèbre des circuits",
+            "arabic": "جبر الدارات"
+        },
+        {
+            "english": "Switching network",
+            "french": "Réseau commuté",
+            "arabic": "شبكة مبدلة"
+        },
+        {
+            "english": "Switching time",
+            "french": "Temps de commutation",
+            "arabic": "مدة التبديل"
+        },
+        { "english": "Symbol", "french": "Symbole", "arabic": "رمز" },
+        {
+            "english": "Symbolic address",
+            "french": "Adresse symbolique",
+            "arabic": "عنوان رمزي"
+        },
+        {
+            "english": "Symbolic code",
+            "french": "Code symbolique",
+            "arabic": "كود رمزي"
+        },
+        {
+            "english": "Symbolic instruction",
+            "french": "Instruction symbolique",
+            "arabic": "تعليمات رمزية"
+        },
+        {
+            "english": "Symbolic language",
+            "french": "Langage symbolique",
+            "arabic": "لغة رمزية"
+        },
+        {
+            "english": "Symmetric graph",
+            "french": "Graphe symétrique",
+            "arabic": "الرسم البياني المتوازن"
+        },
+        {
+            "english": "Synchronize (to)",
+            "french": "Synchroniser",
+            "arabic": "يزامن"
+        },
+        {
+            "english": "Synchronizer",
+            "french": "Synchroniseur",
+            "arabic": "مزامن"
+        },
+        { "english": "Synchronous", "french": "Synchrone", "arabic": "تزامن" },
+        {
+            "english": "Synchronous character",
+            "french": "Caractère de synchronisation",
+            "arabic": "سمة مزامنة"
+        },
+        {
+            "english": "Synchronous computer",
+            "french": "Calculteur synchrone",
+            "arabic": "حاسب بالتزامن"
+        },
+        {
+            "english": "Synchronous idle",
+            "french": "Synchronisation au repos SYN",
+            "arabic": "تزامن في الاستراحة"
+        },
+        {
+            "english": "Synchronous system",
+            "french": "Système synchrone",
+            "arabic": "نظام متزامن"
+        },
+        {
+            "english": "Synchronous transmission",
+            "french": "Transmission synchrone",
+            "arabic": "إرسال بالتزامن"
+        },
+        {
+            "english": "Synchronous working",
+            "french": "Fonctionnement synchrone",
+            "arabic": "اشتغال تزامني"
+        },
+        {
+            "english": "Syncing",
+            "french": "Synchronisation",
+            "arabic": "مزامنة"
+        },
+        {
+            "english": "Syntax",
+            "french": "Syntaxe",
+            "arabic": "نحو، تشكيل لغوي"
+        },
+        { "english": "System", "french": "Système", "arabic": "نظام" },
+        {
+            "english": "System deviation",
+            "french": "Ecart de régulation",
+            "arabic": "فارق التنظيم"
+        },
+        {
+            "english": "System generator",
+            "french": "Générateur de système",
+            "arabic": "مولد النظام ( البرنامج مولد نظام التشغيل )"
+        },
+        {
+            "english": "Table",
+            "french": "Barème",
+            "arabic": "معدل - جدول -حسابات جاهزة"
+        },
+        { "english": "Tabular", "french": "Tabulaire", "arabic": "مجدول" },
+        { "english": "Tabulate (to)", "french": "Tabuler", "arabic": "جدول" },
+        { "english": "Tabulation", "french": "Tabulation", "arabic": "جدولة" },
+        { "english": "Tabulator", "french": "Tabulatrice", "arabic": "مجدولة" },
+        { "english": "Tape", "french": "Bande", "arabic": "شريط تسجيل، نطاق" },
+        {
+            "english": "Tape Punch",
+            "french": "Perforateur de bande",
+            "arabic": "مثقب الأشرطة"
+        },
+        {
+            "english": "Target computer",
+            "french": "Calculateur d'exécution",
+            "arabic": "حاسب التنفيذ"
+        },
+        {
+            "english": "Target language",
+            "french": "Langage résultant",
+            "arabic": "لغة ناتجة"
+        },
+        { "english": "Task", "french": "Tâche", "arabic": "مُهمة" },
+        {
+            "english": "Telecommunication",
+            "french": "Télécommunication",
+            "arabic": "اتصالات بعيدة"
+        },
+        {
+            "english": "Telegraph line",
+            "french": "Ligne télégraphique",
+            "arabic": "خط تلغراف"
+        },
+        {
+            "english": "Telegraph modulation",
+            "french": "Modulation télégraphique",
+            "arabic": "تضمين تلغرافي"
+        },
+        {
+            "english": "Telegraphy",
+            "french": "Télégraphie",
+            "arabic": "تلغراف"
+        },
+        {
+            "english": "Telegraphy communication",
+            "french": "Liaison télégraphique",
+            "arabic": "وصيلة تلغرافية"
+        },
+        {
+            "english": "Teleinformatics",
+            "french": "Téléniformatique",
+            "arabic": "معلوماتية بعيدة"
+        },
+        { "english": "Telephony", "french": "Téléphonie", "arabic": "تلفون" },
+        {
+            "english": "Teleprinter",
+            "french": "Téléimprimeur",
+            "arabic": "طابعة بعيدة"
+        },
+        {
+            "english": "Teleprocessing",
+            "french": "Télétraitement",
+            "arabic": "معالجة بعيدة"
+        },
+        {
+            "english": "Teletype",
+            "french": "Télétype",
+            "arabic": "أداة طباعة بعيدة"
+        },
+        { "english": "Telex", "french": "Télex", "arabic": "تلكس" },
+        {
+            "english": "Telex network",
+            "french": "Réseau télex 50 bauds",
+            "arabic": "شبكة تلكس 50 بود"
+        },
+        {
+            "english": "Telex network",
+            "french": "Réseau télex 200 bauds",
+            "arabic": "شبكة تلكس 200 بود"
+        },
+        {
+            "english": "Temporary storage",
+            "french": "Mémoire temporaire",
+            "arabic": "ذاكرة مؤقتة"
+        },
+        {
+            "english": "Terminal",
+            "french": "Terminal",
+            "arabic": "معبر ، أداة طرفية"
+        },
+        {
+            "english": "Terminal device",
+            "french": "Appareil terminal",
+            "arabic": "جهاز نهائي"
+        },
+        {
+            "english": "Terminal equipment",
+            "french": "Poste terminal",
+            "arabic": "أداة طرفية"
+        },
+        {
+            "english": "Terminator",
+            "french": "Finisseur",
+            "arabic": "متمم عمل"
+        },
+        { "english": "Ternary", "french": "Ternaire", "arabic": "ثلاثي" },
+        { "english": "Test", "french": "Test", "arabic": "إختبار" },
+        {
+            "english": "Test data",
+            "french": "Donnée d'essai",
+            "arabic": "معطيات إختتبار"
+        },
+        { "english": "Test deck", "french": "Jeu d'essai", "arabic": "إختبار" },
+        {
+            "english": "Test file generator",
+            "french": "Générateur de fichier d'essais",
+            "arabic": "مولد لسجل الاختبار"
+        },
+        {
+            "english": "Test routine",
+            "french": "Programme de test",
+            "arabic": "برنامج تدقيق"
+        },
+        { "english": "Text", "french": "Texte", "arabic": "نص" },
+        {
+            "english": "Theory of games",
+            "french": "Théorie des jeux",
+            "arabic": "علم الالعاب"
+        },
+        { "english": "Tick", "french": "Battement", "arabic": "ضربة ، صدمة" },
+        { "english": "Time", "french": "Temps", "arabic": "وقت ، مدة" },
+        {
+            "english": "Time base",
+            "french": "Base de temps",
+            "arabic": "قاعدة الوقت"
+        },
+        {
+            "english": "Time constant",
+            "french": "Constante de temps",
+            "arabic": "ثابتة الوقت"
+        },
+        {
+            "english": "Time division multiplex TDM",
+            "french": "Multiplexage dans le temps",
+            "arabic": "مضاعف الإِرسال في الوقت"
+        },
+        {
+            "english": "Timer",
+            "french": "Minuterie",
+            "arabic": "مقسمة الوقت، ساعة"
+        },
+        {
+            "english": "Time sharing",
+            "french": "Partage de temps",
+            "arabic": "تقسيم الوقت"
+        },
+        {
+            "english": "Time sharing",
+            "french": "Temps partagé",
+            "arabic": "الوقت المقسم"
+        },
+        {
+            "english": "Time slicing",
+            "french": "Allocation des temps",
+            "arabic": "تخصيص الوقت أو توزيعه"
+        },
+        {
+            "english": "Time sharing system",
+            "french": "Système en temps partagé",
+            "arabic": "نظام بالوقت المقسم"
+        },
+        {
+            "english": "Total device",
+            "french": "Totalisateur",
+            "arabic": "مجمج"
+        },
+        { "english": "Tournament", "french": "Tournoi", "arabic": "مباراة" },
+        {
+            "english": "Trace program",
+            "french": "Programme d'analyse",
+            "arabic": "برنامج تحليل"
+        },
+        { "english": "Track", "french": "Voie", "arabic": "مسلك" },
+        { "english": "Track", "french": "Piste", "arabic": "مسار" },
+        {
+            "english": "Traffic",
+            "french": "Trafic",
+            "arabic": "سير، حركة مرور"
+        },
+        {
+            "english": "Trailing end",
+            "french": "Fin de bande",
+            "arabic": "نهاية الشريط"
+        },
+        {
+            "english": "Transcribe (to)",
+            "french": "Transcrire",
+            "arabic": "نسخ ، دون"
+        },
+        {
+            "english": "Transfer",
+            "french": "Transfert",
+            "arabic": "نقل، انتقال"
+        },
+        {
+            "english": "Transfer (to)",
+            "french": "Transférer",
+            "arabic": "إنتقال"
+        },
+        {
+            "english": "Transfer channel",
+            "french": "Canal de transfert",
+            "arabic": "قناة نقل"
+        },
+        {
+            "english": "Transfer control (to)",
+            "french": "Brancher",
+            "arabic": "طفر ، دُرُع"
+        },
+        {
+            "english": "Transfer rate",
+            "french": "Vitesse de transfert",
+            "arabic": "سرعة الانتقال"
+        },
+        {
+            "english": "Transform (to)",
+            "french": "Transformer",
+            "arabic": "حوّل"
+        },
+        {
+            "english": "Transitive closure",
+            "french": "Fermeture transitive",
+            "arabic": "إغلاق متعدية، انتقالية"
+        },
+        { "english": "Translate (to)", "french": "Traduire", "arabic": "ترجم" },
+        { "english": "Translation", "french": "Traduction", "arabic": "ترجمة" },
+        {
+            "english": "Translator",
+            "french": "Programme de traduction",
+            "arabic": "برنامج الترجمة"
+        },
+        { "english": "Translator", "french": "Traducteur", "arabic": "مترجم" },
+        {
+            "english": "Transliterate (to)",
+            "french": "Translittérer",
+            "arabic": "نقحر"
+        },
+        {
+            "english": "Transliteration",
+            "french": "Translitteration",
+            "arabic": "نقحرة"
+        },
+        {
+            "english": "Transmission",
+            "french": "Transmission",
+            "arabic": "إنتقال"
+        },
+        {
+            "english": "Transmission channel",
+            "french": "Voie de transmission",
+            "arabic": "مسلك الإِرسال"
+        },
+        {
+            "english": "Transmission control",
+            "french": "Commande transmission",
+            "arabic": "تحكم بالإِرسال"
+        },
+        {
+            "english": "Transmission control character",
+            "french": "Caractère de service",
+            "arabic": "سمات الخدمة"
+        },
+        { "english": "Tree", "french": "Arbre", "arabic": "شجرة" },
+        {
+            "english": "Trigger pair circuit",
+            "french": "Basculeur",
+            "arabic": "ترجرج - رجج"
+        },
+        {
+            "english": "Truncate (to)",
+            "french": "Tronquer",
+            "arabic": "بتر ، قطع"
+        },
+        {
+            "english": "Turing machine",
+            "french": "Machine de Turing",
+            "arabic": "آلة تورينغ"
+        },
+        {
+            "english": "Type bar",
+            "french": "Barre à caractères",
+            "arabic": "قضيب - حاجز"
+        },
+        {
+            "english": "Type-bar printer",
+            "french": "Imprimante à barres",
+            "arabic": "طابعة بالقضبان"
+        },
+        {
+            "english": "Typewriter",
+            "french": "Machine à écrire",
+            "arabic": "آلة كاتبة"
+        },
+        {
+            "english": "Unconditional jump",
+            "french": "Branchement inconditionnel",
+            "arabic": "طفرة غير مشروطة"
+        },
+        { "english": "Undecimal", "french": "Undecimal", "arabic": "أحد عشري" },
+        {
+            "english": "Undirected graph",
+            "french": "Graphe non orienté",
+            "arabic": "رسم بياني غير موجه"
+        },
+        { "english": "Union", "french": "Réunion", "arabic": "وحدة" },
+        { "english": "Unit", "french": "Unité", "arabic": "وحدة" },
+        { "english": "Unit element", "french": "Moment", "arabic": "لحظة" },
+        {
+            "english": "Universal Turing machine",
+            "french": "Machine de Turing universelle",
+            "arabic": "آلة تورينغ العامة"
+        },
+        {
+            "english": "Unloading",
+            "french": "Déchargement",
+            "arabic": "تفريغ - تنزيل"
+        },
+        {
+            "english": "Unpack (to)",
+            "french": "Dégrouper",
+            "arabic": "إعادة تجميع أو فصل"
+        },
+        {
+            "english": "Update (to)",
+            "french": "Mettre à jour",
+            "arabic": "أتم، رحّل القيد في الدفاتر"
+        },
+        {
+            "english": "Updating",
+            "french": "Mise à jour",
+            "arabic": "مراجعة إستيفاء"
+        },
+        {
+            "english": "Upper bit",
+            "french": "Bit de rang supérieur",
+            "arabic": "بتة عالي الدلالة"
+        },
+        {
+            "english": "Utility program",
+            "french": "Programme de service",
+            "arabic": "برنامج خدمة"
+        },
+        {
+            "english": "Utility program",
+            "french": "Programme utilitaire",
+            "arabic": "برنامج خدمة، برنامج مُساعِد"
+        },
+        { "english": "Valence", "french": "Valence", "arabic": "تكافؤ" },
+        {
+            "english": "Validity check",
+            "french": "Contrôle de vraisemblance",
+            "arabic": "تدقيق بصحة النتائج"
+        },
+        {
+            "english": "Variable length",
+            "french": "Longueur variable",
+            "arabic": "طول متحول"
+        },
+        {
+            "english": "Variable length record",
+            "french": "Enregistrement en longueur variable",
+            "arabic": "تسجيل متغير الطول"
+        },
+        { "english": "Verifier", "french": "Vérificatrice", "arabic": "مدققة" },
+        {
+            "english": "Vertical tabulation",
+            "french": "Tabulation verticale",
+            "arabic": "طابعة عامودية"
+        },
+        { "english": "Vicesimal", "french": "Vicésimal", "arabic": "عشريني" },
+        {
+            "english": "Virtual address",
+            "french": "Adresse virtuelle",
+            "arabic": "عنوان فرضي أو تقديري"
+        },
+        {
+            "english": "Virtual memory",
+            "french": "Mémoire virtuelle",
+            "arabic": "ذاكرة فرضية"
+        },
+        {
+            "english": "Virtual space",
+            "french": "Espace virtuel",
+            "arabic": "فجوة فرضية أو تقديرية"
+        },
+        {
+            "english": "Visual display",
+            "french": "Visualisation",
+            "arabic": "عرض بصري"
+        },
+        {
+            "english": "Vocabulary",
+            "french": "Vocabulaire",
+            "arabic": "مفردات"
+        },
+        {
+            "english": "Voice communication",
+            "french": "Liaison téléphonique",
+            "arabic": "وصيلة تلفونية"
+        },
+        {
+            "english": "Voice grade line",
+            "french": "Ligne téléphonique",
+            "arabic": "خط تلفوني"
+        },
+        {
+            "english": "Volatile memory",
+            "french": "Mémoire volatile",
+            "arabic": "ذاكرة متبخرة"
+        },
+        {
+            "english": "Voltage level",
+            "french": "Niveau de tension",
+            "arabic": "مستوى الجهد"
+        },
+        { "english": "Volume", "french": "Volume", "arabic": "حجم" },
+        {
+            "english": "Waiting state",
+            "french": "Etat d'attente",
+            "arabic": "لائحة الانتظار"
+        },
+        { "english": "Weight", "french": "Poids", "arabic": "وزن ، قوة" },
+        { "english": "Weight", "french": "Pondérateur", "arabic": "موازن" },
+        {
+            "english": "Weighted code",
+            "french": "Code pondéré",
+            "arabic": "كود متزن"
+        },
+        { "english": "Weighting", "french": "Pondération", "arabic": "موازنة" },
+        {
+            "english": "White noise",
+            "french": "Bruit blanc",
+            "arabic": "ضجيج أبيض"
+        },
+        { "english": "Wired-in", "french": "Câble", "arabic": "مبرمجة" },
+        {
+            "english": "Wired program",
+            "french": "Programme câblé",
+            "arabic": "برنامج بجدول"
+        },
+        { "english": "Wiring", "french": "Câblage", "arabic": "كابلات توصيل" },
+        { "english": "Word", "french": "Mot", "arabic": "كلمة" },
+        {
+            "english": "Word length",
+            "french": "Longueur de mot",
+            "arabic": "طول الكلمة"
+        },
+        {
+            "english": "Working area",
+            "french": "Zone de manœuvre",
+            "arabic": "حيز العمل"
+        },
+        {
+            "english": "Working storage",
+            "french": "Mémoire banale",
+            "arabic": "ذاكرة مبتذلة"
+        },
+        {
+            "english": "Working storage",
+            "french": "Mémoire de travail",
+            "arabic": "ذاكرة العمل"
+        },
+        { "english": "Write (to)", "french": "Ecrire", "arabic": "كتب" },
+        { "english": "Writing", "french": "Ecriture", "arabic": "كتابة" },
+        {
+            "english": "Xerographic printer",
+            "french": "Imprimante xérographique",
+            "arabic": "طابعة تصويرية"
+        },
+        {
+            "english": "Xerography",
+            "french": "Xérographie",
+            "arabic": "تصوير كهربائي"
+        },
+        {
+            "english": "X-Punch",
+            "french": "X (ligne des)",
+            "arabic": "السطر x"
+        },
+        {
+            "english": "Y-Punch",
+            "french": "Y (ligne des)",
+            "arabic": "السطر Y"
+        },
+        { "english": "Zerostate", "french": "Etat zéro", "arabic": "حالة صفر" },
+        {
+            "english": "Zero suppression",
+            "french": "Suppression de zéros",
+            "arabic": "الغاء الصفر"
+        }
+    ]
+}
