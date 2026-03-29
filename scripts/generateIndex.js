@@ -2,7 +2,7 @@
 import fs from 'fs';
 import path from 'path';
 
-const baseDir = path.resolve('static/data/publishers');
+const baseDir = path.resolve('../static/data/publishers');
 const indexFile = path.join(baseDir, 'index.json');
 
 function walk(dir) {

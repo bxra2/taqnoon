@@ -1,19 +1,16 @@
 // src/routes/(app)/loadData.js
-export const prerender = false;
-export const trailingSlash = 'always';
 
-export async function load() {
+export async function load(event) {
     try {
         // 1️⃣ Fetch the index file listing all publisher JSON files
-        const indexRes = await fetch('/data/publishers/index.json');
-        const files = await indexRes.json(); // ["scs/scs-1.json", "scs/scs-2.json", ...]
+        const indexRes = await event.fetch('/data/publishers/index.json');
+        const files = await indexRes.json();
 
         const allData = [];
         const publisherMap = new Map();
 
-        // 2️⃣ Fetch each JSON file dynamically
         for (const file of files) {
-            const res = await fetch(`/data/publishers/${file}`);
+            const res = await event.fetch(`/data/publishers/${file}`);
             const json = await res.json();
 
             if (!json.fileData || !Array.isArray(json.entries)) continue;
@@ -53,7 +50,6 @@ export async function load() {
             }
         }
 
-        // 3️⃣ Convert maps to arrays for easier usage in Svelte components
         const termData = allData;
         const publishersData = Array.from(publisherMap.values()).map((pub) => ({
             ...pub,

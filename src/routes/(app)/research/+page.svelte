@@ -456,7 +456,7 @@
     </div>
   {:else if isLoadingStats}
     <Loading message="جاري تحليل البيانات..." />
-  {:else if query && finalStats.translations.length === 0}
+  {:else if query && (finalStats.translations?.length ?? 0) === 0}
     <p class="text-center text-gray-500 py-12">لا توجد بيانات لهذا المصطلح.</p>
   {/if}
 </div>
