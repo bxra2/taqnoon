@@ -10,20 +10,20 @@ import (
 	"go.mongodb.org/mongo-driver/v2/bson"
 )
 
-func GetPublishers(c fiber.Ctx) error {
-	ctx, cancel := context.WithTimeout(context.Background(), 10*time.Second)
+func GetTerms(c fiber.Ctx) error {
+	ctx, cancel := context.WithTimeout(context.Background(), 15*time.Second)
 	defer cancel()
 
-	cursor, err := db.GetCollection("taqnoon", "publishers").Find(ctx, bson.M{})
+	cursor, err := db.GetCollection("taqnoon", "terms").Find(ctx, bson.M{})
 	if err != nil {
 		return fiber.NewError(fiber.StatusInternalServerError, "DB error")
 	}
 	defer cursor.Close(ctx)
 
-	publishers := make([]models.Publisher, 0)
-	if err := cursor.All(ctx, &publishers); err != nil {
+	terms := make([]models.Term, 0)
+	if err := cursor.All(ctx, &terms); err != nil {
 		return fiber.NewError(fiber.StatusInternalServerError, "Decode error")
 	}
 
-	return c.JSON(publishers)
+	return c.JSON(terms)
 }
