@@ -110,7 +110,7 @@ func fetchAndParse(ctx context.Context, src LocalizationSource, counter *uint64)
 	}
 
 	var raw []struct{ english, arabic string }
-	if src.Type == "txt" {
+	if src.FileType == "txt" {
 		raw = parseTxt(string(body))
 	} else {
 		raw = parsePo(string(body))

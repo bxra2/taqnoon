@@ -13,3 +13,8 @@ func GetLocalizations(c fiber.Ctx) error {
 	c.Set("Cache-Control", "public, max-age=21600, stale-while-revalidate=86400")
 	return c.JSON(entries)
 }
+
+func GetLocalizationSources(c fiber.Ctx) error {
+	c.Set("Cache-Control", "public, max-age=21600, stale-while-revalidate=86400")
+	return c.JSON(localizations.SourcesByPublisher())
+}

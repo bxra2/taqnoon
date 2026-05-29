@@ -1,7 +1,7 @@
 <script>
     let { data } = $props()
 
-    let { publishersData } = data
+    let { publishersData, localizationSourcesData } = data
 </script>
 
 <div class="space-y-6" dir="rtl">
@@ -38,6 +38,38 @@
                                 class="no-underline text-left"
                             >
                                 {glossary.glossaryEn}
+                            </a>
+                        </span>
+                    </li>
+                {/each}
+            </ul>
+        </div>
+    {/each}
+    <h2 class="text-2xl text-center font-bold mb-4">مشاريع التوطين</h2>
+    {#each localizationSourcesData as publisher}
+        <div class="my-6 border p-4 rounded-3xl">
+            <div class="flex justify-between items-center mb-6 mt-4">
+                <p class="text-2xl">{publisher.publisherAr}</p>
+                <p class="text-2xl" dir="ltr">{publisher.publisherEn}</p>
+            </div>
+            <div class="flex justify-between items-center mb-6 mt-4">
+                <p class="text-xl">- المشاريع :</p>
+                <p class="text-xl" dir="ltr">- projects :</p>
+            </div>
+            <ul>
+                {#each publisher.projects as project}
+                    <li class="flex justify-between items-center mx-2">
+                        <span>
+                            <a href={project.url} class="no-underline">
+                                {project.projectAr}
+                            </a>
+                        </span>
+                        <span class="text-left" dir="ltr">
+                            <a
+                                href={project.url}
+                                class="no-underline text-left"
+                            >
+                                {project.projectEn}
                             </a>
                         </span>
                     </li>

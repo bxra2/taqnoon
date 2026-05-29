@@ -29,6 +29,7 @@ func main() {
 	api.Get("/publishers", handlers.GetPublishers)
 	api.Get("/terms", handlers.GetTerms)
 	api.Get("/localizations", handlers.GetLocalizations)
+	api.Get("/localizations/sources", handlers.GetLocalizationSources)
 
 	// Static files + SPA fallback to index.html for client-side routes.
 	app.Get("/*", static.New(staticRoot, static.Config{
@@ -41,7 +42,7 @@ func main() {
 
 	port := os.Getenv("PORT")
 	if port == "" {
-		port = "8080"
+		port = "5000"
 	}
 	log.Fatal(app.Listen(":" + port))
 }
