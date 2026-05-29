@@ -1,1 +1,0 @@
-.loading-spinner.svelte-1a5pdw0{width:48px;height:48px;border:4px solid var(--accent);border-top:4px solid var(--text-color);border-radius:50%;animation:svelte-1a5pdw0-spin 1s linear infinite}@keyframes svelte-1a5pdw0-spin{0%{transform:rotate(0)}to{transform:rotate(360deg)}}.dark .loading-spinner.svelte-1a5pdw0{border-color:#374151;border-top-color:#60a5fa}
