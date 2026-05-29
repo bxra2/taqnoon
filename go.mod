@@ -1,10 +1,10 @@
 module github.com/bxra2/taqnun
 
-go 1.26.1
+go 1.25.9
 
 require (
 	github.com/andybalholm/brotli v1.2.1 // indirect
-	github.com/gofiber/fiber/v3 v3.3.0 // indirect
+	github.com/gofiber/fiber/v3 v3.3.0
 	github.com/gofiber/schema v1.7.1 // indirect
 	github.com/gofiber/utils/v2 v2.0.6 // indirect
 	github.com/google/uuid v1.6.0 // indirect
@@ -19,7 +19,7 @@ require (
 	github.com/xdg-go/scram v1.2.0 // indirect
 	github.com/xdg-go/stringprep v1.0.4 // indirect
 	github.com/youmark/pkcs8 v0.0.0-20240726163527-a2c0da244d78 // indirect
-	go.mongodb.org/mongo-driver/v2 v2.6.0 // indirect
+	go.mongodb.org/mongo-driver/v2 v2.6.0
 	golang.org/x/crypto v0.51.0 // indirect
 	golang.org/x/net v0.54.0 // indirect
 	golang.org/x/sync v0.20.0 // indirect
