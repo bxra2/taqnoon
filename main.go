@@ -8,6 +8,7 @@ import (
 
 	"github.com/bxra2/taqnun/db"
 	"github.com/bxra2/taqnun/handlers"
+	"github.com/bxra2/taqnun/ingest"
 	"github.com/gofiber/fiber/v3"
 	"github.com/gofiber/fiber/v3/middleware/static"
 )
@@ -20,6 +21,9 @@ func main() {
 	db.Connect()
 	if err := db.Migrate(); err != nil {
 		log.Fatal("migration failed:", err)
+	}
+	if err := ingest.Run(db.Conn, "db/data/glossaries"); err != nil {
+		log.Fatal("ingestion failed:", err)
 	}
 	defer db.Close()
 
