@@ -47,22 +47,22 @@
             bg: 'bg-blue-500/10'
         },
         {
-            label: 'مصطلحات عربية',
+            label: 'المصطلحات عربية',
             value: termsByLang.ar.toLocaleString('ar-EG'),
             icon: Languages,
             color: 'text-amber-500',
             bg: 'bg-amber-500/10'
         },
         {
-            label: 'مصطلحات فرنسية',
-            value: termsByLang.fr.toLocaleString('ar-EG'),
+            label: 'المصطلحات فرنسية',
+            value: termsByLang.fr?.toLocaleString('ar-EG'),
             icon: Languages,
             color: 'text-blue-500',
             bg: 'bg-blue-500/10'
         },
         {
-            label: 'مصطلحات الألمانية',
-            value: termsByLang.gr.toLocaleString('ar-EG'),
+            label: 'المصطلحات الألمانية',
+            value: termsByLang.gr?.toLocaleString('ar-EG'),
             icon: Languages,
             color: 'text-purple-500',
             bg: 'bg-purple-500/10'
