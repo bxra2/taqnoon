@@ -1,28 +1,63 @@
 package handlers
 
 import (
-	"context"
-	"time"
+	"log"
 
 	"github.com/bxra2/taqnun/db"
 	"github.com/bxra2/taqnun/models"
 	"github.com/gofiber/fiber/v3"
-	"go.mongodb.org/mongo-driver/v2/bson"
 )
 
 func GetPublishers(c fiber.Ctx) error {
-	ctx, cancel := context.WithTimeout(context.Background(), 10*time.Second)
-	defer cancel()
-
-	cursor, err := db.GetCollection("taqnoon", "publishers").Find(ctx, bson.M{})
+	pubRows, err := db.Conn.Query(`
+		SELECT id, COALESCE(publisherEn,''), COALESCE(publisherAr,''), COALESCE(publisherUrl,'')
+		FROM publisher`)
 	if err != nil {
+		log.Printf("GetPublishers query: %v", err)
 		return fiber.NewError(fiber.StatusInternalServerError, "DB error")
 	}
-	defer cursor.Close(ctx)
+	defer pubRows.Close()
 
 	publishers := make([]models.Publisher, 0)
-	if err := cursor.All(ctx, &publishers); err != nil {
-		return fiber.NewError(fiber.StatusInternalServerError, "Decode error")
+	idx := make(map[int64]int) // publisher id -> position in slice
+
+	for pubRows.Next() {
+		var p models.Publisher
+		if err := pubRows.Scan(&p.ID, &p.PublisherEn, &p.PublisherAr, &p.PublisherURL); err != nil {
+			log.Printf("GetPublishers scan: %v", err)
+			return fiber.NewError(fiber.StatusInternalServerError, "Decode error")
+		}
+		p.Glossaries = make([]models.Glossary, 0) // [] not null in JSON
+		idx[p.ID] = len(publishers)
+		publishers = append(publishers, p)
+	}
+	if err := pubRows.Err(); err != nil {
+		return fiber.NewError(fiber.StatusInternalServerError, "DB error")
+	}
+
+	glosRows, err := db.Conn.Query(`
+		SELECT publisher_id, COALESCE(glossaryEn,''), COALESCE(glossaryAr,''),
+		       COALESCE(glossaryUrl,''), COALESCE(license,'')
+		FROM glossary`)
+	if err != nil {
+		log.Printf("GetPublishers glossaries: %v", err)
+		return fiber.NewError(fiber.StatusInternalServerError, "DB error")
+	}
+	defer glosRows.Close()
+
+	for glosRows.Next() {
+		var pubID int64
+		var g models.Glossary
+		if err := glosRows.Scan(&pubID, &g.GlossaryEn, &g.GlossaryAr, &g.GlossaryURL, &g.License); err != nil {
+			log.Printf("GetPublishers glossary scan: %v", err)
+			return fiber.NewError(fiber.StatusInternalServerError, "Decode error")
+		}
+		if i, ok := idx[pubID]; ok {
+			publishers[i].Glossaries = append(publishers[i].Glossaries, g)
+		}
+	}
+	if err := glosRows.Err(); err != nil {
+		return fiber.NewError(fiber.StatusInternalServerError, "DB error")
 	}
 
 	return c.JSON(publishers)

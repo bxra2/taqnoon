@@ -1,32 +1,42 @@
 package handlers
 
 import (
-	"context"
 	"log"
-	"time"
 
 	"github.com/bxra2/taqnun/db"
 	"github.com/bxra2/taqnun/models"
 	"github.com/gofiber/fiber/v3"
-	"go.mongodb.org/mongo-driver/v2/bson"
 )
 
 func GetTerms(c fiber.Ctx) error {
-	ctx, cancel := context.WithTimeout(context.Background(), 60*time.Second)
-	defer cancel()
-
-	cursor, err := db.GetCollection("taqnoon", "terms").Find(ctx, bson.M{})
+	rows, err := db.Conn.Query(`
+		SELECT t.id, COALESCE(t.english,''), COALESCE(t.arabic,''),
+		       COALESCE(t.french,''), COALESCE(t.german,''),
+		       COALESCE(t.term_url,''), COALESCE(t.description,''),
+		       COALESCE(g.glossaryEn,''), COALESCE(g.glossaryAr,''), COALESCE(g.glossaryUrl,''),
+		       COALESCE(g.publisher_id, 0)
+		FROM term t
+		JOIN glossary g ON g.id = t.glossary_id`)
 	if err != nil {
-		log.Printf("GetTerms find error: %v", err)
+		log.Printf("GetTerms query: %v", err)
 		return fiber.NewError(fiber.StatusInternalServerError, "DB error")
 	}
-	defer cursor.Close(ctx)
+	defer rows.Close()
 
 	terms := make([]models.Term, 0)
-	if err := cursor.All(ctx, &terms); err != nil {
-		log.Printf("GetTerms decode error: %v", err)
-		return fiber.NewError(fiber.StatusInternalServerError, "Decode error")
+	for rows.Next() {
+		var t models.Term
+		if err := rows.Scan(&t.ID, &t.English, &t.Arabic, &t.French, &t.German,
+			&t.TURL, &t.Description,
+			&t.GlossaryEn, &t.GlossaryAr, &t.GlossaryURL, &t.PublisherID); err != nil {
+			log.Printf("GetTerms scan: %v", err)
+			return fiber.NewError(fiber.StatusInternalServerError, "Decode error")
+		}
+		terms = append(terms, t)
 	}
-
+	if err := rows.Err(); err != nil {
+		log.Printf("GetTerms rows: %v", err)
+		return fiber.NewError(fiber.StatusInternalServerError, "DB error")
+	}
 	return c.JSON(terms)
 }

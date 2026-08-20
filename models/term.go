@@ -1,16 +1,15 @@
 package models
 
-import "go.mongodb.org/mongo-driver/v2/bson"
-
 type Term struct {
-	ID          bson.ObjectID `bson:"_id,omitempty"    json:"id"`
-	English     string        `bson:"english"          json:"english"`
-	Arabic      string        `bson:"arabic"           json:"arabic"`
-	French      string        `bson:"french,omitempty" json:"french,omitempty"`
-	German      string        `bson:"german,omitempty" json:"german,omitempty"`
-	TURL        string        `bson:"tURL,omitempty"   json:"tURL,omitempty"`
-	GlossaryEn  string        `bson:"glossaryEn"       json:"glossaryEn"`
-	GlossaryAr  string        `bson:"glossaryAr"       json:"glossaryAr"`
-	GlossaryURL string        `bson:"glossaryUrl"      json:"glossaryUrl"`
-	PublisherID bson.ObjectID `bson:"publisherId"      json:"publisherId"`
+	ID          int64  `json:"id"`
+	English     string `json:"english"`
+	Arabic      string `json:"arabic"`
+	French      string `json:"french,omitempty"`
+	German      string `json:"german,omitempty"`
+	TURL        string `json:"tURL,omitempty"`
+	Description string `json:"description,omitempty"`
+	GlossaryEn  string `json:"glossaryEn"`
+	GlossaryAr  string `json:"glossaryAr"`
+	GlossaryURL string `json:"glossaryUrl"`
+	PublisherID int64  `json:"publisherId"`
 }

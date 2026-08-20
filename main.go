@@ -17,11 +17,11 @@ const staticRoot = "./frontend/dist"
 func main() {
 	loadDotenv(".env")
 
-	uri := os.Getenv("MONGODB_URI")
-	if uri == "" {
-		log.Fatal("MONGODB_URI is not set")
+	db.Connect()
+	if err := db.Migrate(); err != nil {
+		log.Fatal("migration failed:", err)
 	}
-	db.Connect(uri)
+	defer db.Close()
 
 	app := fiber.New()
 
