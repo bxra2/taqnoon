@@ -95,31 +95,27 @@
           ابحث
         </button>
       </div>
-      <div class="flex items-center justify-center my-2 gap-6">
-        <input type="checkbox" bind:checked={exactMatch} id="exact" />
-        <label for="exact" class="flex items-center gap-2 text-sm">
+      <div class="flex flex-col sm:flex-row items-start sm:items-center justify-center my-2 gap-3 sm:gap-6">
+        <label class="flex items-center gap-2 text-sm cursor-pointer">
+          <input type="checkbox" bind:checked={exactMatch} />
           بحث مطابق
         </label>
-        <input 
-            type="checkbox" 
-            bind:checked={includeDescription} 
-            id="desc" 
-        />
-        <label for="desc" class="flex items-center gap-2 text-sm">
+        <label class="flex items-center gap-2 text-sm cursor-pointer">
+          <input type="checkbox" bind:checked={includeDescription} />
           يشمل الوصف
         </label>
-        <input
-          type="checkbox"
-          bind:checked={lookupLocalization}
-          id="lookup"
-          disabled={!$workerReady}
-        />
         <label
-          for="lookup"
           class="flex items-center gap-2 text-sm cursor-pointer"
           class:opacity-50={!$workerReady}
         >
-          بحث في ترجمات البرمجيات مفتوحة المصدر
+          <input
+            type="checkbox"
+            bind:checked={lookupLocalization}
+            disabled={!$workerReady}
+          />
+          <span class="break-words whitespace-normal">
+            بحث في ترجمات البرمجيات مفتوحة المصدر
+          </span>
         </label>
       </div>
     </div>

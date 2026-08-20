@@ -93,7 +93,13 @@ body {
 .home-logo {
     fill: #24201a;
     filter: #24201a;
-    width: 500px;
+    width: 180px;
+}
+
+@media (min-width: 640px) {
+    .home-logo {
+        width: 500px;
+    }
 }
 
 input {

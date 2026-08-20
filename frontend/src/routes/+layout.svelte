@@ -11,24 +11,70 @@
   import "$src/app.css";
 
   let { children } = $props();
-  let open = $state(true);
 
-  if (browser) {
+  let isMobile = $state(false);
+  let open = $state(true);
+  let wasDesktop = true;
+
+  $effect(() => {
+    if (!browser) return;
     initializeWorker();
-  }
+
+    // Set initial mobile state (SSR-safe: starts as desktop, corrects post-mount)
+    const nowMobile = window.innerWidth < 768;
+    isMobile = nowMobile;
+    open = !nowMobile;
+    wasDesktop = !nowMobile;
+
+    const onResize = () => {
+      const nowMobile = window.innerWidth < 768;
+      if (nowMobile && wasDesktop) open = false;
+      if (!nowMobile && !wasDesktop) open = true;
+      wasDesktop = !nowMobile;
+      isMobile = nowMobile;
+    };
+    window.addEventListener("resize", onResize);
+    return () => window.removeEventListener("resize", onResize);
+  });
 </script>
 
-<div class="flex h-screen">
+<svelte:window
+  onkeydown={(e) => e.key === "Escape" && isMobile && (open = false)}
+/>
+
+{#if isMobile && !open}
+  <button
+    class="fixed top-4 right-4 z-60 p-4 text-4xl opacity-70 hover:opacity-100"
+    onclick={() => (open = true)}
+    aria-label="Open sidebar"
+  >
+    ☰
+  </button>
+{/if}
+
+{#if isMobile && open}
+  <button
+    class="fixed inset-0 z-50 bg-black/15"
+    onclick={() => (open = false)}
+    aria-label="Close sidebar"
+  ></button>
+{/if}
+
+<div class="flex h-[100dvh]">
   <!-- Sidebar -->
   <aside
-    class="overflow-hidden rounded-3xl
-           transition-all duration-200 ease-in-out border-r slider"
-    class:w-64={open}
-    class:w-16={!open}
+    class="overflow-hidden slider
+           fixed top-0 right-0 h-[100dvh] z-60 w-80 bg-[var(--bg-color)]
+           md:relative md:h-auto md:z-auto
+           transition-transform duration-300"
+    class:md:w-64={open}
+    class:md:w-16={!open}
+    class:translate-x-full={isMobile && !open}
+    class:translate-x-0={isMobile && open}
   >
-    <!-- Toggle -->
+    <!-- Toggle (desktop only) -->
     <button
-      class="p-4 text-4xl opacity-70 hover:opacity-100 margin-auto"
+      class="p-4 text-4xl opacity-70 hover:opacity-100 mx-auto hidden md:block"
       onclick={() => (open = !open)}
     >
       ☰
@@ -81,17 +127,12 @@
   </aside>
 
   <!-- Page -->
-  <main class="flex-1 overflow-auto p-6">
+  <main class="flex-1 overflow-auto p-6" inert={isMobile && open}>
     {@render children()}
   </main>
 </div>
 
 <style>
-  /* .nav-item {
-    @apply flex items-center gap-3 px-4 py-2
-           text-sm opacity-80 hover:opacity-100
-           hover:bg-slate-800 rounded;
-  } */
   .slider {
     border-radius: 20px 0 0 20px;
     border-left: 1px solid var(--border-color);

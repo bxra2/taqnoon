@@ -2,6 +2,7 @@ package handlers
 
 import (
 	"context"
+	"log"
 	"time"
 
 	"github.com/bxra2/taqnun/db"
@@ -11,17 +12,19 @@ import (
 )
 
 func GetTerms(c fiber.Ctx) error {
-	ctx, cancel := context.WithTimeout(context.Background(), 15*time.Second)
+	ctx, cancel := context.WithTimeout(context.Background(), 60*time.Second)
 	defer cancel()
 
 	cursor, err := db.GetCollection("taqnoon", "terms").Find(ctx, bson.M{})
 	if err != nil {
+		log.Printf("GetTerms find error: %v", err)
 		return fiber.NewError(fiber.StatusInternalServerError, "DB error")
 	}
 	defer cursor.Close(ctx)
 
 	terms := make([]models.Term, 0)
 	if err := cursor.All(ctx, &terms); err != nil {
+		log.Printf("GetTerms decode error: %v", err)
 		return fiber.NewError(fiber.StatusInternalServerError, "Decode error")
 	}
 

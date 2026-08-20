@@ -71,14 +71,14 @@
   <DarkMode />
 </div>
 
-<div class="min-h-screen flex flex-col justify-center items-center p-6">
-  <div class="flex flex-col items-center gap-4 mb-8">
+<div class="min-h-screen flex flex-col justify-start sm:justify-center items-center p-4 sm:p-6 pt-20 sm:pt-0">
+  <div class="flex flex-col items-center gap-3 sm:gap-4 mb-6 sm:mb-8">
     <img class="home-logo" src="/icons/taqnun.svg" alt="تقنون" />
-    <h2 class="text-lg sm:text-xl md:text-2xl text-center font-bold px-4">
+    <h2 class="text-base sm:text-lg md:text-2xl text-center font-bold px-2 sm:px-4">
       محرك بحث جامع للمعاجم التقنية لسهولة البحث و المقارنة فيها
     </h2>
   </div>
-  <div class="flex flex-col gap-2 w-full max-w-2xl mb-6 border p-4 rounded-lg border" dir="rtl">
+  <div class="flex flex-col gap-2 w-full max-w-3xl sm:max-w-2xl mb-4 sm:mb-6 border p-3 sm:p-4 rounded-lg border" dir="rtl">
     <div class="flex gap-2 w-full max-w-2xl mb-6" dir="rtl">
       <input
         type="text"
@@ -89,7 +89,7 @@
         dir={searchAlign ? 'rtl' : 'ltr'}
       />
     </div>
-    <div class="flex w-full max-w-2xl mb-6 px-1 gap-6" dir="rtl">
+    <div class="flex flex-col sm:flex-row w-full max-w-2xl mb-6 px-1 gap-3 sm:gap-6" dir="rtl">
       <label class="flex items-center gap-2 text-sm cursor-pointer">
         <input type="checkbox" bind:checked={exactMatch} />
         بحث مطابق
@@ -98,13 +98,16 @@
         <input type="checkbox" bind:checked={includeDescription} />
         يشمل الوصف
       </label>
-      <label class="flex items-center gap-2 text-sm cursor-pointer">
+      <label
+        class="flex items-center gap-2 text-sm cursor-pointer"
+        class:opacity-50={!$workerReady}
+      >
         <input
           type="checkbox"
           bind:checked={lookupLocalization}
           disabled={!$workerReady}
         />
-        <span class:opacity-50={!$workerReady}>
+        <span class="break-words whitespace-normal">
           بحث في ترجمات البرمجيات مفتوحة المصدر
         </span>
       </label>
@@ -112,7 +115,7 @@
     <div class="flex gap-2 w-full max-w-2xl justify-center" dir="rtl">
       <button
         onclick={search}
-        class="search-button px-8 py-3.5 mb-[1px] bg-primary text-white rounded-xl hover:bg-primary/90 transition-colors flex items-center gap-2 font-bold shadow-lg shadow-primary/20"
+        class="search-button px-5 py-2.5 sm:px-8 sm:py-3.5 mb-[1px] bg-primary text-white rounded-xl hover:bg-primary/90 transition-colors flex items-center gap-2 font-bold shadow-lg shadow-primary/20"
         disabled={!query}
       >
         ابحث
