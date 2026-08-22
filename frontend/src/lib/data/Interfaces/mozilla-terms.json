@@ -4461,7 +4461,7 @@
   },
   {
     "english": "Invalid or broken archive.",
-    "arabic": "أرشيف معطوب أو غير صالح .",
+    "arabic": "أرشيف معطوب أو غير صالح.",
     "desc": ""
   },
   {
@@ -36046,12 +36046,12 @@
   },
   {
     "english": "Connections to localhost, 127.0.0.1/8, and ::1 are never proxied.",
-    "arabic": "ما من وسيط يقع بين اتصالك مع localhost و 127.0.0.1/8 و ‎::1 .",
+    "arabic": "ما من وسيط يقع بين اتصالك مع localhost و 127.0.0.1/8 و ‎::1.",
     "desc": ""
   },
   {
     "english": "Connections to localhost, 127.0.0.1, and ::1 are never proxied.",
-    "arabic": "ما من وسيط يقع بين اتصالك مع localhost و 127.0.0.1 و ‎::1 .",
+    "arabic": "ما من وسيط يقع بين اتصالك مع localhost و 127.0.0.1 و ‎::1.",
     "desc": ""
   },
   {
@@ -103956,12 +103956,12 @@
   },
   {
     "english": "build and deliver great consumer products that support the Manifesto’s principles;",
-    "arabic": "بناء وتسليم المنتجات التي تدعم مبادئ البيان .",
+    "arabic": "بناء وتسليم المنتجات التي تدعم مبادئ البيان.",
     "desc": ""
   },
   {
     "english": "build and enable open-source technologies and communities that support the Manifesto’s principles;",
-    "arabic": "بناء وتمكين تقنيات المصدر المفتوح والمجتمعات المحلية التي تدعم بيان مبادئ البيان .",
+    "arabic": "بناء وتمكين تقنيات المصدر المفتوح والمجتمعات المحلية التي تدعم بيان مبادئ البيان.",
     "desc": ""
   },
   {
@@ -107241,7 +107241,7 @@
   },
   {
     "english": "Market launch timing for a Firefox OS phone targeted to U.S. consumers is dependent on our operator and manufacturer partners, and we are actively exploring that opportunity but don't have specific plans to announce at this time.",
-    "arabic": "يعتمد توفير وتسويق هواتف فَيَرفُكس في الولايات المُتّحدة على شركائنا من المُصنّعين وشركات الاتّصالات. نعمل على تحقيق ذلك لكن لا نملك بعد أية خُطط مُحدّدة لنعلن عنها .",
+    "arabic": "يعتمد توفير وتسويق هواتف فَيَرفُكس في الولايات المُتّحدة على شركائنا من المُصنّعين وشركات الاتّصالات. نعمل على تحقيق ذلك لكن لا نملك بعد أية خُطط مُحدّدة لنعلن عنها.",
     "desc": ""
   },
   {
@@ -108411,7 +108411,7 @@
   },
   {
     "english": "promote models for creating economic value for the public benefit; and",
-    "arabic": "تشجيع نماذج لخلق قيمة إقتصادية للمنفعة العامة .",
+    "arabic": "تشجيع نماذج لخلق قيمة إقتصادية للمنفعة العامة.",
     "desc": ""
   },
   {
@@ -108451,7 +108451,7 @@
   },
   {
     "english": "provide a framework for other people to advance this vision of the Internet.",
-    "arabic": "توفبر إطار عمل لأي مجموعة أخري ترغب أن تطور رؤيتهم للإنترنت .",
+    "arabic": "توفبر إطار عمل لأي مجموعة أخري ترغب أن تطور رؤيتهم للإنترنت.",
     "desc": ""
   },
   {
@@ -109836,7 +109836,7 @@
   },
   {
     "english": "The Internet is a global public resource that must remain open and accessible.",
-    "arabic": "شبكة الإنترنت مورد عام عالمي ويجب أن تبقي مفتوحة ومتاحة ويمكن الوصول إليها .",
+    "arabic": "شبكة الإنترنت مورد عام عالمي ويجب أن تبقي مفتوحة ومتاحة ويمكن الوصول إليها.",
     "desc": ""
   },
   {
@@ -109886,7 +109886,7 @@
   },
   {
     "english": "The Mozilla Foundation invites all others who support the principles of the Mozilla Manifesto to join with us, and to find new ways to make this vision of the Internet a reality.",
-    "arabic": "مؤسسة موزيلا تدعو جميع الذين يؤيدون المبادئ الواردة في بيان موزيلا على الانضمام إلينا ، ولإيجاد طرق جديدة لجعل هذه الرؤية حقيقة واقعة .",
+    "arabic": "مؤسسة موزيلا تدعو جميع الذين يؤيدون المبادئ الواردة في بيان موزيلا على الانضمام إلينا ، ولإيجاد طرق جديدة لجعل هذه الرؤية حقيقة واقعة.",
     "desc": ""
   },
   {
@@ -110371,7 +110371,7 @@
   },
   {
     "english": "use the Mozilla assets (intellectual property such as copyrights and trademarks, infrastructure, funds, and reputation) to keep the Internet an open platform;",
-    "arabic": "استخدام أصول موزيلا (الملكية الفكرية مثل حقوق الطبع والعلامات التجارية ، والبنية التحتية ، والأموال ، والسمعة) للحفاظ على الانترنت كمنصة مفتوحة .",
+    "arabic": "استخدام أصول موزيلا (الملكية الفكرية مثل حقوق الطبع والعلامات التجارية ، والبنية التحتية ، والأموال ، والسمعة) للحفاظ على الانترنت كمنصة مفتوحة.",
     "desc": ""
   },
   {
@@ -114066,7 +114066,7 @@
   },
   {
     "english": "provide a framework for other people to advance this vision of the internet.",
-    "arabic": "توفبر إطار عمل لأي مجموعة أخري ترغب أن تطور رؤيتهم للإنترنت .",
+    "arabic": "توفبر إطار عمل لأي مجموعة أخري ترغب أن تطور رؤيتهم للإنترنت.",
     "desc": ""
   },
   {
@@ -114656,7 +114656,7 @@
   },
   {
     "english": "The { -brand-name-mozilla-foundation } invites all others who support the principles of the { -brand-name-mozilla } Manifesto to join with us, and to find new ways to make this vision of the internet a reality.",
-    "arabic": "مؤسسة موزيلا تدعو جميع الذين يؤيدون المبادئ الواردة في بيان موزيلا على الانضمام إلينا ، ولإيجاد طرق جديدة لجعل هذه الرؤية حقيقة واقعة .",
+    "arabic": "مؤسسة موزيلا تدعو جميع الذين يؤيدون المبادئ الواردة في بيان موزيلا على الانضمام إلينا ، ولإيجاد طرق جديدة لجعل هذه الرؤية حقيقة واقعة.",
     "desc": ""
   },
   {
@@ -114711,7 +114711,7 @@
   },
   {
     "english": "The internet is a global public resource that must remain open and accessible.",
-    "arabic": "شبكة الإنترنت مورد عام عالمي ويجب أن تبقي مفتوحة ومتاحة ويمكن الوصول إليها .",
+    "arabic": "شبكة الإنترنت مورد عام عالمي ويجب أن تبقي مفتوحة ومتاحة ويمكن الوصول إليها.",
     "desc": ""
   },
   {
@@ -114951,7 +114951,7 @@
   },
   {
     "english": "use the { -brand-name-mozilla } assets (intellectual property such as copyrights and trademarks, infrastructure, funds, and reputation) to keep the internet an open platform;",
-    "arabic": "استخدام أصول موزيلا (الملكية الفكرية مثل حقوق الطبع والعلامات التجارية ، والبنية التحتية ، والأموال ، والسمعة) للحفاظ على الانترنت كمنصة مفتوحة .",
+    "arabic": "استخدام أصول موزيلا (الملكية الفكرية مثل حقوق الطبع والعلامات التجارية ، والبنية التحتية ، والأموال ، والسمعة) للحفاظ على الانترنت كمنصة مفتوحة.",
     "desc": ""
   },
   {
@@ -119390,7 +119390,7 @@
     "desc": ""
   },
   {
-    "english": "The community forum is at %(url)s .",
+    "english": "The community forum is at %(url)s.",
     "arabic": "منتدى الدعم موجود على %(url)s.",
     "desc": ""
   },
