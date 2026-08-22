@@ -14,9 +14,11 @@ func GetTerms(c fiber.Ctx) error {
 		       COALESCE(t.french,''), COALESCE(t.german,''),
 		       COALESCE(t.term_url,''), COALESCE(t.description,''),
 		       COALESCE(g.glossaryEn,''), COALESCE(g.glossaryAr,''), COALESCE(g.glossaryUrl,''),
-		       COALESCE(g.publisher_id, 0)
+		       COALESCE(g.publisher_id, 0),
+		       COALESCE(p.publisherAr,''), COALESCE(p.publisherEn,''), COALESCE(p.publisherUrl,'')
 		FROM term t
-		JOIN glossary g ON g.id = t.glossary_id`)
+		JOIN glossary g ON g.id = t.glossary_id
+		LEFT JOIN publisher p ON p.id = g.publisher_id`)
 	if err != nil {
 		log.Printf("GetTerms query: %v", err)
 		return fiber.NewError(fiber.StatusInternalServerError, "DB error")
@@ -28,7 +30,7 @@ func GetTerms(c fiber.Ctx) error {
 		var t models.Term
 		if err := rows.Scan(&t.ID, &t.English, &t.Arabic, &t.French, &t.German,
 			&t.TURL, &t.Description,
-			&t.GlossaryEn, &t.GlossaryAr, &t.GlossaryURL, &t.PublisherID); err != nil {
+			&t.GlossaryEn, &t.GlossaryAr, &t.GlossaryURL, &t.PublisherID, &t.PublisherAr, &t.PublisherEn, &t.PublisherURL); err != nil {
 			log.Printf("GetTerms scan: %v", err)
 			return fiber.NewError(fiber.StatusInternalServerError, "Decode error")
 		}

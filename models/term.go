@@ -12,4 +12,7 @@ type Term struct {
 	GlossaryAr  string `json:"glossaryAr"`
 	GlossaryURL string `json:"glossaryUrl"`
 	PublisherID int64  `json:"publisherId"`
+	PublisherAr  string `json:"publisherAr"`
+	PublisherEn  string `json:"publisherEn"`
+	PublisherURL string `json:"publisherUrl"`
 }
