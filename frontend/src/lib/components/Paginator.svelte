@@ -144,7 +144,7 @@
             <select
                 id="limit-select"
                 class="limit-select"
-                bind:value={limit}
+                value={limit}
                 onchange={(e) => changeLimit(Number(e.target.value))}
                 aria-label="تغيير عدد النتائج"
             >

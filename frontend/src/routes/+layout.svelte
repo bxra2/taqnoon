@@ -132,6 +132,8 @@
   </main>
 </div>
 
+<div class="paperOverlay"></div>
+
 <style>
   .slider {
     border-radius: 20px 0 0 20px;
