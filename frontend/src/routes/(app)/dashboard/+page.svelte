@@ -1,75 +1,40 @@
 <script lang="ts">
-    import { BookOpen, Languages, Database, Activity, Server } from 'lucide-svelte'
-    import type { Term } from '$src/lib/utils/search'
+    import { BookOpen, Languages, Database } from 'lucide-svelte'
 
     let { data } = $props()
-
-    // Calculate Stats
-    // $derived ensures these update if data changes (though it shouldn't really in this context)
-    let totalTerms = $derived(data.termData ? data.termData.length : 0)
-    
-    let totalGlossaries = $derived.by(() => {
-        if (!data.publishersData) return 0
-        // Count unique glossaries across all publishers
-        let count = 0
-        data.publishersData.forEach((pub: any) => {
-            count += pub.glossaries ? pub.glossaries.length : 0
-        })
-        return count
-    })
-
-    let termsByLang = $derived.by(() => {
-        if (!data.termData) return { en: 0, ar: 0 }
-        
-        let en = 0
-        let ar = 0
-        let fr = 0
-        let gr = 0
-        
-        // This is an estimation based on presence of fields
-        data.termData.forEach((term: Term) => {
-            if (term.english && term.english.trim()) en++
-            if (term.french && term.french.trim()) fr++
-            if (term.german && term.german.trim()) gr++
-            // Prioritize terms that have arabic content
-            if (term.arabic && term.arabic.trim()) ar++
-        })
-        
-        return { en, ar, fr, gr }
-    })
 
     let stats = $derived([
         {
             label: 'إجمالي المصطلحات',
-            value: totalTerms.toLocaleString('ar-EG'),
+            value: (data.stats?.totalTerms ?? 0).toLocaleString('ar-EG'),
             icon: Database,
             color: 'text-blue-500',
             bg: 'bg-blue-500/10'
         },
         {
             label: 'المصطلحات عربية',
-            value: termsByLang.ar.toLocaleString('ar-EG'),
+            value: (data.stats?.arabic ?? 0).toLocaleString('ar-EG'),
             icon: Languages,
             color: 'text-amber-500',
             bg: 'bg-amber-500/10'
         },
         {
             label: 'المصطلحات فرنسية',
-            value: termsByLang.fr?.toLocaleString('ar-EG'),
+            value: (data.stats?.french ?? 0).toLocaleString('ar-EG'),
             icon: Languages,
             color: 'text-blue-500',
             bg: 'bg-blue-500/10'
         },
         {
             label: 'المصطلحات الألمانية',
-            value: termsByLang.gr?.toLocaleString('ar-EG'),
+            value: (data.stats?.german ?? 0).toLocaleString('ar-EG'),
             icon: Languages,
             color: 'text-purple-500',
             bg: 'bg-purple-500/10'
         },  
         {
             label: 'المعاجم النشطة',
-            value: totalGlossaries.toLocaleString('ar-EG'),
+            value: (data.stats?.glossaries ?? 0).toLocaleString('ar-EG'),
             icon: BookOpen,
             color: 'text-emerald-500',
             bg: 'bg-emerald-500/10'
