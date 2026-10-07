@@ -16,31 +16,26 @@
   let randomTerms = $state<string[]>([])
 
   $effect(() => {
-    if (data.termData && data.termData.length > 0 && randomTerms.length === 0) {
-      const oneWordTerms = data.termData
-        .filter((t: any) => {
-          const ar = t.arabic?.trim()
-          const en = t.english?.trim()
-          // Check for single word (no spaces)
-          return (ar && !ar.includes(' ')) || (en && !en.includes(' '))
-        })
-        .map((t: any) => {
-          // Prefer Arabic, then English
-          const ar = t.arabic?.trim()
-          if (ar && !ar.includes(' ')) return ar
-          return t.english?.trim()
-        })
+    if (data.suggestions && data.suggestions.length > 0 && randomTerms.length === 0) {
+      const pool = [
+        ...new Set(
+          data.suggestions
+            .map((s: any) => {
+              const ar = s.arabic?.trim()
+              if (ar && !ar.includes(' ')) return ar
+              return s.english?.trim()
+            })
+            .filter(Boolean),
+        ),
+      ]
 
-      // Randomize and pick 10
-      const unique = new Set<string>()
-      const max = oneWordTerms.length
-
-      while (unique.size < 10 && unique.size < max) {
-        const idx = Math.floor(Math.random() * max)
-        unique.add(oneWordTerms[idx])
+      // Fisher-Yates shuffle
+      for (let i = pool.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1))
+        ;[pool[i], pool[j]] = [pool[j], pool[i]]
       }
 
-      randomTerms = [...unique]
+      randomTerms = pool.slice(0, 10)
     }
   })
 
