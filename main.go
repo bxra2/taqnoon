@@ -32,6 +32,9 @@ func main() {
 	api := app.Group("/api")
 	api.Get("/publishers", handlers.GetPublishers)
 	api.Get("/terms", handlers.GetTerms)
+	api.Get("/search", handlers.SearchTerms)
+	api.Get("/stats", handlers.GetStats)
+	api.Get("/suggest", handlers.GetSuggestions)
 	api.Get("/localizations", handlers.GetLocalizations)
 	api.Get("/localizations/sources", handlers.GetLocalizationSources)
 
