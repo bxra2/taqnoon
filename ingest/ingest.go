@@ -156,16 +156,16 @@ func ingestFile(db *sql.DB, absPath, relPath string) (int, error) {
 	}
 
 	stmt, err := tx.Prepare(`
-		INSERT INTO term (glossary_id, english, arabic, french, german, term_url, description,
+		INSERT INTO term (glossary_id, english, arabic, french, german, term_url, description, description_norm,
 		                  english_norm, arabic_norm, french_norm, german_norm)
-		VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)`)
+		VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)`)
 	if err != nil {
 		return 0, err
 	}
 	defer stmt.Close()
 
 	for _, e := range gf.Entries {
-		if _, err := stmt.Exec(glID, e.English, e.Arabic, e.French, e.German, e.TURL, e.description(),
+		if _, err := stmt.Exec(glID, e.English, e.Arabic, e.French, e.German, e.TURL, e.description(), normText(e.description()),
 			normLatin(e.English), normArabic(e.Arabic), normLatin(e.French), normLatin(e.German)); err != nil {
 			return 0, fmt.Errorf("insert term: %w", err)
 		}

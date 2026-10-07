@@ -31,6 +31,7 @@ CREATE TABLE IF NOT EXISTS term (
     german TEXT,
     term_url TEXT,
     description TEXT,
+    description_norm TEXT,
     english_norm TEXT,
     arabic_norm TEXT,
     french_norm TEXT,
@@ -41,6 +42,8 @@ CREATE INDEX IF NOT EXISTS idx_term_english ON term(english);
 CREATE INDEX IF NOT EXISTS idx_term_arabic ON term(arabic);
 CREATE INDEX IF NOT EXISTS idx_term_french ON term(french);
 CREATE INDEX IF NOT EXISTS idx_term_german ON term(german);
+CREATE INDEX IF NOT EXISTS idx_term_english_norm ON term(english_norm);
+CREATE INDEX IF NOT EXISTS idx_term_arabic_norm ON term(arabic_norm);
 CREATE INDEX IF NOT EXISTS idx_term_glossary_id ON term(glossary_id);
 CREATE INDEX IF NOT EXISTS idx_glossary_publisher_id ON glossary(publisher_id);
 CREATE INDEX IF NOT EXISTS idx_glossary_domain_id ON glossary(domain_id);
