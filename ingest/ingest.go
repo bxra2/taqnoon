@@ -9,6 +9,8 @@ import (
 	"log"
 	"os"
 	"path/filepath"
+
+	"github.com/bxra2/taqnun/internal/metadata"
 )
 
 // FileData mirrors the "fileData" object in each glossary JSON file.
@@ -120,6 +122,8 @@ func ingestFile(db *sql.DB, absPath, relPath string) (int, error) {
 		return 0, fmt.Errorf("parse json: %w", err)
 	}
 
+	meta := metadata.Resolve(gf.FileData.GlossaryURL)
+
 	tx, err := db.Begin()
 	if err != nil {
 		return 0, err
@@ -133,9 +137,10 @@ func ingestFile(db *sql.DB, absPath, relPath string) (int, error) {
 
 	if glID == 0 {
 		res, err := tx.Exec(`
-			INSERT INTO glossary (glossaryEn, glossaryAr, glossaryUrl, publisher_id, domain_id, license, imported_at)
-			VALUES (?, ?, ?, ?, NULL, NULL, datetime('now'))`,
-			gf.FileData.GlossaryEn, gf.FileData.GlossaryAr, gf.FileData.GlossaryURL, pubID)
+			INSERT INTO glossary (glossaryEn, glossaryAr, glossaryUrl, publisher_id, domain_id, license, image_url, book_url, wikidata_url, imported_at)
+			VALUES (?, ?, ?, ?, NULL, NULL, ?, ?, ?, datetime('now'))`,
+			gf.FileData.GlossaryEn, gf.FileData.GlossaryAr, gf.FileData.GlossaryURL, pubID,
+			meta.ImageURL, meta.BookURL, meta.WikidataURL)
 		if err != nil {
 			return 0, fmt.Errorf("insert glossary: %w", err)
 		}
@@ -145,9 +150,11 @@ func ingestFile(db *sql.DB, absPath, relPath string) (int, error) {
 		}
 	} else {
 		if _, err := tx.Exec(`
-			UPDATE glossary SET glossaryEn = ?, glossaryAr = ?, glossaryUrl = ?, publisher_id = ?
+			UPDATE glossary SET glossaryEn = ?, glossaryAr = ?, glossaryUrl = ?, publisher_id = ?,
+				image_url = ?, book_url = ?, wikidata_url = ?
 			WHERE id = ?`,
-			gf.FileData.GlossaryEn, gf.FileData.GlossaryAr, gf.FileData.GlossaryURL, pubID, glID); err != nil {
+			gf.FileData.GlossaryEn, gf.FileData.GlossaryAr, gf.FileData.GlossaryURL, pubID,
+			meta.ImageURL, meta.BookURL, meta.WikidataURL, glID); err != nil {
 			return 0, fmt.Errorf("update glossary: %w", err)
 		}
 		if _, err := tx.Exec(`DELETE FROM term WHERE glossary_id = ?`, glID); err != nil {

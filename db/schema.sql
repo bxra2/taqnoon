@@ -19,6 +19,9 @@ CREATE TABLE IF NOT EXISTS glossary (
     publisher_id INTEGER REFERENCES publisher(id),
     domain_id INTEGER REFERENCES domain(id),
     license TEXT,
+    image_url TEXT,
+    book_url TEXT,
+    wikidata_url TEXT,
     imported_at TEXT
 );
 

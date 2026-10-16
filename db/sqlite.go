@@ -6,6 +6,7 @@ import (
 	"fmt"
 	"log"
 
+	"github.com/bxra2/taqnun/internal/metadata"
 	"github.com/bxra2/taqnun/internal/normalize"
 	_ "modernc.org/sqlite"
 )
@@ -37,7 +38,10 @@ func Migrate() error {
 	if _, err := Conn.Exec(schemaSQL); err != nil {
 		return err
 	}
-	return migrateDescriptionNorm()
+	if err := migrateDescriptionNorm(); err != nil {
+		return err
+	}
+	return migrateGlossaryMeta()
 }
 
 // migrateDescriptionNorm is an additive migration that ensures the term table
@@ -99,6 +103,59 @@ func migrateDescriptionNorm() error {
 		return err
 	}
 	return tx.Commit()
+}
+
+// migrateGlossaryMeta adds the image_url/book_url/wikidata_url columns to the
+// glossary table (for pre-existing databases) and backfills them from the
+// glossary URL. It is idempotent and network-free.
+func migrateGlossaryMeta() error {
+	for _, col := range []string{"image_url", "book_url", "wikidata_url"} {
+		has, err := columnExists("glossary", col)
+		if err != nil {
+			return err
+		}
+		if !has {
+			if _, err := Conn.Exec(`ALTER TABLE glossary ADD COLUMN ` + col + ` TEXT`); err != nil {
+				return fmt.Errorf("add glossary %s: %w", col, err)
+			}
+		}
+	}
+
+	rows, err := Conn.Query(`SELECT id, COALESCE(glossaryUrl, '') FROM glossary`)
+	if err != nil {
+		return fmt.Errorf("select glossary for backfill: %w", err)
+	}
+	defer rows.Close()
+
+	type row struct {
+		id  int64
+		url string
+	}
+	var pending []row
+	for rows.Next() {
+		var r row
+		if err := rows.Scan(&r.id, &r.url); err != nil {
+			return fmt.Errorf("scan glossary for backfill: %w", err)
+		}
+		pending = append(pending, r)
+	}
+	if err := rows.Err(); err != nil {
+		return fmt.Errorf("iterate glossary for backfill: %w", err)
+	}
+
+	for _, r := range pending {
+		m := metadata.Resolve(r.url)
+		if _, err := Conn.Exec(`
+			UPDATE glossary SET
+				image_url = COALESCE(NULLIF(image_url, ''), ?),
+				book_url = COALESCE(NULLIF(book_url, ''), ?),
+				wikidata_url = COALESCE(NULLIF(wikidata_url, ''), ?)
+			WHERE id = ?`,
+			m.ImageURL, m.BookURL, m.WikidataURL, r.id); err != nil {
+			return fmt.Errorf("backfill glossary %d: %w", r.id, err)
+		}
+	}
+	return nil
 }
 
 // columnExists reports whether the named column exists on the given table.

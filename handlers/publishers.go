@@ -37,7 +37,8 @@ func GetPublishers(c fiber.Ctx) error {
 
 	glosRows, err := db.Conn.Query(`
 		SELECT publisher_id, COALESCE(glossaryEn,''), COALESCE(glossaryAr,''),
-		       COALESCE(glossaryUrl,''), COALESCE(license,'')
+		       COALESCE(glossaryUrl,''), COALESCE(license,''),
+		       COALESCE(image_url,''), COALESCE(book_url,''), COALESCE(wikidata_url,'')
 		FROM glossary`)
 	if err != nil {
 		log.Printf("GetPublishers glossaries: %v", err)
@@ -45,16 +46,31 @@ func GetPublishers(c fiber.Ctx) error {
 	}
 	defer glosRows.Close()
 
+	// Some glossaries are split across multiple source files but share the same
+	// name and URL (e.g. one dictionary ingested in chunks); deduplicate them
+	// so each logical glossary appears once per publisher.
+	seen := make(map[int64]map[string]bool)
 	for glosRows.Next() {
 		var pubID int64
 		var g models.Glossary
-		if err := glosRows.Scan(&pubID, &g.GlossaryEn, &g.GlossaryAr, &g.GlossaryURL, &g.License); err != nil {
+		if err := glosRows.Scan(&pubID, &g.GlossaryEn, &g.GlossaryAr, &g.GlossaryURL, &g.License,
+			&g.ImageURL, &g.BookURL, &g.WikidataURL); err != nil {
 			log.Printf("GetPublishers glossary scan: %v", err)
 			return fiber.NewError(fiber.StatusInternalServerError, "Decode error")
 		}
-		if i, ok := idx[pubID]; ok {
-			publishers[i].Glossaries = append(publishers[i].Glossaries, g)
+		i, ok := idx[pubID]
+		if !ok {
+			continue
 		}
+		key := g.GlossaryEn + "\x00" + g.GlossaryAr + "\x00" + g.GlossaryURL
+		if seen[pubID] == nil {
+			seen[pubID] = make(map[string]bool)
+		}
+		if seen[pubID][key] {
+			continue
+		}
+		seen[pubID][key] = true
+		publishers[i].Glossaries = append(publishers[i].Glossaries, g)
 	}
 	if err := glosRows.Err(); err != nil {
 		return fiber.NewError(fiber.StatusInternalServerError, "DB error")
