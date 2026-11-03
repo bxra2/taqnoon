@@ -77,7 +77,7 @@
     </div>
 
     <!-- Search Bar -->
-    <div class="flex flex-col gap-2 mb-6 border p-4 rounded-lg border">
+    <div class="drop-shadow flex flex-col gap-2 mb-6 border p-4 rounded-lg border">
       <div class="flex gap-2">
         <input
           type="text"

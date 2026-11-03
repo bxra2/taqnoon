@@ -193,6 +193,10 @@ a:hover {
     max-width: 1200px;
 }
 
+.drop-shadow{
+    box-shadow: 3px 3px #4a4a4a
+}
+
 header {
     border-bottom: 1px solid var(--border-color);
     padding-bottom: 0.3rem;

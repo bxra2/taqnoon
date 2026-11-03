@@ -21,7 +21,7 @@
     const desc = $derived(term.description ?? term.desc)
 </script>
 
-<article class="term-card">
+<article class="term-card drop-shadow">
     <header>
         <h2 class="en">
             {#if term.tURL}
