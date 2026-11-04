@@ -8,6 +8,8 @@
     import { onMount } from 'svelte'
     import { getLocalizationWorker, workerReady } from '$lib/stores/localizationWorker'
 
+    let { data } = $props()
+
     let currentPage = $state(1)
     let limit = $state(10)
     let showSlider = $state(false)
@@ -52,7 +54,13 @@
         }
     })
 
-    async function loadResults(q: string, exact: boolean, desc: boolean) {
+    async function loadResults(
+        q: string,
+        exact: boolean,
+        desc: boolean,
+        publishers: string[],
+        glossaries: string[],
+    ) {
         if (abortController) {
             abortController.abort()
         }
@@ -69,6 +77,12 @@
             limit: String(limit),
             offset: String(offset),
         })
+        if (publishers.length) {
+            params.set('publisher', publishers.join(','))
+        }
+        if (glossaries.length) {
+            params.set('glossary', glossaries.join(','))
+        }
 
         try {
             const res = await fetch(`/api/search?${params.toString()}`, {
@@ -95,6 +109,8 @@
         const exact = params.get('exact') === 'true'
         const desc = params.get('desc') === 'true'
         const lookup = params.get('lookup') === 'true'
+        const publishers = (params.get('publisher') || '').split(',').filter(Boolean)
+        const glossaries = (params.get('glossary') || '').split(',').filter(Boolean)
 
         const urlPage = parseInt(params.get('page') || '1', 10)
         const urlLimit = parseInt(params.get('limit') || '10', 10)
@@ -102,7 +118,7 @@
         limit = isNaN(urlLimit) || urlLimit < 1 ? 10 : urlLimit
 
         if (q) {
-            loadResults(q, exact, desc)
+            loadResults(q, exact, desc, publishers, glossaries)
             if (lookup && $workerReady) {
                 isWorkerSearching = true
                 getLocalizationWorker()?.postMessage({ type: 'search', query: q, exact })
@@ -143,6 +159,58 @@
         updatePagination(newPage, newLimit)
     }
 
+    function togglePublisher(id: string) {
+        const params = new URLSearchParams(page.url.searchParams)
+        const current = (params.get('publisher') || '').split(',').filter(Boolean)
+        if (current.includes(id)) {
+            const next = current.filter((v) => v !== id)
+            if (next.length) {
+                params.set('publisher', next.join(','))
+            } else {
+                params.delete('publisher')
+            }
+        } else {
+            current.push(id)
+            params.set('publisher', current.join(','))
+        }
+        params.delete('page')
+        goto(`/search?${params.toString()}`)
+    }
+
+    function toggleGlossary(name: string) {
+        const params = new URLSearchParams(page.url.searchParams)
+        const current = (params.get('glossary') || '').split(',').filter(Boolean)
+        if (current.includes(name)) {
+            const next = current.filter((v) => v !== name)
+            if (next.length) {
+                params.set('glossary', next.join(','))
+            } else {
+                params.delete('glossary')
+            }
+        } else {
+            current.push(name)
+            params.set('glossary', current.join(','))
+        }
+        params.delete('page')
+        goto(`/search?${params.toString()}`)
+    }
+
+    function clearFilters() {
+        const params = new URLSearchParams(page.url.searchParams)
+        params.delete('publisher')
+        params.delete('glossary')
+        params.delete('page')
+        goto(`/search?${params.toString()}`)
+    }
+
+    let selectedPublishers = $derived(
+        (page.url.searchParams.get('publisher') || '').split(',').filter(Boolean)
+    )
+
+    let selectedGlossaries = $derived(
+        (page.url.searchParams.get('glossary') || '').split(',').filter(Boolean)
+    )
+
     let paginatedLocalization = $derived(
         localizationResults.slice(
             (localizationPage - 1) * localizationLimit,
@@ -158,27 +226,6 @@
             localizationResults.length === 0 &&
             !!page.url.searchParams.get('q')?.trim() &&
             (!page.url.searchParams.get('lookup') || $workerReady)
-    )
-
-    let currentPublishers = $derived(
-        (() => {
-            const grouped: Record<string, Set<string>> = {}
-
-            for (const term of results) {
-                const publisher = term.publisherAr
-                const glossary = term.glossaryAr
-
-                if (!grouped[publisher]) {
-                    grouped[publisher] = new Set()
-                }
-
-                grouped[publisher].add(glossary)
-            }
-
-            return Object.fromEntries(
-                Object.entries(grouped).map(([k, v]) => [k, Array.from(v)])
-            )
-        })()
     )
 </script>
 
@@ -205,17 +252,46 @@
                     النتائج المترجمة: {localizationResults.length}
                 </h2>
             {/if}
+            {#if selectedPublishers.length > 0 || selectedGlossaries.length > 0}
+                <button
+                    class="mt-4 px-3 py-1 border rounded cursor-pointer"
+                    onclick={clearFilters}
+                >
+                    مسح الفلاتر
+                </button>
+            {/if}
+            <h2 class="text-3xl mt-8 mb-6">الناشرون</h2>
+            {#each data.publishersData as publisher}
+                <label class="flex items-center gap-2 text-sm cursor-pointer">
+                    <input
+                        type="checkbox"
+                        checked={selectedPublishers.includes(String(publisher.id))}
+                        onchange={() => togglePublisher(String(publisher.id))}
+                    />
+                    {publisher.publisherAr || publisher.publisherEn || 'غير معروف'}
+                </label>
+            {/each}
             <h2 class="text-3xl mt-8 mb-6">المعاجم</h2>
-
-            {#each Object.entries(currentPublishers) as [publisher, glossaries]}
-                <div class="publisher-group">
-                    <h3 class="mt-4 text-xl">{publisher}</h3>
-                    <ul>
-                        {#each glossaries as glossary}
-                            <li class="m-4"> - {glossary}</li>
+            {#each data.publishersData as publisher}
+                <details class="mb-2">
+                    <summary class="cursor-pointer">
+                        {publisher.publisherAr || publisher.publisherEn || 'غير معروف'}
+                    </summary>
+                    <div class="mr-4 mt-2 flex flex-col gap-2">
+                        {#each publisher.glossaries as glossary}
+                            {#if glossary.glossaryAr}
+                                <label class="flex items-center gap-2 text-sm cursor-pointer">
+                                    <input
+                                        type="checkbox"
+                                        checked={selectedGlossaries.includes(glossary.glossaryAr)}
+                                        onchange={() => toggleGlossary(glossary.glossaryAr)}
+                                    />
+                                    {glossary.glossaryAr || glossary.glossaryEn}
+                                </label>
+                            {/if}
                         {/each}
-                    </ul>
-                </div>
+                    </div>
+                </details>
             {/each}
         </Slider>
         {#if isWorkerSearching}

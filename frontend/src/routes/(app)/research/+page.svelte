@@ -90,9 +90,9 @@
 
       // Split by delimiters: ; ؛ , ، /
       const cleaned = rawAr.replace(/[0-9]/g, '')
-
+      
       const synonyms = cleaned
-        .split(/::| او |[;؛,،/]+/)
+        .split(/::|\|\.| او |[;؛,،/|]+/)
         .map((s) => s.trim())
         .filter(Boolean)
 

@@ -35,6 +35,45 @@ func escapeLike(s string) string {
 	return s
 }
 
+// inClause returns a parenthesized list of n SQL placeholders, e.g. "(?,?,?)".
+func inClause(n int) string {
+	return "(" + strings.TrimSuffix(strings.Repeat("?,", n), ",") + ")"
+}
+
+// parseIDList parses a comma-separated list of integer IDs, skipping empty
+// and invalid entries.
+func parseIDList(raw string) []int64 {
+	parts := strings.Split(raw, ",")
+	ids := make([]int64, 0, len(parts))
+	for _, p := range parts {
+		p = strings.TrimSpace(p)
+		if p == "" {
+			continue
+		}
+		id, err := strconv.ParseInt(p, 10, 64)
+		if err != nil {
+			continue
+		}
+		ids = append(ids, id)
+	}
+	return ids
+}
+
+// parseStringList parses a comma-separated list of strings, trimming spaces
+// and dropping empty entries.
+func parseStringList(raw string) []string {
+	parts := strings.Split(raw, ",")
+	out := make([]string, 0, len(parts))
+	for _, p := range parts {
+		p = strings.TrimSpace(p)
+		if p == "" {
+			continue
+		}
+		out = append(out, p)
+	}
+	return out
+}
+
 // SearchTerms performs a server-side, paginated search over the term table.
 func SearchTerms(c fiber.Ctx) error {
 	c.Set("Cache-Control", "no-store")
@@ -66,6 +105,9 @@ func SearchTerms(c fiber.Ctx) error {
 		offset = 0
 	}
 
+	publisherIDs := parseIDList(c.Query("publisher"))
+	glossaryNames := parseStringList(c.Query("glossary"))
+
 	if q == "" {
 		return c.JSON(models.SearchResult{
 			Items:  []models.Term{},
@@ -96,6 +138,19 @@ func SearchTerms(c fiber.Ctx) error {
 		if desc {
 			where += ` OR t.description_norm LIKE ? ESCAPE '\'`
 			args = append(args, containsDesc)
+		}
+	}
+
+	if len(publisherIDs) > 0 {
+		where += ` AND g.publisher_id IN ` + inClause(len(publisherIDs))
+		for _, id := range publisherIDs {
+			args = append(args, id)
+		}
+	}
+	if len(glossaryNames) > 0 {
+		where += ` AND g.glossaryAr IN ` + inClause(len(glossaryNames))
+		for _, name := range glossaryNames {
+			args = append(args, name)
 		}
 	}
 
